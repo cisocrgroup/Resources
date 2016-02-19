@@ -23,8 +23,8 @@ latin/modern.txt:
 	uconv -f utf8 -t utf8 -x nfc -o $@ $<
 
 %.srt: %.nfc
-	cat $< | LC_ALL=C sort | LC_ALL=C uniq | sed -e '/^[[:space:]]*$$/d' > $@
-
+	cat $< | PERLIO=:utf8 perl -pe '$$_=lc($$_)' | \
+		LC_ALL=C sort | LC_ALL=C uniq | sed -e '/^[[:space:]]*$$/d' > $@
 clean:
 	$(RM) {german,latin,greek}/*.nfc
 	$(RM) {german,latin,greek}/*.fbdic
