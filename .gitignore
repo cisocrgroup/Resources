@@ -1,0 +1,5 @@
+*.nfc
+*.fbdic
+*/*/weights.txt
+*.binfrq
+*/latin/modern.txt
