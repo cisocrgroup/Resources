@@ -1,0 +1,7 @@
+# Greek pattern file
+# syntax:
+# modern:historic
+# there is no way to use the profiler with
+# an empty pattern list, so we need to use
+# one with a fake pattern:
+modern:historic
