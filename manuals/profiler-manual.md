@@ -669,23 +669,55 @@ $ profiler --config lang.ini --sourceFile input.txt \
   --out_html out.html --out_doc outdoc.xml
 ~~~
 
-## The language resources
-We have files with some basic language resources. These files
-contain dictionaries, pattern rules and training files for
-different languages. You can use those language resources to start
-building your own custom language profiles.
+## Language resources
 
-You can simply download the language resources using `wget`:
+We have files with some basic language resources. These files contain
+dictionaries, pattern rules and training files for different
+languages[^3langs]. They also include simple `.ini` files for each
+language. You can use those language resources to start building your
+own custom language profiles.
+
+These resources are published on github and are lying in the same
+repository as this manual under the `lexica` directory. You can obtain
+these resources by checking out the appropriate git repository:
 
 ~~~{.bash}
-$ wget http://www.cis.lmu.de/ocrworkshop/data/profiler/profiler-resources.zip
+$ git clone https://github.com/cisocrgroup/Resources.git
 ~~~
 
-After the archive has been downloaded and extracted you should see
-different language directories under the `lex` directory. Each
-directory  contains language resources for one language. Use these
-files to  compile your own language profiles and experiment with the
-profiler.
+Afterwards change into the `Resources/lexica` directory. This
+directory contains the `.ini` files for the languages and some
+directories that contain the different files for the different
+languages. There is a Makefile that automates the generation of all
+needed files. In order to use it, you need some additional command
+line tools installed on your system:
+
+* [perl](https://www.perl.org/)
+* [uconv](http://site.icu-project.org/)
+
+In order to build the resources change into the directory that
+contains the Makefile and simply type `make`. You can speed up the
+build using parallel processes with `make -j n` where `n` is the
+number of parallel processes `make` uses.
+
+The Makefile assumes that the `compileFBDic` and the
+`trainFrequencyList` command line tools are installed under your home
+directory at `~/local/bin`. You can explicitly tell `make` where to
+find these programs using the variables `FBDIC` and `TRAIN`
+respectively.
+
+~~~{.bash}
+$ FBDIC=/path/to/compileFBDic TRAIN=/path/to/trainFrequencyList make -j 4
+~~~
+
+After the build has finished you have all the required files for the
+profiler. You can use these resources for the profiler web
+service. Just copy the language directories along with their `.ini`
+configuration files to the language backend of the profiler web
+service.
+
+[^3langs]: currently there are language resources for German, Latin and
+Greek.
 
 ## Missing patterns file
 You can use the profiler even if you do not have any patterns
