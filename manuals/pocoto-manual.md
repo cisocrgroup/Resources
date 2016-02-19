@@ -115,13 +115,13 @@ you have to execute in order to start the application.
 
 If you are interested, you can also download the source code of the
 application. It is freely available on
-[Github](https://github.com/thorstenv/PoCoTo). \pocoto{} is developed
-in Java using the [Netbeans IDE](https://netbeans.org/). In order to
-compile the source code you should have a recent version of the
-Netbeans IDE installed on your system. You can then import the source
-code directly into Netbeans and run the program from within it. Or you
-can even checkout the git repository using the built in version
-control support of Netbeans.
+[Github](https://github.com/cisocrgroup/PoCoTo). \pocoto{} is
+developed in Java using the [Netbeans IDE](https://netbeans.org/). In
+order to compile the source code you should have a recent version of
+the Netbeans IDE installed on your system. You can then import the
+source code directly into Netbeans and run the program from within
+it. Or you can even checkout the git repository using the built in
+version control support of Netbeans.
 
 [pocoto-zip]: http://www.cis.lmu.de/ocrworkshop/data/pocoto/downloads/ocrcorrection.zip
 
