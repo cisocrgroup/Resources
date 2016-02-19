@@ -1169,7 +1169,9 @@ your log file to a developer of \pocoto{} (<finkf@cis.lmu.de>).
 
 # References
 
-Vobl, Torsten, Annee Gotscharek, Uli Reffle, Christoph Ringlsteer, and Klaus U. Schulz. 2014.
-“PoCoTo - an Open Source System for Efficient Interactive Postcorrection of OCRed Historical Texts.”
-In Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage, 57–61.
-DATeCH ’14. New York, NY, USA: ACM. doi:^http://doi.org/10.1145/2595188.2595197.
+Vobl, Torsten, Annee Gotscharek, Uli Reffle, Christoph Ringlsteer,
+and Klaus U. Schulz. 2014.  “PoCoTo - an Open Source System for
+Efficient Interactive Postcorrection of OCRed Historical Texts.”  In
+Proceedings of the First International Conference on Digital Access to
+Textual Cultural Heritage, 57–61.  DATeCH ’14. New York, NY, USA:
+ACM. doi:http://doi.org/10.1145/2595188.2595197.
