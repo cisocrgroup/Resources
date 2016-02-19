@@ -1,17 +1,17 @@
-FBDIC ?= $(HOME)/devel/work/profiler/gsm/csl/build/bin/compileFBDic
-TRAIN ?= $(HOME)/devel/work/profiler/build/bin/trainFrequencyList
+FBDIC ?= $(HOME)/local/bin/compileFBDic
+TRAIN ?= $(HOME)/local/bin/trainFrequencyList
 
-all:
-	@echo "Usage: make <language>"
-	@exit 1
+all: german latin greek
+greek: greek/freqlist.binfrq
+latin: latin/freqlist.binfrq
+german: german/freqlist.binfrq
 
-greek: greek/modern.fbdic greek/freqlist.binfrq
-latin: latin/modern.fbdic latin/freqlist.binfrq
-
-greek/freqlist.binfrq: greek/patterns.nfc greek/gt.nfc
+greek/freqlist.binfrq: greek/patterns.nfc greek/gt.nfc greek/modern.fbdic
 	$(TRAIN) --config greek.ini --textFile greek/gt.nfc
-latin/freqlist.binfrq: latin/patterns.nfc latin/gt.nfc
+latin/freqlist.binfrq: latin/patterns.nfc latin/gt.nfc latin/modern.fbdic
 	$(TRAIN) --config latin.ini --textFile latin/gt.nfc
+german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
+	$(TRAIN) --config german.ini --textFile german/gt.nfc
 
 %.fbdic: %.srt
 	$(FBDIC) $< $@
@@ -25,9 +25,12 @@ latin/modern.txt:
 %.srt: %.nfc
 	cat $< | LC_ALL=C sort | LC_ALL=C uniq | sed -e '/^[[:space:]]*$$/d' > $@
 
-.PHONY: latin greek
+clean:
+	$(RM) {german,latin,greek}/*.nfc
+	$(RM) {german,latin,greek}/*.fbdic
+	$(RM) {german,latin,greek}/weights.txt
+	$(RM) {german,latin,greek}/corpusLexicon.fbdic
+	$(RM) {german,latin,greek}/freqlist.binfrq
+	$(RM) latin/modern.txt
 
-
-corpusLexicon = "${:DICT_PATH}/corpusLexicon.fbdic"
-patternWeightsFile="${:DICT_PATH}/weights.txt"
-freqListFile = "${:DICT_PATH}/freqlist.binfrq"
+.PHONY: latin greek clean
