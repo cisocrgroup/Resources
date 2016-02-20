@@ -265,7 +265,7 @@ sorted using your environment's default locale. Sort it using the c
 locale e.g.:
 
 ~~~{.bash}
-$ LC_ALL=C sort file | uniq > outfile
+$ LC_ALL=C sort file | LC_ALL=C uniq > outfile
 ~~~
 
 If you get an error message saying `your input is not in sorted order`
