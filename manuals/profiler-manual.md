@@ -111,6 +111,7 @@ required tools are installed on your system before you proceed.
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)
 * [Java Virtual Machine (JVM)](http://openjdk.java.net/)
 * [ICU development library](http://site.icu-project.org/)
+* 
 In the case of Xerces XML Parser and CppUnit make sure that you have
 the development headers of the according libraries installed as
 well. They are normally called `*-dev` in the different package
