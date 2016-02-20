@@ -17,7 +17,7 @@ german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
 	$(FBDIC) $< $@
 
 latin/modern.txt:
-	cat latin/xa{a,b,c,d,e,f} > $@
+	cat latin/xa{a,b,c} > $@
 
 %.nfc: %.txt
 	uconv -f utf8 -t utf8 -x nfc -o $@ $<
