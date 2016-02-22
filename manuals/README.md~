@@ -1,0 +1,24 @@
+Here you find the latest manuals for:
+
+* the CIS Language Profiler (a server calculating statistical OCR error series based upon the OCR recognition result of a document, historical spelling patterns and language specific lexica of modern (and optionally also historical) wordforms written in C++
+
+* the CIS postcorrection tool PoCoTo, a desktop client application written in Java
+
+# References:
+
+Mihov, Stoyan, and Klaus U. Schulz. 2004. “Fast Approximate Search in
+Large Dictionaries.” Computational Linguistics 30 (4). MIT Press:
+451–77.
+
+Reffle, Ulrich. 2011. Algorithmen und Methoden zur
+dokumentenspezifischen Analyse historischer und OCR-erfasster
+Texte. Verlag Dr. Hut.
+
+Reffle, Ulrich, and Christoph Ringlstetter. 2013. “Unsupervised
+Profiling of OCRed Historical Documents.” Pattern Recognition 46 (5):
+1346–57. doi:http://doi.org/http://dx.doi.org/10.1016/j.patcog.2012.
+10.002.
+
+Schulz, Klaus U., and Stoyan Mihov. 2002. “Fast String Correction with
+Levenshtein Automata.”  International Journal on Document Analysis and
+Recognition 5 (1). Springer: 67–85.

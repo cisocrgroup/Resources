@@ -7,6 +7,6 @@ Optional resoureces for
 ## Structure
 * `manuals` directory contains manuals for the Language Profiler for
   PoCoTo
-* `ocr-test-data` directory contains OCR data that can be used for PoCoTo
+* `ocrdataset` directory contains OCR test data that can be used for PoCoTo
 * `lexica` directory contains language resources for the Language
   Profiler
