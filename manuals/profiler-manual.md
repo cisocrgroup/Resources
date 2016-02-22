@@ -1099,7 +1099,7 @@ It follows these five steps to profile the document:
        * The two temporary output files (command line options:
          `--out_xml` and `--out_doc`)
    Then it waits for the profiler to finish.
-5. It zippes the two output files of the profiler together, encodes
+5. It zips the two output files of the profiler together, encodes
    them as `base64`, builds up the answer XML file and sends it back
    to the caller.
 

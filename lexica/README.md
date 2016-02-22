@@ -1,5 +1,5 @@
 # Lexica
-Lexical resources for the profiler together with a Makefile to build the necessary binaries. See the [Profiler Manual][profman] for a description.
+Lexical resources for the language-aware OCR document error profiler together with a Makefile to build the necessary binaries. See the [Profiler Manual][profman] for a description.
 
 Currently, we serve lexica for classical Latin, German (both modern and historical) and Ancient Greek.
 
