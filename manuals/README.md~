@@ -1,6 +1,6 @@
 Here you find the latest manuals for:
 
-* the CIS language aware OCR document error profiler (a server calculating statistical OCR error series based upon (a) the OCR recognition result of a document, (b) historical spelling patterns and (c) language specific lexica of modern (and optionally also historical) wordforms
+* the CIS language aware OCR document error profiler, a server calculating statistical OCR error series based upon (a) the OCR recognition result of a document, (b) historical spelling patterns and (c) language specific lexica of modern (and optionally also historical) wordforms
 
 * the CIS postcorrection tool PoCoTo, a desktop client application written in Java
 

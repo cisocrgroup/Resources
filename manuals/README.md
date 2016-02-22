@@ -23,7 +23,7 @@ Schulz, Klaus U., and Stoyan Mihov. 2002. “Fast String Correction with
 Levenshtein Automata.”  International Journal on Document Analysis and
 Recognition 5 (1). Springer: 67–85.
 
-Vobl, Torsten, Annette Gotscharek, Uli Reffle, Christoph Ringlstetter,
+Vobl, Thorsten, Annette Gotscharek, Uli Reffle, Christoph Ringlstetter,
 and Klaus U. Schulz. 2014.  “PoCoTo - an Open Source System for
 Efficient Interactive Postcorrection of OCRed Historical Texts.”  In
 Proceedings of the First International Conference on Digital Access to
