@@ -4,7 +4,7 @@ Here you find the latest manuals for:
 
 * the CIS postcorrection tool PoCoTo, a desktop client application written in Java
 
-# References:
+## References:
 
 Mihov, Stoyan, and Klaus U. Schulz. 2004. “Fast Approximate Search in
 Large Dictionaries.” Computational Linguistics 30 (4). MIT Press:
