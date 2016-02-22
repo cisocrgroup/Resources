@@ -1,10 +1,10 @@
 Here you find the latest manuals for:
 
-* the CIS Language Profiler (a server calculating statistical OCR error series based upon the OCR recognition result of a document, historical spelling patterns and language specific lexica of modern (and optionally also historical) wordforms written in C++
+* the CIS language aware OCR document error profiler (a server calculating statistical OCR error series based upon (a) the OCR recognition result of a document, (b) historical spelling patterns and (c) language specific lexica of modern (and optionally also historical) wordforms
 
 * the CIS postcorrection tool PoCoTo, a desktop client application written in Java
 
-# References:
+## References:
 
 Mihov, Stoyan, and Klaus U. Schulz. 2004. “Fast Approximate Search in
 Large Dictionaries.” Computational Linguistics 30 (4). MIT Press:
