@@ -1,15 +1,15 @@
 # Description of contents
 
 As illustrative examples for your own experimentation we included some
-example documents (about 100 pages each). 
+example documents (about 100 pages each) to be used with both the profiler and PoCoTo.
 
 Many thanks to Kay Würzner (Grenzboten), Federico Boschetti (Zonaras)
 and Jasmin Chebib and Haide Friedrich-Salgado (Hobbes) for providing us with ground truth
 
 Each book project folder contains:
 
-* preprocessed page images
-* ground truth (incomplete for Hobbes and Zonaras)
+* preprocessed page images (binarized  tifs)
+* ground truth in gt (incomplete for Hobbes and Zonaras, none for CSEL and Swete)
 * OCR output from ABBYY, Tesseract and OCRopus
 
 The script nfc.sh is a simple bash script allowing you to normalize all UTF-8 text files to "[normalization form composed][nfc]". PoCoTo will normalize all input by itself but be aware that different forms of Unicode normalization behave differently under text transformations and that text comparisons (e.g. OCR corrected text and ground truth) are meaningful only if both  texts are equally normalized.
@@ -30,7 +30,6 @@ Sources for page images (scans):
 
 ## Greek
 * Zonaras: [Epitome historiarum vol. 3][epitome], 1870
-* Migne: [Patrologia Graeca vol. 82][pg82], 1859
 * Swete Septuaginta: [Old Testament in Greek, vol. 1][swete1], 1901
 
 [books]: http://www.cis.lmu.de/ocrworkshop/data/books/books-ocr.zip
