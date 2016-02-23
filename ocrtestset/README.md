@@ -16,8 +16,8 @@ The script nfc.sh is a simple bash script allowing you to normalize all UTF-8 te
 
 [nfc]: https://en.wikipedia.org/wiki/Unicode_equivalence
 
-Sources for page images (scans):
 
+# Sources for page images (scans) and ground truth
 ## German
 * Goethe: [Die Wahlverwandtschaften vol. 1][wahlverw], 1809
     * [Text][textwahl] in Deutsches Textarchiv
