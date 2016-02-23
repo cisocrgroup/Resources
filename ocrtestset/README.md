@@ -4,7 +4,7 @@ As illustrative examples for your own experimentation we included some
 example documents (about 100 pages each) to be used with both the profiler and PoCoTo.
 
 Many thanks to Kay Würzner (Grenzboten), Federico Boschetti (Zonaras)
-and Jasmin Chebib and Haide Friedrich-Salgado (Hobbes) for providing us with ground truth
+and Jasmin Chebib and Haide Friedrich-Salgado (Hobbes) for providing us with ground truth.
 
 Each book project folder contains:
 
