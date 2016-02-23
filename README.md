@@ -1,5 +1,3 @@
-# resources
-
 resources for
 [PoCoTo](https://github.com/cisocrgroup/PoCoTo) and the
 [language aware OCR document error profiler](https://github.com/cisocrgroup/profiler)
