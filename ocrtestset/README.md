@@ -12,7 +12,7 @@ Each book project folder contains:
 * ground truth in gt (incomplete for Hobbes and Zonaras, none for CSEL and Swete)
 * OCR output from ABBYY, Tesseract and OCRopus
 
-The script nfc.sh is a simple bash script allowing you to normalize all UTF-8 text files to "[normalization form composed][nfc]". PoCoTo will normalize all input by itself but be aware that different forms of Unicode normalization behave differently under text transformations and that text comparisons (e.g. OCR corrected text and ground truth) are meaningful only if both  texts are equally normalized.
+The script nfc.sh is a simple bash script allowing you to normalize all UTF-8 text files to "[normalization form composed][nfc]". PoCoTo will normalize all input by itself but be aware that different forms of Unicode normalization behave differently under text transformations and that text comparisons (e.g. OCR corrected text to ground truth) are meaningful only if both  texts are equally normalized.
 
 [nfc]: https://en.wikipedia.org/wiki/Unicode_equivalence
 
