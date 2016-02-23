@@ -5,5 +5,5 @@ Resources for
 ## Structure
 * `manuals` directory contains manuals for the profiler and for
   PoCoTo
-* `ocrtestset` directory contains OCR test data that can be used for PoCoTo
+* `ocrtestset` directory contains OCR test data
 * `lexica` directory contains language resources for the profiler
