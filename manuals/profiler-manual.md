@@ -3,25 +3,26 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München
 % 2015-08-25\
+    last updated: 2016-02-29\
     \vspace{1cm}{%
 \includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 \newpage
 
-
 # Introduction
-This manual covers both the language profiler and the profiler web
-service. It explains how to obtain and compile all tools necessary to
-create different   language profiles and covers the deployment of the
-profiler web service.
+This manual covers both the language aware OCR document error profiler 
+and the profiler web service. 
+It explains how to obtain and compile all tools necessary to
+create OCR error profiles for documents in various languages 
+and covers the deployment of the profiler web service.
 
-The profiler is a tool that is able to calculate historical spelling
-variants of (historical) documents. It needs to be trained on various
-external language resources in order to do its work. The profiler web
-service is a web service that uses the profiler in the background to
-generate language profiles for different languages. It relies on
-number of pre-compiled language profiles -- the so called language
+The profiler is a tool that is also able to calculate historical spelling
+variants used in (historical) documents and to distinguish them for real OCR errors. 
+It needs to be trained on various external language resources in order to do its work. 
+The profiler web service is a web service that uses the profiler in the background to
+generate language aware error profiles for different languages. It relies on
+number of pre-compiled language resources -- the so called language
 backend of the profiler web service.
 
 This manual assumes that you have a running Linux/Unix system and that
@@ -32,32 +33,32 @@ the web service require some additional tools. You need to be able to
 install those requirements on your system if they are not already
 installed.
 
-# Language Profiler
+# The language aware OCR document error profiler
 
-The language profiler is a program that calculates historical spelling
-variants of a (historical) document using a modern dictionary. It is
+The profiler calculates historical spelling
+variants and OCR errors of a (historical) document using a modern dictionary. It is
 therefore able to differentiate between *real* OCR Errors and
 historical spelling variants of words.
 
 First of all this part of the manual covers the general workings of
-the language profiler. Then the more technical parts -- the
+the profiler. Then the more technical parts -- the
 compilation and installation -- of the tool are explained in more
 detail. Finally the usage of the tool and the generation of specific
-language profiles are covered.
+language aware OCR document error profiles are covered.
 
 ## Overview
 
-In ocred text in general and in ocred historical text in particular
+In OCR'ed text in general and in OCR'ed historical text in particular
 there appear to be number of words, that do not match a regular entry
 in a dictionary of the text's language. There are different
 explanations for these *unexplained* words. On possibility is, that
 the automatic text recognition engine made a mistake on character
-level and the word is a proper dictionary entry; we call these errors
-OCR erros. Another possibility is -- particular in historical texts --
+level and the word is not a proper dictionary entry; we call these errors
+OCR errors. Another possibility is -- particular in historical texts --
 that the OCR engine did recognize the word with no errors, but the
 historical spelling of the word differs from its modern spelling --
-these kind of errors are called historical spelling variations or
-errors. It is possible as well that both OCR and historical spelling
+these cases are called historical spelling variations. 
+It is possible as well that both OCR and historical spelling
 variations overlap on the same words.
 
 The profiler tries to find good explanations for any of these
@@ -69,37 +70,37 @@ In some circumstances there can be a lot of words with similar
 Levenshtein distances to a particular word, so the profiler uses
 additional pattern rules to find more fitting candidates.
 
-These pattern rules are both built in common OCR error patterns as
-well as external spelling variation rules that have their origin in
-historical spelling variations. They describe common character level
+These pattern rules manifest themselves both in common OCR error patterns as
+well as in external historical spelling variations. They describe common character level
 transformations that can be used to describe common error patterns in
-historical ocred documents.
+historical OCR'ed documents.
 
 Consider the pattern rule `e -> c`. This rule describes a common OCR
 error pattern, where the letter `e` in the source text is recognized
-as a `c` by the engine. For another example for a historical spelling
-pattern consider the rule `t -> th`. It explains historical (German)
+as a `c` by the engine. For another example consider the rule for a 
+historical spelling pattern `t -> th`. It explains historical (German)
 word forms like `theil` that should map to the modern form `teil`. So
 if the profiler finds a lot of unexplained words that could be
 explained with a `e -> c` OCR Error pattern, this pattern would get a
 higher priority for calculating correction candidates. On the other
 hand if the profiler would encounter a word `theil` that he could
-explain using historical patterns, he would not recognize this word as
+explain using historical patterns, he would not recognize this word as an
 OCR error and would assume a historical spelling variation of the word
 `teil`.
 
-The profiler uses then modern dictionaries, built in OCR pattern rules
-and external pattern rules to calculate *the best* explanations for
+The profiler uses modern dictionaries
+and external historical pattern rules to calculate *the best explanations* for
 unexplained words for a given input text. It generates a list of
-correction suggestions for the unknown words in a text. These
+correction suggestions for these unknown words. These
 correction suggestions can be used among others to postcorrect
-historical ocred documents. The the
-[PoCoTo manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/pocoto-manual.pdf)
-for more information about the postcorrection of ocred documents.
+historical OCR'ed documents. See the [PoCoTo manual][pocman]
+for more information about the postcorrection of OCR'ed documents.
+
+[pocman]: https://github.com/cisocrgroup/Resources/blob/master/manuals/pocoto-manual.md
 
 ## Requirements
-In order to build and use the profiler you need a number of external
-tools[^1] installed on your machine. Make sure that all of the
+In order to build and use the profiler you need to install a number of external
+tools[^1] on your machine. Make sure that all of the
 required tools are installed on your system before you proceed.
 
 * [CMake](http://www.cmake.org/)
@@ -134,11 +135,11 @@ The source code of the profiler is maintained using a
 [git repository][profiler]. Just use git to clone the source code:
 
 ~~~{.bash}
-$ git clone https://github.com:cisocrgroup/profiler.git
+$ git clone https://github.com/cisocrgroup/profiler.git
 ~~~
 Download and unpack the sources.
 
-[profiler]: https://github.com:cisocrgroup/profiler.git
+[profiler]: https://github.com/cisocrgroup/Profiler
 
 ### Building the profiler
 In order to compile and install the profiler you need to know the path
@@ -151,8 +152,8 @@ $ export JAVA_HOME=/usr/lib/jvm/java-7-openjdk
 
 It is not necessary to install the profiler globally. You can install
 it to some convenient place in your home directory. If you want to
-install the profiler in you home directory instead of a system
-directory like `/usr/local/bin` (recommended) you need to set the
+install the profiler in your home directory (recommended) instead of a system
+directory like `/usr/local/bin` you need to set the
 `PREFIX` environment variable to a installation directory in your home
 directory. In order for the system to find the installed executables,
 make sure that your systems `PATH` variable points to this directory:
@@ -162,7 +163,7 @@ $ export PREFIX=$HOME
 $ export PATH=$PATH:$HOME/bin
 ~~~
 
-Now you can start to build and install the profiler. From the `ocrcxx`
+Now you can start to build and install the profiler. From the Profiler top level
 directory simply call the `make` utility:
 
 ~~~{.bash}
@@ -207,13 +208,17 @@ $ export PATH=$PATH:/path/to/prefix/bin
 `/usr/lib64/jvm` system directories. It is called `java-7-openjdk` or
 something similar.
 
-## Generating a language profile
-After you have installed the binaries as described in the previous
-chapter, you can now use the profiler to build a language
-profile. This language profile can then be used to get a list of
-correction candidates for historical spellings in various documents.
+## Generating a language model
 
-The installation process did compile and install 3 different
+In order to avoid a confusion of terminology, we make the following note:
+The `language aware OCR document error profiler`, or profiler for short, is a program
+calculating correction candidates for statistical series of suspected OCR errors in historical documents. Its output is a document containing the original OCR tokens together with correction candidates and further information (such as the historical and OCR patterns giving rise to the OCR token, its Levenshtein distance from a correction candidate and its weight) which might be called the `error profile` of the document which has been OCR'ed. The profiler uses *as input* various language dependent files such as a sorted lexicon of wordforms, a file of historical rewrite patterns describing spelling variations and a ground truth text. These files need to be compiled into a special form and represent language resources needed for the profiler. They are called a `language model` in the following and must not be confused with either the language aware error profile (output) or the profiler itself (program).
+
+After you have installed the binaries as described in the previous
+chapter, you can now build a language model. This profiler can then be used with this language model to get a list of correction candidates for historical spellings in various document written 
+in this language.
+
+The installation process did compile and installed 3 different
 programs. Make sure that all of them are working before you proceed:
 
 * `profiler` the main profiling tool
@@ -222,15 +227,15 @@ programs. Make sure that all of them are working before you proceed:
 * `compileFBDic` tool that compiles the dictionary.
 
 ### External language resources
-In order to build a language profile you need a number of external
+In order to build a language modele you need a number of external
 lexical resources:
 
 * At least one sorted full form dictionary of modern words
 * A file of historical pattern rules
 * A text with historical spelling variations as ground truth
 
-All these files must be utf-8 encoded. The profiler does not support
-any other encoding. If you use files that are not utf-8 encoded you
+All these files must be UTF-8 encoded. The profiler does not support
+any other encoding. If you use files that are not UTF-8 encoded you
 will get strange errors and segmentation faults while using the
 tools. You can check the encoding of your files using the `file`
 utility and convert their encoding using the `iconv` utility.
@@ -254,16 +259,17 @@ $ uconv -f utf8 -t utf8 -x [nfc|nfd] -o output.txt input.txt
 
 If you decide to use the decomposed normalization form for your input
 files, consider to increase the maximum allowed Levenshtein distance
-in the configuration file. The does not distinguish between real and
+in the configuration file. The profiler does not distinguish between real and
 combining characters. For example the profiler would calculate a
-Levenshtein distance of 2 between `quâm` and `quem` if they where
-encoded in the decomposed normalization form.
+Levenshtein distance of 2 between `quâm` and `quem` if they were
+encoded in the decomposed normalization form, whereas in composed form the distance would
+just be 1.
 
 #### Dictionary
 The dictionary is a simple text file that contains each word on a
 separate line. It cannot contain any duplicate entries and must not be
-sorted using your environment's default locale. Sort it using the c
-locale e.g.:
+sorted using your environment's default locale. Sort it using the C
+locale, e.g.:
 
 ~~~{.bash}
 $ LC_ALL=C sort file | LC_ALL=C uniq > outfile
@@ -271,8 +277,8 @@ $ LC_ALL=C sort file | LC_ALL=C uniq > outfile
 
 If you get an error message saying `your input is not in sorted order`
 while you are using any of the profiling tools, the dictionary file
-you use is not proper sorted and you have to use the given command to
-sort the dictionary accordingly.
+you use is not properly sorted and you have to use the given command to
+sort the dictionary correctly.
 
 On the other hand, if you should get an error saying `error: empty
 key` your dictionary contains at least one empty line. You can remove
@@ -285,25 +291,27 @@ sed -e '/^[[:space:]]*$/d' input.txt > output.txt
 #### Simple creation of a modern dictionary with hunspell
 If you do not have any language resources available, you can use the
 spelling dictionaries of
-[OpenOffice](http://extensions.openoffice.org/) to create your own for
-usage with the profiler. You need to install
-[hunspell](https://de.wikipedia.org/wiki/Hunspell) in order to convert
-the dictionaries into the right format for the profiler.
+[LibreOffice](http://extensions.libreoffice.org/extension-center?getCategories=Dictionary) to create your own for usage with the profiler. 
+You need to install [hunspell](https://de.wikipedia.org/wiki/Hunspell) and the hunspell tools in 
+order to expand ("unmunch") Hunspell's dictionary (.dic) and affix (.aff) files into a list of 
+wordforms needed for the profiler.
 
 Download a *spelling* dictionary of your desired language. The
-downloaded Open Office extension is a zip archive, that you need to
-unzip before you proceed. You need two files from the archive. First
-the `.dic` dictionary file and the `.aff` file, that contains the
+downloaded LibreOffice extension is a zip archive that you must
+unzip before you proceed. You need two files from the archive,
+the `.dic` dictionary file and the `.aff` file containing the
 different affixes of the language. For historical reasons, the files
-will be most likely encoded in iso-8859-1. Make sure to convert the
-`.dic` and `.aff` files to utf8 before you proceed.
+will be most likely encoded in ISO-8859-1. Make sure to convert the
+`.dic` and `.aff` files to UTF-8 before you proceed:
 
 ~~~{.bash}
 iconv -f ISO_8859-1 -t UTF-8 de_DE.aff > de_DE.utf8.aff
 iconv -f ISO_8859-1 -t UTF-8 de_DE.dic > de_DE.utf8.dic
 ~~~
 
-Now you can use the `unmunch` utility program to generate the full
+Also, change the line `SET ISO-8859-1` in the affix file to `SET UTF-8`.
+
+Now you can use the `unmunch` utility to generate the full
 forms from the affix and the dictionary files. The `unmunch` command
 generates composita components for some languages. You need to remove
 these from your dictionary, since the profiler cannot handle these
@@ -318,18 +326,25 @@ filter out all composita components from the dictionary file. The
 resulting file can now be processed in the same way as described
 above.
 
+Note that in the case of Latin we already provide sorted word lists. The somewhat
+involved procedure to generate it is described in the [README] accompanying our lexica.
+
+German and Ancient Greek lexica are also provided.
+
+[README]: https://github.com/cisocrgroup/Resources/blob/master/lexica/README.md
+
 #### Pattern file
 The pattern file contains pattern rules that describe how to transform
-historical spellings to modern spellings. Each line of the file should
+modern spellings to historical spellings. Each line of the file should
 contain exactly one pattern rule of the form `mod:hist`. You can use
-`@` to mark the start of a word and use `$` to mark the end of a word
+`@` to mark the start of a word and `$` to mark the end of a word
 if you want to specify pattern rules that will only apply at the
 beginning or the end of words. Empty lines or lines starting with a
 `#` are ignored.
 
 If you want to encode the pattern rules you need to describe the
 variation of the modern word form against the spelling of the
-according historical form. Consider for example the German word `Teil`
+respective historical form. Consider for example the German word `Teil`
 and its historical spelling `Theyl`. You could use the following two
 pattern rules in your file to describe the variation of the two words:
 
@@ -350,40 +365,41 @@ encode pattern rules that contain any of the characters `#`, `$` or
 `@`, you are out of luck.
 
 #### Historical ground truth
-The ground truth file is a simple utf-8, encoded text file that
-contains words with historical spellings as they are described in
-their according pattern rules. This ground truth is used to train the
-initial pattern weights for the language profile.
+The ground truth file is a simple UTF-8 encoded text file that
+contains words with historical spellings as described in
+the pattern rules. This ground truth is used to train the
+initial pattern weights for the profiler.
 
-The profiler uses these trained files just as starting weights for its
+The profiler uses these training files just as starting weights for its
 calculations. It always tries to optimize the pattern weights on the
 actual input text and uses the initial weights as mere hints for good
 pattern weights.
 
-The time the training of the initial weights takes, depends heavily on
+The time the training of the initial weights takes depends heavily on
 the size of the training file. If the file is very large the training
 can easily take days to finish. Since the training just calculates the
 initial weights for the patterns, its not a big deal to reduce the
 size of the file if the training takes too long.
 
-### Compilation of a language profile
-In order to compile a language profile, you need at least the three
-external resource files described in the previous chapter. It is
-recommended to create a language profile each in its own
-subdirectory. It is always possible to use another layout for your
-language profiles. You just have to adjust the paths of the different
+### Compilation of a language model
+In order to compile a language model, you need at least the three
+external resource files described in the previous chapter: a lexicon of modern wordforms, 
+a file of historical rewrite patterns and a ground truth text. It is
+recommended to create each language model in its own
+subdirectory. It is also possible to use a different layout for your
+profile. You just have to adjust the paths of the respective
 files accordingly.
 
-The creation of a language profile involves three steps:
+The creation of a language model involves three steps:
 
 * compilation of the dictionary
-* creation of the language profile configuration (`.ini`) file
+* creation of the profile configuration (`.ini`) file
 * training of the initial pattern weights
 
-The following description assumes that all your external resources lie
+The following description assumes that all your external resources are
 in a common directory. All additional files that are generated by the
-profiler tool-chain will eventually end in this common directory as
-well. After you have compiled the language profile you can remove both
+profiler toolchain will eventually end up in this common directory as
+well. After you have compiled the language model you can remove both
 the sorted dictionary and the historical ground truth file in order to
 save some hard disk space. You must *not* remove the historical
 pattern file and the compiled dictionary since the profiler needs them
@@ -527,7 +543,7 @@ $ trainFrequencyList --config lang.ini --textFile lang.gt
 If you get any errors during this step
 
 * Make sure that all the paths given in the file on the command line
-  are valid
+  are valid.
 * Make sure that all the paths given in the configuration file are
   valid.
 * Make sure that you have defined all required configuration
@@ -538,10 +554,10 @@ size of the training file) make sure that the three files mentioned
 above were actually created by the training.
 
 ## Using multiple dictionaries
-As mentioned above it is possible to use multiple dictionaries for a
-language profile. For example you could use one general purpose
-dictionary and additional specialized dictionaries for Names,
-Locations, Organizations or some other specialized dictionaries that
+As mentioned above it is possible to use multiple dictionaries with a
+language model. For example you could use one general purpose
+dictionary and additional specialized dictionaries for named entities (persons,
+locations, organizations) or some other specialized dictionaries that
 contain foreign technical terms etc.
 
 In order to use multiple dictionaries you have to add appropriate
@@ -552,7 +568,7 @@ dictionary's block name starts with `dict_` -- otherwise it will be
 ignored by the profiler.
 
 Consider this extract of the configuration file taken from a German
-language profile:
+language model:
 
 ~~~
 ###################  RANK 0 #############################################
@@ -588,7 +604,7 @@ priority = 70
 cascadeRank = 3
 ~~~
 
-As you can see, this language profile uses a lot of different
+As you can see, this language model uses a lot of different
 dictionaries. Each new dictionary block has its own block and
 configuration parameters. Note that all entries must contain the path
 to the compiled dictionary, the type of the dictionary and are set to
@@ -616,28 +632,28 @@ common words are recognized soon in the process and that the more
 specialized dictionaries are used just on some rare cases.
 
 ## Profiling a file
-If you have compiled a profile for your language, you can now use the
-language profile on your files. The profiler accepts input files in
+If you have compiled a language model you can now use the
+language aware error profiler on your files. The profiler accepts input files in
 different formats and is able to write different kinds of output
 files.
 
-You need the configuration file for your language profile. Make sure
+You need the configuration file for your language model. Make sure
 that the paths in the configuration file can be found from the place
 where you execute the profiler. If in doubt use absolute paths in the
 configuration file or execute the profiler from the same directory
-where the configuration and the other files of the profile are
+where the configuration and the other files of the language model are
 located. Otherwise you will get errors while executing the profiler.
 
 The profiler understands a number of different command line
 options. You need to specify at least these:
 
 * `--config iniFile` sets the configuration file and therefore the
-  language profile the profiler uses on the input file.
+  language aware error profile the profiler uses on the input file.
 * `--sourceFile inputFile` sets the input file.
 * `--sourceFormat formatString` sets the format of the according input
   file. The `formatString` must be one of the following:
       - `DocXML` for files in the internal format used by the
-        [postcorrection tool](http://www.cis.lmu.de/ocrworkshop/data/manuals/pocoto-manual.pdf)
+        [postcorrection tool][pocman]
         backend and the profiler web service.
       - `AltoXML` for files that are encoded in the
         [Alto XML format](http://www.loc.gov/standards/alto/Alto)
@@ -647,21 +663,21 @@ options. You need to specify at least these:
       - `TXT` for simple text files
 * at least one output option using one of these command line parameters:
       - `--out_xml outputFile` writes an XML file that contains a list
-        of correction candidates and OCR errors found for unknown
+        of correction candidates and OCR errors for unknown
         words found in the input document.
       - `--out_html outputFile` writes a general HTML file that
-        contains various informations about the profiler's performance
-        (this output format is very good if you want to examine
+        contains various  pieces of information about the profiler's performance
+        (this output format is very helpful if you want to examine
         different language settings).
       - `--out_doc outputFile` writes the original input document with
-        correction candidates for each token as a `DocXML` formated
+        correction candidates for each token as a `DocXML` formatted
         file.
 
 You can additionally restrict the number of iterations using the
 `--iteratons n` command line option. This overwrites any settings in
-the according configuration file.
+the configuration file.
 
-If you want to profile a simple text file and see all different output
+If you want to profile a simple text file and see all the output
 files the profiler generates you could use the following command:
 
 ~~~{.bash}
@@ -672,19 +688,19 @@ $ profiler --config lang.ini --sourceFile input.txt \
 
 ## Language resources
 
-We have files with some basic language resources. These files contain
+We provide some basic [language resources][lexica]. These files contain
 dictionaries, pattern rules and training files for different
 languages[^3langs]. They also include simple `.ini` files for each
 language. You can use those language resources to start building your
-own custom language profiles.
+own custom language models.
 
-These resources are published on github and are lying in the same
-repository as this manual under the `lexica` directory. You can obtain
-these resources by checking out the appropriate git repository:
+You can obtain these resources by checking out the appropriate git repository:
 
 ~~~{.bash}
-$ git clone https://github.com/cisocrgroup/Resources.git
+$ git clone https://github.com/cisocrgroup/Resources
 ~~~
+
+[lexica]: https://github.com/cisocrgroup/Resources/tree/master/lexica
 
 Afterwards change into the `Resources/lexica` directory. This
 directory contains the `.ini` files for the languages and some
@@ -717,8 +733,8 @@ service. Just copy the language directories along with their `.ini`
 configuration files to the language backend of the profiler web
 service.
 
-[^3langs]: currently there are language resources for German, Latin and
-Greek.
+[^3langs]: Currently there are language resources for German, Latin and
+Ancient Greek.
 
 ## Missing patterns file
 You can use the profiler even if you do not have any patterns
@@ -733,14 +749,14 @@ least contain one (fake) pattern.
 
 # Profiler Web Service
 The profiler web service supplies the profiling tools as a web
-service. It is written in java and uses the profiler executable to
+service. It is written in Java and uses the profiler executable to
 profile documents. You can use this web service to provide different
-language profiles to your users. The postcorrection tool PoCoTo needs
+language models for your users. The postcorrection tool PoCoTo needs
 this web service in order to supply correction candidates and error
 patterns for the postcorrection of your OCR documents. For more
-information about the postcorrection of OCR documents in general, and
-the PoCoTo's connection to the profiler web service see the relevant
-[PoCoTo manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/pocoto-manual.pdf).
+information about the postcorrection of OCR documents in general and
+PoCoTo's connection to the profiler web service see the relevant
+[PoCoTo manual][pocman].
 
 The profiler web service depends on the Apache Tomcat web server and
 the Axis2 SOAP engine. You should have read the basic documentation of
@@ -753,9 +769,9 @@ additional tools installed:
 
 * The [Apache Tomcat](https://tomcat.apache.org/) web server
 * The [Apache Axis2](https://axis.apache.org/) SOAP engine
-* A language backend that contains different language profiles, the
-  profiler executable and according configuration files for the
-  different language profiles
+* A language backend that contains various language models, the
+  profiler executable and the configuration files for the
+  language models
 * The [Apache Ant](https://ant.apache.org) build tool
 
 ## Apache Tomcat web server
@@ -777,7 +793,7 @@ content of the archive to some convenient directory.
 First of all you should edit the `conf/tomcat-users.xml` configuration
 file in the directory of the extracted archive. Read the hints in the
 comments of the file and configure your users and roles
-accordingly. Make sure that you have defined the right roles if you
+accordingly. Make sure that you have defined the correct roles if you
 want to access the GUI configuration interface of the tomcat web
 server. You can edit the `conf/server.xml` file to set further
 internal server settings like ports etc.
@@ -788,7 +804,7 @@ configuration process and just use the default settings of the server.
 After you have finished to setup the server, you can start the
 server. To start the server you have to execute the `bin/startup.sh`
 script. If you get an error, try to set the `JAVA_HOME` environment
-variable to point to the java installation of your system as mentioned
+variable to point to the Java installation of your system as mentioned
 in the chapter [Building the profiler]. To stop the server you can
 execute the `bin/shutdown.sh` script.
 
@@ -810,7 +826,7 @@ on the tomcat web server. You can download the latest stable version^[
 ] of the web archive (WAR) distribution from the axis2
 [download page](https://axis.apache.org/axis2/java/core/download.cgi).
 
-The deployment of the axis2 engine is straight forward. Just extract
+The deployment of the axis2 engine is straightforward. Just extract
 the archive and copy the `axis2.war` web archive into the `webapps`
 directory of your tomcat installation. Restart the tomcat server
 afterwards^[
@@ -823,7 +839,7 @@ your web browser:
 `http://localhost:8080/axis2/services/Version?wsdl`. You should get an
 XML file that describes the version of the running axis2 web
 service. If you get an error, make sure that you have copied the
-`axis2.war` file to the right directory. You can check the log files
+`axis2.war` file to the correct directory. You can check the log files
 in the `log` directory of your tomcat installation to see if any
 additional errors happened during the deployment.
 
@@ -840,11 +856,11 @@ service to another Tomcat server of a different version that runs yet
 another version of the Axis2 service.
 
 ## The language backend
-The profiler web service needs the profiler executable and different
-language profiles that have been compiled as described in the previous
-chapter [Generating a language profile]. This so called language
+The profiler web service needs the profiler executable and various
+language models that have been compiled as described in the previous
+chapter [Generating a language model]. This so called language
 backend is a directory that contains all the different language
-profiles that the profiler web service provides. For obvious reasons
+models that the profiler web service provides. For obvious reasons
 both the profiler executable and directory must be accessible by the
 Tomcat web server.
 
@@ -852,14 +868,14 @@ The language backend consist of a set of directories. Each directory
 contains external resources of the profiler^[
     The pattern file, the initial pattern weights, the different
     dictionaries etc.
-] for *one* language. For each supported language there is also needed
-an additional profiler configuration file. This configuration file
+] for *one* language. For each supported language there is also 
+an additional profiler configuration file needed. This configuration file
 should contain all the settings that have been described in chapter
 [Creation of the `.ini` file]. The variables in the configuration
-files should point to the according language resources in the language
+files should point to the respective language resources in the language
 directory.
 
-The profiler web services uses those configuration files to detect the
+The profiler web service uses those configuration files to detect the
 languages it should support. It expects these files to be named after
 the language it supports and the file extension `.ini`. It wont detect
 configuration files with different naming conventions^[
@@ -894,21 +910,21 @@ Consider the following layout of a language backend:
 ~~~
 
 In this example the profiler would only recognize 2 different language
-profiles -- it would not recognize the Greek language profile.
+models -- it would not recognize the Greek language model.
 
 If you build the language backend for the profiler web service, you
-should try to follow this conventions. It is possible to construct the
-language backend in another way -- just make sure that all variables
+should try to follow these conventions. It is possible to construct the
+language backend in a different way -- just make sure that all variables
 in the configuration files point to the right language resource
 files. E.g. you could just provide a directory that contains
 configuration files as language backend and make the variables in
-these configuration files to point to the language profiles on
+these configuration files to point to the language models in
 different directories.
 
 If you have problems with the profiler web service, make sure that all
 variables and configuration files are valid and point to existing
-files on the server. You can check the `logs/catalina.out` logging
-file of the Tomcat server to check for any problems with the profiler.
+files on the server. You can check the `logs/catalina.out` logfile
+of the Tomcat server to check for any problems with the profiler.
 
 
 ## Deployment of the profiler web service
@@ -925,10 +941,10 @@ The source code of the profiler web service is maintained in a
 [git repository][pws]. Clone the source code of the project using git:
 
 ~~~{.bash}
-$ git clone https://github.com:cisocrgroup/ProfilerWebService.git
+$ git clone https://github.com/cisocrgroup/ProfilerWebService.git
 ~~~
 
-[pws]: https://gitlab.cis.lmu.de/CLARIN/pws.git
+[pws]: https://github.com/cisocrgroup/ProfilerWebService
 
 ### Downloading the Axis2 libraries
 To compile the profiler web service you need the binary distribution
@@ -961,7 +977,7 @@ $ make JAVA_HOME=/usr/lib/jvm/openjdk \
 ~~~
 
 After `make` finishes the profiler web service archive
-`ProfilerWebService.aar`can be found in the  `build/lib/` directory.
+`ProfilerWebService.aar` can be found in the `build/lib/` directory.
 
 ### Creating the configuration file
 The profiler web service needs a configuration file that points to the
@@ -997,7 +1013,7 @@ GUI management console) and the profiler web service should be
 running.
 
 ## Testing the profiler web service
-The simplest way to test if the profiler web service is running, is to
+The simplest way to test if the profiler web service is running is to
 use the `curl` utility program to access the service remotely. If you
 do not have the utility available you can use your web browser as
 well. Just copy and paste the appropriate URLS into the address bar of
@@ -1031,14 +1047,12 @@ the backend. If you do not get the list of languages, make sure that
 the `profiler.ini` configuration file is at the right place, that the
 `backend` variable points to a valid language backend and that the
 language backend can be accessed from within the server. Also make
-sure that all languages you want to provide have an according
+sure that all languages you want to provide have a
 configuration file with the file extension `.ini`.
 
 Unfortunately there is no easy way to test the profiler and profile a
 document. You have to use PoCoTo to test if the profiling works. See
-the
-[PoCoTo manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/pocoto-manual.pdf)
-for further information.
+the [PoCoTo manual][pocman] for further information.
 
 ## How the profiler web service works
 This part just explains some internals of the profiling web
@@ -1046,7 +1060,7 @@ service. It could help you to debug the service. If you are curious
 you could check the implementation of the service in the
 `src/cis/profiler/web` directory.
 
-The profiling web service offers to main operations^[
+The profiling web service offers two main operations^[
     In actual fact it offers some more operations -- they are
     considered deprecated at this point.
 ]:
@@ -1080,17 +1094,17 @@ information from the user to do its job:
 It follows these five steps to profile the document:
 
 1. The web service checks if the according language configuration file
-   exists in the backend. It simply adds `.ini` to the name of
+   exists in the backend. It simply adds `.ini` to the name of the
    language and checks if this file exists in the language backend --
    if not it returns an error to the caller.
-2. If the according language file exists, it extracts the file
-   contents of the request, unzips them and writes them to a temporary
+2. If the respective language file exists, it extracts the file
+   contents of the request, unzips it and writes it to a temporary
    file in the `temp` directory of the tomcat installation.
 3. It creates two more temporary file names as output files for the
    profiler in the `temp` directory.
 4. It issues a system command to call the profiler executable with the
    following arguments:
-       * The according configuration file (command line option:
+       * The configuration file (command line option:
        `--config`)
        * The format of the file (command line option:
        `--sourceFormat`)
