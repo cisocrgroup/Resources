@@ -11,15 +11,15 @@
 \newpage
 
 # Introduction
-This manual covers both the language aware OCR document error profiler 
-and the profiler web service. 
+This manual covers both the language aware OCR document error profiler
+and the profiler web service.
 It explains how to obtain and compile all tools necessary to
-create OCR error profiles for documents in various languages 
+create OCR error profiles for documents in various languages
 and covers the deployment of the profiler web service.
 
 The profiler is a tool that is also able to calculate historical spelling
-variants used in (historical) documents and to distinguish them for real OCR errors. 
-It needs to be trained on various external language resources in order to do its work. 
+variants used in (historical) documents and to distinguish them for real OCR errors.
+It needs to be trained on various external language resources in order to do its work.
 The profiler web service is a web service that uses the profiler in the background to
 generate language aware error profiles for different languages. It relies on
 number of pre-compiled language resources -- the so called language
@@ -57,7 +57,7 @@ level and the word is not a proper dictionary entry; we call these errors
 OCR errors. Another possibility is -- particular in historical texts --
 that the OCR engine did recognize the word with no errors, but the
 historical spelling of the word differs from its modern spelling --
-these cases are called historical spelling variations. 
+these cases are called historical spelling variations.
 It is possible as well that both OCR and historical spelling
 variations overlap on the same words.
 
@@ -77,7 +77,7 @@ historical OCR'ed documents.
 
 Consider the pattern rule `e -> c`. This rule describes a common OCR
 error pattern, where the letter `e` in the source text is recognized
-as a `c` by the engine. For another example consider the rule for a 
+as a `c` by the engine. For another example consider the rule for a
 historical spelling pattern `t -> th`. It explains historical (German)
 word forms like `theil` that should map to the modern form `teil`. So
 if the profiler finds a lot of unexplained words that could be
@@ -112,7 +112,7 @@ required tools are installed on your system before you proceed.
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)
 * [Java Virtual Machine (JVM)](http://openjdk.java.net/)
 * [ICU development library](http://site.icu-project.org/)
-* 
+*
 In the case of Xerces XML Parser and CppUnit make sure that you have
 the development headers of the according libraries installed as
 well. They are normally called `*-dev` in the different package
@@ -215,7 +215,7 @@ The `language aware OCR document error profiler`, or profiler for short, is a pr
 calculating correction candidates for statistical series of suspected OCR errors in historical documents. Its output is a document containing the original OCR tokens together with correction candidates and further information (such as the historical and OCR patterns giving rise to the OCR token, its Levenshtein distance from a correction candidate and its weight) which might be called the `error profile` of the document which has been OCR'ed. The profiler uses *as input* various language dependent files such as a sorted lexicon of wordforms, a file of historical rewrite patterns describing spelling variations and a ground truth text. These files need to be compiled into a special form and represent language resources needed for the profiler. They are called a `language model` in the following and must not be confused with either the language aware error profile (output) or the profiler itself (program).
 
 After you have installed the binaries as described in the previous
-chapter, you can now build a language model. This profiler can then be used with this language model to get a list of correction candidates for historical spellings in various document written 
+chapter, you can now build a language model. This profiler can then be used with this language model to get a list of correction candidates for historical spellings in various document written
 in this language.
 
 The installation process did compile and installed 3 different
@@ -291,9 +291,9 @@ sed -e '/^[[:space:]]*$/d' input.txt > output.txt
 #### Simple creation of a modern dictionary with hunspell
 If you do not have any language resources available, you can use the
 spelling dictionaries of
-[LibreOffice](http://extensions.libreoffice.org/extension-center?getCategories=Dictionary) to create your own for usage with the profiler. 
-You need to install [hunspell](https://de.wikipedia.org/wiki/Hunspell) and the hunspell tools in 
-order to expand ("unmunch") Hunspell's dictionary (.dic) and affix (.aff) files into a list of 
+[LibreOffice](http://extensions.libreoffice.org/extension-center?getCategories=Dictionary) to create your own for usage with the profiler.
+You need to install [hunspell](https://de.wikipedia.org/wiki/Hunspell) and the hunspell tools in
+order to expand ("unmunch") Hunspell's dictionary (.dic) and affix (.aff) files into a list of
 wordforms needed for the profiler.
 
 Download a *spelling* dictionary of your desired language. The
@@ -383,7 +383,7 @@ size of the file if the training takes too long.
 
 ### Compilation of a language model
 In order to compile a language model, you need at least the three
-external resource files described in the previous chapter: a lexicon of modern wordforms, 
+external resource files described in the previous chapter: a lexicon of modern wordforms,
 a file of historical rewrite patterns and a ground truth text. It is
 recommended to create each language model in its own
 subdirectory. It is also possible to use a different layout for your
@@ -868,7 +868,7 @@ The language backend consist of a set of directories. Each directory
 contains external resources of the profiler^[
     The pattern file, the initial pattern weights, the different
     dictionaries etc.
-] for *one* language. For each supported language there is also 
+] for *one* language. For each supported language there is also
 an additional profiler configuration file needed. This configuration file
 should contain all the settings that have been described in chapter
 [Creation of the `.ini` file]. The variables in the configuration
@@ -926,7 +926,6 @@ variables and configuration files are valid and point to existing
 files on the server. You can check the `logs/catalina.out` logfile
 of the Tomcat server to check for any problems with the profiler.
 
-
 ## Deployment of the profiler web service
 The profiler web service is a small application that needs to be
 compiled against the Tomcat and Axis2 libraries you use. It uses one
@@ -954,21 +953,47 @@ and extract the archive. Make sure that the version of the binary
 distribution matches the version of the WAR archive you used for the
 Tomcat server.
 
-### Building the profiler web service
-To build the web service, first change into the pws^[
-   This means the directory that you have cloned using git
-] directory. You need to set the two two environment variables
-`JAVA_HOME` and `AXIS2_HOME`. `JAVA_HOME` should point to your
-system's java installation; `AXIS2_HOME` should point to the directory
-where you put the binray distribution of Axis2. If these variabes have
-been set, just compile the web service using `make`.
+### Building and deploying the profiler web service
+
+To build the web service, first change into the
+`ProfilerWebService`^[ This means the directory that you have cloned using git ]
+directory. The build process depends on 5 environment variables that
+need to be set in order to build and deploy the web service. You can
+either edit these variables directly in the Makefile or set them in
+the enclosing environment of the `make` call.
+
+1. `JAVA_HOME` must point to the base directory of your java
+   installation
+2. `AXIS2_HOME` must point to the base directory of the axis2 binary
+   distribution.
+3. `TOMCAT_HOME` must point to the base directory of your apache
+   tomcat installation
+4. `BACKEND_HOME` must point to the base directory of the language
+   backend; i.e. the directory where the language `.ini` files
+   reside.
+5. `PROFILER_EXE` must point to the path of the profiler executable.
+
+If possible use absolute paths for all of these 5 environment
+variables.
+
+After all these variables have been set, simply type `make` and the
+web service is built. Afterwards check if the `profiler.ini` file,
+that was generated by the build process, points to the right language
+backend and profile executable. In order to deploy the web service
+just type `make deploy`. You may have to restart the tomcat server
+after the deployment of the profiler web service.
 
 ~~~{.bash}
 $ export JAVA_HOME=/usr/lib/jvm/openjdk
 $ export AXIS2_HOME=~/Downloads/axis2-1.6.3
+$ export TOMCAT_HOME=~/apache-tomcat-8.0.32
+$ export BACKEND_HOME=~/language-backend
+$ export PROFILER_EXE=~/local/bin/profiler
 $ make
+$ make deploy
 ~~~
 
+<<<<<<< HEAD
 You can also use this shorter version:
 
 ~~~{.bash}
@@ -978,39 +1003,22 @@ $ make JAVA_HOME=/usr/lib/jvm/openjdk \
 
 After `make` finishes the profiler web service archive
 `ProfilerWebService.aar` can be found in the `build/lib/` directory.
+=======
+#### The configuration file
+>>>>>>> development
 
-### Creating the configuration file
-The profiler web service needs a configuration file that points to the
-language backend and to the profiler executable. The configuration
-file is a simple `ini` type file that sets the two variables
-`profiler` and `backend`. The variable `profiler` specifies the
-(absolute) path tho the profiler executable and `backend` points to
-the language backend. It should be the directory that contains the
-various language configuration files. The configuration file of the
-web service must be named `profiler.ini` -- otherwise the web service
-will not find the file. A simple version of this file looks like this:
-
-~~~{.bash}
-#
-# profiler.ini -- configuration file for the profiler web service
-#
-backend = /path/to/the/language/backend/directory
-profiler = /path/to/the/profiler/executable
-~~~
-
-### Deploying the web service
-The deployment of the web service is simple. You have to copy the
-`ProfilerWebService.aar` archive and the `profiler.ini` configuration
-file to the right places in the axis2 directory of the Tomcat server:
+The profiler web service uses a configuration file `profiler.ini` that
+sets some variables for the web service. It is generated automatically
+by the build process. The file is put into the
+`build/lib/ProfilerWebService.aar` service during the deployment. If
+you need to manually deploy the web service (i.e. copy the web service
+file into the according `$TOMCAT_HOME/webapps/axis2/WEB-INF/services`
+directory you have to manually insert the configuration file into the
+archive:
 
 ~~~{.bash}
-$ cp build/lib/ProfilerWebService.aar /path/to/tomcat/webapps/axis2/web
-$ cp profiler.ini  /path/to/tomcat/webapps/axis2/web/conf
+$ jar -uf build/lib/ProfilerWebService.aar profiler.ini
 ~~~
-
-Restart the tomcat server (or just restart the axis2 service from the
-GUI management console) and the profiler web service should be
-running.
 
 ## Testing the profiler web service
 The simplest way to test if the profiler web service is running is to
