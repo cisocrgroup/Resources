@@ -974,7 +974,7 @@ $ export TOMCAT_HOME=~/apache-tomcat-8.0.32
 $ export BACKEND_HOME=~/language-backend
 $ export PROFILER_EXE=~/local/bin/profiler
 $ make
-# make deploy
+$ make deploy
 ~~~
 
 #### The configuration file
