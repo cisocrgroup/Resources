@@ -111,7 +111,7 @@ required tools are installed on your system before you proceed.
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)
 * [Java Virtual Machine (JVM)](http://openjdk.java.net/)
 * [ICU development library](http://site.icu-project.org/)
-* 
+*
 In the case of Xerces XML Parser and CppUnit make sure that you have
 the development headers of the according libraries installed as
 well. They are normally called `*-dev` in the different package
@@ -910,7 +910,6 @@ variables and configuration files are valid and point to existing
 files on the server. You can check the `logs/catalina.out` logging
 file of the Tomcat server to check for any problems with the profiler.
 
-
 ## Deployment of the profiler web service
 The profiler web service is a small application that needs to be
 compiled against the Tomcat and Axis2 libraries you use. It uses one
@@ -928,7 +927,7 @@ The source code of the profiler web service is maintained in a
 $ git clone https://github.com:cisocrgroup/ProfilerWebService.git
 ~~~
 
-[pws]: https://gitlab.cis.lmu.de/CLARIN/pws.git
+[pws]: https://github.com:cisocrgroup/ProfilerWebService.git
 
 ### Downloading the Axis2 libraries
 To compile the profiler web service you need the binary distribution
