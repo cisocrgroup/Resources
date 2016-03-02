@@ -11,11 +11,11 @@ all: $(PDFS)
 	-V papersize:a4paper \
 	-V documentclass:scrartcl \
 	-V classoption:DIV=12 \
-    	-V mainfont:"Linux Libertine O" \
-    	-V sansfont:"Linux Biolinum O" \
+	-V mainfont:"Linux Libertine O" \
+	-V sansfont:"Linux Biolinum O" \
 	-V linkcolor=blue \
 	-t latex \
-    	-o $@ $<
+	-o $@ $<
 
 .PHONY: clean
 clean:
