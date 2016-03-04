@@ -124,7 +124,7 @@ source code directly into Netbeans and run the program from within
 it. Or you can even checkout the git repository using the built in
 version control support of Netbeans.
 
-[pocoto-zip]: http://www.cis.lmu.de/ocrworkshop/data/pocoto/downloads/ocrcorrection.zip
+[pocoto-zip]: http://www.cis.lmu.de/ocrworkshop/data/pocoto/ocrcorrection.zip
 
 ## Running the program
 After you have downloaded and extracted the \pocoto{} archive, you
