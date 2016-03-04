@@ -424,6 +424,49 @@ image files only once. The different \pocoto{} projects refer to the
 same images in one folder, but to different XML output files in
 different folders.
 
+#### Llocs directory
+
+As mentioned before, if you want to use \pocoto{} in combination with
+[ocropy](https://github.com/tmbdev/ocropy) you need the line locations
+in the llocs files for all the input documents. \pocoto{} expects the
+llocs to reside in a directory on the same level as the according xml
+directory of the hocr files. Additionally the name of the xml
+directory *must* contain the string `hocr`. The according llocs
+directory must have the same name as the xml directory with the string
+`hocr` replaced with `book`. Make sure that the directory structure of
+this llocs directory is exactly what `ocropy-gpageseg` generates.
+
+Here is a simple example of the structure of an ocropy project that
+can be processed with \pocoto{}.
+
+```
+├── ocropy-hocr
+│   ├── 001.html
+│   └── 002.html
+├── tif
+│   ├── 001.tif
+│   └── 002.tif
+└── ocropy-book
+    ├── 001
+    │   ├── 0100001.bin.png
+    │   ├── 0100001.llocs
+    │   ├── 0100001.txt
+    │   ├── 0100002.bin.png
+    │   ├── 0100002.llocs
+    │   ├── 0100002.txt
+    │   ...
+    ├── 001.pseg.png
+    ├── 002
+    │   ├── 0100001.bin.png
+    │   ├── 0100001.llocs
+    │   ├── 0100001.txt
+    │   ├── 0100002.bin.png
+    │   ├── 0100002.llocs
+    │   ├── 0100002.txt
+    │   ...
+    └── 002.pseg.png
+```
+
 #### File names
 *The names of the images and XML files must correspond to each other.*
 Make sure that
