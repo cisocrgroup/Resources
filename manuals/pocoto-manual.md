@@ -84,7 +84,7 @@ always warn you, before you overwrite existing files.
 Most of the examples and images shown in this manual are taken from a
 \pocoto{} session working with the Latin version of Hobbes'
 Leviathan (1668). All files are available under the following
-[link](http://www.cis.lmu.de/ocrworkshop/data/books/books-ocr.zip). The
+[link](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset). The
 archive contains various OCR  files[^files] in different
 languages[^languages]. You can use all of the files in the archive to
 reproduce the  examples shown in this manual and to experiment on your
