@@ -266,10 +266,10 @@ This format is sometimes also referred to as *DocXML*.
 ]. It is loosely based on the Abbyy XML format.
 
 In its newest version \pocoto{} now also supports the hOCR-based file
-format, that [Ocropus](https://github.com/tmbdev/ocropy) uses as its
+format, that [OCRopus](https://github.com/tmbdev/ocropy) uses as its
 main output format. In order to display the token snippets in the
 image files correctly \pocoto{} needs finer bounding boxes than just 
-the simple line based coordinates Ocropus provides out-of-the-box. 
+the simple line based coordinates OCRopus provides out-of-the-box. 
 Specifically, \pocoto{} needs the line location files (llocs) of
 each text line image, which provide the horizontal pixel coordinates for each character
 along the text line image. These files can be produced using the
@@ -429,7 +429,7 @@ different folders.
 #### llocs directory
 
 As mentioned before, if you want to use \pocoto{} in combination with
-[Ocropus](https://github.com/tmbdev/ocropy) you need the line locations
+[OCRopus](https://github.com/tmbdev/ocropy) you need the line locations
 (horizontal pixel coordinate of each character measured along its text line image)
 in the llocs files for all the text line image. \pocoto{} expects the
 llocs to reside in a directory on the same level as the
@@ -444,9 +444,9 @@ xml directory there should be a directory under the llocs directory
 that contains the line locations for each line in the input xml page
 along with the recognized text of the line and the image snippet.
 
-Here is a simple example of the directory structure of an Ocropus
+Here is a simple example of the directory structure of an OCRopus
 project that can be processed with \pocoto{}. The project contains two
-xml files in the xml directory with their respective image files in the
+xml files in the xml directory with their respective image files (binarized) in the
 image directory.
 
 ```
@@ -548,42 +548,113 @@ since this naming convention would give a wrong ordering:
 `1-book.xml`, `10-book.xml`, \dots, `11-book.xml`, `20-book.xml`,
 \dots.
 
+
 ## How to produce the necessary input files and layout structure with current OCR engines
     
 Now that you know what kind of input files and directory layout structure is 
 expected there remains the question how to efficiently generate these data 
-and structure by using current OCR engines (ABBYY Finereader, Tesseract, Ocropus).
+and structure by using current OCR engines (ABBYY Finereader, Tesseract, OCRopus).
 While we do not intend to give an introduction to the usage of these engines (for this
 we refer you to our [OCR Workshop][ocrworkshop]), we nevertheless want to list
 the various commands for each engine in turn to enable you to quickly generate data
-in the required form. Do not forget to NFC-normalize your data (e.g. with the `nfc.sh`-script
-provided in the [OCR testset}[ocrtestet] directory
+in the required form. 
+
+ATTENTION:
+
+*Do not forget to NFC-normalize your data (e.g. with the `nfc.sh`-script
+provided in the [OCR Testset][ocrtestset] directory) before using them with \pocoto{}.*
 
 [ocrworkshop]: https://github.com/cisocrgroup/OCR-Workshop
 [ocrtestset]: https://github.com/cisocrgroup/Resources/tree/master/ocrtestset
 
+
 ### ABBYY Finereader Engine SDK 11 for Linux
-Assuming that you got a licence for historical font OCR (Gothic script, Frakturschrift),
-you may invoke this little bash script from the tif image directory:
+
+Assuming that you got a licence for historical font OCR (Gothic script, Frakturschrift) and
+lexica for "old languages" (`OldGerman` in our case), you may invoke this little bash script
+from the tif image directory of binarized images:
 
 ```bash
         for i in *.tif; do 
             /opt/FRE11.1/Samples/CommandLineInterface/CLI \
             -if "$i" -tet UTF8 \
             -f Text -f XML --xmlWriteAsciiCharAttributes \
-            -of ../"${i/.tif/.abbyy.txt}" -of ../"${i/.tif/.abbyy.xml}" \
+            -of ../abbyy-txt/"${i/.tif/.abbyy.txt}" \ 
+            -of ../abbyy-xml/"${i/.tif/.abbyy.xml}" \
             -rl OldGerman -rtt Gothic
         done
 ``` 
 
-Thereafter, move the \*.abbyy.xml and \*.abbyy.txt-files to the abbyy-xml and abbyy-txt
-directories at the same level as the tif image directory.
+Thereafter, the `*.abbyy.xml` and `*.abbyy.txt` files will reside in the `abbyy-xml` and `abbyy-txt`
+directories at the same level as the tif image directory. These directories need to exist beforehand 
+(generate them before calling the OCR engine).
 
-### Tesseract >= 3.04
+### [Tesseract >= 3.04][tesseract]
+
+From the tif image directory of binarized images you can produce hOCR-files with word 
+bounding boxes (sufficient for \pocoto{}, but note that you could also produce character 
+bounding boxes by using the Tesseract C++ API which we do not cover here) in this way:
+
+```bash
+        for i in *.tif; do \
+            tesseract -l deu_frak $i ../tess-hocr/"${i/.tif}" hocr
+        done
+```
+
+(leaving out the `hocr` at the end will produce plain text files).
+
+If you want to make use of several CPU cores simultaneously, use `GNU parallel`:
+
+```bash
+        ls | parallel --gnu "tesseract {} ../tess-hocr/{.} -l deu_frak hocr"
+```
+
+[tesseract]: https://github.com/tesseract-ocr
 
 
-##
+### [OCRopus][ocropus] 
 
+For OCRopus, lets again assume you start from binarized tif images in the tif directory.
+You could equally well binarize your original color or greyscale images with `ocropus-nlbin` 
+which produces files with the extension `*.bin.png` and start from there.
+
+First the page images need to be segmented:
+
+```bash
+        ocropus-gpageseg -n -Q4 *.tif
+```
+
+The option `-n` ensures that also short lines get segmented, `-Q4` employs 4 cores.
+The output will consist in `*.pseg.png` files plus a directory for each page containing
+single text line images of that page as `*.bin.png` files.
+
+Next comes the recognition of each text line image with a trained model:
+
+```bash
+        ocropus-rpred -n -Q4 --llocs -m <modelname> */*.bin.png
+```
+
+Here the output will be single lines of recognized text equally named to their image
+counterparts with extensions `*.txt` and `*.llocs`. The latter `llocs` files contain a table
+with recognized characters (first column) and horizontal pixel coordinate of
+each character's beginning (second column) in its corresponding line image.
+
+From these files we can assemble hOCR-Files (create the `ocropus-hocr` directory
+beforehand) with hOCR text line coordinates (\pocoto{} will later use the character coordinates
+contained in the `llocs` files to determine word boundaries in the image):
+
+```bash
+        for i in *.tif; do \
+            echo $i 
+            j="${i/.tif/}"  
+            ocropus-hocr $i -o ../ocropus-hocr/$j.hocr 
+        done
+```
+
+At the end, rename the tif-directory `ocropus-book` and put the tif images
+into their own directory again named `tif`.
+
+[ocropus]: https://github.com/tmbdev/ocropy
 
 ## Projects
 \pocoto{} manages documents as separate projects. A project contains a
