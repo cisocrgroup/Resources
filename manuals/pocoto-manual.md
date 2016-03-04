@@ -263,6 +263,16 @@ format called OCRCXML^[
 This format is sometimes also referred to as *DocXML*.
 ]. It is loosely based on the Abbyy XML format.
 
+In its newest version \pocoto{} now also supports the hOCR-based file
+format, that [ocropy](https://github.com/tmbdev/ocropy) uses as it
+main output format. In order to display the token snippets in the
+image files correctly \pocoto{} needs finer information of the
+bounding boxes, than the simple line based format of ocropy
+offers. \pocoto{} needs the line location files (llocs) of the
+according lines. These files can be produced using the
+`ocropy-gpageseg`
+tool^[refer to the code of the tool for more information. ].
+
 There are some caveats, though. Make sure that the Abbyy XML files are
 *character* based as opposed to word or token based. This is
 important, since \pocoto{} will exit with an error if you try to open
@@ -285,8 +295,6 @@ the next pages^[
     They are all somewhat strangely formatted, though. Don't let this
     bother you.
 ].
-
-\newpage
 
 ~~~{.xml}
 <!-- snippet of the supported hOCR XML format... -->
@@ -414,6 +422,83 @@ project names would then be `<project-name>-abbyy` and
 image files only once. The different \pocoto{} projects refer to the
 same images in one folder, but to different XML output files in
 different folders.
+
+#### Llocs directory
+
+As mentioned before, if you want to use \pocoto{} in combination with
+[ocropy](https://github.com/tmbdev/ocropy) you need the line locations
+in the llocs files for all the input documents. \pocoto{} expects the
+llocs to reside in a directory on the same level as the according xml
+directory of the hocr files. Additionally the name of the xml
+directory *must* contain the string `hocr`. The according llocs
+directory must have the same name as the xml directory with the string
+`hocr` replaced with `book`.
+
+Make sure that the directory structure of this llocs directory is
+exactly what `ocropy-gpageseg` generates. For each input file in the
+xml directory there should be a directory under the llocs directory
+that contains the line locations for each line in the input xml page
+along with the recognized text of the line and the image snippet.
+
+Here is a simple example of the directory structure of an ocropy
+project that can be processed with \pocoto{}. The project contains two
+xml files in the xml directory with their according image files in the
+image directory.
+
+```
++-- ocropy-hocr
+|   +-- 001.html
+|   +-- 002.html
++-- tif
+|   +-- 001.tif
+|   +-- 002.tif
++-- ocropy-book
+    +-- 001
+    |   +-- 0100001.bin.png
+    |   +-- 0100001.llocs
+    |   +-- 0100001.txt
+    |   +-- 0100002.bin.png
+    |   +-- 0100002.llocs
+    |   +-- 0100002.txt
+    |   ...
+    +-- 001.pseg.png
+    +-- 002
+    |   +-- 0100001.bin.png
+    |   +-- 0100001.llocs
+    |   +-- 0100001.txt
+    |   +-- 0100002.bin.png
+    |   +-- 0100002.llocs
+    |   +-- 0100002.txt
+    |   ...
+    +-- 002.pseg.png
+```
+<!-- ``` -->
+<!-- ├── ocropy-hocr -->
+<!-- │   ├── 001.html -->
+<!-- │   └── 002.html -->
+<!-- ├── tif -->
+<!-- │   ├── 001.tif -->
+<!-- │   └── 002.tif -->
+<!-- └── ocropy-book -->
+<!--     ├── 001 -->
+<!--     │   ├── 0100001.bin.png -->
+<!--     │   ├── 0100001.llocs -->
+<!--     │   ├── 0100001.txt -->
+<!--     │   ├── 0100002.bin.png -->
+<!--     │   ├── 0100002.llocs -->
+<!--     │   ├── 0100002.txt -->
+<!--     │   ... -->
+<!--     ├── 001.pseg.png -->
+<!--     ├── 002 -->
+<!--     │   ├── 0100001.bin.png -->
+<!--     │   ├── 0100001.llocs -->
+<!--     │   ├── 0100001.txt -->
+<!--     │   ├── 0100002.bin.png -->
+<!--     │   ├── 0100002.llocs -->
+<!--     │   ├── 0100002.txt -->
+<!--     │   ... -->
+<!--     └── 002.pseg.png -->
+<!-- ``` -->
 
 #### File names
 *The names of the images and XML files must correspond to each other.*
@@ -1100,19 +1185,39 @@ text file`. The former exports all pages of your project^[
 ] as a single text file. The latter exports each page as a separate
 file into a directory that you can specify.
 
-At the time of this writing there is no possibility to export your
-project back into the original format of your OCR files. Therefore  is
-not yet possible to apply the corrections you did in \pocoto{} to your
-OCR files. Alas, there are no tools to convert \pocoto{}'s internal
-file format into the supported OCR file formats as well.
+## Exporting to your original input format
 
-We know that this is a big drawback. But this export functionality is
-under active development and will be finished as part of the current
-development process of \pocoto{}. When this feature has been implemented,
-you will be able to update \pocoto{} and then have the ability to export
-your project files
-back into your original OCR output files, without the need to update
-your projects.
+The newest version of \pocoto{} is now able to align your corrections
+with your input xml files. You can therefore export your correction
+from \pocoto{} back into your original files. You can either overwrite
+your existing files or create new ones.
+
+In order to export your files, go to `File -> Export -> export
+project` and select your export directory. If you do not want
+\pocoto{} to overwrite your original input files, choose another
+directory than your xml input directory.
+
+## Importing TEI files into your ocr project
+
+\pocoto{} is able to import [TEI](http://www.tei-c.org/index.xml)
+formatted xml files. It is not possible to create a \pocoto{} project
+from TEI files, since normal TEI files do not save information about
+the bounding boxes of the characters in the document.
+
+What you can do is, to import your existing TEI file into an ocr
+project and inject the corrections of your TEI file into the
+recognized text of the ocr engine. Since \pocoto{} aligns the
+documents on a page level, make sure that your project contains
+*exactly the same number* of pages as your TEI file. \pocoto{} will
+fail if the TEI file contains more or less pages than the ocr project,
+even if these pages are empty. \pocoto{} assumes that one TEI file
+contains the whole document of the project. It is not possible to
+import more than one TEI file into \pocoto{}.
+
+To import a TEI file, make sure that you have opened the right project
+and go to `File -> Import -> Import from TEI` and select the according
+TEI file. \pocoto{} will now align the content of the TEI file with
+your ocr data.
 
 # Updating the application
 \pocoto{} has the capability to automatically update itself. This
