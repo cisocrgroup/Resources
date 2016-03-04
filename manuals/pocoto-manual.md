@@ -262,6 +262,16 @@ format called OCRCXML^[
 This format is sometimes also referred to as *DocXML*.
 ]. It is loosely based on the Abbyy XML format.
 
+In its newest version \pocoto{} now also supports the hOCR-based file
+format, that [ocropy](https://github.com/tmbdev/ocropy) uses as it
+main output format. In order to display the token snippets in the
+image files correctly \pocoto{} needs finer information of the
+bounding boxes, than the simple line based format of ocropy
+offers. \pocoto{} needs the line location files (llocs) of the
+according lines. These files can be produced using the
+`ocropy-gpageseg`
+tool^[refer to the code of the tool for more information. ].
+
 There are some caveats, though. Make sure that the Abbyy XML files are
 *character* based as opposed to word or token based. This is
 important, since \pocoto{} will exit with an error if you try to open
