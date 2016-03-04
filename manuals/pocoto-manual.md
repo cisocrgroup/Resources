@@ -1194,6 +1194,28 @@ project` and select your export directory. If you do not want
 \pocoto{} to overwrite your original input files, choose another
 directory than your xml input directory.
 
+## Importing TEI files into your ocr project
+
+\pocoto{} is able to import [TEI](http://www.tei-c.org/index.xml)
+formatted xml files. It is not possible to create a \pocoto{} project
+from TEI files, since normal TEI files do not save information about
+the bounding boxes of the characters in the document.
+
+What you can do is, to import your existing TEI file into an ocr
+project and inject the corrections of your TEI file into the
+recognized text of the ocr engine. Since \pocoto{} aligns the
+documents on a page level, make sure that your project contains
+*exactly the same number* of pages as your TEI file. \pocoto{} will
+fail if the TEI file contains more or less pages than the ocr project,
+even if these pages are empty. \pocoto{} assumes that one TEI file
+contains the whole document of the project. It is not possible to
+import more than one TEI file into \pocoto{}.
+
+To import a TEI file, make sure that you have opened the right project
+and go to `File -> Import -> Import from TEI` and select the according
+TEI file. \pocoto{} will now align the content of the TEI file with
+your ocr data.
+
 # Updating the application
 \pocoto{} has the capability to automatically update itself. This
 means that any stable development of \pocoto{} can be automatically
