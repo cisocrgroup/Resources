@@ -95,7 +95,7 @@ own.
     Latin  and Ancient Greek available.
 
 # Basic usage
-\pocoto{} is developed in the Java programming language. In order to
+\pocoto{} is written in the Java programming language. In order to
 run it you need to have the Java virtual machine installed on your
 computer. You can freely download and install it on your system from
 the [Oracle](http://www.oracle.com/de/java/overview/index.html)
@@ -211,7 +211,7 @@ two different tabs. The second one lists common error patterns and
 *suspicious* words^[
     The identification of these words both depends on the OCR engine
     and the output format you use.
-]. If you used a profiler service to obtain a language profile for your
+]. If you used a profiler service to obtain an error profile for your
 OCRed document (see
 in the chapter [Profiler]), it will also show you common historical
 spelling variations encountered in all the words over the whole
@@ -258,20 +258,23 @@ of the scanned document pages.
 and the
 [hOCR](https://docs.google.com/document/d/1QQnIQtvdAC_8n92-LhwPcjtAUFwBlzE8EWnKAxlgVf0/preview?pli=1)
 file formats. hOCR is the output format you get from
-OCRopus and Tesseract. Additionally it supports its own internal XML file
+OCRopus and Tesseract. 
+
+Additionally \pocoto{} supports its own internal XML file
 format called OCRCXML^[
 This format is sometimes also referred to as *DocXML*.
 ]. It is loosely based on the Abbyy XML format.
 
 In its newest version \pocoto{} now also supports the hOCR-based file
-format, that [ocropy](https://github.com/tmbdev/ocropy) uses as it
+format, that [Ocropus](https://github.com/tmbdev/ocropy) uses as its
 main output format. In order to display the token snippets in the
-image files correctly \pocoto{} needs finer information of the
-bounding boxes, than the simple line based format of ocropy
-offers. \pocoto{} needs the line location files (llocs) of the
-according lines. These files can be produced using the
-`ocropy-rpred --llocs -m <modelname> book/*/*.bin.png`
-tool^[refer to the code of the tool for more information. ].
+image files correctly \pocoto{} needs finer bounding boxes than just 
+the simple line based coordinates Ocropus provides out-of-the-box. 
+Specifically, \pocoto{} needs the line location files (llocs) of
+each text line image, which provide the horizontal pixel coordinates for each character
+along the text line image. These files can be produced using the
+`ocropus-rpred --llocs -m <modelname> book/*/*.bin.png`
+command.
 
 There are some caveats, though. Make sure that the Abbyy XML files are
 *character* based as opposed to word or token based. This is
@@ -426,9 +429,9 @@ different folders.
 #### llocs directory
 
 As mentioned before, if you want to use \pocoto{} in combination with
-[ocropy](https://github.com/tmbdev/ocropy) you need the line locations
+[Ocropus](https://github.com/tmbdev/ocropy) you need the line locations
 (horizontal pixel coordinate of each character measured along its text line image)
-in the llocs files for all the input documents. \pocoto{} expects the
+in the llocs files for all the text line image. \pocoto{} expects the
 llocs to reside in a directory on the same level as the
 directory of the hOCR files. Additionally the name of the
 directory *must* contain the string `hocr` (e.g., `ocropus-hocr`). The llocs
@@ -436,24 +439,24 @@ directory must have the same name as the hOCR directory with the string
 `hocr` replaced with `book` (e.g., `ocropus-book`).
 
 Make sure that the directory structure of this llocs directory is
-exactly what `ocropy-rpred --llocs` generates. For each input file in the
+exactly what `ocropus-rpred --llocs` generates. For each input file in the
 xml directory there should be a directory under the llocs directory
 that contains the line locations for each line in the input xml page
 along with the recognized text of the line and the image snippet.
 
-Here is a simple example of the directory structure of an ocropy
+Here is a simple example of the directory structure of an Ocropus
 project that can be processed with \pocoto{}. The project contains two
-xml files in the xml directory with their according image files in the
+xml files in the xml directory with their respective image files in the
 image directory.
 
 ```
-+-- ocropy-hocr
++-- ocropus-hocr
 |   +-- 001.html
 |   +-- 002.html
 +-- tif
 |   +-- 001.tif
 |   +-- 002.tif
-+-- ocropy-book
++-- ocropus-book
     +-- 001
     |   +-- 0100001.bin.png
     |   +-- 0100001.llocs
@@ -474,13 +477,13 @@ image directory.
     +-- 002.pseg.png
 ```
 <!-- ``` -->
-<!-- ├── ocropy-hocr -->
+<!-- ├── ocropus-hocr -->
 <!-- │   ├── 001.html -->
 <!-- │   └── 002.html -->
 <!-- ├── tif -->
 <!-- │   ├── 001.tif -->
 <!-- │   └── 002.tif -->
-<!-- └── ocropy-book -->
+<!-- └── ocropus-book -->
 <!--     ├── 001 -->
 <!--     │   ├── 0100001.bin.png -->
 <!--     │   ├── 0100001.llocs -->
@@ -544,6 +547,43 @@ For example the names of the pages of a document could be
 since this naming convention would give a wrong ordering:
 `1-book.xml`, `10-book.xml`, \dots, `11-book.xml`, `20-book.xml`,
 \dots.
+
+## How to produce the necessary input files and layout structure with current OCR engines
+    
+Now that you know what kind of input files and directory layout structure is 
+expected there remains the question how to efficiently generate these data 
+and structure by using current OCR engines (ABBYY Finereader, Tesseract, Ocropus).
+While we do not intend to give an introduction to the usage of these engines (for this
+we refer you to our [OCR Workshop][ocrworkshop]), we nevertheless want to list
+the various commands for each engine in turn to enable you to quickly generate data
+in the required form. Do not forget to NFC-normalize your data (e.g. with the `nfc.sh`-script
+provided in the [OCR testset}[ocrtestet] directory
+
+[ocrworkshop]: https://github.com/cisocrgroup/OCR-Workshop
+[ocrtestset]: https://github.com/cisocrgroup/Resources/tree/master/ocrtestset
+
+### ABBYY Finereader Engine SDK 11 for Linux
+Assuming that you got a licence for historical font OCR (Gothic script, Frakturschrift),
+you may invoke this little bash script from the tif image directory:
+
+```bash
+        for i in *.tif; do 
+            /opt/FRE11.1/Samples/CommandLineInterface/CLI \
+            -if "$i" -tet UTF8 \
+            -f Text -f XML --xmlWriteAsciiCharAttributes \
+            -of ../"${i/.tif/.abbyy.txt}" -of ../"${i/.tif/.abbyy.xml}" \
+            -rl OldGerman -rtt Gothic
+        done
+``` 
+
+Thereafter, move the \*.abbyy.xml and \*.abbyy.txt-files to the abbyy-xml and abbyy-txt
+directories at the same level as the tif image directory.
+
+### Tesseract >= 3.04
+
+
+##
+
 
 ## Projects
 \pocoto{} manages documents as separate projects. A project contains a
@@ -757,7 +797,8 @@ active concordance views simultaneously. In order to close a
 concordance view, you can click on the small `x` on the right side of
 the tab^[
     Although the main page view is also a tab, you cannot close it.
-]. This view also offers various buttons that can help you to batch-correct common errors at once (see the chapter
+]. This view also offers various buttons that can help you to 
+batch-correct common errors at once (see the chapter
 [Batch error correction] for more information).
 
 In order to create a concordance view of a specific token, select
@@ -967,7 +1008,7 @@ see the [profiler manual][profman].
 [profman]: https://github.com/cisocrgroup/Resources/blob/master/manuals/profiler-manual.md
 
 ## Profiling using the profiler web service
-The easiest method to get a language profile for your OCRed document
+The easiest method to get a language aware OCR document error profile for your OCRed document
 is to use an existing profiler web service. The profiler web service offers the language
 and OCR result specific profiles over the Internet and makes it possible for you to get
 the results without installing any additional tools.
@@ -1011,7 +1052,7 @@ profile your exported project on the command line and re-import it into
 \pocoto{}. If you want to do this, you should have a good
 understanding on the usage of command line tools and have read the
 [profiler manual][profman]
-on how to install the profiler and generate a language profile for your OCRed document
+on how to install the profiler and generate an error profile for your OCRed document
 locally. In the remainder of this section it is assumed that you have
 installed the profiler and that you have access to appropriate
 language resources^[
@@ -1032,7 +1073,7 @@ filename to export to and then export your project as an DocXML
 formatted file. This exported DocXML file will be the input file for
 the profiler command line tool in the next step.
 
-### Calculating a language profile for your OCRed document
+### Calculating an error profile for your OCRed document
 After exporting your project, open a command line and call the
 profiler with the appropriate command line options. Use the following
 command to profile the project file you just exported in the previous
@@ -1063,7 +1104,7 @@ patterns, you need to specify the path of the profile with the `--out_xml`
 command line switch. Remember the names of those two output files for
 the next step.
 
-### Importing the language profile for your OCRed document
+### Importing the error profile for your OCRed document
 As the final step, you have to import the two output files of the profiler
 into \pocoto{}.
 
@@ -1073,12 +1114,12 @@ with the `--out_doc` switch in the previous step first. Afterwards specify
 the profile file you generated with the `--out_xml` switch.
 
 \pocoto{} should start to import the profile. Be patient,
-this can take some time. After the import is finished you have a
-language profile for your OCRed document ready as if you would have ordered one from a
+this can take some time. After the import is finished you have an error
+profile for your OCRed document ready as if you would have ordered one from a
 profiler web service.
 
-## The language profile for your OCRed document
-After you have have equipped yourself with a language profile for your OCRed
+## The error profile for your OCRed document
+After you have have equipped yourself with an error profile for your OCRed
 document using any of the two previously described methods, \pocoto{} now has some additional
 features available that will help you to correct misspelled words. Be
 aware though, that the profile is not always correct. The
@@ -1168,7 +1209,7 @@ normalization formats or convert between them automatically.
 \pocoto{} has some facilities to import and export files. As you have
 seen in the chapter [Using a local profiler], you can import
 and export your projects^[
-    Including any language profiles for your OCRed documents
+    Including any error profiles for your OCRed documents
 ] using \pocoto{}'s internal OCRCXML file format. Although this format
 is based on the formatting of Abbyy XML files, there are no tools
 available for using these files directly. You can only use this
@@ -1216,7 +1257,7 @@ contains the whole document of the project. It is not possible to
 import more than one TEI file into \pocoto{}.
 
 To import a TEI file, make sure that you have opened the right project
-and go to `File -> Import -> Import from TEI` and select the according
+and go to `File -> Import -> Import from TEI` and select the respective
 TEI file. \pocoto{} will now align the content of the TEI file with
 your ocr data.
 
