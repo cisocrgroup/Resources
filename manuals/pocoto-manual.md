@@ -295,8 +295,6 @@ the next pages^[
     bother you.
 ].
 
-\newpage
-
 ~~~{.xml}
 <!-- snippet of the supported hOCR XML format... -->
 <span class='ocr_line' id='line_1_1'
