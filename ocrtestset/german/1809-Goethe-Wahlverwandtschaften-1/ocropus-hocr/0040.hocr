@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0040.tif'>
+<span class='ocr_line' title='bbox 565 1694 606 1722'>Is</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1600 978 1644'>Der drollige Mann! rief Eduard aus:</span><br />
+<span class='ocr_line' title='bbox 186 1536 977 1580'>kommt er nicht gerade zur rechten Zeit, Char-</span><br />
+<span class='ocr_line' title='bbox 187 1475 977 1523'>lotte? Geschwlnd zurück! befahl er dem Be-</span><br />
+<span class='ocr_line' title='bbox 186 1416 975 1464'>dienten: sage ihm : es thue Noch, sehr</span><br />
+<span class='ocr_line' title='bbox 183 1351 975 1405'>Mdocht Er soll nur absteigen. Versorgt sein</span><br />
+<span class='ocr_line' title='bbox 183 1300 973 1351'>Pferd, fährt ihn in den Saal, setzt ihm ein</span><br />
+<span class='ocr_line' title='bbox 182 1231 791 1284'>Frühskück vor; wir kommen gleich.</span><br />
+<p />
+<span class='ocr_line' title='bbox 248 1114 972 1157'>Laß uns den nächsten Weg nehmen, sagte</span><br />
+<span class='ocr_line' title='bbox 182 1051 971 1100'>er zu seiner Fran, und schlug den Pfad über</span><br />
+<span class='ocr_line' title='bbox 181 990 968 1032'>den Kirchhof ein, den er sonst zu vermeiden</span><br />
+<span class='ocr_line' title='bbox 180 933 971 972'>pflegte. Aber wie verwundert war er, als</span><br />
+<span class='ocr_line' title='bbox 179 870 968 914'>er fand, daß Charlotte auch hier für das</span><br />
+<span class='ocr_line' title='bbox 179 815 968 857'>Gesühl gesorg habe. Mit möglichster Scho-</span><br />
+<span class='ocr_line' title='bbox 179 751 966 795'>nung der alten Denkmäler hatte sie alles so</span><br />
+<span class='ocr_line' title='bbox 178 685 966 732'>zu vergleichen und zu ordnen gewußt, daß</span><br />
+<span class='ocr_line' title='bbox 180 627 964 672'>es ein angenehmer Raum erschien, auf dem</span><br />
+<span class='ocr_line' title='bbox 180 564 964 609'>das Auge und die Einbildungskrast gern ver-</span><br />
+<span class='ocr_line' title='bbox 179 509 284 541'>weilte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 374 965 424'>Auch dem Tltesten Stein hatte sie seine</span><br />
+<span class='ocr_line' title='bbox 180 314 965 361'>Thre gegdnnt. Den Zahren nach waren sie</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0033.tif'>
+<span class='ocr_line' title='bbox 570 1695 610 1722'>eö</span><br />
+<p />
+<span class='ocr_line' title='bbox 200 1594 977 1640'>das liebe Kind in der Pension, wo sie sich in</span><br />
+<span class='ocr_line' title='bbox 198 1525 977 1578'>sehr drüe?enden Verhältnissen befindet. Wenn</span><br />
+<span class='ocr_line' title='bbox 198 1471 976 1516'>Luciane, meine Tochter, die für die Welt ge-</span><br />
+<span class='ocr_line' title='bbox 197 1399 975 1458'>boren ist, sich dort für die Welt ditdet, wenn</span><br />
+<span class='ocr_line' title='bbox 195 1349 976 1407'>sie Sprachen, Geschichtliches und was sonst</span><br />
+<span class='ocr_line' title='bbox 192 1291 975 1335'>von Kenntnissen ihr mitgetheilt wird, so wie</span><br />
+<span class='ocr_line' title='bbox 191 1230 975 1273'>lhre Noten und Variationen vom Blatte weg-</span><br />
+<span class='ocr_line' title='bbox 192 1168 973 1209'>spielt; wenn bey einer lebhaften Natur und</span><br />
+<span class='ocr_line' title='bbox 184 1104 972 1147'>bey einem glücklichen Gedächtniß sie, man</span><br />
+<span class='ocr_line' title='bbox 190 1042 972 1083'>möchte wohl sagen, alles vergißt und im Au-</span><br />
+<span class='ocr_line' title='bbox 186 981 972 1021'>genblicke sich an alles erinnert; wenn sie</span><br />
+<span class='ocr_line' title='bbox 187 913 969 962'>durch Freyheit des Betragens, Anmuth im</span><br />
+<span class='ocr_line' title='bbox 186 865 968 913'>Tnze, schickliche Beguemlichkeit des Gesprächs</span><br />
+<span class='ocr_line' title='bbox 185 803 967 846'>sich vor allen auszetchnet,' und durch ein an-</span><br />
+<span class='ocr_line' title='bbox 182 741 965 788'>gebornes herrschendes Wesen sich zur Köntginn</span><br />
+<span class='ocr_line' title='bbox 182 680 964 727'>des kleinen Kreises macht; wenn die Vorste-</span><br />
+<span class='ocr_line' title='bbox 180 621 962 665'>herinn dieser Anstalt sie als eine kleine Gott-</span><br />
+<span class='ocr_line' title='bbox 181 557 961 603'>heit ansieht, die nun erst untter ihren HHdänden</span><br />
+<span class='ocr_line' title='bbox 180 499 959 542'>recht gedeiht, die ihr Ehre machen, Zutrauen</span><br />
+<span class='ocr_line' title='bbox 179 435 960 481'>erwerben und einen Zufluß von andern jungen</span><br />
+<span class='ocr_line' title='bbox 179 376 958 419'>Personen verschaffen wird; wenn die ersten</span><br />
+<span class='ocr_line' title='bbox 179 314 957 358'>Seiten ihrer Briefe und Monatsberichte ime</span><br />
+</div>
+</body>
+</html>
+

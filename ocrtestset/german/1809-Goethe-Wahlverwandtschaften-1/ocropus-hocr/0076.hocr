@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0076.tif'>
+<span class='ocr_line' title='bbox 569 1683 611 1722'>sg</span><br />
+<p />
+<span class='ocr_line' title='bbox 194 1591 991 1639'>dert. Verschiedene häusllche Anstalten, die</span><br />
+<span class='ocr_line' title='bbox 192 1528 989 1577'>sie längst gewünscht, aber nicht recht einleiten</span><br />
+<span class='ocr_line' title='bbox 192 1468 989 1512'>können, wuurden durch die Thätigkeit des</span><br />
+<span class='ocr_line' title='bbox 190 1406 988 1454'>-Hauptmanns bewirkt. Die Hausapotheke,</span><br />
+<span class='ocr_line' title='bbox 189 1346 989 1392'>die bisher nur aus wenigen Mitteln bestan-</span><br />
+<span class='ocr_line' title='bbox 189 1286 986 1330'>den, ward bereichert, und Charlotte, sowohl</span><br />
+<span class='ocr_line' title='bbox 188 1227 985 1268'>durch faßliche Bücher als durch Unterredung,</span><br />
+<span class='ocr_line' title='bbox 187 1160 986 1205'>in den Stand geseht ihr thätiges und hüls-</span><br />
+<span class='ocr_line' title='bbox 186 1096 984 1140'>reiches Wesen öster und wirksamer als bisher</span><br />
+<span class='ocr_line' title='bbox 185 1031 575 1075'>in ebung zu bringen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 909 981 950'>Da man auch die gewöhnlichen und dem-</span><br />
+<span class='ocr_line' title='bbox 182 846 980 891'>ungeachtet nur zu ost überraschenden Noth</span><br />
+<span class='ocr_line' title='bbox 182 788 978 831'>fälle durchdachte; so wuurde alles was zur</span><br />
+<span class='ocr_line' title='bbox 182 726 977 772'>Rettung der Ertrunkencn nöthig seyn möchte</span><br />
+<span class='ocr_line' title='bbox 182 661 976 709'>um so mehr angeschafft, als bey der Nähe so</span><br />
+<span class='ocr_line' title='bbox 165 593 976 646'>mancher Teiche, Gewässer und Wasserwerke,</span><br />
+<span class='ocr_line' title='bbox 182 536 975 582'>östers ein und der' andre Unfall dieser Are</span><br />
+<span class='ocr_line' title='bbox 180 472 974 519'>vorkam. Diese Rubrik besorgte der Haupt-</span><br />
+<span class='ocr_line' title='bbox 181 405 974 456'>mann sehr ausführlich, 'und Eduarden ent-</span><br />
+<span class='ocr_line' title='bbox 179 345 974 391'>schläpfte die Bemerkung, daß ein solcher Fall</span><br />
+<span class='ocr_line' title='bbox 179 282 973 326'>in dem Leben seines Freundes auf die selt-</span><br />
+</div>
+</body>
+</html>
+

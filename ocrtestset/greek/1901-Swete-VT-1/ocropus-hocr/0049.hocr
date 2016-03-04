@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0049.tif'>
+<span class='ocr_line' title='bbox 1326 3899 1604 3943'>ENEΣIΣ</span><br />
+<span class='ocr_line' title='bbox 2362 3882 2526 3936'>X1 13</span><br />
+<p />
+<span class='ocr_line' title='bbox 411 3739 2593 3809'>χ εκτάν. 3καὶ ἐγένετο ή κατοίκησις αὐτὼν ἀπὸ Mασσηέ ἐως ἐλθεῖν εἰς Α</span><br />
+<span class='ocr_line' title='bbox 412 3652 2526 3724'>3ν Σωφήρα, ὅρος ἀνατολῶν. 'οὐτοι οἱ υἰοὶ Σὴμ ἐν ταῖς φυλαῖς αὐτῶν,</span><br />
+<span class='ocr_line' title='bbox 480 3564 2528 3635'>κατὰ γλώσσας αὐτῶν, ἐν ταῖς χώραις αὐτῶν καὶ ἐν τοῖς ἔθνεσιν</span><br />
+<span class='ocr_line' title='bbox 410 3486 659 3548'>αὐτῶν.</span><br />
+<span class='ocr_line' title='bbox 871 3479 2527 3551'>31ὗται αἱ φυλαὶ ἰῶν Νῶε κατὰ γενέσεις αὐτῶν, κατὰ τὰ</span><br />
+<p />
+<span class='ocr_line' title='bbox 478 3387 2526 3463'>ἔθνη αὐτῶν· ἀπὸ τούτων διεσπάρησαν νῆσοι τῶν ἐθνῶν ἐπὶ τῆς γῆς</span><br />
+<span class='ocr_line' title='bbox 476 3308 1139 3375'>μετὰ τὸν κατακλυσμόν.</span><br />
+<span class='ocr_line' title='bbox 312 3200 2522 3291'>XI 1,2 'αὶ ν πᾶσα ἠ γῆ χεῖλος ἐν, καὶ φωνὴ μία πᾶσιν. 2καὶ ἐγένετο</span><br />
+<span class='ocr_line' title='bbox 475 3129 2522 3203'>ἐν τῷ κινῆσαι αὐτοὺς ἀπὸ ἀνατολῶν εὺρον ππεδίον ἐν γῇ Σενναὰρ καὶ</span><br />
+<span class='ocr_line' title='bbox 427 3041 2522 3120'>3 κατέκησαν ἐκεῖ. 3καὶ εἰτεν ἄνθρωπος τῷ ππλησίον Δεῦτε πλινθεύσωμεν</span><br />
+<span class='ocr_line' title='bbox 471 2958 2522 3030'>πλίνθους καὶ ὀπτήσωμεν αὐτὰς πυρί. καὶ ἐγένετο αὐτοῖς ἠ πλίνθος εἰς</span><br />
+<span class='ocr_line' title='bbox 424 2872 2521 2943'>λίθον, καὶ σφαλτος ἡν αὐτοῖς ὁ πηλός. 4καὶ εἰναν Δεῦτε οἰκοδομήσω-</span><br />
+<span class='ocr_line' title='bbox 471 2787 2520 2858'>μεν ἐαυτοῖς ππόλιν καὶ πύργον, οὐ ἠ κεφαλὴ σται ἐως τοῦ οὐρανοῦ, καὶ</span><br />
+<span class='ocr_line' title='bbox 471 2700 2628 2771'>ποιήσομεν ἐαυτῶν ὅνομα πρὸ τοὺ 1διασπαρῆναι ἐπὶ ππροσώπου πάσης ἢ 5</span><br />
+<span class='ocr_line' title='bbox 426 2609 2518 2683'>τῆς γῆς. καὶ κατέβη Κύριος ἰδεῖν τὴν πόλιν καὶ τὸν πύργον ν cκο-</span><br />
+<span class='ocr_line' title='bbox 423 2523 2519 2598'>e δόμησαν οἱ υἰοὶ τῶν ἀνθρώπων. aκαὶ εἶπεν Κύριος Τδοὺ γένος ἔν καὶ</span><br />
+<span class='ocr_line' title='bbox 467 2441 2518 2509'>χεῖλος ἐν πάντων· καὶ τοῦτο ἥρξαντο ποιῆσαι, καὶ νῦν οὐκ ἐκλείψει ἐξ</span><br />
+<span class='ocr_line' title='bbox 424 2352 2520 2424'>αὐτῶν πάντα ὅσα ἂν ἐπιθῶνται ποιήσαι. 1δεῦτε καὶ καταβάντες συγχέω-</span><br />
+<span class='ocr_line' title='bbox 468 2266 2518 2336'>μεν ἐκεῖ αὐτῶν τὴν γλῶσσαν, ῖνα μὴ ἀκούσωσιν ἐκαστος τὴν φωνὴν τοῦ</span><br />
+<span class='ocr_line' title='bbox 424 2182 2518 2251'>8 πλησίον. καὶ διέσπειρεν αὐτοὺς Κύριος ἐκεῖθεν ἐπὶ πρόσωπον πάσης</span><br />
+<span class='ocr_line' title='bbox 425 2092 2518 2163'>φ τῆς γῆς, καὶ ἐπαύσαντο οἰκοδομοῦντες τὴν πόλιν καὶ τὸν πύργον. διὰ</span><br />
+<span class='ocr_line' title='bbox 469 2003 2517 2076'>τοῦτο ἐκλήθη τὸ δνομα αὐτοῦ Σύγχυσις, ὅτι ἐκεῖ συνέχεεν Κύριος τὰ</span><br />
+<span class='ocr_line' title='bbox 472 1914 2517 1989'>χείλη πάσης τῆς γῆς, καὶ ἐκεῖθεν διέσπειρεν αὐτοὺς Κύριος ὁ θεὸς ἐπὶ</span><br />
+<span class='ocr_line' title='bbox 465 1828 1192 1902'>πρόσωπον πάσης τῆς γῆς.</span><br />
+<span class='ocr_line' title='bbox 402 1655 2518 1728'>10 'αὶ αὐται αἱ γενέσεις Σήμ. Σὴμ υἰὸς ἐτῶν ἐκατὸν ὅτε ἐγέννησεν</span><br />
+<span class='ocr_line' title='bbox 402 1570 2515 1640'>11 τὸν Ἀρφαξάδ, δευτέρου ἔτους μετὰ τὸν κατακλυσμόν. 'καὶ ἔζησεν</span><br />
+<span class='ocr_line' title='bbox 468 1481 2515 1553'>Σὴμ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἀρφαξὰδ πεντακόσια ἔτη, καὶ ἐγέννη-</span><br />
+<span class='ocr_line' title='bbox 401 1394 1619 1466'>12 σεν υίοὺς καὶ θυγατέρας, καὶ ἀςέθανεν.</span><br />
+<span class='ocr_line' title='bbox 1836 1399 2515 1467'>'1αῖ ἔζησεν Ἀρφαξὰδ</span><br />
+<p />
+<span class='ocr_line' title='bbox 407 1311 2515 1381'>13 ἐκατὸν τριάκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Καινάν. 3καὶ ἔζησεν</span><br />
+<span class='ocr_line' title='bbox 465 1223 2510 1294'>Ἀρφαξὰδ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Καινὰν ἔτη τετρακόσια τριάκοντα,</span><br />
+<span class='ocr_line' title='bbox 467 1136 2514 1210'>καὶ ἐγέννησεν υίοὺς καὶ θυγατέρας, καὶ ἀςπέθανεν. Καὶ ἔζησεν Καινὰν</span><br />
+<span class='ocr_line' title='bbox 495 980 2622 1043'>30 Μασσηε] Mανασση Ε 31 om οι Ε ‖ Σηθ A 32 om κατα τα DΕ</span><br />
+<span class='ocr_line' title='bbox 395 914 2508 976'>εθνη αυτων Ε 1 3 αυτας] αυτα Ε 4 om και ειπαν Ε ‖ ποιησωμεν Ε ‖</span><br />
+<span class='ocr_line' title='bbox 397 848 2507 911'>..σπαρηναι A 6 οm παντων Ε ‖ και τουτο] p και φωνη μια πασιν Ε ‖</span><br />
+<span class='ocr_line' title='bbox 395 783 2508 846'>ηρξατο (ν superscr Ab1) ‖ ποιησαι πʼ] ποιειν Ε 7 αυτων την γλ.] την</span><br />
+<span class='ocr_line' title='bbox 393 715 2399 781'>γλ. αυτων A (...υτων· D) [ om την φωνην Ε [ πλησιον] - αυτου Dk</span><br />
+<span class='ocr_line' title='bbox 392 654 2511 714'>3 Κυριος] - ο θέ Ε 8- 9 om και επαυσαντο......της γης Ε 9 Κυριος</span><br />
+<span class='ocr_line' title='bbox 401 588 2510 649'>1a ο θί f 10 εκατον ετων 12 ετη εκατον τριακ.πεντε D πεντε</span><br />
+<span class='ocr_line' title='bbox 393 523 2510 590'>και τριακ. ( και εκατον [b i) ετη Ε 13 τετρακοσια] τριακοσια Ε ‖ ετη</span><br />
+<span class='ocr_line' title='bbox 393 456 2494 524'>eκατον τριακοντα ‖ οam και εζησεν Καιναν 1...και απεθανεν Εa (hab )</span><br />
+<p />
+<span class='ocr_line' title='bbox 503 355 651 390'>sT.</span><br />
+</div>
+</body>
+</html>
+

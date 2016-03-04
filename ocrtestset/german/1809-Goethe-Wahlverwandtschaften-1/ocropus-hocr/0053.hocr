@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0053.tif'>
+<span class='ocr_line' title='bbox 574 1685 622 1721'>eps</span><br />
+<p />
+<span class='ocr_line' title='bbox 268 1590 991 1639'>Ein dreyfaches? rlef Eduard. Ganz ge</span><br />
+<span class='ocr_line' title='bbox 198 1529 990 1574'>wiß? versetzte Charlotte: unseres Freundes An-</span><br />
+<span class='ocr_line' title='bbox 196 1465 988 1514'>kunft behandlen wir billig als ein Fest; und</span><br />
+<span class='ocr_line' title='bbox 196 1403 989 1453'>dann habt Ihr beyde wohl nicht daran ge-</span><br />
+<span class='ocr_line' title='bbox 196 1343 990 1393'>dacht, daß heute Euer Namenstag ist. Heigt</span><br />
+<span class='ocr_line' title='bbox 192 1282 903 1327'>nicht einer Otto so gut als der andere?</span><br />
+<p />
+<span class='ocr_line' title='bbox 257 1156 988 1200'>Beyde Freunde reichten sich die Hände äber</span><br />
+<span class='ocr_line' title='bbox 190 1093 986 1135'>den kleinen Tisch. Du erinnerst mich, sagte</span><br />
+<span class='ocr_line' title='bbox 189 1031 985 1072'>Eduard, an dieses jugendliche Freundschasts-</span><br />
+<span class='ocr_line' title='bbox 188 959 983 1010'>stac. Ale Kinder hießen wir bepde so, doch</span><br />
+<span class='ocr_line' title='bbox 186 908 982 949'>als wir in der Penslon zusammenlebten und</span><br />
+<span class='ocr_line' title='bbox 186 843 983 896'>manche- Zrrung- daraus entstand, so- trat</span><br />
+<span class='ocr_line' title='bbox 184 782 976 832'>ich lhm freywillig diesen hübschen laconischen</span><br />
+<span class='ocr_line' title='bbox 183 727 378 771'>Mamen gb.</span><br />
+<span class='ocr_line' title='bbox 233 596 978 651'>Woben dn denn doch nlcht gar zu groß-</span><br />
+<span class='ocr_line' title='bbox 181 537 975 585'>müthig warsk, sagte der Hauptmann. Denn</span><br />
+<span class='ocr_line' title='bbox 182 477 976 521'>ich erinnere mich recht wohl, daß dir der</span><br />
+<span class='ocr_line' title='bbox 182 415 974 461'>Naime Eduard besser gefiel, wie er denn auch</span><br />
+<span class='ocr_line' title='bbox 178 355 975 399'>von angenehmen Lippen ausgesprochen einen be-</span><br />
+<span class='ocr_line' title='bbox 164 294 628 336'>sonders guten Klang hat.</span><br />
+</div>
+</body>
+</html>
+

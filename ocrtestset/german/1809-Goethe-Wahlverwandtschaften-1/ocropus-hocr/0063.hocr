@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0063.tif'>
+<span class='ocr_line' title='bbox 567 1687 610 1721'>z</span><br />
+<p />
+<span class='ocr_line' title='bbox 257 1588 982 1635'>Charlotte stand betroffen. Sie war geist-</span><br />
+<span class='ocr_line' title='bbox 189 1525 983 1573'>reich genug, um schnell einzusehen, daß jene</span><br />
+<span class='ocr_line' title='bbox 190 1464 982 1512'>Recht hatten; aber das Gethane widersprach,</span><br />
+<span class='ocr_line' title='bbox 189 1406 981 1454'>es war nn einmal so gemacht; sie hatte es</span><br />
+<span class='ocr_line' title='bbox 188 1343 981 1393'>recht, sie hatte es wüünschenswerth gefunden,</span><br />
+<span class='ocr_line' title='bbox 185 1282 982 1333'>selbst das Getadelte war ihr in jedem einzel-</span><br />
+<span class='ocr_line' title='bbox 185 1221 981 1264'>nen Theile lieb; sie widerstrebte der Neber</span><br />
+<span class='ocr_line' title='bbox 183 1155 981 1201'>zengung, sie vertheidigte ihre klelne Schöp-</span><br />
+<span class='ocr_line' title='bbox 184 1092 978 1136'>sung, sie schalt auf die Männer, die gleich</span><br />
+<span class='ocr_line' title='bbox 185 1028 979 1073'>ins Weite und Große gingen, aus einem Scherz.</span><br />
+<span class='ocr_line' title='bbox 184 965 976 1009'>aus einer Unterhaltung gleich ein Werk ma-</span><br />
+<span class='ocr_line' title='bbox 182 907 980 950'>chen wollten, nicht an die Kösten denken, die</span><br />
+<span class='ocr_line' title='bbox 180 847 977 890'>ein erweiteter Plan durchaus nach sich zieht.</span><br />
+<span class='ocr_line' title='bbox 180 788 975 839'>Sie war bewegt, verleht, verdrießlich; sie</span><br />
+<span class='ocr_line' title='bbox 178 728 975 769'>konnte das Alte nicht fahren lassen, das Nene</span><br />
+<span class='ocr_line' title='bbox 178 663 976 706'>nicht ganz abweisen; aber entschlossen wie sie</span><br />
+<span class='ocr_line' title='bbox 175 602 973 644'>war, stellte sie sogleich die Arbeit ein und</span><br />
+<span class='ocr_line' title='bbox 176 536 973 583'>nahm sich Zeit, die Sache zu bedenken und</span><br />
+<span class='ocr_line' title='bbox 177 477 696 521'>bey sich relf werden zu lassen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 239 353 972 394'>Indem sie nun auch diese thätige Unter-</span><br />
+<span class='ocr_line' title='bbox 174 290 971 333'>haltung vermuzte, da indeß die Männer ihr</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0083.tif'>
+<span class='ocr_line' title='bbox 574 1684 616 1721'>-</span><br />
+<p />
+<span class='ocr_line' title='bbox 199 1581 982 1632'>lich belehren, wie es eigentlich hier mit den</span><br />
+<span class='ocr_line' title='bbox 197 1524 704 1571'>Verwandtschaften gemeint sey.</span><br />
+<p />
+<span class='ocr_line' title='bbox 259 1405 981 1458'>Dae will ich wohl gerne thun, erwiederte</span><br />
+<span class='ocr_line' title='bbox 192 1340 980 1385'>der Hauptmann, gegen den sich Charlotte ge-</span><br />
+<span class='ocr_line' title='bbox 188 1278 978 1324'>wendet hatte; freylich nur so gut als ich ee</span><br />
+<span class='ocr_line' title='bbox 186 1218 978 1262'>vermag, wie ich es etwa vor zehn Jahren ge-</span><br />
+<span class='ocr_line' title='bbox 186 1154 976 1199'>lernt, wie ich es gelesen habe. Ob man in</span><br />
+<span class='ocr_line' title='bbox 186 1091 974 1134'>der wissenschaftlichen Welt noch so darüber</span><br />
+<span class='ocr_line' title='bbox 185 1024 972 1072'>denkt, ob es zu den neuern Lehren paßt,</span><br />
+<span class='ocr_line' title='bbox 182 963 613 1003'>wüßte ich nicht zu sagen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 244 832 991 889'>Ee tst schlimm genug, rlef Eduard, daßi !</span><br />
+<span class='ocr_line' title='bbox 177 784 989 834'>man jezt nichts mehr für sein ganzes Leben</span><br />
+<span class='ocr_line' title='bbox 174 720 964 766'>lernen kann. Unsre Vorfahren hielten sich an</span><br />
+<span class='ocr_line' title='bbox 173 656 964 703'>den Unterricht, den sie in ihrer Jugend em-</span><br />
+<span class='ocr_line' title='bbox 170 596 961 645'>pfangen; njr aber müssen jeht alle fünf Jahre</span><br />
+<span class='ocr_line' title='bbox 336 578 410 602'>-O?-.</span><br />
+<span class='ocr_line' title='bbox 169 532 959 577'>umlernen, wetw-wir nicht ganz aus der Mode</span><br />
+<span class='ocr_line' title='bbox 167 464 431 516'>komnmen wollen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 229 346 955 392'>Wir Franen, sagte Charlotte, nehmen es</span><br />
+<span class='ocr_line' title='bbox 165 286 951 328'>nicht so genau; und wenn ich aufrichtig seyn</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0079.tif'>
+<span class='ocr_line' title='bbox 1277 3879 1558 3932'>FENEΣIΣ</span><br />
+<span class='ocr_line' title='bbox 2195 3877 2475 3930'>XVII 27</span><br />
+<p />
+<span class='ocr_line' title='bbox 356 3727 2548 3800'>e ἐδέσματα τῷ πατρί σου ὡς φιλεῖ 'καὶ εἰσοίσεις τῷ πατρί σου, καὶ A</span><br />
+<span class='ocr_line' title='bbox 425 3640 2474 3714'>φάγεται· ὅπως εὐλογήσῃ σε ὁ πατὴρ σου πρὸ τοῦ ἀποθανεῖν αὐτόν.</span><br />
+<span class='ocr_line' title='bbox 353 3555 2477 3626'>1 εἶκεν δὲ Τακὼβ πρὸς εβέκκαν τὴν μητέρα αὐτοῦ στιν Τσαὺ ὁ</span><br />
+<span class='ocr_line' title='bbox 354 3466 2476 3538'>2 ἀδελφός μου ἀνὴρ δασύς, ἐγὼ δὲ ἀνὴρ λεῖος· 'μή ποτε ψηλαφήσῃ με</span><br />
+<span class='ocr_line' title='bbox 421 3378 2476 3449'>ὁ πατὴρ μου, καὶ ἔσομαι ἐναντίον αὐτοῦ ὡς καταφρονῶν, καὶ ἐπάξω</span><br />
+<span class='ocr_line' title='bbox 352 3287 2476 3362'>χ ἐπʼ ἐμαυτὸν κατάραν καὶ οὐκ εὐλογίαν. εἶκεν δὲ αὐτῷ ἡ μήτηρ</span><br />
+<span class='ocr_line' title='bbox 420 3203 2477 3274'>Ἐʼ ἐμὲ ἡ κατάρα σου, τέκνον· μόνον ὑπάκουσον τῆς φωνῆς μου, καὶ</span><br />
+<span class='ocr_line' title='bbox 352 3115 2473 3184'>14 πορευθεὶς ἔνεγκαί μοι. aπορευθεὶς δὲ ἔλαβεν καὶ ἤνεγκεν τῇ μητρί,</span><br />
+<span class='ocr_line' title='bbox 423 3027 2474 3098'>καὶ ἐποίησεν ἡ μήτηρ αὐτοῦ ἐδέσματα καθὰ ἐφίλει ὁ πατὴρ αὐτοῦ.</span><br />
+<span class='ocr_line' title='bbox 358 2941 2476 3014'>μ 2καὶ λαβοῦσα Τεβέκκα τὴν στολὴν σαὺ τοῦ υίοῦ αὐτῆς τοῦ πρεσβυ-</span><br />
+<span class='ocr_line' title='bbox 425 2855 2478 2929'>τέρου τὴν καλὴν, ἢ ἡν παρʼ αὐτῇ ἐν τῷ οἶκῳ, καὶ ἐνέδυσεν Τακὼβ</span><br />
+<span class='ocr_line' title='bbox 353 2773 2477 2845'>6 τὸν υἱὸν αὐτῆς τὸν νεώτερον· 1αὶ τὰ δέρματα τῶν ἐρίφων περιέθηκεν</span><br />
+<span class='ocr_line' title='bbox 355 2685 2480 2757'>ἐπὶ τοὺς βραχίονας αὐτοῦ καὶ ἐπὶ τὰ γυμνὰ τοῦ τραχὴλου αὐτοῦ ''καὶ</span><br />
+<span class='ocr_line' title='bbox 423 2601 2480 2671'>ἔδωκεν τὰ ἐδέσματα καὶ τοὺς ἄρτους οὐς ἐποίησεν εἰς τὰς χεὶρας</span><br />
+<span class='ocr_line' title='bbox 355 2510 2480 2586'>s ακὼβ τοῦ υἰοῦ αὐτῆς. 'καὶ εἰσήνεγκεν τῷ πατρὶ αὐτοῦ· εἰπεν δέ</span><br />
+<span class='ocr_line' title='bbox 355 2424 2475 2497'>9 Πάτερ μου· ὁ δὲ εἰπεν δοὺ ἐγ· τίς ε σύ, τέκνον; ''καὶ εἰπεν</span><br />
+<span class='ocr_line' title='bbox 422 2335 2475 2409'>Τακὼβ ὁ υἰὸς αὐτοῦ τῷ πατρὶ αὐτοῦ γὼ Τσαὺ ὁ πρωτότοκός σου,</span><br />
+<span class='ocr_line' title='bbox 422 2249 2479 2319'>ἐποίησα καθὰ ἐλάλησάς μοι· ἀναστὰς κάθισον καὶ φάγε τῆς θήρας</span><br />
+<span class='ocr_line' title='bbox 353 2159 2481 2235'>2o μου, ὅπως εὐλογήσῃ με ἡ ψυχὴ σου. εἴεν δὲ σαὰκ τῷ υἰῷ αὐτοῦ</span><br />
+<span class='ocr_line' title='bbox 420 2074 2479 2147'>Tί τοῦτο ὁ ταχὺ ερες, ὡ τέκνον; ὁ δὲ εἰςεν Ὀ παρέδωκεν ὐριος ὁ</span><br />
+<span class='ocr_line' title='bbox 350 1981 2480 2057'>τς θεὸς ἐναντίον μου. εὶεν δὲ σαὰκ τῷ Τακὼβ γγισόν μοι καὶ</span><br />
+<span class='ocr_line' title='bbox 350 1895 2479 1967'>22 ψηλαφήσω σε, τέκνον, εἰ σὺ ε ὁ υἰός μου σαὺ οὔ. γγισεν δὲ</span><br />
+<span class='ocr_line' title='bbox 421 1806 2478 1881'>ακὼβ πρὸς ʼσαὰκ τὸν πατέρα αὐτοῦ· καὶ ἐψηλάφησεν αὐτὸν καὶ</span><br />
+<span class='ocr_line' title='bbox 351 1718 2478 1795'>sχ εἶπεν Τ φωνὴ φωνὴ ακὼβ, αἱ δὲ χεῖρες χεῖρες Τσαύ. καὶ</span><br />
+<span class='ocr_line' title='bbox 423 1631 2479 1702'>οὐκ ἐπέγνω αὐτόν· ἦσαν γὰρ αἱ χεὶρες αὐτοῦ ὡς αἱ χεὶρες σαὺ τοῦ</span><br />
+<span class='ocr_line' title='bbox 351 1542 2479 1614'>4 ἀδελφοῦ αὐτοῦ δασεῖαι· καὶ ηὐλόγησεν αὐτόν. 'καὶ εἰπεν Σὐ εἱ ὁ υἰός</span><br />
+<span class='ocr_line' title='bbox 351 1453 2479 1529'>25 μου σαύ; ὁ δὲ εἶπεν γὼ. καὶ εἰπεν Προσάγαγέ μοι καὶ φάγομαι</span><br />
+<span class='ocr_line' title='bbox 424 1366 2477 1440'>ἀπὸ τῆς θὴρας σου, τέκνον, ὅπως εὐλογήσῃ σε ἡ ψυχὴ μου. καὶ</span><br />
+<span class='ocr_line' title='bbox 424 1274 2593 1352'>προσήνεγκεν αὐτῷ, καὶ ἔφαγεν·1καὶ εἰσήνεγκεν αὐτῷ οἰνον, καὶ ἔπιεν. ἢ Α</span><br />
+<span class='ocr_line' title='bbox 351 1187 2471 1267'>4e 'καὶ εἰπεν αὐτῷ Τσαὰκ ὁ πατὴρ αὐτοῦ γγισόν μοι καὶ φίλησόν με,</span><br />
+<span class='ocr_line' title='bbox 353 1100 2473 1174'>27 τέκνον. καὶ ἐγγίσας ἐφίλησεν αὐτόν· καὶ ὡσφράνθη τὴν ὀσμὴν</span><br />
+<span class='ocr_line' title='bbox 421 1016 1879 1087'>τῶν ἰματίων αὐτοῦ, καὶ ηύλόγησεν αὐτὸν καὶ εἰπεν</span><br />
+<span class='ocr_line' title='bbox 441 867 2581 931'>10 ευλογησει Ε 11 ανηρ 1a] αὕδς Ε 12 επ εμαυτον] επ αυτον 1 D11</span><br />
+<span class='ocr_line' title='bbox 346 802 2470 866'>13 επακουσον Ε ‖ ενεγκαι A 15 και ενεδ.] om και Ε 17 Iακωβ</span><br />
+<span class='ocr_line' title='bbox 352 732 2468 802'>(eβεκκας A) του υιου αυτης] αυτου Ε 18 om μου E ‖ τις ει] pr ο δε</span><br />
+<span class='ocr_line' title='bbox 785 669 2466 736'>19 om ο υιo αυτου Ε ‖ πεποιηκα E [ μου] μ sup ras A1</span><br />
+<span class='ocr_line' title='bbox 350 690 563 736'>ειπεν A</span><br />
+<span class='ocr_line' title='bbox 349 604 2468 674'>20 του υιου Ε ‖ οτι ταχυ E ‖ ο δε] και E ‖ ο θεος] σου Ε ‖ μου] εμου Ε</span><br />
+<span class='ocr_line' title='bbox 350 538 2468 607'>22 εφηλαφησεν] ηλ sup ras litt A ‖ η μεν φωνη Ε 23 Hσαυ] sup</span><br />
+<span class='ocr_line' title='bbox 351 475 2469 542'>ras pl litt A , 25 οπως] ινα Ε 26 om ο πατ. αυτου Ε ‖ τεκνον και</span><br />
+<span class='ocr_line' title='bbox 352 420 571 477'>φ. με Ε</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0058.tif'>
+<span class='ocr_line' title='bbox 555 1695 595 1722'>st</span><br />
+<p />
+<span class='ocr_line' title='bbox 187 1599 976 1644'>nicht die größte Genanigkeit.gewährt, so bleibt</span><br />
+<span class='ocr_line' title='bbox 186 1539 972 1583'>es doch immer nühlich und für den Anfang</span><br />
+<span class='ocr_line' title='bbox 186 1476 973 1522'>erfrenlich; auch kann man es ohne große Bep-</span><br />
+<span class='ocr_line' title='bbox 183 1418 971 1464'>hülfe leisten und weiß gewiß, daß man fertig</span><br />
+<span class='ocr_line' title='bbox 182 1360 974 1404'>wird.- Denkst du einmal an eine genauere</span><br />
+<span class='ocr_line' title='bbox 183 1301 971 1345'>Ausmessung, so läßt sch dazu wohl auch noch</span><br />
+<span class='ocr_line' title='bbox 184 1240 400 1282'>Rach finden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 1117 971 1158'>Der HFauptmann war in dieser Art des</span><br />
+<span class='ocr_line' title='bbox 183 1051 972 1094'>Aufnehmens sehr geübt. Er hatte die nöthige</span><br />
+<span class='ocr_line' title='bbox 182 991 968 1032'>Geräthschaft mitgebracht und fing sogleich an.</span><br />
+<span class='ocr_line' title='bbox 182 932 970 971'>Er unterrichtete Eduarden, einige Jäger und</span><br />
+<span class='ocr_line' title='bbox 182 873 968 912'>Bauern; die ihm bey dem Geschäft behülflich</span><br />
+<span class='ocr_line' title='bbox 181 813 968 855'>seyn sollten. Die Tage waren günstig; die</span><br />
+<span class='ocr_line' title='bbox 180 752 968 796'>Abende und die frühsten Morgen brachte er</span><br />
+<span class='ocr_line' title='bbox 182 686 969 734'>mit Aufzeichnen und Schrafiren zu. Schnell</span><br />
+<span class='ocr_line' title='bbox 181 626 966 670'>war auch alles lavirt und illuminirt, und</span><br />
+<span class='ocr_line' title='bbox 183 564 969 609'>Eduard sah seine Besitzungen auf das deut-</span><br />
+<span class='ocr_line' title='bbox 181 501 969 545'>lichste, aus dem Papier, wie eine neue Schöp-</span><br />
+<span class='ocr_line' title='bbox 181 437 969 484'>fung, hervorgewachsen. Er glaubte sie jetht</span><br />
+<span class='ocr_line' title='bbox 183 313 970 420'>TT1 -==-==--</span><br />
+<p />
+<span class='ocr_line' title='bbox 752 254 813 295'>A?</span><br />
+</div>
+</body>
+</html>
+

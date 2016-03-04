@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/084.tif'>
+<span class='ocr_line' title='bbox 557 4427 641 4496'>84</span><br />
+<span class='ocr_line' title='bbox 1156 4440 2172 4498'>Arnobii adu ersus nation es</span><br />
+<p />
+<span class='ocr_line' title='bbox 553 4230 2905 4346'>modi sciret, in corpora ire iassisse, quoram indutae carceribus j</span><br />
+<span class='ocr_line' title='bbox 557 4128 2906 4230'>snb procellis agerent tempestatibusque cotilie fortanae et modo ]</span><br />
+<span class='ocr_line' title='bbox 553 4029 2906 4128'>tarpia facerent modo paterentur obscena, ngufragiis ruinis in- l</span><br />
+<span class='ocr_line' title='bbox 555 3920 2905 4029'>oendiorum oonflagrationibus at perirent, pauperies alias, alias ut l</span><br />
+<span class='ocr_line' title='bbox 554 3822 2905 3920'>mendicitas premeret, uut ferarum paterentur aliae laniatus,: j</span><br />
+<span class='ocr_line' title='bbox 553 3715 2905 3822'>musctnlarum aliae ut interirent nenego, claudae ut incederent !</span><br />
+<span class='ocr_line' title='bbox 553 3616 2905 3715'>aliae, ut aliae lamen amitterent, uut artieulis sederent aliae '</span><br />
+<span class='ocr_line' title='bbox 553 3507 2905 3616'>oolligatis, morbis denique obiectarentur ut eunctis, quos infeli [</span><br />
+<span class='ocr_line' title='bbox 554 3404 2905 3507'>et miseranda mortalitas diaersarum sustinet dilacerata . Poe- ,</span><br />
+<span class='ocr_line' title='bbox 451 3306 2906 3404'>s narum; tnnc deinde oblitae uuins esse se fontis, unins geni- e '</span><br />
+<span class='ocr_line' title='bbox 383 3200 2906 3306'>L49toris et capitis, germanitatis ] conuellerent atque abramperent ]</span><br />
+<p />
+<span class='ocr_line' title='bbox 553 3095 2906 3200'>inra, urbes suas euerterent, popularentur hostiliter terras, ser- ]</span><br />
+<span class='ocr_line' title='bbox 553 2993 2906 3095'>uos de liberis facerent, insultarent uuirginibus et matrimoniis ]</span><br />
+<span class='ocr_line' title='bbox 552 2888 2906 2993'>alienis, odissent inuicem sese, aliorum gaudiis et felicitatibus ]</span><br />
+<span class='ocr_line' title='bbox 551 2789 2906 2888'>inuiderent, tum deinde se omnes maledicerent, carperent ets j</span><br />
+<span class='ocr_line' title='bbox 453 2684 2906 2789'>4saeuorum dentium mordacitate laniarent. sed procul haec abeat, ]</span><br />
+<span class='ocr_line' title='bbox 548 2582 2906 2684'>ut eadem rursus frequentiusque dicamus, tam immanis et sce- ]</span><br />
+<span class='ocr_line' title='bbox 545 2472 2906 2582'>lerata persuasio, ut ille salns rerum deus, omninm uirtutum '</span><br />
+<span class='ocr_line' title='bbox 550 2369 2903 2472'>caput, benignitatis et columen, atque at eum laudibus extolla-,</span><br />
+<span class='ocr_line' title='bbox 550 2275 2903 2369'>mus humanis, sapientissimus, iastus, perfecta omnia faciens et w ,</span><br />
+<span class='ocr_line' title='bbox 550 2167 2903 2275'>integritatis suae conseruantia mensiones aut aliqnid fecerit ,</span><br />
+<span class='ocr_line' title='bbox 551 2066 2903 2167'>claudum et quod minus esset a recto, aut uulli rei fuerit mise- (</span><br />
+<span class='ocr_line' title='bbox 550 1962 2903 2066'>riarum aut discriminum causa, ant ipsos actus quibus uita (</span><br />
+<span class='ocr_line' title='bbox 547 1853 2903 1962'>transigitar et celebratur humana ordinanerit, iasserit et ab l</span><br />
+<span class='ocr_line' title='bbox 553 1753 2903 1853'>sna flaere constitatione praeceperit. minora haec illo sunt et w ,</span><br />
+<span class='ocr_line' title='bbox 552 1654 2903 1753'>magnitudinis eius destruentia potestatem tantumque est longe, ,</span><br />
+<span class='ocr_line' title='bbox 551 1537 2904 1654'>nt istarum auctor reruum esse credatur, ut in sacrilegae crimen l</span><br />
+<span class='ocr_line' title='bbox 619 1282 2904 1360'>I iassisse Gel: iassieset P indutae Sab: inductae P 2 tem-</span><br />
+<span class='ocr_line' title='bbox 549 1182 2652 1254'>pestatibusquae P corr 5 mendacitas Sab praemeret P</span><br />
+<span class='ocr_line' title='bbox 549 1098 2788 1168'>ut ferarum Salm: infernarum P internornm UDrs paterentur Gel:</span><br />
+<span class='ocr_line' title='bbox 548 1010 2647 1082'>paterent ut P laniatas musculorum Drs 6 incederet P corr c'</span><br />
+<span class='ocr_line' title='bbox 547 915 2901 1019'>9 lilacerata . (intercidisse uidetuur cruciatibus uel flagellatione uel simile ,</span><br />
+<span class='ocr_line' title='bbox 547 827 2901 915'>uterbum) scripsi: dilacerationem P dilaceratione Sab poenarum (</span><br />
+<span class='ocr_line' title='bbox 548 746 2902 831'>wugo 12 euuerteret P corr c' 16 mordacitate P corr r ha- ]</span><br />
+<span class='ocr_line' title='bbox 549 660 2901 746'>beat P corr 21 mansiones P corr 22 emintus Sab abesset</span><br />
+<span class='ocr_line' title='bbox 548 556 2901 660'>stel esset sammotnm Klussmanwus 24 a Sab 25 fiuere Sab: ]</span><br />
+<span class='ocr_line' title='bbox 549 508 1487 565'>fiaeret P 97 nt add Sab</span><br />
+</div>
+</body>
+</html>
+

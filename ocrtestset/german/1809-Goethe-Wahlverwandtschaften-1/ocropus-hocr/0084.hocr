@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0084.tif'>
+<span class='ocr_line' title='bbox 558 1692 600 1721'></span><br />
+<p />
+<span class='ocr_line' title='bbox 189 1587 978 1640'>soll, so ist es mir eigentlich nur umi den</span><br />
+<span class='ocr_line' title='bbox 188 1537 978 1581'>Wortverstand zu thun: denn es macht in der</span><br />
+<span class='ocr_line' title='bbox 186 1469 978 1522'>Gesellschast nichhts lächerlicher, als wenn man</span><br />
+<span class='ocr_line' title='bbox 185 1418 978 1462'>ein fremdes, ein Kunst- Wort falsch anwen-</span><br />
+<span class='ocr_line' title='bbox 185 1350 978 1400'>det, Deshalb möchte ich nur wissen, in</span><br />
+<span class='ocr_line' title='bbox 183 1294 978 1340'>welchem Sinne dieser Ausdruck eben bey, die-</span><br />
+<span class='ocr_line' title='bbox 182 1234 978 1279'>sen Gegenständen gebraucht wird. Wie es</span><br />
+<span class='ocr_line' title='bbox 183 1173 977 1217'>wissenschaftlich damit zusammenhänge, wollen</span><br />
+<span class='ocr_line' title='bbox 182 1106 978 1153'>wir den Gelehrten überlassen, die übrigens,</span><br />
+<span class='ocr_line' title='bbox 181 1043 978 1090'>wie ich habe bemerken können, sich wohl</span><br />
+<span class='ocr_line' title='bbox 184 979 804 1025'>schwerlich jemals vereinigen werden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 246 867 974 906'>So fangen wir aber nun an, um am</span><br />
+<span class='ocr_line' title='bbox 179 798 975 847'>schnellsten. in die Sache zu kommen? fragte</span><br />
+<span class='ocr_line' title='bbox 180 744 973 788'>Eduard nach einer Pause den Hauptmann,</span><br />
+<span class='ocr_line' title='bbox 179 677 974 725'>der sich ein wenig bedenkend bald darauf er-</span><br />
+<span class='ocr_line' title='bbox 178 613 329 654'>wiederte:</span><br />
+<p />
+<span class='ocr_line' title='bbox 246 491 974 536'>Wenn es mir erlaubt ist, dem Scheine</span><br />
+<span class='ocr_line' title='bbox 179 423 971 472'>nach weit auszuhohlen, so sind wir bald am</span><br />
+<span class='ocr_line' title='bbox 179 364 290 406'>Plate.</span><br />
+</div>
+</body>
+</html>
+

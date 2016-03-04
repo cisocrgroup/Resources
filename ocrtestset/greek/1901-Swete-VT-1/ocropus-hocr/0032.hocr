@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0032.tif'>
+<span class='ocr_line' title='bbox 1387 3896 1538 3944'>1viii</span><br />
+<p />
+<span class='ocr_line' title='bbox 506 3741 2517 3804'>All the corrections which Dr Ceriani has printed are of the first hand</span><br />
+<span class='ocr_line' title='bbox 409 3649 2519 3724'>(A a Εb), as he has kindly informed the present Editor. These have all</span><br />
+<span class='ocr_line' title='bbox 408 3574 2519 3649'>been worked into the notes or the Appendix, excepting fragments of the</span><br />
+<span class='ocr_line' title='bbox 409 3493 2520 3557'>οther Greek versions, which are foreign to the purpose of a manual edition</span><br />
+<span class='ocr_line' title='bbox 410 3412 2521 3477'>οf the Septuagint, and may be found in Dr Fieldʼ Hexapla. A large</span><br />
+<span class='ocr_line' title='bbox 410 3345 2520 3393'>number of corrections additions and scholia in later hands had been com-</span><br />
+<span class='ocr_line' title='bbox 413 3249 2523 3312'>mu icated to Dr Field by Ceriani (Aeraβίa, 1 p. 5l, and permission was</span><br />
+<span class='ocr_line' title='bbox 412 3167 2523 3231'>liberally given to use these for the present edition. Dr Fieldʼs lamented</span><br />
+<span class='ocr_line' title='bbox 412 3085 2522 3149'>death intervened, and it was impossible to trace the papers which con-</span><br />
+<span class='ocr_line' title='bbox 413 3004 2523 3068'>taincd these variants. A portion of them however had been incorporated</span><br />
+<span class='ocr_line' title='bbox 414 2921 2525 2986'>in the Ae.άβάν, and any of these which were available have been copied</span><br />
+<span class='ocr_line' title='bbox 412 2841 2526 2907'>into the notes, where they appear under the symbol Fe. In preparing a</span><br />
+<span class='ocr_line' title='bbox 412 2760 2524 2825'>second edition the Εditor had the advantage of consulting a list of correc-</span><br />
+<span class='ocr_line' title='bbox 414 2680 2524 2744'>tions and additions which were kindly communicated to him by Dr Ceriani</span><br />
+<span class='ocr_line' title='bbox 413 2599 2527 2662'>in 1888; in the present edition he has derived further assistance from a</span><br />
+<span class='ocr_line' title='bbox 413 2516 2526 2581'>fresh collation of he MS. made by Mr N. MLean for uhe Larger Cam-</span><br />
+<span class='ocr_line' title='bbox 414 2433 928 2496'>bridge Septagint.</span><br />
+<p />
+<span class='ocr_line' title='bbox 514 2291 2527 2339'>In conclsion the Εditor desires to offer his sincere thanks to all who</span><br />
+<span class='ocr_line' title='bbox 413 2194 2521 2257'>have cooperated with him in the endeavour to render this reissue of Vol. 1.</span><br />
+<span class='ocr_line' title='bbox 416 2113 2526 2176'>more accurate and serviceable than the first edition. His acknowledge-</span><br />
+<span class='ocr_line' title='bbox 418 2029 2526 2095'>ments are cspecially due to Mr Redpath, the Editor of the Οxford Con-</span><br />
+<span class='ocr_line' title='bbox 418 1949 2529 2013'>cordance to the Septuagint, whose vigilance will, as he trusts, have left</span><br />
+<span class='ocr_line' title='bbox 419 1867 2528 1930'>few superficial errors for future correction. To the officers and workmen</span><br />
+<span class='ocr_line' title='bbox 419 1784 2531 1848'>οf the Press he owes a not less hearty recognition of the care and assiduity</span><br />
+<span class='ocr_line' title='bbox 421 1702 2532 1766'>with which they have accomplished the difficult task of corrscting the</span><br />
+<span class='ocr_line' title='bbox 421 1619 591 1683'>plates.</span><br />
+<p />
+<span class='ocr_line' title='bbox 760 1282 2007 1347'>s Codex Sinaiticus (a S, agarde, Nestle).</span><br />
+<span class='ocr_line' title='bbox 753 1176 1935 1241'>Α Codex Alexandrinus ( 1II, Holmes).</span><br />
+<span class='ocr_line' title='bbox 755 1070 1794 1131'>B 2Codex Vaticanus ( II, Holmes).</span><br />
+<span class='ocr_line' title='bbox 757 965 2236 1029'>D ()a Codex Cottonianus Geneseos (a , Holmes).</span><br />
+<span class='ocr_line' title='bbox 760 855 1780 919'>Ε () 2Codex Bodleianus eneseos.</span><br />
+<span class='ocr_line' title='bbox 760 750 1945 811'>F Cοdex Ambrosianus ( 2 VII, Holmes).</span><br />
+</div>
+</body>
+</html>
+

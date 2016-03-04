@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0026.tif'>
+<span class='ocr_line' title='bbox 309 2785 372 2837'>18</span><br />
+<span class='ocr_line' title='bbox 948 2787 1275 2838'>De Homine.</span><br />
+<span class='ocr_line' title='bbox 1701 2763 1900 2837'>Cap. a-</span><br />
+<span class='ocr_line' title='bbox 304 2688 1899 2754'>ne Sermone. Actum autem Ratiocinandi dixerunt Syllogiſmum,</span><br />
+<span class='ocr_line' title='bbox 304 2626 1902 2691'>quæ vox ſignificat conſequentiæ Dicti unius ad alterum conjunctio-</span><br />
+<span class='ocr_line' title='bbox 304 2566 1904 2629'>nem. Sed quia eædem res in Rationes inferuntur propter diverſa ac-</span><br />
+<span class='ocr_line' title='bbox 305 2503 1903 2566'>cidentia, earum Nomina (ad diverſitatem illam ſignificandam) diver-</span><br />
+<span class='ocr_line' title='bbox 301 2443 1904 2506'>ſimodò variari \&amp; torqueri ſolent. Diverſitas autem Nominum ad</span><br />
+<span class='ocr_line' title='bbox 300 2379 1198 2443'>quatuor capita generalia reduci poteſt.</span><br />
+<span class='ocr_line' title='bbox 366 2316 1904 2380'>Primò, res aliqua in Rationes ingredi poteſt ut Materia, ſive Cor-</span><br />
+<span class='ocr_line' title='bbox 305 2251 1904 2318'>pus, ſub nomine viventis, ſenſibilis, rationalis, calidi, ſrigidi, moti,</span><br />
+<span class='ocr_line' title='bbox 300 2191 1681 2255'>euieſcentis, quæ Nomina ſignficant Materiam, ſive Corpus.</span><br />
+<span class='ocr_line' title='bbox 366 2128 1905 2192'>Secundò, res aliqua intrare in Rationes poteſt propter accidens</span><br />
+<span class='ocr_line' title='bbox 305 2066 1903 2131'>vel qualitatem, quam illi rei ineſſe cogitamus; ut quia movetur, vel</span><br />
+<span class='ocr_line' title='bbox 304 2004 1906 2067'>quantitatcm habet, vel quia calet, \&amp;c. tum vero nomen ipfius rei muta-</span><br />
+<span class='ocr_line' title='bbox 305 1942 1904 2004'>mus aliquantulum, \&amp; loco vitentis ponimus vtam; loco mcti corpors</span><br />
+<span class='ocr_line' title='bbox 305 1877 1904 1941'>ponimus motum; loco calidi, calorem; loco longi, longitudinem \&amp; ſimi-</span><br />
+<span class='ocr_line' title='bbox 301 1816 1904 1881'>liter in cæteris. Quo facto nomina illa non ſunt nomina Materiæ</span><br />
+<span class='ocr_line' title='bbox 303 1755 1905 1821'>ſive Corporis, ſed Accidentium \&amp; Proprietatum quibus Cor-</span><br />
+<span class='ocr_line' title='bbox 304 1692 1905 1757'>pus à Corpore diſtinguitur. Appellantur autem hujuſmodi nomina</span><br />
+<span class='ocr_line' title='bbox 302 1629 1904 1694'>Abſtracta, non quod abſtrahantur à Materia, ſed à Materiæ Compu-</span><br />
+<span class='ocr_line' title='bbox 303 1584 485 1629'>tatione.</span><br />
+<span class='ocr_line' title='bbox 363 1504 1905 1569'>Tertiò, in Rationes inferimus proprietates illas quibus ipſi res</span><br />
+<span class='ocr_line' title='bbox 302 1443 1903 1506'>diſtinguimus : ſicut quando videmus, aliquid, non Computamus</span><br />
+<span class='ocr_line' title='bbox 300 1379 1903 1445'>ſemper rem viſam, ſed viſionem, colorem ſive Ideam, ſive rei viſæ Phan-</span><br />
+<span class='ocr_line' title='bbox 300 1315 1902 1382'>taſmna: ſimiliter quando audimus, pro re ipſa quæ ſonum facit, ſenum</span><br />
+<span class='ocr_line' title='bbox 300 1270 1902 1320'>ſive auditionem tantum conſideramus. Et ſic de cæteris Phantaſma-</span><br />
+<span class='ocr_line' title='bbox 301 1210 432 1255'>tibus.</span><br />
+<span class='ocr_line' title='bbox 350 1126 1905 1203'>Quartò, in Rationes inferimus quandoque nomina ipſorum no-</span><br />
+<span class='ocr_line' title='bbox 301 1066 1904 1132'>minum \&amp; Sermonum, dicentes, generale, univerſale, ſpeciale, univo-</span><br />
+<span class='ocr_line' title='bbox 300 1006 1903 1070'>eum, æquivocum, quæ ſunt Nomina Nominum. Item aſſrmationem,</span><br />
+<span class='ocr_line' title='bbox 300 942 1904 1009'>interro3ationem, præceptum, narrationem, ſltogiſmum, orationem, aliaque</span><br />
+<span class='ocr_line' title='bbox 298 882 1903 948'>ejuſmodi multa, quæ ſunt nomina Grationum. Atque hac varietas</span><br />
+<span class='ocr_line' title='bbox 301 820 1905 884'>omnis eſt nominum Poſitivorum ſignificantium aliquid eorum quæ</span><br />
+<span class='ocr_line' title='bbox 300 757 1902 822'>funt in natura rerum, vel eorum quæ animo poſſunt fingi, ut corpora</span><br />
+<span class='ocr_line' title='bbox 303 692 1901 758'>qiiæ ſunt vel eſſe videri poſſunt, vel ut proprietates corporum quæ</span><br />
+<span class='ocr_line' title='bbox 302 629 1483 695'>ſunt vel eſſe videri poſſunt; vel Verba \&amp; Sermones.</span><br />
+<span class='ocr_line' title='bbox 365 567 1898 635'>Sunt \&amp; alia Ndomina, Negativa, quæ ſignificant, nomen aliquod,</span><br />
+<span class='ocr_line' title='bbox 304 505 1901 571'>nomen rei propoſitæ non eſſe, qualia ſunt Nlihil, Nemno, Infinitum,</span><br />
+<span class='ocr_line' title='bbox 304 443 1899 510'>Indocile, tria minus quuatuor, \&amp; ſimilia quæ tamen in Rationibus uſum</span><br />
+<span class='ocr_line' title='bbox 303 380 1900 446'>ſuum habent, vel in corrigendo vel revocando; quia faciunt ut no-</span><br />
+<span class='ocr_line' title='bbox 303 254 1899 380'>t2ceSerr2nMMS..---</span><br />
+<span class='ocr_line' title='bbox 1769 198 1900 247'>geue-</span><br />
+</div>
+</body>
+</html>
+

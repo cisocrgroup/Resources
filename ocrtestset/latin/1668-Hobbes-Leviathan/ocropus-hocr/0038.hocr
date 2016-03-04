@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0038.tif'>
+<span class='ocr_line' title='bbox 301 2771 364 2819'>30</span><br />
+<span class='ocr_line' title='bbox 979 2786 1304 2838'>De Homine.</span><br />
+<span class='ocr_line' title='bbox 1702 2764 1898 2840'>Cap. .</span><br />
+<span class='ocr_line' title='bbox 299 2687 1904 2754'>Palſio hæc in Adoleſcentibus laudatur, ut ſignum cupientis nihil fa-</span><br />
+<span class='ocr_line' title='bbox 298 2623 1903 2690'>cere, niſi quod ſit laudabile. In ſenibus non laudatur, propterea quod</span><br />
+<span class='ocr_line' title='bbox 299 2562 977 2628'>minus Venia digni ſunt ſenes.</span><br />
+<span class='ocr_line' title='bbox 360 2500 1648 2563'>Contemptus bonæ exiſtimationis appellatur Impudentia.</span><br />
+<span class='ocr_line' title='bbox 357 2434 1903 2500'>Dolor ob calamitatem alienam, dicitur Miſericordia, oriturque à</span><br />
+<span class='ocr_line' title='bbox 299 2372 1904 2439'>conſideratione, quod ſibimet ipſi contingere poteſt calamitas ſimilis;,</span><br />
+<span class='ocr_line' title='bbox 299 2310 1900 2375'>Et ob eam rem vocari etiam ſolet Compaſſio. Calamitas itaque aliena,</span><br />
+<span class='ocr_line' title='bbox 298 2247 1905 2314'>ſi à magno oriatur ipſius cui contingit ſcelere, tanto minus producit</span><br />
+<span class='ocr_line' title='bbox 299 2186 1906 2250'>Miſericordiam. Item in eadem calamitate mins Miſericordes ſunt</span><br />
+<span class='ocr_line' title='bbox 299 2125 1641 2189'>illi, qui calamitati ſimili minimè obnoxios ſe eſſe judicant.</span><br />
+<span class='ocr_line' title='bbox 361 2059 1905 2125'>Alienæ calamitatis contemptus, nominatur Crudelitas, proceditque</span><br />
+<span class='ocr_line' title='bbox 298 1997 1904 2063'>à propriæ ſecuritatis opinione. Nam ut aliquis ſibi placeat in malis</span><br />
+<span class='ocr_line' title='bbox 298 1938 1379 2000'>alienis, ſine alio fine, videtur mihi impoſſibile.</span><br />
+<span class='ocr_line' title='bbox 359 1875 1901 1942'>Dolor ob ſucceſſum Competitoris alicujus circa honorem, aut di-</span><br />
+<span class='ocr_line' title='bbox 299 1810 1908 1876'>vitias, aut aliud bonum, ſi conjunctus ſit cum conatu diligentiam pro-</span><br />
+<span class='ocr_line' title='bbox 302 1749 1906 1813'>priam augendi, mulatio dicitur; ſin conjungatur cum conatu</span><br />
+<span class='ocr_line' title='bbox 302 1688 1483 1752'>Competitorem fallendi vel impediendi, Invidia eſt.</span><br />
+<span class='ocr_line' title='bbox 362 1625 1906 1689'>Quando in animo humano Appetitus, Averſio, Spes, Metus, circa</span><br />
+<span class='ocr_line' title='bbox 300 1563 1907 1626'>rem eandem oriuntur alternatim, veniuntque in animum Faciendi,</span><br />
+<span class='ocr_line' title='bbox 301 1499 1908 1565'>Omittendique bonæ malæque conſequentiæ ſucceſſivè; adeo ut in-</span><br />
+<span class='ocr_line' title='bbox 302 1437 1904 1502'>terdum appetamus, interdum fugiamus; interdum ſperemus, inter-</span><br />
+<span class='ocr_line' title='bbox 301 1375 1905 1440'>dum metuamus; tunc totum illud paſſionum aggregatum, eatenus</span><br />
+<span class='ocr_line' title='bbox 300 1313 1622 1379'>durans dum res effecta ſit, vel rejecta, vocatur Deliberatio.</span><br />
+<span class='ocr_line' title='bbox 361 1249 1906 1314'>Itaque de rebus præteritis Deliberatio nulla eſt, quia præteritum im-</span><br />
+<span class='ocr_line' title='bbox 302 1187 1906 1255'>mutabile eſt; neque rerum quas ſcimus vel putamus eſſe impoſſibi-</span><br />
+<span class='ocr_line' title='bbox 300 1126 1906 1190'>les, quia talium Deliberatio vana eſt. Impoſſibilium autem quæ poſſi-</span><br />
+<span class='ocr_line' title='bbox 299 1067 1906 1128'>bilia eſſe arbitramur, Deliberatio datur, ut quam vanam eſſe neſcimus.</span><br />
+<span class='ocr_line' title='bbox 297 1005 1905 1068'>Deliberatio autem ideo dicitus, quia libertatis quam habemus faciendi,</span><br />
+<span class='ocr_line' title='bbox 300 941 1906 1005'>omittendive finis eſt. Alterna hæc ſucceſſio Appetitus, Averſio-</span><br />
+<span class='ocr_line' title='bbox 302 883 1905 943'>nis, \&amp;c. communis eſt homini cum animalibus cæteris. Nam Deli-</span><br />
+<span class='ocr_line' title='bbox 302 831 765 880'>berant etiam beſtiæ.</span><br />
+<span class='ocr_line' title='bbox 364 753 1906 818'>Deliberatio finiri tunc dicitur, quando id, de quo Deliberatum eſt.fa-</span><br />
+<span class='ocr_line' title='bbox 303 690 1906 755'>ctum eſt vel redditum impoſſibile; propterea quod eatenus liberta-</span><br />
+<span class='ocr_line' title='bbox 303 630 1528 692'>tem faciendi vel non faciendi pro arbitrio retinemus.</span><br />
+<span class='ocr_line' title='bbox 362 566 1905 628'>In Deliberatione, Appetitus ultimus vel Averſio, actioni de qua De-</span><br />
+<span class='ocr_line' title='bbox 298 502 1903 567'>liberatum eſt immediatc adhærens, eſt Voluntas; Actus, inquam, non</span><br />
+<span class='ocr_line' title='bbox 300 438 1904 503'>potentia Volendi. Vnde ſequitur beſtias, quia Deliberant, etiam Vtlun-</span><br />
+<span class='ocr_line' title='bbox 296 375 1901 441'>tate præditas eſſe. Definitio Vtluntatis Scholaſtica, nempe Volunta-</span><br />
+<span class='ocr_line' title='bbox 295 311 1902 378'>tem Appetitum eſſerationalem legitima non eſt. Nam ſi eſſet, nulla om-</span><br />
+<span class='ocr_line' title='bbox 295 249 1903 316'>nino eſſe poſſet actio Voluntaria contra Rationem. Actio enim Vo-</span><br />
+<span class='ocr_line' title='bbox 1724 207 1901 253'>luntaria</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0055.tif'>
+<span class='ocr_line' title='bbox 574 1694 618 1722'>sd</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1596 987 1646'>nur sey nnser Erbgut und Aufenhalt; der</span><br />
+<span class='ocr_line' title='bbox 195 1536 987 1582'>Blie? wird oben freper und die Brust erwei-</span><br />
+<span class='ocr_line' title='bbox 191 1472 334 1512'>tert sich.</span><br />
+<span class='ocr_line' title='bbox 227 1350 985 1409'>So mässen wir dießmal noch, versezte</span><br />
+<span class='ocr_line' title='bbox 189 1289 983 1335'>Charlotte; den alten, etwas beschwerlichen Fußs</span><br />
+<span class='ocr_line' title='bbox 187 1229 983 1273'>pfad erklimmen; doch, hoffe ich, sollen meine</span><br />
+<span class='ocr_line' title='bbox 187 1166 982 1209'>Stufen und Steige nächstens beguemer bis</span><br />
+<span class='ocr_line' title='bbox 184 1098 507 1142'>ganz hinauf leiten.</span><br />
+<p />
+<span class='ocr_line' title='bbox 252 976 979 1020'>Und so gelangte man denn über Felsen,</span><br />
+<span class='ocr_line' title='bbox 182 915 977 959'>burch Busch und Gesträuch zur letten Höhe,</span><br />
+<span class='ocr_line' title='bbox 181 856 978 902'>die zwar keine Fläche, doch fortlaufende feucht-</span><br />
+<span class='ocr_line' title='bbox 179 797 975 840'>bare Rüc?en bildete. Dorf und Schloß hin-</span><br />
+<span class='ocr_line' title='bbox 176 734 973 778'>terwärts waren nicht mehr zu sehen. In der</span><br />
+<span class='ocr_line' title='bbox 175 673 971 716'>Tiefe erblickte man ausgebreitete Teiche;</span><br />
+<span class='ocr_line' title='bbox 173 610 971 656'>drüben bewachsene Hügel, an denen sie sich</span><br />
+<span class='ocr_line' title='bbox 172 547 971 591'>hinzogen; endlich steite Felsen, welche senk-</span><br />
+<span class='ocr_line' title='bbox 171 487 969 529'>recht den lezten Wasserspiegel entschieden</span><br />
+<span class='ocr_line' title='bbox 170 424 969 469'>begränzten und ihre bedeutenden Formen auf</span><br />
+<span class='ocr_line' title='bbox 170 364 964 407'>der Obersläche desselben abbildeten. Dort in</span><br />
+<span class='ocr_line' title='bbox 169 303 963 346'>der Schlucht, wo ein starker Bach den Tei</span><br />
+</div>
+</body>
+</html>
+

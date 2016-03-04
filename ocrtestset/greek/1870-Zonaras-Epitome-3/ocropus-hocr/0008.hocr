@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0008.tif'>
+<span class='ocr_line' title='bbox 1195 3385 1699 3440'>LI3. xI. CAP. I.</span><br />
+<p />
+<span class='ocr_line' title='bbox 537 3207 2362 3318'>ὅτι τε ὔπουλον εἶχεν ἠθος καὶ ὅτι καὶ τὰ στρατεύ-</span><br />
+<span class='ocr_line' title='bbox 339 3110 2360 3219'>,, II172ματα τά τε ἐν αννονίᾳ καὶ ἐν ερμανίᾳ ὑπώπτευε,</span><br />
+<span class='ocr_line' title='bbox 532 3013 2359 3124'>καὶ τὸν ερμανικὸν ἐδεδίει τῆς ερμανίας ἄρχοντα</span><br />
+<span class='ocr_line' title='bbox 529 2919 2358 3029'>τότε καὶ τοῖς στρατιώταις φιλούμενον. καὶ διὰ ταύτα</span><br />
+<span class='ocr_line' title='bbox 531 2827 2406 2934'>οὐδὲν ὡς αὐτοκράτωρ ἔπραττε φανερῶς, ἀλλά καὶ5</span><br />
+<span class='ocr_line' title='bbox 531 2726 2357 2832'>νοσεῖν προσποιούμενος οἰκουρῶν ὴν καὶ διέμελλεν,</span><br />
+<span class='ocr_line' title='bbox 530 2638 2357 2740'>νʼ ἐλπίδι τοῦ ἐκόντα τὴν ἀρχὴν ἀφήσειν αὐτὸν μή</span><br />
+<span class='ocr_line' title='bbox 527 2538 2359 2644'>τί τινες νεοχμώσωσι, μέχρις οὐ τῆς ἡγεμονίας ἐγκρα-</span><br />
+<span class='ocr_line' title='bbox 526 2444 2356 2550'>τὴς διὰ πάντων ἐγένετο. τόν μὲν οὖν Ἀγρίππαν αὐ-</span><br />
+<span class='ocr_line' title='bbox 526 2347 2428 2453'>τίκα πέμψας ἀπέκτεινε, τοῦ .Ἀύγούστου, ὡς εἴρηται, 10</span><br />
+<span class='ocr_line' title='bbox 461 2260 2355 2357'>2ὄντα θυγατριδοῦν ἐξ ουλίας καὶ τοῦ Ἀγρίππου τὸν</span><br />
+<span class='ocr_line' title='bbox 526 2162 1550 2260'>δὲ ερμανικὸν λίαν ἐφοβεῖτο.</span><br />
+<span class='ocr_line' title='bbox 559 2064 2352 2166'>Εθορύβησε δὲ καὶ τὸ ἐν τῇ αννονίᾳ στράτευμα,</span><br />
+<span class='ocr_line' title='bbox 526 1981 2355 2068'>ὡς καὶ κατὰ τού ἄρχοντος αὐτῶν ὁρμῆσαι. εἶτα τῶν</span><br />
+<span class='ocr_line' title='bbox 523 1874 2426 1969'>θρασυτέρων καὶ πρωταιτίων κολασθέντων κατέστη- 15</span><br />
+<span class='ocr_line' title='bbox 524 1777 2353 1875'>σαν οἱ λοιποί. ο δὲ ἐν τῇ ερμργίᾳ τόν τε Iιβέριον</span><br />
+<span class='ocr_line' title='bbox 526 1684 2354 1782'>ἐκακηγόρησαν καὶ τὸν γρμανικὸν ἐπεκάλεσαν αὐτο-</span><br />
+<span class='ocr_line' title='bbox 523 1588 2354 1686'>κράτορα. ἐκείνου δὲ τὸ ξίφος σπασαμένου ὡς ἑαυτὸν</span><br />
+<span class='ocr_line' title='bbox 523 1490 2355 1591'>ἀναιρήσοντος, εἷς τις τῶν στρατιωτῶν τὸ ἑαυτού ξί-</span><br />
+<span class='ocr_line' title='bbox 524 1395 2424 1495'>φος ἀνατείνας τοῦτο ʼ ἔφη λάβε· ὀξύτερον γάρ 2ο</span><br />
+<span class='ocr_line' title='bbox 526 1301 2354 1398'>ἐστινʼʼ ὁ οὖν ερμανικὸς τοῦ κτεῖναι μὲν ἑαυτὸν</span><br />
+<span class='ocr_line' title='bbox 521 1204 2352 1304'>ἀπέσχετο να μὴ μᾶλλον στασιάσωσι, γράμματα δὲ</span><br />
+<span class='ocr_line' title='bbox 525 1108 2353 1206'>ὡς ἐκ τού ιβερίου πεμφθέντα πλασάμενος δωρεὰς</span><br />
+<span class='ocr_line' title='bbox 524 1014 2353 1112'>αὑτοῖς διδόντα καὶ ἄλλα τινὰ ὑπισχνούμενα τὴν</span><br />
+<span class='ocr_line' title='bbox 462 919 2424 1016'>C στάσιν τότε κατέπαυσεν. ὕστερον δὲ πρεσβευτῶν 25</span><br />
+<span class='ocr_line' title='bbox 526 833 2353 920'>παρὰ τοῦ λβερίου πεμφθέντων γνόντες τὸ τοῦ ερ-</span><br />
+<span class='ocr_line' title='bbox 526 726 2351 824'>μανικού στρατήγημα καὶ ὑποπτεύσαντες τοὺς πρέσ-</span><br />
+<span class='ocr_line' title='bbox 527 630 2352 728'>βεις ἀνατρέψοντας ἥκειν τὰ ὑπʼ ἐκείνου ἐπηγγελμένα,</span><br />
+<span class='ocr_line' title='bbox 529 534 2348 632'>ἐθορύβησαν αὖθις καὶ κατὰ τῶν πρέσβεων ὥρμησαν.</span><br />
+<span class='ocr_line' title='bbox 527 439 2423 538'>καὶ τὴν τού ερμανικοῦ γυναῖκα τὴν Ἀγριππῖναν,30</span><br />
+<span class='ocr_line' title='bbox 525 347 2348 439'>τῆς τοῦ Καίσαρος θυγατρὸς τῆς ουλίας καὶ τού</span><br />
+<span class='ocr_line' title='bbox 520 255 2351 347'>Ἀγρίππου παῖδα γεγονυῖαν, συνέλαβον, καὶ τὸν υἱὸν</span><br />
+</div>
+</body>
+</html>
+

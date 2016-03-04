@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0058.tif'>
+<span class='ocr_line' title='bbox 301 2768 368 2821'>5o</span><br />
+<span class='ocr_line' title='bbox 980 2786 1307 2838'>De Hemimne.</span><br />
+<span class='ocr_line' title='bbox 1665 2765 1899 2840'>Cap. 11.</span><br />
+<span class='ocr_line' title='bbox 295 2689 1902 2753'>tranquillitate ſive requie animi. Finis enim ultimus \&amp; Summum lſo-</span><br />
+<span class='ocr_line' title='bbox 294 2625 1902 2689'>num, de quibus loquuntur Ethici Veteres, locum in præſente vita</span><br />
+<span class='ocr_line' title='bbox 294 2562 1901 2627'>nullum habent. Neque is, cujus Cupiditates ad finem pervenerunt,</span><br />
+<span class='ocr_line' title='bbox 295 2500 1900 2565'>vivere poteſt, magis quam is cujus Senſus \&amp; Memoria perierunt.</span><br />
+<span class='ocr_line' title='bbox 295 2438 1904 2502'>Eœlicitas progreſſus perpetuus eſt ab unà Cupiditate ad alteram; \&amp;</span><br />
+<span class='ocr_line' title='bbox 297 2376 1906 2439'>adeptio prioris Cupiti, ad adeptionem poſterioris Via eſt. Cauſa hu-</span><br />
+<span class='ocr_line' title='bbox 294 2312 1904 2376'>jus rei eſt, Quod Objectum Cupiditatis humanæ, non eſt ut eo ſe-</span><br />
+<span class='ocr_line' title='bbox 298 2250 1907 2316'>mel, \&amp; quaſi ad momentum temporis fruatur homo, ſed ut fruitio-</span><br />
+<span class='ocr_line' title='bbox 299 2188 1907 2254'>nem ſuam ſecurammn in futurum reddat. Itaque Actiones voluntariæ</span><br />
+<span class='ocr_line' title='bbox 298 2125 1905 2192'>non ſolum eo tendunt, ut bonum procurent, ſed etiam ut certum ſibi</span><br />
+<span class='ocr_line' title='bbox 299 2062 1905 2127'>in perpetuum faciant. Sed non eadem via omnium procedunt Actio-</span><br />
+<span class='ocr_line' title='bbox 299 2001 1905 2063'>nes, propter diverſorum hominum diverſas paſſiones; partim etiam</span><br />
+<span class='ocr_line' title='bbox 298 1940 1906 2001'>propter differentiam opinionum, quas habent diverſi homines circa</span><br />
+<span class='ocr_line' title='bbox 297 1876 1286 1940'>cauſas, à quibus res cupita ſit producenda.</span><br />
+<span class='ocr_line' title='bbox 356 1813 1908 1878'>Primo ergo loco pono, Morem omnium hominum eſſeut perpetnò</span><br />
+<span class='ocr_line' title='bbox 298 1751 1909 1816'>atque indeſinenter PPotentiam unama poſt aliam per omnem vitam per-</span><br />
+<span class='ocr_line' title='bbox 299 1688 1906 1755'>ſequantur; non quod quis majorem ſive iutenſiorem ſemper ſperet,</span><br />
+<span class='ocr_line' title='bbox 301 1626 1905 1691'>quam qua jam fruitur, neque quod modica Potentia contentus eſſe</span><br />
+<span class='ocr_line' title='bbox 302 1565 1906 1629'>non poſſit; ſed quod Potentiam, \&amp; bene vivendi facultates præſen-</span><br />
+<span class='ocr_line' title='bbox 300 1500 1904 1565'>tes conſervare non poſſit, niſi acquirendo plura. Atque hinc eſt, quod</span><br />
+<span class='ocr_line' title='bbox 301 1437 1902 1503'>Reges, quorum Rlotentia eſt maxima, ad eam, tum domi Legibus,</span><br />
+<span class='ocr_line' title='bbox 300 1378 1907 1439'>tum Foris Armis tutandam ſe convertant. Etiam quando hoc quo-</span><br />
+<span class='ocr_line' title='bbox 298 1309 1905 1377'>que rectè ſucceſſit, Cupiditas oritur alia noa, aut Famæ aut Vo-</span><br />
+<span class='ocr_line' title='bbox 296 1251 743 1314'>luptatum novarum.</span><br />
+<span class='ocr_line' title='bbox 360 1187 1908 1253'>Divitiarum, Honorum, Imperii, vel Poeentiæ cujuſcunque Cupi-</span><br />
+<span class='ocr_line' title='bbox 299 1125 1905 1190'>ditas diſponit hominem ad Contentionem, Inimicitias, \&amp; Bellum;</span><br />
+<span class='ocr_line' title='bbox 301 1064 1908 1125'>competitorcm enim interficere, vincere, \&amp; quomodocunque repel-</span><br />
+<span class='ocr_line' title='bbox 302 999 1669 1066'>lere, competitori alteri ab obtinendum quod cupit, Via eſt.</span><br />
+<span class='ocr_line' title='bbox 363 939 1906 1002'>Laudis competitio venerationem producit antiquitatis. Nam qui</span><br />
+<span class='ocr_line' title='bbox 301 877 1910 939'>vivunt, cum viventibus, non cum mortuis contendunt, \&amp; his plus ju-</span><br />
+<span class='ocr_line' title='bbox 302 819 1024 877'>ſto tribuunt, ut ab illis demant.</span><br />
+<span class='ocr_line' title='bbox 365 750 1909 816'>Cupiditas ODtii \&amp; Voluptatis diſponit homines ad parendum Po-</span><br />
+<span class='ocr_line' title='bbox 301 685 1908 752'>tentiæ alicui communi; quia propter Cnpiditates illas, homines Po-</span><br />
+<span class='ocr_line' title='bbox 299 624 1906 690'>tentiam quam à ſua ipſorum Induſtria ſperare poterant, derelin-</span><br />
+<span class='ocr_line' title='bbox 302 563 1905 628'>quunt. Mſetus mnortis violentæ \&amp; vulnerum diſponit ad idem, \&amp;</span><br />
+<span class='ocr_line' title='bbox 303 499 1907 565'>propter cauſam eandem. Homines indigi iidemque fortes, nec ſorte</span><br />
+<span class='ocr_line' title='bbox 305 438 1904 501'>ſua contenti; etiam Honoris militaris Ambtioſi diſponuntur ad bella</span><br />
+<span class='ocr_line' title='bbox 306 374 1903 438'>\&amp; ſeditiones excitandas, \&amp; ad cauſas eorum alendas; quia ſine his</span><br />
+<span class='ocr_line' title='bbox 304 243 1912 372'>SQESSSCCSSSSLL..-~---~.aa-~~-----</span><br />
+<span class='ocr_line' title='bbox 1738 199 1909 249'>Poten-</span><br />
+</div>
+</body>
+</html>
+

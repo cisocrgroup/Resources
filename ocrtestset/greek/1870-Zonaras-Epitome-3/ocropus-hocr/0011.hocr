@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0011.tif'>
+<span class='ocr_line' title='bbox 1117 3388 1645 3439'>LI3. XI. CAP.II.</span><br />
+<p />
+<span class='ocr_line' title='bbox 471 3218 2291 3308'>ἀπέσχετο πράξεως, μὴ δεῖν διὰ τοὺς οἰχομένους τὰ</span><br />
+<span class='ocr_line' title='bbox 471 3115 1507 3212'>τῶν ζώντων λέγων προῖεσθαι.</span><br />
+<span class='ocr_line' title='bbox 617 3017 2291 3116'>Κλήμης δέ- τις τού γρίππου γεγονώς δοῦλος</span><br />
+<span class='ocr_line' title='bbox 471 2921 2292 3019'>καὶ προσεοικὼς αὐτῷ ἐπλάσατο αὐτὸς ὁ Ἀγρίππας</span><br />
+<span class='ocr_line' title='bbox 422 2837 2290 2924'>5 εἶναι· καὶ εἰς τὴν αλατίαν ἐλθῶν πολλοὺς μὲν ἐκεῖ,</span><br />
+<span class='ocr_line' title='bbox 470 2729 2292 2828'>πολλούς δὲ ἐν τῇ Iταλίᾳ προσεποιήσατο, καὶ τέλος</span><br />
+<span class='ocr_line' title='bbox 474 2635 2292 2732'>ἐπὶ τὴν Ρώμην ὥρμησεν ὡς τὴν παππραν μοναρχίαν</span><br />
+<span class='ocr_line' title='bbox 471 2536 2354 2636'>ἀποληψόμενος. χειρωσάμενος δʼ ὅμως αὐτὸν ὁ ιβέ-</span><br />
+<span class='ocr_line' title='bbox 474 2445 2294 2540'>ριος διά τινων τὰ ἐκείνου προσποιησαμένων φρονεῖν,</span><br />
+<span class='ocr_line' title='bbox 401 2349 2295 2445'>10 καὶ βασανίσας, ἴνα περὶ συνιστόρων τι μάθῃ, ἐπεὶ</span><br />
+<span class='ocr_line' title='bbox 469 2252 2296 2350'>μηδὲν ἐξελάλησεν, ἥρετο αὐτόνʼ πῶς σγρίππας ἐγέ-</span><br />
+<span class='ocr_line' title='bbox 472 2157 2295 2254'>νου(ʼ καὶ ὅς ἀπεκρίνατο ὅτι ʼοὕτως ὡς καὶ σύ</span><br />
+<span class='ocr_line' title='bbox 471 2076 774 2157'>αῖσαρ.ʼ</span><br />
+<span class='ocr_line' title='bbox 494 1964 2298 2064'>ὴν δὲ γυναῖκα Iουλίαν οὕτε ἐπανήγαγεν ἐκ τῆς</span><br />
+<span class='ocr_line' title='bbox 425 1869 2296 1968'>ι ὑπερορίας ἦν παρὰ τοῦ πατρὸς αὐτῆς τοῦ -ύγούστου</span><br />
+<span class='ocr_line' title='bbox 474 1776 2296 1872'>κατεδικάσθη διʼ ἀσέλγειαν, ἀλλὰ καὶ κατέκλεισεν</span><br />
+<span class='ocr_line' title='bbox 472 1680 2297 1778'>αὐτήν, ὥσθʼ ὐπὸ κακουχίας καὶ λιμοῦ φθαρῆναι.</span><br />
+<span class='ocr_line' title='bbox 471 1584 2295 1681'>πολλῶν τε αὐτὸν ἀξιούντων τὸν Vοέμβριον μῆνα, οὐ</span><br />
+<span class='ocr_line' title='bbox 471 1487 2298 1585'>τῇ ἔκτη ἐπὶ δεκάτρ γεγέννητο, ιβέριον ἐξ αὐτού</span><br />
+<span class='ocr_line' title='bbox 401 1393 2295 1489'>κ καλεῖσθαι, ʼ καὶ τίʼʼ ἔφη ποιήσετε ἄν δεκατρεῖς Καί-</span><br />
+<span class='ocr_line' title='bbox 473 1295 1064 1393'>σαρες γένωνταιίʼ</span><br />
+<span class='ocr_line' title='bbox 612 1202 2359 1301'>Eν τούτοις ὁ ερμανικὸς ἐτελεύτησεν ἐν Ἀντιο- C</span><br />
+<span class='ocr_line' title='bbox 470 1104 2296 1202'>χείᾳ, καταγοητευθείς τε καὶ φαρμαχθεὶς ὑπὸ είσω-</span><br />
+<span class='ocr_line' title='bbox 472 1009 2295 1107'>νος. ὀστὰ τε γὰρ εὑρέθη ἀνθρώπεια κατορωρυγμένα</span><br />
+<span class='ocr_line' title='bbox 400 913 2298 1010'>25 ἐν τῇ οἰκίᾳ ἐν ἡ κατρκει. καὶ μολίβδινοι ἐλασμοὶ</span><br />
+<span class='ocr_line' title='bbox 472 817 2297 916'>ἀράς τινας μετὰ τοῦ ὁνόματος αὐτού ἔχοντες. ὅτι</span><br />
+<span class='ocr_line' title='bbox 475 722 2296 818'>δὲ καὶ φαρμάκῳ ἐφθάρη τὸ σῶμα αὐτοῦ ἐξέφηνεν</span><br />
+<span class='ocr_line' title='bbox 475 625 2290 725'>εἰς τὴν ἀγορὰν κομισθὲν καὶ τοῖς παρούσι δειχθέν.</span><br />
+<span class='ocr_line' title='bbox 471 529 2292 629'>θανόντος δὲ ὁ μὲν ιβέριος καὶ ἡ Διβία ἥσθησαν,</span><br />
+<span class='ocr_line' title='bbox 400 435 2293 534'>0οἰ δʼ ἄλλοι σφοδρότατα ἥλγησαν. κάλλιστος μὲν γὰρ</span><br />
+<span class='ocr_line' title='bbox 472 338 2293 438'>τὸ σῶμα, ἄριστος δὲ τὴν ψυχὴν ἔφυ, παιδείᾳ τεἄμα</span><br />
+<span class='ocr_line' title='bbox 470 253 2296 342'>καὶ ἀνδρείᾳ ἐν πολέμοις εὐδοκιμῶν ἡμερώτατα τοῖς</span><br />
+</div>
+</body>
+</html>
+

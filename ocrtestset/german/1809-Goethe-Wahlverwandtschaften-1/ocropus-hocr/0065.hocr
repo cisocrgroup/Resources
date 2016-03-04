@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0065.tif'>
+<span class='ocr_line' title='bbox 601 1693 643 1722'>od</span><br />
+<span class='ocr_line' title='bbox 487 1525 744 1581'>Nachsch rife</span><br />
+<span class='ocr_line' title='bbox 406 1464 827 1507'>d er Vorsteh erln n,</span><br />
+<p />
+<span class='ocr_line' title='bbox 276 1269 1012 1324'>Von Ottillen, meine Gnädige, hätte ich</span><br />
+<span class='ocr_line' title='bbox 216 1216 1012 1259'>eigentlich nutr zu wiederholen, was in meinen</span><br />
+<span class='ocr_line' title='bbox 213 1152 1011 1195'>vorigen Bcrichten enthalten ist. Ich wüßte</span><br />
+<span class='ocr_line' title='bbox 214 1087 1011 1129'>sie nicht zu schelten und doch kann ich nicht</span><br />
+<span class='ocr_line' title='bbox 211 1023 1010 1067'>zufrieden mit ihr - seyn. Sie ist nach wie</span><br />
+<span class='ocr_line' title='bbox 212 953 1010 1005'>vor bescheiden und gefällig gegen andre; aber</span><br />
+<span class='ocr_line' title='bbox 211 903 1008 943'>dieses Zurücktreten, diese Dienstbarkeit wlll</span><br />
+<span class='ocr_line' title='bbox 199 842 1006 887'>mir nicht gefallen. Ew. Gnaden haben ihr</span><br />
+<span class='ocr_line' title='bbox 207 784 1004 828'>neulich Geld und verschiedene Zeuge geschickt.</span><br />
+<span class='ocr_line' title='bbox 206 722 1003 766'>Das erste hat sie nicht angegriffen; die andern</span><br />
+<span class='ocr_line' title='bbox 203 657 999 703'>liegen auch noch da, unberührt. Sie hält</span><br />
+<span class='ocr_line' title='bbox 200 595 998 642'>sreylich lhre Sachen sehr reinlich und gnt,</span><br />
+<span class='ocr_line' title='bbox 199 535 1000 579'>und scheint nur in diesem Sinn die Kleider</span><br />
+<span class='ocr_line' title='bbox 198 471 1009 518'>zu wechseln. Auch kann ich ihre große Mäßig-.</span><br />
+<span class='ocr_line' title='bbox 198 410 997 456'>keit im Essen und Trinken nicht loben. An</span><br />
+<span class='ocr_line' title='bbox 198 348 995 394'>unserm Tisch ist kein leberfluß; doch sehe</span><br />
+<span class='ocr_line' title='bbox 196 287 992 331'>ich nichts lieber als wenn die Kinder sich an</span><br />
+</div>
+</body>
+</html>
+

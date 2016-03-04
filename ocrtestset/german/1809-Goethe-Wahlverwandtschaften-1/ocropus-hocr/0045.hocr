@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0045.tif'>
+<span class='ocr_line' title='bbox 555 1692 595 1722'>Ib</span><br />
+<p />
+<span class='ocr_line' title='bbox 261 1596 972 1640'>Entwweder Ihr kennt mich nicht, rief er</span><br />
+<span class='ocr_line' title='bbox 195 1532 971 1577'>aus,. Ihr versteht mich nicht, oder Ihr seyd</span><br />
+<span class='ocr_line' title='bbox 194 1468 972 1518'>sehr boshaft. Ist denn hier ein Streit? ist</span><br />
+<span class='ocr_line' title='bbox 194 1409 971 1458'>denn.- hier eine Hülfe ndchig? Glaubt Ihr,</span><br />
+<span class='ocr_line' title='bbox 194 1350 972 1397'>daß ich in der Welt bin, um Rach zu ge-</span><br />
+<span class='ocr_line' title='bbox 191 1294 972 1335'>ben? Dae ist das dümmste HHandwerk das</span><br />
+<span class='ocr_line' title='bbox 191 1231 972 1274'>einer treiben kann. Rathe sich jeder selbst</span><br />
+<span class='ocr_line' title='bbox 190 1166 972 1211'>und thue was er nicht lassen kann. Geräth</span><br />
+<span class='ocr_line' title='bbox 191 1104 971 1147'>es gut, so freue er sich seiner Weisheit und</span><br />
+<span class='ocr_line' title='bbox 191 1042 971 1085'>seines Glücks; läuft's übel ab, damn bm tch</span><br />
+<span class='ocr_line' title='bbox 193 980 970 1024'>bey der Hhand. Wer ein Nebel los sepn wilh,</span><br />
+<span class='ocr_line' title='bbox 189 915 971 964'>der weiß immer was er will; wer' was bes-</span><br />
+<span class='ocr_line' title='bbox 188 865 971 904'>sers will als er hat, der ist ganz staarblind</span><br />
+<span class='ocr_line' title='bbox 188 805 971 847'>- Ja ja! lacht nur - er spielt Blindekuh,</span><br />
+<span class='ocr_line' title='bbox 187 743 969 786'>er ertappt's vielleicht; aber was ? Thut was</span><br />
+<span class='ocr_line' title='bbox 184 679 967 724'>Hhr wollt: es ist ganz einerley! Nehmt die</span><br />
+<span class='ocr_line' title='bbox 185 620 966 666'>Freunde zu Euch, laßt sie weg: alles einerley!</span><br />
+<span class='ocr_line' title='bbox 184 558 967 605'>Das Vernünftigste habe ich mislingen: sehen,</span><br />
+<span class='ocr_line' title='bbox 184 499 966 543'>das Abgeschmackteste gelingen. Zerbreche Euch</span><br />
+<span class='ocr_line' title='bbox 186 429 967 481'>die Köpfe nicht, und wenn's auf eine oder</span><br />
+<span class='ocr_line' title='bbox 184 379 967 421'>die andre Weise übel abläuft, zerbrecht sie</span><br />
+<span class='ocr_line' title='bbox 184 316 963 361'>Euch auch nich. Schickt nur nach mir, unb</span><br />
+</div>
+</body>
+</html>
+

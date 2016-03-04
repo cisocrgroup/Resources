@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0041.tif'>
+<span class='ocr_line' title='bbox 1046 3386 1597 3439'>LI3. XI. CAP. xI.</span><br />
+<span class='ocr_line' title='bbox 2167 3374 2246 3433'>35</span><br />
+<p />
+<span class='ocr_line' title='bbox 546 3215 2241 3312'>9 γούν Κλαύδιος ἀχθόμενος τοῖς δρωμένοις τοῖς</span><br />
+<span class='ocr_line' title='bbox 407 3113 2305 3215'>τέως εἰς γνῶσιν ἰοῦσιν αὐτῷ, καὶ τῷ 3ρεττανικῷ</span><br />
+<span class='ocr_line' title='bbox 407 3020 2242 3119'>ὁπότε ἐντύχοι φιλοφρόνως συγγινόμενος, οὐκ ἥνεγκε</span><br />
+<span class='ocr_line' title='bbox 404 2928 2241 3023'>τὰ γινόμενα, ἀλλʼ ἐκείνην τε καταλῦσαι καὶ τὸν υἰὸν</span><br />
+<span class='ocr_line' title='bbox 356 2832 2239 2928'>5 ἐς τοὺς ἐφήβους εἰσαγαγεῖν καὶ διάδοχον ἀποδεῖξαι</span><br />
+<span class='ocr_line' title='bbox 403 2736 2233 2833'>παρεσκευάζετο. γνοῦσα δὲ ταῦτα ἡ Ἀγριππῖνα προ-</span><br />
+<span class='ocr_line' title='bbox 405 2630 2244 2737'>καταλαβεῖν αὐτὸν φαρμάκῳ πρίν τι τοιοῦτον πραχr</span><br />
+<span class='ocr_line' title='bbox 404 2544 2244 2642'>θῆναι ἐσπούδασεν. ὡς δʼ ἐκεῖνο οὐδὲν ὑπό τε τού</span><br />
+<span class='ocr_line' title='bbox 404 2450 2239 2547'>οἴνου, ὅν πολύν ἀεὶ ὁ Κλαύδιος ἔπινεν, ἐξειργάσατο,</span><br />
+<span class='ocr_line' title='bbox 333 2349 2240 2451'>οκαὶ ὑπὸ τῆς ἄλλης διαίτης, ἡ πάντες ἐπίπαν οἱ τὸ</span><br />
+<span class='ocr_line' title='bbox 402 2258 2240 2354'>κράτος ἔχοντες χρώνται πρὸς φυλακὴν ἑαυτῶν, Δου-</span><br />
+<span class='ocr_line' title='bbox 403 2163 2241 2259'>κούσταν φαρμακίδα τινὰ περιβόητον ἐπʼ αὐτῷ τούτῳ</span><br />
+<span class='ocr_line' title='bbox 402 2067 2241 2163'>νέον ἑαλωκυῖαν μετεπέμψατοʼ καί τι φαρμακον ἕτε-</span><br />
+<span class='ocr_line' title='bbox 404 1969 2240 2068'>ρον ἄφυκτον σκευάσασα διʼ αὐτῆς, εἰς ἔνια τῶν κα-</span><br />
+<span class='ocr_line' title='bbox 331 1874 2430 1972'>15 λουμένων μυκήτων ἐνέβαλε, καὶ αὐτὴ μὲν ἐκ τῶνPI567</span><br />
+<span class='ocr_line' title='bbox 402 1781 2241 1878'>ἄλλων ἥσθιεν, ἐκεῖνον δὲ ἐκ τοῦ τὸ φάρμακον ἔχον--</span><br />
+<span class='ocr_line' title='bbox 402 1684 2240 1781'>τος, ὅντος μεγίστου τε καὶ καλλίστου , φαγεῖν παρε-</span><br />
+<span class='ocr_line' title='bbox 404 1588 2240 1686'>σκεύασε. καὶ ὁ μὲν οὕτως ἐπιβουλευθείς, ὡς ὑπερ-</span><br />
+<span class='ocr_line' title='bbox 404 1493 2240 1592'>κορὴς σφόδρα τῇ μέθῃ γενόμενος, ὅπερ καὶ ἄλλοτε</span><br />
+<span class='ocr_line' title='bbox 330 1400 2237 1493'>20 πολλάκις ἐγένετο, ἐκ τοῦ συμποσίου ἐξεκομίσθη</span><br />
+<span class='ocr_line' title='bbox 404 1302 2240 1400'>κατεργασθεὶς δὲ τῷ φταρμάκῳ μετήλλαξε διὰ τῆς</span><br />
+<span class='ocr_line' title='bbox 404 1204 2239 1304'>νυκτὸς μήτʼ εἰπεῖν μήτʼ ἀκοῦσαί τι δυνηθείς, ζήσας</span><br />
+<span class='ocr_line' title='bbox 406 1111 2237 1210'>ἔτη ἐπὶ τρισὶν ἑξήκοντα καὶ μήνας δύο καὶ ἡμέρας</span><br />
+<span class='ocr_line' title='bbox 404 1013 2239 1113'>τρισκαίδεκα, αὐταρχήσας δʼ ἐνιαυτοὺς δεκατρεῖς μῆ-</span><br />
+<span class='ocr_line' title='bbox 336 920 1477 1017'>25 νάς τε ὁκτώ καὶ ἡμέρας εἴκοσι.</span><br />
+<span class='ocr_line' title='bbox 559 826 2238 924'>aῦτα δὲ ἡ Ἀγριππῖνα πεποίηκε τὸν Vάρκισσον</span><br />
+<span class='ocr_line' title='bbox 408 729 2300 828'>εἰς Καμπανίαν προπέμψασα, ὡς τοῖς ὕδασιν ἐκεῖ 3</span><br />
+<span class='ocr_line' title='bbox 407 630 2236 731'>πρὸς τὴν ποδάγραν χρησόμενον· οὐ γάρ ποτε πα-</span><br />
+<span class='ocr_line' title='bbox 408 539 2234 638'>ρόντος ἐκείνου τοιοῦτόν τι δεδρακέναι ἴσχυσεν ἄν·</span><br />
+<span class='ocr_line' title='bbox 337 442 2427 543'>s0 τοιοῦτος τοῦ δεσπότου φύλαξ ἐτύγχανε. θανόντος WII187</span><br />
+<span class='ocr_line' title='bbox 411 347 2234 446'>δὲ τού Κλαυδίου καὶ αὐτὸς εὐθὺς διεφθάρη, μέγι-</span><br />
+<span class='ocr_line' title='bbox 411 261 2238 352'>στον δυνηθείς. πρὸ δὲ τοῦ σφαγῆναι ἔργον λαμπρὸν</span><br />
+</div>
+</body>
+</html>
+

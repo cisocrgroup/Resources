@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0096.tif'>
+<span class='ocr_line' title='bbox 521 3379 597 3437'>9</span><br />
+<span class='ocr_line' title='bbox 1155 3386 1702 3438'>LI3. XII. CAP. V.</span><br />
+<p />
+<span class='ocr_line' title='bbox 516 3205 2343 3316'>μηντο όδε, σμαζόνιος, Ἀνίκητος, ῦύτυχής, Σὐσεβής,</span><br />
+<span class='ocr_line' title='bbox 516 3112 2345 3212'>ούκιος,.Πῖλιος,.ύρήλιος,Κόμοδος,.Ἀῦγουστος, βρά-</span><br />
+<span class='ocr_line' title='bbox 516 3016 2346 3115'>κλειος, ωμαῖος, περαίρων. πάντα γὰρ ταῦτα ἑαυτῷ</span><br />
+<span class='ocr_line' title='bbox 517 2922 2343 3018'>ἐπέγραφε τὰ ὁνόματα, καὶ τῇ βουλῇ οὕτως ἐπέστελ-</span><br />
+<span class='ocr_line' title='bbox 514 2825 2391 2924'>λεν ʼ αὐτοκράτωρ Καῖσαρ Ἀούκιος Δῖλιος σύρήλιος 5</span><br />
+<span class='ocr_line' title='bbox 513 2731 2346 2829'>Κόμοδος Ἀὔγουστος εὐσεβὴς εὐτυχὴς ἀνίκητος Ρb-</span><br />
+<span class='ocr_line' title='bbox 512 2633 2339 2732'>μαῖος fρακλῆς ἀρχιερεὺς δημαρχικῆς ἐξουσίας τὸ</span><br />
+<span class='ocr_line' title='bbox 509 2540 2344 2636'>ὁκτωκαιδέκατον, αὐτοκράτωρ τὸ ὄγδοον, ὔπατος τὸ</span><br />
+<span class='ocr_line' title='bbox 515 2440 2344 2541'>ἕβδομον, πατὴρ πατρίδος, ὑπάτοις, στρατηγοῖς, δη-</span><br />
+<span class='ocr_line' title='bbox 320 2347 2415 2443'>PI3οομαρχικοῖς,γερουσίᾳΚομοδιανῇ εὐτυχεῖ χαίρειν. καὶ 1ο</span><br />
+<span class='ocr_line' title='bbox 514 2251 2345 2348'>πολλοὺς ἔστησαν αὐτῷ ἀνδριάντας ἐν Ἡρακλέους</span><br />
+<span class='ocr_line' title='bbox 515 2156 2344 2253'>σχήματι. καὶ τὸν αἰῶνα τὸν κατʼ αὐτὸν ἀπʼ αὐτοῦ</span><br />
+<span class='ocr_line' title='bbox 511 2058 2344 2158'>χρυσοῦν όνομάζεσθαι καὶ γράφεσθαι έψ ηφίσθη· ἐκα-</span><br />
+<span class='ocr_line' title='bbox 513 1964 2344 2061'>λεῖτο γὰρ πρὸς τοῖς ἄλλοις ὀνόμασι καὶ χρυσοῦς καὶ</span><br />
+<span class='ocr_line' title='bbox 322 1863 2415 1966'>W 211θεός. πολλὰ δὲ δαπανῶντι αὐτῷ ἐπέλιπε τὰ χρή- 15</span><br />
+<span class='ocr_line' title='bbox 513 1773 2344 1870'>ματα· ὅθεν ἐγκλήματα καὶ ἀνδράσιν ἐπιφέρων καὶ</span><br />
+<span class='ocr_line' title='bbox 511 1676 2343 1773'>γυναιξίν, οὺς μὲν ἐφόνευεν, οἷς δὲ τὴν σωτηρίαν</span><br />
+<span class='ocr_line' title='bbox 513 1582 1569 1676'>τῆς αὐτῶν οὐσίας ἐπίπρασκεν.</span><br />
+<span class='ocr_line' title='bbox 647 1485 2342 1583'>Πρματηλάτει δὲ οἴκοι, δημοσίᾳ γὰρ ήδεῖτο τούτο</span><br />
+<span class='ocr_line' title='bbox 513 1387 2412 1486'>ποιήσαι, καὶ ἐμονομάχει, οἴκοι μὲν μέχρι φόνου, ἐν 2ο</span><br />
+<span class='ocr_line' title='bbox 517 1301 2341 1390'>δέ γε τῷ θεάτρῳ ἀσιδήρως καὶ αἰματος ἀνθρωπίνου</span><br />
+<span class='ocr_line' title='bbox 512 1194 2343 1292'>χωρίς. οἴκοι δέ τινων τὰς τρίχας ξυρῶν τῶν μὲν</span><br />
+<span class='ocr_line' title='bbox 448 1100 2343 1199'>3 τὰς ῥῖνας παρέτεμνε, τῶν δὲ τὰ ώτα, ἐνίων δʼ ἔτε-</span><br />
+<span class='ocr_line' title='bbox 514 1006 2344 1104'>ρόν τι. εἰσιῶν δʼ ἐς τὸ θέατρον τῷ τοῦ ρμοῦ ἐκέ-</span><br />
+<span class='ocr_line' title='bbox 513 902 2411 1007'>χρητο σχήματι, χρυσοῦν κηρύκειον μεταχειριζόμενος. 25</span><br />
+<span class='ocr_line' title='bbox 515 815 2338 913'>ἐφρόνει δὲ μέγα καὶ ὅτι ἦν ἐπαρίστερος. κάμνων δʼ</span><br />
+<span class='ocr_line' title='bbox 516 717 2348 815'>ἐν τῷ ἀγωνίζεσθαι ἔπινε, καὶ οἱ τῆς βουλῆς καὶ οἱ</span><br />
+<span class='ocr_line' title='bbox 514 619 2345 721'>τῶν ππέων παρόντες ζήσειαςʼʼ ἐξεβόων· καί ʼ κύ-</span><br />
+<span class='ocr_line' title='bbox 515 525 2342 624'>ριος εἶʼʼ κα πρῶτος εἰ ʼ καί πάντων εὐτυχεστάτας</span><br />
+<span class='ocr_line' title='bbox 512 431 2407 531'>νίκας νικήσεις ʼ καί ʼ Ἀμαζόνιε νικᾷς ʼ κράζειν συνε- ο0</span><br />
+<span class='ocr_line' title='bbox 514 336 2338 433'>χῶς ἐκελεύοντο. τοὺς δὲ ποδῶν ἐστερημένους ἢ τού-</span><br />
+<span class='ocr_line' title='bbox 514 248 2338 337'>τους πεπηρωμένους ἐκ νόσου ἢ συμφορας ἀθροίσας</span><br />
+</div>
+</body>
+</html>
+

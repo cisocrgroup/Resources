@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0075.tif'>
+<span class='ocr_line' title='bbox 626 1690 667 1722'>S</span><br />
+<p />
+<span class='ocr_line' title='bbox 312 1580 1037 1636'>Jch kenne lhn nicht mehn; sagte Kduard</span><br />
+<span class='ocr_line' title='bbox 246 1526 1038 1580'>zu seinem Freund, wie thätig und brauchbar der</span><br />
+<span class='ocr_line' title='bbox 248 1466 1038 1514'>Mensch ist. Das macht, versehte der Haupt-</span><br />
+<span class='ocr_line' title='bbox 245 1405 1035 1452'>mann, wir tragen ihm nichts Neues auf,</span><br />
+<span class='ocr_line' title='bbox 243 1343 1036 1391'>als bis er das Alte nach seiner Beguemlich-</span><br />
+<span class='ocr_line' title='bbox 242 1281 1035 1328'>keit vollendet hat, und so leistet ev, wie du</span><br />
+<span class='ocr_line' title='bbox 239 1219 1034 1266'>siehst, sehr viel; sobald man ihn stört, ver-</span><br />
+<span class='ocr_line' title='bbox 238 1159 562 1201'>uag er gar nichts.</span><br />
+<p />
+<span class='ocr_line' title='bbox 304 1025 1034 1073'>Brachten die Freunde auf diese Weise ihre</span><br />
+<span class='ocr_line' title='bbox 237 960 1031 1009'>Tage zusammen zu, so versäumten sie. Abends</span><br />
+<span class='ocr_line' title='bbox 233 902 1029 950'>utcht Charlotten regelmäßig zu besuchen. Fand</span><br />
+<span class='ocr_line' title='bbox 231 840 1027 893'>sich keine Gesellschaft von benachbarten Orten</span><br />
+<span class='ocr_line' title='bbox 229 789 1025 831'>und Gütern, welches öfter geschah; so war</span><br />
+<span class='ocr_line' title='bbox 223 714 1023 770'>das Gespräch, wie das Lesen, meist solchen</span><br />
+<span class='ocr_line' title='bbox 227 656 1023 708'>Gegenständen gewidmet, welche den Wohl</span><br />
+<span class='ocr_line' title='bbox 226 597 1021 646'>stand, die Vortheile und das Behagen der</span><br />
+<span class='ocr_line' title='bbox 224 539 828 586'>bürgerlichen Gesellschaft vermehren.</span><br />
+<p />
+<span class='ocr_line' title='bbox 287 414 1017 464'>Charlotte, ohnehin gewohnt die Gegen-</span><br />
+<span class='ocr_line' title='bbox 218 352 1014 399'>wart zu nuhen, fühlte sich, indem sie ihren</span><br />
+<span class='ocr_line' title='bbox 219 292 1013 337'>Mann zufrieden sah, auch persönlich geför-</span><br />
+</div>
+</body>
+</html>
+

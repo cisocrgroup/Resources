@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0064.tif'>
+<span class='ocr_line' title='bbox 556 1694 595 1722'>?</span><br />
+<p />
+<span class='ocr_line' title='bbox 187 1602 979 1643'>Geschääst immer geselliger betrleben und be-</span><br />
+<span class='ocr_line' title='bbox 185 1538 978 1583'>sonders die Kunstgärten und Glashäuser mit</span><br />
+<span class='ocr_line' title='bbox 184 1476 979 1522'>Eifer besorgten, auch dazwischen die gewöhn-</span><br />
+<span class='ocr_line' title='bbox 184 1419 976 1463'>lichen ritterlichen ebungen fortsezten, als</span><br />
+<span class='ocr_line' title='bbox 181 1360 978 1403'>Jogen, gferde Kaufen, Tauschen, Bereiten</span><br />
+<span class='ocr_line' title='bbox 183 1298 976 1342'>und Einfahren; so sühlte sich Charlotte täglich</span><br />
+<span class='ocr_line' title='bbox 182 1239 978 1281'>einsamer. Sie führte ihren Briefwechsel,</span><br />
+<span class='ocr_line' title='bbox 183 1175 979 1217'>auch um des Hhauptmanns willen, lebhafter,</span><br />
+<span class='ocr_line' title='bbox 182 1110 979 1153'>und doch gab es manche einsame Stunde.</span><br />
+<span class='ocr_line' title='bbox 182 1045 980 1089'>Desto angenehmer und unterhaltender waren</span><br />
+<span class='ocr_line' title='bbox 180 984 980 1026'>ihr die Berichte, die sie aus der Pensionsan-</span><br />
+<span class='ocr_line' title='bbox 180 927 380 966'>stalt erhielt.</span><br />
+<p />
+<span class='ocr_line' title='bbox 445 868 496 898'>vg</span><br />
+<span class='ocr_line' title='bbox 247 805 976 849'>Einem weitläuftigen Briefe der Vorstehe-</span><br />
+<span class='ocr_line' title='bbox 180 744 973 786'>rinn, welcher sich wie gewöhnlich über der</span><br />
+<span class='ocr_line' title='bbox 179 680 972 724'>Tochter Fortschritte mit Behagen verbreitete,</span><br />
+<span class='ocr_line' title='bbox 176 614 971 663'>war eine kurze Nachschrift hinzugefügt, nebst</span><br />
+<span class='ocr_line' title='bbox 182 551 975 597'>einer Beylage von der Hhand eines männli-</span><br />
+<span class='ocr_line' title='bbox 179 487 973 535'>chen Gehülfen am Institut, die wwir beyde</span><br />
+<span class='ocr_line' title='bbox 179 427 352 468'>mittheilen.</span><br />
+</div>
+</body>
+</html>
+

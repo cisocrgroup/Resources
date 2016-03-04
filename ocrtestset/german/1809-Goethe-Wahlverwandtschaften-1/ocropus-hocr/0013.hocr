@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0013.tif'>
+<span class='ocr_line' title='bbox 195 1595 957 1638'>und Absätze, - auf dem schmalen, bald mehr bald</span><br />
+<span class='ocr_line' title='bbox 194 1528 958 1578'>weniger steilen Wege endlich zur Mooshütte</span><br />
+<span class='ocr_line' title='bbox 195 1479 315 1514'>geleitet.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1358 958 1400'>An der Thüre empfjng Charlotte ihren</span><br />
+<span class='ocr_line' title='bbox 196 1298 959 1342'>Gemahl und ließ ihn dergestalt niedersitzen,</span><br />
+<span class='ocr_line' title='bbox 196 1239 960 1279'>daß er durch Thüre und Fenster die verschie-</span><br />
+<span class='ocr_line' title='bbox 196 1175 960 1219'>denen Bilder, welche die Landschaft gleichsam</span><br />
+<span class='ocr_line' title='bbox 197 1113 962 1158'>im Rahmen zeigten, auf einen Blick überse-</span><br />
+<span class='ocr_line' title='bbox 199 1051 961 1096'>hen konnte. Er freute sich daran, in Hoff-</span><br />
+<span class='ocr_line' title='bbox 198 988 962 1034'>nung daß der Frühling bald alles noch reich-</span><br />
+<span class='ocr_line' title='bbox 198 934 960 975'>licher beleben würde. Nur eines habe ich zu</span><br />
+<span class='ocr_line' title='bbox 197 875 962 916'>erinnern, sete er hinzu: die Hütte scheint</span><br />
+<span class='ocr_line' title='bbox 197 821 505 859'>mir etwas zu eng.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 695 961 739'>Für uns- beyde doch geränmig genng, ver-</span><br />
+<span class='ocr_line' title='bbox 197 638 446 681'>sezte Charlotte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 261 519 962 559'>Nun freylich, sagte Eduard, für einen</span><br />
+<span class='ocr_line' title='bbox 196 456 758 499'>Dritten ist auch wohl noch Plah.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 337 960 376'>Warum nicht? versetzte Charlotte, und</span><br />
+</div>
+</body>
+</html>
+

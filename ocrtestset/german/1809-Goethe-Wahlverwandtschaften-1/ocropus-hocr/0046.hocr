@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0046.tif'>
+<span class='ocr_line' title='bbox 575 1691 615 1721'>Iy</span><br />
+<p />
+<span class='ocr_line' title='bbox 204 1597 987 1643'>Euch soll geholfen sepn. Bis dahin Euer</span><br />
+<span class='ocr_line' title='bbox 203 1549 336 1582'>Diener!</span><br />
+<p />
+<span class='ocr_line' title='bbox 265 1417 984 1463'>Und so schwang er ssch aufs Pferd, ohne</span><br />
+<span class='ocr_line' title='bbox 199 1364 594 1403'>den Kaffee: abzuwarten.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 1241 981 1285'>Hier siehst du, sagte Charlotte, wie we-</span><br />
+<span class='ocr_line' title='bbox 195 1179 979 1220'>nig eigentlich ein Dritter fruchtet, wenn es</span><br />
+<span class='ocr_line' title='bbox 193 1114 979 1156'>zwischen zwey nah verbundenen ßersonen nicht</span><br />
+<span class='ocr_line' title='bbox 192 1052 978 1094'>ganz im Gleichgewicht sieht. Gegenwärtig</span><br />
+<span class='ocr_line' title='bbox 169 991 978 1039'>sind wir doch wohl noch verworrner und</span><br />
+<span class='ocr_line' title='bbox 191 930 978 970'>ungewisser, wenn's möglich ist, als vor-</span><br />
+<span class='ocr_line' title='bbox 189 875 260 913'>her.</span><br />
+<p />
+<span class='ocr_line' title='bbox 254 747 972 794'>Bende Gatten würden auch wohl noch</span><br />
+<span class='ocr_line' title='bbox 188 684 974 732'>eine Zeit lang geschwankt haben, wäre nicht</span><br />
+<span class='ocr_line' title='bbox 187 625 972 670'>ein Brief des Hauptmanns im Wechsel gegen</span><br />
+<span class='ocr_line' title='bbox 187 561 971 607'>Eduards lehten angekommen. Er hatte sich</span><br />
+<span class='ocr_line' title='bbox 186 502 970 545'>entschlossen, eine der ihm angebotenen Stellen</span><br />
+<span class='ocr_line' title='bbox 186 436 971 482'>anzunehmen, ob sie ihm gleich keineswegs ge-</span><br />
+<span class='ocr_line' title='bbox 185 376 970 420'>mäß war. Er sollte mit vornehmen und</span><br />
+<span class='ocr_line' title='bbox 186 316 969 357'>reichen Lenten die Langeweile theilen inden</span><br />
+</div>
+</body>
+</html>
+

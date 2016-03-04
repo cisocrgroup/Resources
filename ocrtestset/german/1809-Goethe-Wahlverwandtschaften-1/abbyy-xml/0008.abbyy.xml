@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 11" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="1156" height="1782" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="">
+<text>
+<par align="Center" rightIndent="100">
+<line baseline="93" l="545" t="60" r="621" b="93"><formatting lang="OldGerman">
+<charParams l="545" t="60" r="580" b="91" charConfidence="37">D</charParams>
+<charParams l="590" t="63" r="599" b="91" suspicious="1" charConfidence="25">i</charParams>
+<charParams l="609" t="70" r="621" b="93" charConfidence="30">e</charParams></formatting></line></par>
+<par startIndent="168">
+<line baseline="254" l="185" t="187" r="975" b="263"><formatting lang="OldGerman">
+<charParams l="185" t="187" r="259" b="253" charConfidence="47">W</charParams>
+<charParams l="271" t="205" r="301" b="251" charConfidence="81">a</charParams>
+<charParams l="313" t="187" r="343" b="263" charConfidence="38">h</charParams>
+<charParams l="357" t="187" r="373" b="251" charConfidence="48">l</charParams>
+<charParams l="379" t="199" r="411" b="249" charConfidence="100">v</charParams>
+<charParams l="423" t="203" r="447" b="253" charConfidence="31">e</charParams>
+<charParams l="457" t="201" r="481" b="251" charConfidence="32">r</charParams>
+<charParams l="489" t="201" r="537" b="251" charConfidence="45">w</charParams>
+<charParams l="549" t="203" r="579" b="251" charConfidence="41">a</charParams>
+<charParams l="589" t="203" r="623" b="253" charConfidence="30">n</charParams>
+<charParams l="633" t="193" r="661" b="253" charConfidence="37">d</charParams>
+<charParams l="671" t="195" r="695" b="253" charConfidence="27">t</charParams>
+<charParams l="703" t="189" r="729" b="261" charConfidence="100">s</charParams>
+<charParams l="731" t="187" r="779" b="261" charConfidence="40">c</charParams>
+<charParams l="731" t="187" r="779" b="261" suspicious="1" charConfidence="40">h</charParams>
+<charParams l="793" t="205" r="821" b="249" charConfidence="48">a</charParams>
+<charParams l="835" t="191" r="859" b="261" charConfidence="38">f</charParams>
+<charParams l="863" t="197" r="883" b="253" charConfidence="47">t</charParams>
+<charParams l="891" t="205" r="913" b="253" charConfidence="27">e</charParams>
+<charParams l="923" t="207" r="953" b="255" charConfidence="31">n</charParams>
+<charParams l="957" t="231" r="975" b="253" charConfidence="57">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="">
+<text>
+<par align="Center" rightIndent="200">
+<line baseline="528" l="357" t="500" r="795" b="536"><formatting lang="OldGerman">
+<charParams l="357" t="500" r="382" b="529" suspicious="1" charConfidence="27">E</charParams>
+<charParams l="409" t="510" r="422" b="529" suspicious="1" charConfidence="23">r</charParams>
+<charParams l="448" t="501" r="470" b="535" suspicious="1" charConfidence="38">s</charParams>
+<charParams l="448" t="501" r="470" b="535" suspicious="1" charConfidence="38">t</charParams>
+<charParams l="493" t="509" r="507" b="529" suspicious="1" charConfidence="26">e</charParams>
+<charParams l="533" t="510" r="546" b="528" suspicious="1" charConfidence="52">r</charParams>
+<charParams l="547" t="501" r="605" b="531"> </charParams>
+<charParams l="606" t="501" r="630" b="531" suspicious="1" charConfidence="34">T</charParams>
+<charParams l="658" t="502" r="673" b="536" suspicious="1" charConfidence="24">h</charParams>
+<charParams l="701" t="510" r="713" b="530" suspicious="1" charConfidence="26">e</charParams>
+<charParams l="741" t="501" r="749" b="530" suspicious="1" charConfidence="29">i</charParams>
+<charParams l="776" t="503" r="784" b="529" suspicious="1" charConfidence="38">l</charParams>
+<charParams l="788" t="524" r="795" b="529" charConfidence="100">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="">
+<text>
+<par align="Center" rightIndent="100">
+<line baseline="1177" l="219" t="1153" r="239" b="1177"><formatting lang="OldGerman">
+<charParams l="219" t="1153" r="228" b="1177" suspicious="1" charConfidence="100">I</charParams>
+<charParams l="234" t="1171" r="239" b="1177" charConfidence="100">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="">
+<text>
+<par startIndent="144">
+<line baseline="1190" l="791" t="1167" r="806" b="1190"><formatting lang="OldGerman">
+<charParams l="791" t="1167" r="806" b="1190" suspicious="1" charConfidence="100">I</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="">
+<separator type="Black" thickness="6"><start x="489" y="380"/><end x="649" y="380"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0062.tif'>
+<span class='ocr_line' title='bbox 553 1694 606 1721'>5c</span><br />
+<p />
+<span class='ocr_line' title='bbox 202 1595 983 1644'>Hatten auf diese Weise dle beyden Freun-</span><br />
+<span class='ocr_line' title='bbox 192 1534 982 1580'>de am Gegenwärtigen manche Beschästigung,</span><br />
+<span class='ocr_line' title='bbox 190 1474 983 1521'>so fehlte es nicht an lebhafter und vergnügli-</span><br />
+<span class='ocr_line' title='bbox 188 1415 982 1457'>cher Erinnerung vergangener Tage, woran</span><br />
+<span class='ocr_line' title='bbox 188 1354 980 1403'>Charlotte wohl Theil zu nehmen pflegte. Auch</span><br />
+<span class='ocr_line' title='bbox 186 1295 979 1341'>seßte man sich vor, wenn nur die nächhsten</span><br />
+<span class='ocr_line' title='bbox 184 1237 978 1279'>Arbelten erst gethan wären, an die Reise-</span><br />
+<span class='ocr_line' title='bbox 181 1172 978 1216'>journale zu gehen und auch auf diese Weise</span><br />
+<span class='ocr_line' title='bbox 183 1107 749 1152'>die Vergangenheit hervorzurufen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 980 975 1024'>Nebrigens hatte Eduard mit Charlotten</span><br />
+<span class='ocr_line' title='bbox 179 912 974 964'>allein weniger Stoff zur Unterhaltung, be-</span><br />
+<span class='ocr_line' title='bbox 178 862 972 907'>sonders seitdem er den Tadel ihrer Parkan-</span><br />
+<span class='ocr_line' title='bbox 178 806 970 846'>lagen, der ihm so gerecht schien, auf dem</span><br />
+<span class='ocr_line' title='bbox 177 740 968 786'>HHerzen fühlte. Lange verschwieg er was ihm</span><br />
+<span class='ocr_line' title='bbox 177 679 968 722'>der HHauptmann vertraut hatte; aber als er</span><br />
+<span class='ocr_line' title='bbox 174 615 966 660'>seine Gattinn zuleht beschäftigt sah, von der</span><br />
+<span class='ocr_line' title='bbox 175 550 967 597'>Mooshütte hinauf zur Anhöhe wieder mit</span><br />
+<span class='ocr_line' title='bbox 174 490 965 533'>Stüfchen und Pfädchen sich empor zu arbeiten;</span><br />
+<span class='ocr_line' title='bbox 173 428 964 471'>so hielt er nicht länger zurück, sondern machte</span><br />
+<span class='ocr_line' title='bbox 173 364 961 409'>sie nach einigen Umschweifen mit scinen neneu</span><br />
+<span class='ocr_line' title='bbox 174 304 489 348'>Einsichten bekannt.</span><br />
+</div>
+</body>
+</html>
+

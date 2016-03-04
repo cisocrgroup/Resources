@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0057.tif'>
+<span class='ocr_line' title='bbox 560 1695 603 1722'>e</span><br />
+<p />
+<span class='ocr_line' title='bbox 193 1594 987 1643'>Zweifel werden sie ,auch dieses Jahr sich durch</span><br />
+<span class='ocr_line' title='bbox 193 1535 885 1582'>nene Triebe wieder dankbar hervorthun.</span><br />
+<p />
+<span class='ocr_line' title='bbox 257 1408 984 1457'>Man kehrte zusrieden und heiter zurck.</span><br />
+<span class='ocr_line' title='bbox 191 1349 984 1394'>Dem Gaste ward auf dem rechten Flügel des</span><br />
+<span class='ocr_line' title='bbox 187 1290 984 1334'>Schlosses ein freundliches geräunnges Huar-</span><br />
+<span class='ocr_line' title='bbox 188 1226 986 1270'>tier angewiesen, wo er sehr bald,Gücher, Pa-</span><br />
+<span class='ocr_line' title='bbox 184 1163 984 1207'>piere und Instrumente aufgestellt und geord-</span><br />
+<span class='ocr_line' title='bbox 184 1098 984 1141'>net hatte, um in seiner gewohnten Thätigkeit</span><br />
+<span class='ocr_line' title='bbox 185 1034 983 1077'>fortzufahren. Aber Eduard ließ ihm in den</span><br />
+<span class='ocr_line' title='bbox 184 973 981 1017'>ersten Tagen keine Ruhe; er führte ihn über-</span><br />
+<span class='ocr_line' title='bbox 181 912 978 956'>all herum, bald zu Pferde bald zu Fuße,</span><br />
+<span class='ocr_line' title='bbox 181 852 979 895'>und machte ihn mit der Gegend, mit dem</span><br />
+<span class='ocr_line' title='bbox 180 796 977 838'>Gute bekannt; wobey er ihm zugleich die</span><br />
+<span class='ocr_line' title='bbox 178 734 977 777'>Wünsche mitthellte, die er zu besserer Kennt-</span><br />
+<span class='ocr_line' title='bbox 177 673 974 716'>niß und vortheilhafterer Benuhung desselben</span><br />
+<span class='ocr_line' title='bbox 176 607 703 655'>seit langer Seit bey sich hegte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 240 483 969 528'>Das erste was wir thun sollten, sagte der</span><br />
+<span class='ocr_line' title='bbox 173 421 969 466'>HHauptmann, wäre, daß ich die Gegend mit</span><br />
+<span class='ocr_line' title='bbox 171 359 965 403'>der Magnetnadel aufnähme. Es ist das ein</span><br />
+<span class='ocr_line' title='bbox 169 299 963 343'>leichtes heiteres Geschäft, und wenn es auch</span><br />
+</div>
+</body>
+</html>
+

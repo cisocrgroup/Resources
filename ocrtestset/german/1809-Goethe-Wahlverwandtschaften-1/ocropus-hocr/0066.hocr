@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0066.tif'>
+<span class='ocr_line' title='bbox 550 1677 608 1722'>Bd</span><br />
+<p />
+<span class='ocr_line' title='bbox 180 1599 971 1644'>schmackhaften und gesunden Speisen satt essen.</span><br />
+<span class='ocr_line' title='bbox 180 1537 974 1584'>Was mit Bedacht und leberzeugung aufges</span><br />
+<span class='ocr_line' title='bbox 179 1477 974 1522'>tragen und vorgelegt ist, soll auch aufgegessen</span><br />
+<span class='ocr_line' title='bbox 179 1422 973 1464'>werden. Dazu kann ich Ottilien niemals</span><br />
+<span class='ocr_line' title='bbox 180 1359 975 1403'>bringen. Ja sie macht sich irgend ein Ge-</span><br />
+<span class='ocr_line' title='bbox 180 1299 976 1343'>schäft, um eine Lücke auszufüllen, wo die Die-</span><br />
+<span class='ocr_line' title='bbox 180 1226 977 1280'>nerinnen etwas versäumen, nur um eine</span><br />
+<span class='ocr_line' title='bbox 181 1172 973 1218'>Speise oder den Nachtisch zu übergehen.</span><br />
+<span class='ocr_line' title='bbox 182 1110 975 1153'>Bey diesem allen kommt jedoch in Betrachtung,</span><br />
+<span class='ocr_line' title='bbox 182 1037 976 1088'>daß sie manchmal, wie ich erst spät erfahren</span><br />
+<span class='ocr_line' title='bbox 183 984 976 1027'>habe, Kopsweh aus der linken Seite hat,</span><br />
+<span class='ocr_line' title='bbox 183 924 976 971'>das zwar vorübergeht, aber schmerzlich und</span><br />
+<span class='ocr_line' title='bbox 183 864 977 908'>bedeutend seyn mag. Sosiel von diesem übri:</span><br />
+<span class='ocr_line' title='bbox 182 808 776 850'>gens so schönen und lieben Kinde.</span><br />
+<p />
+<span class='ocr_line' title='bbox 490 673 668 718'>Beylage</span><br />
+<span class='ocr_line' title='bbox 375 609 779 638'>d e s G e h ü s f e n.</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 426 972 476'>Unsre vortreffliche Vorsteherinn läßt mich</span><br />
+<span class='ocr_line' title='bbox 182 365 972 414'>gewöhnlich die Briefe lesen, in welchen sie</span><br />
+<span class='ocr_line' title='bbox 186 302 975 348'>Beobachtungen über ihre Sdglinge den Aeltern</span><br />
+</div>
+</body>
+</html>
+

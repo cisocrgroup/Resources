@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0054.tif'>
+<span class='ocr_line' title='bbox 564 1690 610 1721'>a?</span><br />
+<p />
+<span class='ocr_line' title='bbox 266 1599 986 1642'>Nun sasen sie also zu dreyen um dasseb-</span><br />
+<span class='ocr_line' title='bbox 199 1538 987 1583'>bige Tischchen, wo Charlotte so eifrig gegen</span><br />
+<span class='ocr_line' title='bbox 199 1476 986 1524'>die Ankunft des Gastes gesprochen hatte.</span><br />
+<span class='ocr_line' title='bbox 199 1422 985 1464'>Eduard in seiner Zufriedenheit wollte die</span><br />
+<span class='ocr_line' title='bbox 194 1360 980 1403'>Gattinn nlcht an jene Stunden erinnern;</span><br />
+<span class='ocr_line' title='bbox 195 1300 981 1341'>doch enthielt er sich nicht zu sagen: für ein</span><br />
+<span class='ocr_line' title='bbox 194 1238 891 1281'>Viertes wäre auch noch recht gut Plah.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 1110 982 1154'>Waldhörner ließen sich in diesem Augen-</span><br />
+<span class='ocr_line' title='bbox 193 1046 982 1091'>blic? vom Schloss heräber vernehmen, bejahe</span><br />
+<span class='ocr_line' title='bbox 193 988 983 1030'>ten gleichsäm und bekräftigten die guten Ge-</span><br />
+<span class='ocr_line' title='bbox 194 929 982 971'>sinnungen und Wänsche der beysammen ver-</span><br />
+<span class='ocr_line' title='bbox 192 865 981 916'>wsilenden. Fesunde.-Stillschweigend hörten sie</span><br />
+<span class='ocr_line' title='bbox 193 801 980 852'>zu, indem jedes ln sich selbst zurückkehrte,</span><br />
+<span class='ocr_line' title='bbox 168 746 979 791'>und sein eigen Gläc? in so schöner Verbin-</span><br />
+<span class='ocr_line' title='bbox 193 683 579 728'>dung doppelt empfand.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 560 980 601'>Eduard unterbrach die Pause zuerst, in-</span><br />
+<span class='ocr_line' title='bbox 192 494 978 540'>dem er aufstand und vor dle Mooshütte hin-</span><br />
+<span class='ocr_line' title='bbox 192 433 978 482'>austrat. Laß uns, sagte er zu Charlotten,</span><br />
+<span class='ocr_line' title='bbox 193 369 977 416'>den Freund gleich völlig auf die Hhöhe fähren,</span><br />
+<span class='ocr_line' title='bbox 193 307 978 351'>damit er nicht glaube, dieses beschränkte Thal</span><br />
+</div>
+</body>
+</html>
+

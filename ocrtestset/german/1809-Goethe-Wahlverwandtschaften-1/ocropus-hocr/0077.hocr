@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0077.tif'>
+<span class='ocr_line' title='bbox 563 1692 607 1721'>-o</span><br />
+<p />
+<span class='ocr_line' title='bbox 179 1592 982 1639'>samste Weise Epoche gemacht. Doch als die</span><br />
+<span class='ocr_line' title='bbox 180 1529 981 1577'>ser schwieg und einer traurigen Erinerung</span><br />
+<span class='ocr_line' title='bbox 178 1465 981 1516'>auszuweichen schien, hielt Eduard gleichfalls</span><br />
+<span class='ocr_line' title='bbox 179 1404 984 1453'>an, so wie auch Charlotte, die nicht weniger</span><br />
+<span class='ocr_line' title='bbox 181 1344 985 1394'>im Allgemeinen davon unterrichtet war, über</span><br />
+<span class='ocr_line' title='bbox 178 1281 698 1327'>jene Aeußerungen hinausging.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 1196 984 1237'>Wir wollen alle diese vorsorglichen Ans</span><br />
+<span class='ocr_line' title='bbox 179 1129 984 1182'>sialten loben, sagte eines Abends der HHaupt-</span><br />
+<span class='ocr_line' title='bbox 179 1064 985 1107'>mann; nmn geht uns aber das Nothwendigste</span><br />
+<span class='ocr_line' title='bbox 179 994 984 1045'>noch ab, ein tüchtger Mann, der das alles</span><br />
+<span class='ocr_line' title='bbox 179 936 985 980'>zu handhaben weis. - Ich kann hieza ainen</span><br />
+<span class='ocr_line' title='bbox 179 877 984 918'>mlr bekannten Feldchirurgus vorschlagen, der</span><br />
+<span class='ocr_line' title='bbox 177 818 983 860'>jetzt um leidliche Bedkngung zu haben ist, ein</span><br />
+<span class='ocr_line' title='bbox 176 757 982 799'>vorzüglicher Mdann in feinem Fache, und der</span><br />
+<span class='ocr_line' title='bbox 176 693 982 738'>mir auch in Behandlung heftiger innerer Ne-</span><br />
+<span class='ocr_line' title='bbox 175 628 980 675'>bel öfters mehr Genüge gethan hat als ein</span><br />
+<span class='ocr_line' title='bbox 174 566 979 613'>berühmter Arzt; und augenblickliche Hülfe ist</span><br />
+<span class='ocr_line' title='bbox 174 504 978 549'>doch immer das, was auf dem Lande am</span><br />
+<span class='ocr_line' title='bbox 174 443 572 485'>meisten vermißt wird.</span><br />
+<p />
+<span class='ocr_line' title='bbox 240 342 977 387'>Aich dieser wurde sogleich verschrieben</span><br />
+<span class='ocr_line' title='bbox 171 278 976 325'>und beyde Gatten freuten sich, daß ste so</span><br />
+</div>
+</body>
+</html>
+

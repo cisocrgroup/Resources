@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0088.tif'>
+<span class='ocr_line' title='bbox 183 1593 983 1643'>Massen, die in der Welt sich einander gegene</span><br />
+<span class='ocr_line' title='bbox 182 1532 985 1582'>über stellen, die Stände, die Berufsbestlm-</span><br />
+<span class='ocr_line' title='bbox 181 1472 982 1520'>mungen, der Adel und der dritte Stand,</span><br />
+<span class='ocr_line' title='bbox 181 1419 679 1462'>der Soldat und der Eivilist.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 1291 983 1345'>Und doch, versetzte Kduard, wie dlese</span><br />
+<span class='ocr_line' title='bbox 179 1233 980 1280'>durch Sitten und Gesetze vereinbar sind, so</span><br />
+<span class='ocr_line' title='bbox 176 1174 980 1216'>giebt es auch in unserer chemischen Welt Mie</span><br />
+<span class='ocr_line' title='bbox 176 1106 980 1151'>telglieder, dasjenige zu verbinden, was sich</span><br />
+<span class='ocr_line' title='bbox 176 1046 466 1088'>einander abweist.</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 919 979 967'>So verbinden wir, fiel der Hhauptmann</span><br />
+<span class='ocr_line' title='bbox 175 856 975 914'>ein, das Oel durch Laugensalz mit. dem</span><br />
+<span class='ocr_line' title='bbox 176 810 301 849'>Wasser.</span><br />
+<p />
+<span class='ocr_line' title='bbox 241 678 976 729'>Nur nicht zu geschwind mit Ihrem Vor-</span><br />
+<span class='ocr_line' title='bbox 174 615 974 659'>trag, sagte Charlotte, damit ich zeigen kann,</span><br />
+<span class='ocr_line' title='bbox 174 552 974 596'>daß ich Schritt halte. Sind wir nicht hier</span><br />
+<span class='ocr_line' title='bbox 172 487 868 533'>schon zu den Verwandtschaften gelangt?</span><br />
+<p />
+<span class='ocr_line' title='bbox 240 362 973 410'>Ganz richtig, erwiederte der Hauptmann,</span><br />
+<span class='ocr_line' title='bbox 171 298 972 345'>und wir werden sie gleich in ihrer vollen</span><br />
+</div>
+</body>
+</html>
+

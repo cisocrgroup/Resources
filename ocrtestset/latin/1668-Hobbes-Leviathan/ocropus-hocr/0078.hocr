@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0078.tif'>
+<span class='ocr_line' title='bbox 304 2762 376 2815'>7o</span><br />
+<span class='ocr_line' title='bbox 935 2786 1266 2837'>De Iomine.</span><br />
+<span class='ocr_line' title='bbox 1680 2762 1908 2839'>Cap.1a.</span><br />
+<span class='ocr_line' title='bbox 304 2688 1909 2752'>vel locum Dei teneat, impoſſibile eſt; aliter enim, an Deus etiam</span><br />
+<span class='ocr_line' title='bbox 301 2623 1908 2688'>pactus ſit, nec ne ignoramus. Itaque qui vovet Deo aliquid, quod</span><br />
+<span class='ocr_line' title='bbox 304 2562 1910 2626'>contra Legem Naturalem ſit, fruſtra vovet, quia illicitum eſt; Sin</span><br />
+<span class='ocr_line' title='bbox 304 2499 1908 2563'>Lege NNaturali mandatum ſit fruſtra eſt, quia Vovens, non Voto ſuo,</span><br />
+<span class='ocr_line' title='bbox 304 2435 951 2501'>ſed Naturæ Lege obligatur.</span><br />
+<span class='ocr_line' title='bbox 364 2375 1910 2440'>Mſateria, ſive objectum Pactorum ſemper aliquid eſt, de quo deli-</span><br />
+<span class='ocr_line' title='bbox 307 2312 1906 2376'>berari poteſt, propterea quod Deliberatio, quæ eſt actus Voluntatis,</span><br />
+<span class='ocr_line' title='bbox 306 2249 1910 2313'>intelligitur ſemper de futuro, \&amp; de eo, quod à Paciſcente fieri poſſi-</span><br />
+<span class='ocr_line' title='bbox 306 2203 677 2250'>bile exiſtimatur.</span><br />
+<span class='ocr_line' title='bbox 368 2124 1908 2192'>Itaque Promittere ea, quæ Impoſſibilia eſſe ſcimus, Paciſci non</span><br />
+<span class='ocr_line' title='bbox 304 2062 1909 2126'>eſt. At ſi contingat, poſt Impoſſibile eſſe, quod credebatur Polſibile,</span><br />
+<span class='ocr_line' title='bbox 304 1999 1911 2064'>Pactum validum eſt, obligatque ad præſtandum (non rem Promiſ-</span><br />
+<span class='ocr_line' title='bbox 303 1937 1910 2002'>ſam) ſed tantundem; ſin hoc quoque ſit Impoſſibile; ad conatum</span><br />
+<span class='ocr_line' title='bbox 303 1877 914 1939'>præſtandi quantum poteſt.</span><br />
+<span class='ocr_line' title='bbox 367 1815 1911 1878'>Pactis liberamur duobus modis, ſi præſtiterimus, vel ſi condona-</span><br />
+<span class='ocr_line' title='bbox 306 1760 1910 1815'>tum ſit. Eſt enim Præſtatio omnis Pacti terminus naturalis;Con-</span><br />
+<span class='ocr_line' title='bbox 306 1690 1909 1754'>donatio autem eſt Libertatis reſtitutio, ſive remiſſio Iuris obligetio-</span><br />
+<span class='ocr_line' title='bbox 307 1643 735 1689'>nem conſtituentis.</span><br />
+<span class='ocr_line' title='bbox 371 1572 1908 1629'>Pactum etiamſi NVetu extortum ſit, in conditione tamen homi-</span><br />
+<span class='ocr_line' title='bbox 309 1502 1910 1566'>nnum naturali validum eſt ut ſi paciſcar cum hoſte, ſervandæ vitæ</span><br />
+<span class='ocr_line' title='bbox 308 1440 1908 1502'>cauaa, pecuniam dare, præſtare teneor. Contractus enim eſt, in quo</span><br />
+<span class='ocr_line' title='bbox 306 1379 1910 1441'>alter Ius in Vitam, alter in Pecuniam transfert. Itaque ubi nulla Lex</span><br />
+<span class='ocr_line' title='bbox 307 1314 1909 1379'>alia ſit (ut in conditione naturali) quæ Præſtationem prohibeat, Pa-</span><br />
+<span class='ocr_line' title='bbox 306 1252 1913 1318'>ctum validum eſt. Sic bello captus, ſi libertatem ea conditione acce-</span><br />
+<span class='ocr_line' title='bbox 308 1192 1910 1255'>perit, ut pretium redemptionis poſt ſolvat, ſolvere obligatur. Etiam</span><br />
+<span class='ocr_line' title='bbox 310 1129 1911 1194'>Princeps cum Principe fortiore, ſi Pacem incommodam Metu fece-</span><br />
+<span class='ocr_line' title='bbox 309 1069 1911 1131'>rit, obſervare debet, niſi (ut ſupradictum eſt) cauſa aliqua nova \&amp; ju-</span><br />
+<span class='ocr_line' title='bbox 308 1006 1912 1070'>ſta oriatur, quæ excuſet. Item in Civitateſi à Latrone vitam redime-</span><br />
+<span class='ocr_line' title='bbox 306 945 1912 1009'>re promiſſà pecunià coactus fuero, præſtanda pecunia eſt, niſi Lex</span><br />
+<span class='ocr_line' title='bbox 309 883 1911 947'>Civilis prohibeat. Quicquid enim facere licitum eſt non obligato,</span><br />
+<span class='ocr_line' title='bbox 308 820 1912 884'>idem licitè paciſci poſſum propter Metumo. Quod autem licitum eſt</span><br />
+<span class='ocr_line' title='bbox 308 758 1089 821'>paciſci, illicitum eſt non præſtare.</span><br />
+<span class='ocr_line' title='bbox 368 694 1911 760'>Pactum prius poſterius invalidum reddit. Iure enim quod quis</span><br />
+<span class='ocr_line' title='bbox 306 640 980 694'>tranſtulit hodie, cras carebit.</span><br />
+<span class='ocr_line' title='bbox 368 569 1911 636'>Si quis ſe ſeipſum non defenſurum eſſe contra vim paciſcatur, Pa-</span><br />
+<span class='ocr_line' title='bbox 308 509 1911 573'>ctum invalidum eſt. Nam (ut ante oſtenſum eſt) Ius ſe defendendi</span><br />
+<span class='ocr_line' title='bbox 307 445 1913 509'>contra Nortem intentatam, vulnera, incarcerationem (quorum fu-</span><br />
+<span class='ocr_line' title='bbox 305 383 1911 446'>giendorum causà Ius in omnia naturali depoſitum eſt) deponere ne-</span><br />
+<span class='ocr_line' title='bbox 303 317 1914 384'>mo poteſt. Nam etſi aliquis recte paciſci poſſit ſic, Niſi hoc vel ilud</span><br />
+<span class='ocr_line' title='bbox 295 255 1913 320'>fecero occide, paciſci tamenu non poteſt ſic, Niſi hoc velillud fecero, o~ci-</span><br />
+<span class='ocr_line' title='bbox 1821 201 1911 260'>ſuro</span><br />
+</div>
+</body>
+</html>
+

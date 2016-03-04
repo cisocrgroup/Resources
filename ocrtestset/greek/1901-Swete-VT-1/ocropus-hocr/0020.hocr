@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0020.tif'>
+<span class='ocr_line' title='bbox 1427 3898 1507 3944'>1Vi</span><br />
+<p />
+<span class='ocr_line' title='bbox 416 3732 2518 3805'>to possess any special interest or in words which are of rare occurrence</span><br />
+<span class='ocr_line' title='bbox 418 3653 2519 3724'>in the Septuagint, and itacisms or apparent errors of the scribe under</span><br />
+<span class='ocr_line' title='bbox 420 3576 2517 3645'>which a true variant may possibly lurk, or which are characteristic of the</span><br />
+<span class='ocr_line' title='bbox 420 3493 2519 3561'>S. or of its paligraphy, have been allowed to retain their place among</span><br />
+<span class='ocr_line' title='bbox 419 3416 2517 3480'>the textual notes. Moreover, a rejected spelling has usually been exhibited</span><br />
+<span class='ocr_line' title='bbox 419 3330 2517 3398'>at the foot of the page when it affects a word which for some other reason</span><br />
+<span class='ocr_line' title='bbox 418 3249 2519 3317'>had found a place there, or when it occurs in the course of a substantial</span><br />
+<span class='ocr_line' title='bbox 419 3168 2518 3233'>ariant. In permitting these exceptions it has been difficult to be con-</span><br />
+<span class='ocr_line' title='bbox 416 3088 2523 3148'>sistent, but care has been taken to secure that all the substantial variations</span><br />
+<span class='ocr_line' title='bbox 417 3003 2522 3066'>are included in the textual notes, while on the other hand unimportant</span><br />
+<span class='ocr_line' title='bbox 418 2923 2523 2985'>Variations which have been givcn in the notes are not repeated in the</span><br />
+<span class='ocr_line' title='bbox 419 2840 2525 2903'>Appendix. The use of the textual notes alone will enable the reader to</span><br />
+<span class='ocr_line' title='bbox 415 2758 2524 2820'>judge of all questions which affect the text, so far as they are touched</span><br />
+<span class='ocr_line' title='bbox 420 2677 2521 2740'>by the MSS. employed : the Appendix will, if he chooses t refer to it,</span><br />
+<span class='ocr_line' title='bbox 422 2516 2527 2659'>ΣΣ.ΣΩ</span><br />
+<p />
+<span class='ocr_line' title='bbox 512 2177 2522 2241'>The letter exterior to the first line of text on each page is the symbol of</span><br />
+<span class='ocr_line' title='bbox 415 2094 2519 2157'>the MS. upon which the text of that pagc is based. In the rare instances</span><br />
+<span class='ocr_line' title='bbox 415 2014 2517 2077'>where the text of a single pagc is supplied partly by one MS. partly by</span><br />
+<span class='ocr_line' title='bbox 415 1935 2518 1998'>another, the symbols of both MSS. are placed in this position side by side</span><br />
+<span class='ocr_line' title='bbox 414 1855 1574 1916'>but enclosed in separate pairs of brackets.</span><br />
+<p />
+<span class='ocr_line' title='bbox 514 1774 2518 1836'>Similarly, the letter or letters exterior to the first line of textual notes on</span><br />
+<span class='ocr_line' title='bbox 416 1691 2519 1754'>each page must be taken to represent the MS.or MSS.from which variants</span><br />
+<span class='ocr_line' title='bbox 416 1608 1964 1673'>have been collected for that pagc or for some part of it.</span><br />
+<p />
+<span class='ocr_line' title='bbox 511 1416 2516 1487'>Τhe point in the text at which any MS. begins or breaks off is marked</span><br />
+<span class='ocr_line' title='bbox 415 1327 2520 1406'>by the sign or u, which is repeated in the margin together with the</span><br />
+<span class='ocr_line' title='bbox 417 1251 2519 1325'>symbol of the particular MS. When the beginning or the break occurs in</span><br />
+<span class='ocr_line' title='bbox 418 1180 2522 1243'>the middle of a word, the first or last letter which the MS. exhibits is to be</span><br />
+<span class='ocr_line' title='bbox 419 1087 2522 1162'>gathered from the textual notes. All the Icaaae are noted in this way, as</span><br />
+<span class='ocr_line' title='bbox 420 1008 2523 1078'>well as the starting point of each MS. and the place at which its testimony</span><br />
+<span class='ocr_line' title='bbox 421 925 901 989'>ceses altogether.</span><br />
+<p />
+<span class='ocr_line' title='bbox 509 726 2516 789'>Tn distinguishing the hands ʼ, a ʼsuperior has been used to denote</span><br />
+<span class='ocr_line' title='bbox 414 641 2517 708'>corrections of the original scribe (a 1 by himself or by a contemporay</span><br />
+<span class='ocr_line' title='bbox 414 562 2506 625'>whose writing is not distinguishable from his own; a, b, ', are the second,</span><br />
+<span class='ocr_line' title='bbox 414 479 2514 544'>third and fourth hands respectively; represents the testimony of the</span><br />
+</div>
+</body>
+</html>
+

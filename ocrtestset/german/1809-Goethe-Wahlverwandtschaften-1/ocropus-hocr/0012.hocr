@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0012.tif'>
+<span class='ocr_line' title='bbox 268 1593 1002 1643'>Geh zu ihr, sagte Eduard,s und ersuche</span><br />
+<span class='ocr_line' title='bbox 198 1530 998 1578'>sie, auf mich zu warten. Sage ihr, ich</span><br />
+<span class='ocr_line' title='bbox 194 1467 998 1518'>wünsche die neue Schöpfung zu sehen und</span><br />
+<span class='ocr_line' title='bbox 192 1414 606 1456'>mich daran zt erfreuen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 255 1284 990 1333'>Der Gärtner entfernte sich eilig und</span><br />
+<span class='ocr_line' title='bbox 186 1228 524 1270'>Eduard folgte bald.</span><br />
+<p />
+<span class='ocr_line' title='bbox 249 1093 985 1139'>Dleser stieg nun die Terrassen hinunter,</span><br />
+<span class='ocr_line' title='bbox 179 1028 983 1073'>musterte, im Vorbeygehen, Gewächshäuser</span><br />
+<span class='ocr_line' title='bbox 176 968 980 1010'>und Treibebeete, bis er ans Wasser, dann</span><br />
+<span class='ocr_line' title='bbox 174 894 974 947'>ber einen Steg an den Ort kam, wo sich</span><br />
+<span class='ocr_line' title='bbox 172 843 974 892'>der Pfad nach den neuen Anlagen in zwey</span><br />
+<span class='ocr_line' title='bbox 168 782 970 825'>Arme theilte. Den einen, der über den</span><br />
+<span class='ocr_line' title='bbox 168 716 967 762'>Kirchhof ziemlich gerade nach der Felswand</span><br />
+<span class='ocr_line' title='bbox 166 646 967 697'>hitging, ließ er liegen um den andern ein-</span><br />
+<span class='ocr_line' title='bbox 163 590 964 634'>zuschlagen, der sich links etwas weiter durch</span><br />
+<span class='ocr_line' title='bbox 162 528 962 574'>anmuuthiges Gebüsch sachte hinauswand; da</span><br />
+<span class='ocr_line' title='bbox 159 464 960 509'>wo beyde zusammentrafen, setzte er sich für</span><br />
+<span class='ocr_line' title='bbox 157 403 958 450'>einen Augenblic? auf einer wohlangebrachten</span><br />
+<span class='ocr_line' title='bbox 155 340 954 384'>Bank nieder, betrat sodann den eigentlichen</span><br />
+<span class='ocr_line' title='bbox 153 275 955 322'>Stieg, und sah sich durch allerley Treppen</span><br />
+<p />
+<span class='ocr_line' title='bbox 185 90 224 123'>,O</span><br />
+</div>
+</body>
+</html>
+

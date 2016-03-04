@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/025.tif'>
+<span class='ocr_line' title='bbox 1208 4508 1482 4563'>Liber IL</span><br />
+<span class='ocr_line' title='bbox 2371 4494 2466 4589'>25</span><br />
+<p />
+<span class='ocr_line' title='bbox 228 4304 2456 4390'>dignns a nobis est' tantoram ob munerum. gratiam deus dici</span><br />
+<span class='ocr_line' title='bbox 229 4201 2456 4286'>densque sentiri? si enim uos Liberum, quod usum reppererit</span><br />
+<span class='ocr_line' title='bbox 229 4100 2454 4185'>uini, si quod panis, Cererem, si \&amp;esculapinm, quod herbarum,</span><br />
+<span class='ocr_line' title='bbox 231 3998 2458 4081'>si Mineraam, quod oleae, si Triptolemum, quod aratri, si</span><br />
+<span class='ocr_line' title='bbox 185 3885 2456 3978'>s denique Herculem, quod feras, quod fares, quod multiplicium</span><br />
+<span class='ocr_line' title='bbox 231 3790 2458 3874'>capitam superauit conpesouitque natrices, diuorum retalistis in</span><br />
+<span class='ocr_line' title='bbox 231 3688 2460 3771'>censum: honoribs quantis adficiendus est nobis, qui ab errori-</span><br />
+<span class='ocr_line' title='bbox 231 3583 2460 3668'>bus nos magnis insinnata ueritate traduxit, qui uelut caecos</span><br />
+<span class='ocr_line' title='bbox 231 3480 2605 3568'>psssim ao sine ullo rectore gra]dientes ab deruuptis, ab deuiist. i4</span><br />
+<span class='ocr_line' title='bbox 163 3378 2462 3462'>oloeis planioribuus reldilit, qui, quod frugiferum primo atque</span><br />
+<span class='ocr_line' title='bbox 233 3273 2461 3360'>humano generi salutare, dens monstranit quil sit, quis, quan-</span><br />
+<span class='ocr_line' title='bbox 168 3171 2554 3257'>tus et qualis, qui profandas eins atque inenarrabiles altitudines,'</span><br />
+<span class='ocr_line' title='bbox 235 3069 2462 3156'>quantum nostra quinit mediocritas, capere et intellegere per-</span><br />
+<span class='ocr_line' title='bbox 234 2968 2466 3050'>misit et docuit, qui quo auctore, qu0 patre mundus iste sit</span><br />
+<span class='ocr_line' title='bbox 167 2863 2465 2950'>>oonstitatus et conditus, fecit benignissime sciri, qui natinitatis</span><br />
+<span class='ocr_line' title='bbox 240 2761 2464 2845'>eins erprompsit genus et nulliuus aliquando oognitione prae-</span><br />
+<span class='ocr_line' title='bbox 237 2657 2632 2742'>sumptam materiam illius, unde ignibus solis genitalis feruor'</span><br />
+<span class='ocr_line' title='bbox 192 2556 2468 2640'>adscitas, our lana semper in motu, isdemne quis oreditur an</span><br />
+<span class='ocr_line' title='bbox 241 2453 2468 2537'>aliis causis lucem semper atque obscuritatem resumens, ani-</span><br />
+<span class='ocr_line' title='bbox 167 2348 2468 2434'>w malinm origo quae sit, rationes quas habeant semina, quis</span><br />
+<span class='ocr_line' title='bbox 239 2246 2468 2331'>ipsum finxerit hominem, quis informarit uel ez materiae quo</span><br />
+<span class='ocr_line' title='bbox 239 2143 2470 2227'>genere constructionem ipsam confirmauerit corporum, quidd sit</span><br />
+<span class='ocr_line' title='bbox 241 2039 2469 2122'>Bensus, quid anima, aduolaritne ad nos sponte an oum ipsis</span><br />
+<span class='ocr_line' title='bbox 243 1934 2470 2022'>sata sit et prooreata uisceribus, mortis partioeps degat an</span><br />
+<span class='ocr_line' title='bbox 171 1833 2466 1918'>winmortalitatis perpetaitate donata sit, qui status nos maneat,</span><br />
+<span class='ocr_line' title='bbox 241 1736 2470 1815'>onnm dissoluutis abierimus a membris, uisurine nos simus an</span><br />
+<span class='ocr_line' title='bbox 243 1627 2470 1712'>memoriam nullam nostri sensus et recordationis habituri qui</span><br />
+<span class='ocr_line' title='bbox 312 1435 2336 1490'>3 asererem P 4 minerbam P corr olaeae P corr</span><br />
+<span class='ocr_line' title='bbox 241 1335 2466 1406'>Triptolemum Gel : treptolemum P Neoptolemum Sab 7 censum]</span><br />
+<span class='ocr_line' title='bbox 240 1250 2472 1320'>coetum Sab 9 ab dernptis P 11 generis P 16 oognitione Gel:</span><br />
+<span class='ocr_line' title='bbox 242 1163 2350 1234'>oognatione P praesumptam materiam Gel: praesumptum materia P</span><br />
+<span class='ocr_line' title='bbox 244 1076 2472 1148'>18 alscitas Rigaltiss: adscitnr P adsciscittur Drs in motn] in mw-</span><br />
+<span class='ocr_line' title='bbox 239 993 2472 1062'>tuis Salm isdemne quis credittr Vahlemus: isdem. (idem corr) ne-</span><br />
+<span class='ocr_line' title='bbox 242 909 2472 978'>quis creditur P ilem ne quis creditur Sab indemnis creditur Gel ilemne</span><br />
+<span class='ocr_line' title='bbox 241 823 2472 893'>orbis redditar Urs (in mntuis) damnis ac crementis Salm ileis nouis</span><br />
+<span class='ocr_line' title='bbox 242 737 2354 808'>cernitur MMeursius an aliis scripsi: animalibus P annualibus Salm</span><br />
+<span class='ocr_line' title='bbox 240 663 2333 721'>90 sit P habeant \&amp;ab: habent P 22 conformanerit Urs</span><br />
+<span class='ocr_line' title='bbox 241 579 2192 635'>266 dissolustis P uictarine Sab simus Sab: snmus P</span><br />
+</div>
+</body>
+</html>
+

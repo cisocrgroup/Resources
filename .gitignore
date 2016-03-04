@@ -4,3 +4,5 @@
 *.binfrq
 */latin/modern.txt
 *~
+*db
+*ocrproject

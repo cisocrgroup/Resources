@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0020.tif'>
+<span class='ocr_line' title='bbox 591 1695 629 1722'>1a</span><br />
+<p />
+<span class='ocr_line' title='bbox 223 1593 986 1646'>genlvärtiges, auf unser vergangenes Leben</span><br />
+<span class='ocr_line' title='bbox 223 1541 986 1590'>wersen, und du wirst mir eingestehen, daß</span><br />
+<span class='ocr_line' title='bbox 222 1481 985 1530'>dle Beufung des Hauptmanns nicht so ganz</span><br />
+<span class='ocr_line' title='bbox 221 1423 986 1466'>mit unsern Vorsähen; unsern Planen, unsern</span><br />
+<span class='ocr_line' title='bbox 220 1361 717 1405'>Einrichtungen zusammentrifft.</span><br />
+<p />
+<span class='ocr_line' title='bbox 279 1244 583 1286'>Mag ich doch so</span><br />
+<span class='ocr_line' title='bbox 212 1181 592 1223'>Verhältnisse gedenken!</span><br />
+<span class='ocr_line' title='bbox 213 1120 588 1160'>als junge Leute recht</span><br />
+<span class='ocr_line' title='bbox 613 1243 983 1283'>gern unserer frühsten</span><br />
+<span class='ocr_line' title='bbox 615 1187 983 1222'>Wir liebten einander</span><br />
+<span class='ocr_line' title='bbox 617 1117 983 1159'>herzlich; wir wurden</span><br />
+<p />
+<span class='ocr_line' title='bbox 211 1059 981 1097'>getrennt: du von mir, weil dein Vater, aus</span><br />
+<span class='ocr_line' title='bbox 211 996 979 1037'>nie zu sättigender Begierde -des Besitzes, dlch</span><br />
+<span class='ocr_line' title='bbox 210 936 978 977'>mit einer ziemlich älteren reichen Frau ver-</span><br />
+<span class='ocr_line' title='bbox 208 881 976 920'>band; ich von dir, well ich, ohne sonderli-</span><br />
+<span class='ocr_line' title='bbox 207 820 975 863'>che Aussichten, einem wohlhabenden, nicht gee</span><br />
+<span class='ocr_line' title='bbox 208 762 975 804'>liebten aber geehrten Manne meine Hhand rei-</span><br />
+<span class='ocr_line' title='bbox 207 698 973 742'>chen mußte. Wir wurden wieder frey; du</span><br />
+<span class='ocr_line' title='bbox 204 636 971 682'>früher, indem dich dein Mütterchen im Besiz</span><br />
+<span class='ocr_line' title='bbox 206 566 970 620'>eines großen Vermögens ließ; ich später, eben</span><br />
+<span class='ocr_line' title='bbox 201 515 969 565'>zu der Zeit, da du von Reisen zurückkamst.</span><br />
+<span class='ocr_line' title='bbox 202 458 968 500'>So fanden wir uns wieder. Wir sreuten' nns</span><br />
+<span class='ocr_line' title='bbox 201 396 966 438'>der Erinnerung, wir liebten die Erinnerung,</span><br />
+<span class='ocr_line' title='bbox 199 336 965 377'>wir konnten ungestört zusammen leben. Du</span><br />
+</div>
+</body>
+</html>
+

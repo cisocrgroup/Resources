@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0056.tif'>
+<span class='ocr_line' title='bbox 562 1692 608 1722'>4</span><br />
+<p />
+<span class='ocr_line' title='bbox 188 1599 976 1646'>chen zufiel, lag eine Mühle halb versteckt,</span><br />
+<span class='ocr_line' title='bbox 187 1540 978 1584'>die mit ihren Umgebungen als ein sreundli</span><br />
+<span class='ocr_line' title='bbox 184 1478 976 1524'>ches Ruheplätchen erschien. Mannigfaltig</span><br />
+<span class='ocr_line' title='bbox 183 1423 978 1466'>wechselten im ganzen Halbkreise den man über-</span><br />
+<span class='ocr_line' title='bbox 183 1356 989 1406'>sah, Tiefen und Pöhen, Büsche und Wälder,</span><br />
+<span class='ocr_line' title='bbox 181 1301 975 1346'>deren erstes rün für die Folge den füllereich-</span><br />
+<span class='ocr_line' title='bbox 180 1242 973 1290'>sten Anblick versprach. Auch einzelne Baum-</span><br />
+<span class='ocr_line' title='bbox 179 1179 973 1223'>gruppen hielten an mancher Stelle das Auge</span><br />
+<span class='ocr_line' title='bbox 178 1114 971 1158'>fest. Besonders zeichnete zu den Füßen der</span><br />
+<span class='ocr_line' title='bbox 176 1053 970 1095'>schauenden Freunde sich eine Masse Pappeln</span><br />
+<span class='ocr_line' title='bbox 177 990 969 1034'>und Platanen zunächst an dem Rande des</span><br />
+<span class='ocr_line' title='bbox 174 930 969 973'>mittleren Teiches vortheilhaft aus. Sie stand</span><br />
+<span class='ocr_line' title='bbox 174 874 965 914'>in ihrem besten Wachsthum, frisch, gesund,</span><br />
+<span class='ocr_line' title='bbox 176 816 770 856'>empor und in die Breite strebend.</span><br />
+<p />
+<span class='ocr_line' title='bbox 240 690 964 734'>Ednard lenkte besonders auf diese die Auf-</span><br />
+<span class='ocr_line' title='bbox 171 627 961 672'>merksamkeit seines Freundes. Diese habe ich,</span><br />
+<span class='ocr_line' title='bbox 171 563 960 609'>rief er aus, in meiner Juugend selbst gepflanzt.</span><br />
+<span class='ocr_line' title='bbox 171 501 960 544'>Es waren junge Stämmchen, die ich rettete,</span><br />
+<span class='ocr_line' title='bbox 170 439 960 484'>als mein Vater, bey der Anlage zu einem</span><br />
+<span class='ocr_line' title='bbox 169 375 960 422'>nenen Theil des großen Schlosgartens, sie</span><br />
+<span class='ocr_line' title='bbox 167 318 963 356'>mitten im Sommer - ausroden ließ. Ohne</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0034.tif'>
+<span class='ocr_line' title='bbox 559 1695 600 1722'>a?</span><br />
+<p />
+<span class='ocr_line' title='bbox 194 1601 967 1646'>mer nur chymnen sind über die Vortrefflichkeit</span><br />
+<span class='ocr_line' title='bbox 193 1543 968 1584'>eines solchen Kindes, die ich denn recht guk</span><br />
+<span class='ocr_line' title='bbox 193 1482 967 1535'>in meine Prose zu überseßen weiß: so ist da-</span><br />
+<span class='ocr_line' title='bbox 191 1423 967 1468'>gegen, was sie schließlich von Ottilien er-</span><br />
+<span class='ocr_line' title='bbox 190 1365 968 1409'>wähnt, nur immer Entschuldigung auf Ene</span><br />
+<span class='ocr_line' title='bbox 190 1304 968 1349'>schuldigung, daß ein übrigens so schön heran-</span><br />
+<span class='ocr_line' title='bbox 189 1248 968 1291'>wachsendes Mädchen sich nicht entwickeln, keine</span><br />
+<span class='ocr_line' title='bbox 190 1182 963 1227'>Fähigkeiten und keine Fertigkeiten zeigen wolle.</span><br />
+<span class='ocr_line' title='bbox 191 1120 966 1164'>Das wenige was sie sonst noch hinzufügt ist</span><br />
+<span class='ocr_line' title='bbox 188 1060 967 1101'>gleichfalls für mich kein Räthsel, weil ich in</span><br />
+<span class='ocr_line' title='bbox 191 997 968 1040'>diesem lieben Kinde den ganzen Character ihe</span><br />
+<span class='ocr_line' title='bbox 188 931 967 981'>rer Mutter, meiner werthesten Freundinn,</span><br />
+<span class='ocr_line' title='bbox 188 883 967 931'>gewahr werde, die sich neben umir entwickelt</span><br />
+<span class='ocr_line' title='bbox 188 822 966 865'>hat und deren Tochter ich gewiß, wenn ich</span><br />
+<span class='ocr_line' title='bbox 191 759 965 804'>Erzieherinn oder Aufseherinn seyn könnte, zu</span><br />
+<span class='ocr_line' title='bbox 188 698 962 743'>einem herrlichen Geschöpf herausbilden wollte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 256 576 964 616'>Da esaber einmal nicht in unsern Plan</span><br />
+<span class='ocr_line' title='bbox 189 512 964 555'>geht, und man an seinen Lebensverhältnissen</span><br />
+<span class='ocr_line' title='bbox 190 449 965 491'>nicht so viel zupfen und zerren, nicht immer</span><br />
+<span class='ocr_line' title='bbox 189 386 961 432'>was neues an sie heranziehen soll; so' trag ich</span><br />
+<span class='ocr_line' title='bbox 191 326 963 368'>das lieber, ja ich überwinde die unangenehme</span><br />
+</div>
+</body>
+</html>
+

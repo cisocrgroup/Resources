@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0008.tif'>
+<span class='ocr_line' title='bbox 249 2748 1956 2841'>favere videbuntur, homines noſtri quid ſenſuri ſint,</span><br />
+<span class='ocr_line' title='bbox 250 2658 1957 2750'>ut nunc ſunt tempora, incertum eſt. Nam inter</span><br />
+<span class='ocr_line' title='bbox 250 2569 1958 2658'>mucrones pugnantium de Poteſtate Summa, non</span><br />
+<span class='ocr_line' title='bbox 251 2502 1958 2570'>facile eſt incedere ſine vulnere. Cauſam tamen cur</span><br />
+<span class='ocr_line' title='bbox 250 2388 1957 2481'>pars utravis ſuccenſeret mihi, nullam video. Quid</span><br />
+<span class='ocr_line' title='bbox 250 2298 1958 2390'>enim facio, præterquam quod Poteſtatem Civilem,</span><br />
+<span class='ocr_line' title='bbox 254 2207 1954 2299'>(quam quicunque poſſidebit, maximam eſſe volet)</span><br />
+<span class='ocr_line' title='bbox 253 2116 1961 2208'>quantum poſſum magnifico. Neque de ſure homi-</span><br />
+<span class='ocr_line' title='bbox 252 2027 1960 2119'>num, ſen de lure ſimgliciter diſputo; quemalmo-</span><br />
+<span class='ocr_line' title='bbox 254 1938 1959 2029'>dum Anſeres quondamn Capitolini ad ſcandentium</span><br />
+<span class='ocr_line' title='bbox 251 1849 1964 1940'>ſtrepitum, tannim clango. Diſplicebit etiam for-</span><br />
+<span class='ocr_line' title='bbox 251 1760 1960 1850'>taſſe non paucis, quod loca quæedam Scripturæ Sa-</span><br />
+<span class='ocr_line' title='bbox 250 1673 1960 1763'>cræe, aliter interpretari auſus ſim, quam ab aliis ex-</span><br />
+<span class='ocr_line' title='bbox 251 1580 1961 1673'>plicari ſoleant. Id quod non modo (in ordine ad</span><br />
+<span class='ocr_line' title='bbox 252 1492 1962 1584'>opus inſtitutum) neceſſariò feci, (quia loca illa Po.</span><br />
+<span class='ocr_line' title='bbox 252 1402 1960 1493'>teſtatem Civilem oppugnantia, quaſi Inimicorum,</span><br />
+<span class='ocr_line' title='bbox 252 1314 1963 1405'>mœenibus Civitatis quam obſident, admotæ turres</span><br />
+<span class='ocr_line' title='bbox 251 1222 1961 1315'>ſunr ſed etiam ne quid contra Doctrinam Eccteſiæe</span><br />
+<span class='ocr_line' title='bbox 249 1132 1964 1225'>noſtræ publicam ſcriberem (diſſentire enim à fin-</span><br />
+<span class='ocr_line' title='bbox 249 1043 1962 1135'>gularibus licitum eſt) diligenter cavi. Sin neque ad</span><br />
+<span class='ocr_line' title='bbox 251 955 1962 1046'>hæc miteſcant reprehenſores mei, teipſum tamen</span><br />
+<span class='ocr_line' title='bbox 253 866 1964 956'>rectè \&amp; facilè excuſabis; Dices enim (ſi vis) homi-</span><br />
+<span class='ocr_line' title='bbox 252 774 1962 866'>nem eſſe me, qui mea amem, \&amp; quicquid dicam</span><br />
+<span class='ocr_line' title='bbox 251 684 1964 776'>verum eſſe putem, quod fratrem tuum coluerim, S</span><br />
+<span class='ocr_line' title='bbox 252 593 1908 688'>te colam,eoque ſretus, inconſulto te,ſubſcripſerim</span><br />
+<span class='ocr_line' title='bbox 954 460 1744 521'>Servus tuus humilimc devotus</span><br />
+<span class='ocr_line' title='bbox 1177 300 1953 369'>ns o a as H o nsE3.</span><br />
+</div>
+</body>
+</html>
+

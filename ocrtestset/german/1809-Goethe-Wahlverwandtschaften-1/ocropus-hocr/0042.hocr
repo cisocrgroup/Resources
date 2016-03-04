@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0042.tif'>
+<span class='ocr_line' title='bbox 566 1695 616 1721'>ac</span><br />
+<p />
+<span class='ocr_line' title='bbox 193 1597 978 1643'>zusammen, und seht wie schön Charlotte diese</span><br />
+<span class='ocr_line' title='bbox 192 1542 648 1584'>Trauer ausgeschmückt hat.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1417 975 1465'>HHier herein, rief der Reiter, komm ich</span><br />
+<span class='ocr_line' title='bbox 188 1355 973 1406'>weder zul Pserde, noch zu Wagen, noch zu</span><br />
+<span class='ocr_line' title='bbox 184 1300 973 1345'>Fuße. Dlese da ruhen in Frieden, mic ihnen</span><br />
+<span class='ocr_line' title='bbox 185 1241 972 1284'>habe ich nichts zu schaffen. Gefallen muß</span><br />
+<span class='ocr_line' title='bbox 183 1181 978 1227'>ich mir's lassen, wenn man mich einmal</span><br />
+<span class='ocr_line' title='bbox 183 1115 970 1157'>die Füße voran hereinschleppt. Also ist's</span><br />
+<span class='ocr_line' title='bbox 183 1053 298 1094'>Ernst?</span><br />
+<p />
+<span class='ocr_line' title='bbox 244 922 969 973'>Jä, rief Charlotte, recht Ernstt Ee isd</span><br />
+<span class='ocr_line' title='bbox 181 864 967 912'>das erstemal, daß wir neue Gatten in Noth</span><br />
+<span class='ocr_line' title='bbox 181 812 967 855'>und Verwirrung sind, worans wir uns nicht</span><br />
+<span class='ocr_line' title='bbox 179 749 460 796'>zu helfen wissen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 244 622 968 668'>Ihr seht nicht darnach aus, versezte ern</span><br />
+<span class='ocr_line' title='bbox 181 560 966 608'>doch will ich's glauben. Führt Ihr mich an,</span><br />
+<span class='ocr_line' title='bbox 180 498 962 544'>so laß lch Euch känfcig - stecken. Folgt ge-</span><br />
+<span class='ocr_line' title='bbox 178 437 963 481'>schwinde nach; meinem Pferde mag die Er</span><br />
+<span class='ocr_line' title='bbox 178 373 606 421'>hohlung zu gut kommen-</span><br />
+<p />
+<span class='ocr_line' title='bbox 743 254 805 291'>g e</span><br />
+</div>
+</body>
+</html>
+

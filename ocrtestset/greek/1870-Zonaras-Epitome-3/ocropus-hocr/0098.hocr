@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0098.tif'>
+<span class='ocr_line' title='bbox 553 3381 630 3440'>:</span><br />
+<span class='ocr_line' title='bbox 1152 3387 1813 3439'>LI3. XI7. CAP. v. V7.</span><br />
+<p />
+<span class='ocr_line' title='bbox 557 3210 2381 3309'>ἴστόρησε Μάρκον μετὰ τοὺς ἐκ περιτομῆς καθηγή-</span><br />
+<span class='ocr_line' title='bbox 555 3115 2380 3212'>σασθαι, τῆς πόλεως παρὰ Ἀδριανοῦ ἀνοικοδομηθεί-</span><br />
+<span class='ocr_line' title='bbox 555 3031 2379 3115'>σης, συνοικισθείσης τε ἐξ ἐθνῶν. ὅν Κασσιανὸς διε-</span><br />
+<span class='ocr_line' title='bbox 557 2922 2383 3022'>δέξατο, καὶ τοῦτον Πούπλιος, καὶ ούπλιον ουλια-</span><br />
+<span class='ocr_line' title='bbox 556 2826 2375 2925'>νός, κάκεῖνον άιος, καὶ άιον ύμμαχος. ὁ δʼ ἐφʼ</span><br />
+<span class='ocr_line' title='bbox 556 2731 2384 2830'>ἑτέρῳ αἰῳ μετήλλαξε τὴν ζωήν. εἷθʼ ἕτερος ου-</span><br />
+<span class='ocr_line' title='bbox 555 2648 2387 2734'>λιανὸς τὴν ἐπισκοπὴν διεδέξατο, καὶ τούτου διάδοχος</span><br />
+<span class='ocr_line' title='bbox 553 2541 2386 2638'>Καπίτων ἐγένετο, καὶ ὐάλης Καπίτωνος, 9ὐάλεντος</span><br />
+<span class='ocr_line' title='bbox 559 2443 2387 2542'>δὲ Δολιχιανός, καὶ ἐπὶ πὰσι Vάρκισσος τριακοστὸς</span><br />
+<span class='ocr_line' title='bbox 557 2348 2388 2447'>ἐπίσκοπος τῶν εροσολύμων ἀπὸ τῶν ἀποστόλων</span><br />
+<span class='ocr_line' title='bbox 558 2250 2387 2352'>ἐγένετο. δεκάτῳ δʼ ἔτει τῆς Κομόδου ἀρχῆς λεύ-</span><br />
+<span class='ocr_line' title='bbox 493 2169 2388 2255'>3 θερος ὁ τῆς Ρtιμαίων ἐκκλησίας ἐπισκοπήσας ἐπʼ ἔτη</span><br />
+<span class='ocr_line' title='bbox 558 2071 2394 2155'>τρισκαίδεκα τῶν τἥδε μετέστη , καὶ 3ίκτωρ τῶν ἐκεῖ</span><br />
+<span class='ocr_line' title='bbox 558 1966 2390 2063'>προέστη πιστῶν. καὶ ουλιανοῦ ἐπὶ δέκατον ἔτος</span><br />
+<span class='ocr_line' title='bbox 558 1871 2389 1969'>τὴν Ἀλεξανδρέων ἐκκλησίαν ἰθύναντος, καὶ τὸ χρεῶν</span><br />
+<span class='ocr_line' title='bbox 559 1773 2389 1871'>λειτουργήσαντος, δημήτριος τὸ τῆς ἐπισκοπῆς ἐνε-</span><br />
+<span class='ocr_line' title='bbox 558 1678 2391 1777'>χειρίσθη λειτούργημα. ἐν δὲ τῇ τῶν Ἀντιοχέων ἐκ-</span><br />
+<span class='ocr_line' title='bbox 559 1581 2391 1680'>κλησίᾳ μετὰ Μαξιμῖνον αραπίων ἐπεσκόπει τοὺς</span><br />
+<span class='ocr_line' title='bbox 560 1483 2392 1583'>χριστωνύμους, ὅγδοος ἀρχιερεὺς ἀπὸ τῶν ἀποστόλων</span><br />
+<span class='ocr_line' title='bbox 559 1392 2390 1487'>γενόμενος. τότε καὶ Ἀπολλώνιος, ἀνὴρ ἐπὶ παιδείᾳ</span><br />
+<span class='ocr_line' title='bbox 560 1292 2390 1392'>καὶ φιλοσοφίᾳ βεβοημένος, μαρτυρικῷ τέλει ἐν iμη</span><br />
+<span class='ocr_line' title='bbox 564 1209 2390 1296'>δόγματι τῆς συγκλήτου πρὸς τὰς αἰωνίους μετέστη</span><br />
+<span class='ocr_line' title='bbox 502 1098 776 1200'>ῃμονάς.</span><br />
+<span class='ocr_line' title='bbox 367 1004 2391 1113'>va 1212 G μὲν οὖν Κόμοδος τὰ τῆς ἀρχῆς διαφθείρας,</span><br />
+<span class='ocr_line' title='bbox 499 913 2390 1009'>Cὡς εἴρηται, κἀκεῖνος διέφθαρτοʼ οἱ δὲ περὶ τὸν</span><br />
+<span class='ocr_line' title='bbox 547 816 2391 914'>Eκλεκτον καὶ τὸν Δαῖτον τὸν 7ερτίνακα εἰς τὴν αὐ-</span><br />
+<span class='ocr_line' title='bbox 562 720 2389 817'>τραρχίαν διὰ τὴν ἀρετὴν καὶ τὸ ἀξίωμα αὐτοῦ ἐπελέ-</span><br />
+<span class='ocr_line' title='bbox 564 625 2388 722'>ξαντο. ὁ δέ, ὅτι τέθνηκε Κόμοδος ἀκριβωσάμενος,</span><br />
+<span class='ocr_line' title='bbox 564 529 2388 626'>ἐδέξατο τὴν ἀρχήν, καὶ εἰσῆλθεν εἰς τὸ στρατόπεδον,</span><br />
+<span class='ocr_line' title='bbox 563 442 2387 530'>καὶ τῇ τε παρουσίᾳ τοῦ Ἀαίτου καὶ ἀδραῖς ὑποσχέ-</span><br />
+<p />
+<span class='ocr_line' title='bbox 693 247 2242 316'>Cap. 6. Dionis Historiae Romanae 1. 73, c. 1-10.</span><br />
+</div>
+</body>
+</html>
+

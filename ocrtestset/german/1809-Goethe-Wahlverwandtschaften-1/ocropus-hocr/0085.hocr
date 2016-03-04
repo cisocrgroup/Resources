@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0085.tif'>
+<span class='ocr_line' title='bbox 576 1692 618 1722'>s</span><br />
+<p />
+<span class='ocr_line' title='bbox 267 1594 988 1640'>Seyn Sle meiner ganzen Auufmerksamkeit</span><br />
+<span class='ocr_line' title='bbox 199 1532 986 1582'>versichert, fagte Charlotte, indem ste ihre Ar-</span><br />
+<span class='ocr_line' title='bbox 198 1470 553 1516'>beit bey Seite legte-</span><br />
+<p />
+<span class='ocr_line' title='bbox 259 1352 984 1398'>Und so begann der Hauptmann: an allen</span><br />
+<span class='ocr_line' title='bbox 191 1293 984 1334'>Maturwesen, die wir gewahr werden, bemer-</span><br />
+<span class='ocr_line' title='bbox 190 1215 982 1276'>ken wir zuerst, daß sie einen Bezug auf sich</span><br />
+<span class='ocr_line' title='bbox 188 1163 982 1215'>selbst haben. Es klingt frelich wunderlich,</span><br />
+<span class='ocr_line' title='bbox 188 1100 981 1143'>wenn man etwas ausspricht was sich ohnehin</span><br />
+<span class='ocr_line' title='bbox 186 1025 981 1079'>versteht; doch nur indem man sich über das</span><br />
+<span class='ocr_line' title='bbox 188 976 981 1025'>Bekannte völltg verständigt hat, kann man</span><br />
+<span class='ocr_line' title='bbox 187 916 945 957'>mit einander zum Unbekannten fortschreiten.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 800 977 841'>Zch dchte, fiel lhm Ednard eln, wir</span><br />
+<span class='ocr_line' title='bbox 179 733 975 787'>machten ihr und nns die Sache durch Bezs</span><br />
+<span class='ocr_line' title='bbox 175 672 972 718'>spiele beguem. Stelle dir nur das Wasser,</span><br />
+<span class='ocr_line' title='bbox 176 609 977 656'>das Oel, das Auecksilber vor, so wirst du</span><br />
+<span class='ocr_line' title='bbox 174 548 970 595'>eine Einigkeit, einen Zusammenhang ihrer</span><br />
+<span class='ocr_line' title='bbox 174 486 970 531'>Theile fnden. Diese Einung verlassen sie</span><br />
+<span class='ocr_line' title='bbox 171 424 967 471'>nicht, außer dnrch Gewalt oder sonstige Be-</span><br />
+<span class='ocr_line' title='bbox 171 363 966 409'>stimmung. Ist diese beseitigt, so treten sse</span><br />
+<span class='ocr_line' title='bbox 169 304 581 345'>gleich wieder zusammen.</span><br />
+</div>
+</body>
+</html>
+

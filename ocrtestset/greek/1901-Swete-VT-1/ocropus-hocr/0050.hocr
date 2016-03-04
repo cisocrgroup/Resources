@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0050.tif'>
+<span class='ocr_line' title='bbox 476 3890 640 3941'>X1 14</span><br />
+<span class='ocr_line' title='bbox 1391 3899 1668 3943'>FNEΣIΣ</span><br />
+<p />
+<span class='ocr_line' title='bbox 409 3742 2516 3814'>Α ἐκατον τριάκοντα ἔτη, καὶ ἐγέννησεν τὸν Σάλα. καὶ ἔζησεν αινὰν μετὰ</span><br />
+<span class='ocr_line' title='bbox 473 3654 2517 3730'>τὸ γεννὴσαι αὐτὸν τὸν Σάλα ἔτη τριακόσια τριάκοντα, καὶ ἐγέννησεν υὶοὺς</span><br />
+<span class='ocr_line' title='bbox 473 3573 1270 3643'>καὶ θυγατέρας, καὶ ἀπέθανεν.</span><br />
+<span class='ocr_line' title='bbox 1511 3572 2587 3642'>αὶ ἔζησεν Σάλα ἐκατὸν τριάκοντα 14</span><br />
+<p />
+<span class='ocr_line' title='bbox 472 3486 2595 3557'>ἔτη, καὶ ἐγέννησεν τὸν βερ. 1καὶ ἔζησεν Σάλα μετὰ τὸ γεννῆσαι αὐτὸν 15</span><br />
+<span class='ocr_line' title='bbox 470 3398 2514 3474'>τὸν βερ τριακόσια τριάκοντα ἔτη, καὶ ἐγέννησεν υίοὺς καὶ θυγατέρας,</span><br />
+<span class='ocr_line' title='bbox 472 3332 849 3386'>καὶ ἀπέθανεν.</span><br />
+<span class='ocr_line' title='bbox 1064 3314 2587 3386'>3aαὶ ἔζησεν βερ ἐκατὸν τριάκοντα τέσσερα ἔτη, 10</span><br />
+<p />
+<span class='ocr_line' title='bbox 472 3229 2585 3302'>καὶ ἐγέννησεν τὸν Φάλεκ. 'καὶ ἔζησεν Ἑβερ μετὰ τὸ γεννήσαι αὐτὸν 7</span><br />
+<span class='ocr_line' title='bbox 471 3137 2516 3212'>τὸν Φάλεκ τη τριακόσια ἐβδομήκοντα, καὶ ἐγέννησεν υἰοὺς καὶ θυγατέ-</span><br />
+<span class='ocr_line' title='bbox 346 3057 1010 3124'>ρας, καὶ ἀπέθανεν.'</span><br />
+<span class='ocr_line' title='bbox 1226 3055 2587 3124'>'3 kαὶ ἔζησεν άλεκ ἐκατὸν τριάκοντα ἔτη, καὶ 18</span><br />
+<p />
+<span class='ocr_line' title='bbox 471 2967 2588 3038'>ἐγέννησεν τὸν αγαύ. 'καὶ ἔζησεν Φάλεκ μετὰ τὸ γεννῆσαι αὐτὸν τὸν 19</span><br />
+<span class='ocr_line' title='bbox 466 2880 2516 2953'>ναγαὺ διακόσια ἐννέα ἔτη, καὶ ἐγέννησεν υἰοὺς καὶ θυγατέρας, καὶ</span><br />
+<span class='ocr_line' title='bbox 469 2810 732 2863'>ἀπέθανεν.</span><br />
+<span class='ocr_line' title='bbox 1008 2796 2587 2865'>Kαὶ ἔζησεν αγαὺ ἐκατὸν τριάκοντα δύο ἔτη, καὶ 0</span><br />
+<p />
+<span class='ocr_line' title='bbox 467 2705 2583 2778'>ἐγέννησεν τὸν Σερούχ. καὶ ἔζησεν αγαὺ μετὰ τὸ γεννῆσαι αὐτὸν 2</span><br />
+<span class='ocr_line' title='bbox 466 2620 2515 2690'>τὸν Σεροὺχ διακόσια ἐππτὰ ἔτη, καὶ ἐγέννησεν υἰοὺς καὶ θυγατέρας, καὶ</span><br />
+<span class='ocr_line' title='bbox 463 2549 728 2602'>ἀπέθανεν.</span><br />
+<span class='ocr_line' title='bbox 942 2532 2584 2602'>Kαὶ ἔζησεν Σεροὺχ ἐκατὸν τριάκοντα ἔτη, καὶ ἐγέν- 22</span><br />
+<p />
+<span class='ocr_line' title='bbox 467 2446 2584 2517'>νησεν τὸν Nαχώρ. καὶ ἔζησεν Σεροὺχ μετὰ τὸ γεννῆσαι αὐτὸν τὸν 23</span><br />
+<span class='ocr_line' title='bbox 468 2364 2513 2433'>Nαχώρ ἔτη διακόσια, καὶ ἐγέννησεν υὶοὺς καὶ θυγατέρας, καὶ ἀπέθα-</span><br />
+<span class='ocr_line' title='bbox 466 2292 558 2323'>1.</span><br />
+<span class='ocr_line' title='bbox 772 2277 2581 2347'>Kαὶ ἔζησεν Ναχώρ ἔτη ἐβδομήκοντα ἐννέα, καὶ ἐγέννησεν 24</span><br />
+<span class='ocr_line' title='bbox 465 2192 2581 2262'>τὸν άρα. aκαὶ ἔζησεν Ναχώρ μετὰ τὸ γεννῆσαι αὐτὸν τὸν 6άρα 25</span><br />
+<span class='ocr_line' title='bbox 464 2104 2511 2175'>τη ἐκατὸν εκοσι ἐννέα, καὶ ἐγέννησεν υἰοὺς καὶ θυγατέρας, καὶ</span><br />
+<span class='ocr_line' title='bbox 463 2032 723 2086'>ἀπέθανεν.</span><br />
+<span class='ocr_line' title='bbox 946 2014 2581 2086'>aαὶ ἔζησεν άρα ἐβδομήκοντα ἔτη, καὶ ἐγέννησεν τὸν</span><br />
+<p />
+<span class='ocr_line' title='bbox 462 1930 1631 1999'>Ἀβρὰμ καὶ τὸν Nαχώρ καὶ τὸν Ἀρράν.</span><br />
+<p />
+<span class='ocr_line' title='bbox 566 1842 2578 1913'>2ὔται δέ αἱ γενέσεις άρα· άρα δὲ ἐγέννησεν τὸν Ἀβρὰμ καὶ 2π</span><br />
+<span class='ocr_line' title='bbox 461 1754 2578 1826'>τὸν Nαχώρ καὶ τὸν Ἀρράν, καὶ Ἀρρὰν ἐγέννησεν τὸν Λώτ. 'καὶ :8</span><br />
+<span class='ocr_line' title='bbox 460 1649 2505 1741'>ἀπέθανεν Ἀρρὰν ἐνώπιον άρα τοῦ πατρὸς αὐτοῦ ἐν τῇ γῇ ἐγενήθη,</span><br />
+<span class='ocr_line' title='bbox 347 1582 2579 1655'>Λ ἐν τῇ χώρᾳ τῶν Xαλδαίων. 1'aκαὶ ἔλαβον Ἀβρὰμ καὶ Ναχώρ ἐαυτοῖς 29</span><br />
+<p />
+<span class='ocr_line' title='bbox 458 1484 2506 1567'>γυναῖκας· δνομα τῇ γυναικὶ Ἀβρὰμ Σάρα, καὶ δνομα τῇ γυναικὶ Ναχώρ</span><br />
+<span class='ocr_line' title='bbox 461 1411 2576 1484'>Mελχά, θυγάτηρ Ἀρράν, καὶ πατὴρ Mελχὰ καὶ πατὴρ Τεσχά. καὶ ἡν 3</span><br />
+<span class='ocr_line' title='bbox 459 1326 2568 1398'>Σάρα στεῖρα καὶ οὐκ ἐτεκνοπποίει. καὶ ἔλαβεν Θάρα τὸν Ἀβρὰμ 31</span><br />
+<span class='ocr_line' title='bbox 459 1240 2505 1310'>τὸν ἰὸν αὐτοῦ καὶ τὸν Λώτ υἱὸν Ἀρρὰν, υἰὸν τοῦ υἰῦ αὐτοῦ, καὶ τὴν</span><br />
+<span class='ocr_line' title='bbox 461 1154 2503 1224'>Σάραν τὴν νύμφην αὐτοῦ, γυναῖκα τοῦ υἱοῦ αὐτοῦ, καὶ ἐξήγαγεν αὐτοὺς</span><br />
+<span class='ocr_line' title='bbox 353 1058 2578 1122'>DΕ 14 εζη Εba (εζησεν Εb) ‖ ετη εκατον τριακ.. τριακ. και εκ.ετη Ε 15 ετη</span><br />
+<p />
+<span class='ocr_line' title='bbox 460 995 2576 1056'>ριακοια τριακοντα ετη τετρακοσια πεντηκοντα Ε 16 ετη εκατον τριακ.</span><br />
+<span class='ocr_line' title='bbox 461 929 2574 993'>τεσσερα τεσσαρα και τριακ.τη και εκ. Ε 17 Φαλκ Ab(ε superscr Ab?) ‖</span><br />
+<span class='ocr_line' title='bbox 465 866 2579 927'>εη διακο... D εβ. και διακοσια ετη Ε 18 τριακ.και εκ. Ε 19 εννεα</span><br />
+<span class='ocr_line' title='bbox 465 803 2579 862'>και διακ. Ε 2 δυο και τριακ. και εκατον ετη Ε 2 επτα και διακ. Ε</span><br />
+<span class='ocr_line' title='bbox 466 737 2580 797'>22 om E 23 διακοσια ετη Ε 24 εννεα και εβά. ετη Ε 26 εννεα</span><br />
+<span class='ocr_line' title='bbox 467 671 2579 733'>και εικοσι και εκ. ετη Ε 27 οm αuται δε...και τον Aρραν Ε ‖ aρρα αρρα</span><br />
+<span class='ocr_line' title='bbox 466 606 2578 670'>3i (ρ 1a ras bis Al8V 28 Aρρα A ‖ aρρα A om E ‖ εγεννηθη Ε</span><br />
+<span class='ocr_line' title='bbox 466 541 2576 606'>2 ελαβεν ΛΕ ‖ Aβραμ 1] Aβρααμ Ε 30 Σαρρα Ε 31 τον Aβραμ]</span><br />
+<span class='ocr_line' title='bbox 478 475 2451 541'>τ και τον Ναχωρ Α ‖ το ιον] om τον Ε ‖ Σαρα Ε ‖ γυναικα] - Aβραμ</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0097.tif'>
+<span class='ocr_line' title='bbox 565 1691 609 1722'>gO</span><br />
+<p />
+<span class='ocr_line' title='bbox 197 1592 983 1643'>durch sinnliches Anschauen, durch Begriffe mit</span><br />
+<span class='ocr_line' title='bbox 195 1529 982 1584'>ihnen versöhnt lst, beschwerlich, ja lächerlich</span><br />
+<span class='ocr_line' title='bbox 192 1471 983 1523'>werden müssen. Doch kdnnten wir leicht mit</span><br />
+<span class='ocr_line' title='bbox 192 1408 982 1472'>Buchstaben einstwellen das Werhältnißß aus</span><br />
+<span class='ocr_line' title='bbox 192 1356 813 1408'>drüc?en, wovon hier dte Rede war.</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 1234 978 1290'>Wenn Sie glauben, daß es nicht pedan</span><br />
+<span class='ocr_line' title='bbox 182 1169 978 1216'>tisch aussieht, versetzte der HFauptmann, so</span><br />
+<span class='ocr_line' title='bbox 184 1104 976 1152'>kann ich wohl in der Zeichensprache mich</span><br />
+<span class='ocr_line' title='bbox 183 1046 976 1089'>kürzlich zusammenfassen. Denken sie sich ein</span><br />
+<span class='ocr_line' title='bbox 183 982 974 1028'>A, das mit einem B innlg verbunden ist,</span><br />
+<span class='ocr_line' title='bbox 181 926 976 968'>durch piele Mittel und durch manche Gewale</span><br />
+<span class='ocr_line' title='bbox 178 860 973 912'>nicht von ihm zu ttennen; denken Sie sich</span><br />
+<span class='ocr_line' title='bbox 181 796 971 848'>ein T, das sich eben so zu einem D verhält;</span><br />
+<span class='ocr_line' title='bbox 177 734 973 785'>bringen Sie nun dle beyden ßaare in Berüh-</span><br />
+<span class='ocr_line' title='bbox 176 673 970 723'>rung: A wird sich zu D, T zu B werfen,</span><br />
+<span class='ocr_line' title='bbox 175 615 967 660'>ohne daß man sagen kann, wer das andere</span><br />
+<span class='ocr_line' title='bbox 173 548 962 599'>zuerst verlassen, wer sich mit dem andern zus</span><br />
+<span class='ocr_line' title='bbox 177 488 655 535'>erst wieder verbunden habe.</span><br />
+<p />
+<span class='ocr_line' title='bbox 241 369 963 407'>Nun denn! fiel Eduard ein: bis wir alles</span><br />
+<span class='ocr_line' title='bbox 175 302 963 345'>dieses mit Augen sehen, wollen wir diese For</span><br />
+</div>
+</body>
+</html>
+

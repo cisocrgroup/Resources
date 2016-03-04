@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0082.tif'>
+<span class='ocr_line' title='bbox 556 1693 596 1721'>7</span><br />
+<p />
+<span class='ocr_line' title='bbox 179 1594 978 1641'>samkeit kehrt zu deiner Vorlesung zurück: ich</span><br />
+<span class='ocr_line' title='bbox 179 1537 975 1582'>hdre daß von ganz leblosen Dingen die Rede</span><br />
+<span class='ocr_line' title='bbox 177 1474 980 1528'>ist, und blicke dir ins Buch, um mich wie-</span><br />
+<span class='ocr_line' title='bbox 179 1413 550 1457'>der zurecht zu finden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 1293 979 1339'>Es ist eine Gleichnißrede, die dich ver-</span><br />
+<span class='ocr_line' title='bbox 177 1234 980 1283'>führt und verwirrt hat, sagte Eduard. Hhier</span><br />
+<span class='ocr_line' title='bbox 177 1170 979 1212'>wird freylich nur von Erden und Mineralien</span><br />
+<span class='ocr_line' title='bbox 177 1105 979 1147'>gehandelt, aber der Mensch ist ein wahrer</span><br />
+<span class='ocr_line' title='bbox 180 1041 978 1084'>Narziss; er bcspiegelt sich überall gern selbst;</span><br />
+<span class='ocr_line' title='bbox 179 975 979 1021'>er legt sch als Folie der ganzen Welt unter.</span><br />
+<p />
+<span class='ocr_line' title='bbox 240 850 977 901'>Ja wohl! fuhr der Hauptmann fort: so</span><br />
+<span class='ocr_line' title='bbox 178 799 977 840'>behandelt er allrs was er außer sich findet;</span><br />
+<span class='ocr_line' title='bbox 177 735 978 779'>seine Weisheit wie seine Thorheit, seinen</span><br />
+<span class='ocr_line' title='bbox 179 673 978 725'>Willen wie seine Willkühr leicht er den Thie-</span><br />
+<span class='ocr_line' title='bbox 178 606 978 653'>ren, den Pflanzen, den Elementen und den</span><br />
+<span class='ocr_line' title='bbox 179 551 322 587'>Gdttern.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 414 979 463'>Möchtet Ihr mich, versette Charlotte,</span><br />
+<span class='ocr_line' title='bbox 180 350 980 396'>da ich Euch nicht zu weit von dem augens</span><br />
+<span class='ocr_line' title='bbox 184 287 980 334'>blicklichen Jnteresse wegführen will, nnr kürz-</span><br />
+</div>
+</body>
+</html>
+

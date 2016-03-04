@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/047.tif'>
+<span class='ocr_line' title='bbox 1187 4450 1494 4524'>Liber I.</span><br />
+<p />
+<span class='ocr_line' title='bbox 701 3525 1032 3628'>T TD DD</span><br />
+<span class='ocr_line' title='bbox 700 3469 1983 3584'>on.R 8E0VNDVS</span><br />
+<span class='ocr_line' title='bbox 2343 4408 2450 4529'>41</span><br />
+<p />
+<span class='ocr_line' title='bbox 314 3207 2509 3325'>fise ün loco tribui si ulla facultas posset, uellem oum his1</span><br />
+<span class='ocr_line' title='bbox 221 3103 2459 3190'>omnibus quibus nomen inuisum est Christi ab institata prin-</span><br />
+<span class='ocr_line' title='bbox 226 2992 2530 3087'>cipaliter defensione deuertieunlo panlisper facto talia uerba</span><br />
+<span class='ocr_line' title='bbox 177 2898 2531 2992'>s miscere: si nullam esse ducitis eontumeliam respondere aliqui</span><br />
+<span class='ocr_line' title='bbox 224 2791 2462 2880'>interrogatos, edissertate nobis et dicite: quid rei, quil causae</span><br />
+<span class='ocr_line' title='bbox 225 2688 2630 2778'>est, quod tam grauibus inseetamini Christam bellis, uel ] quas t, s7</span><br />
+<span class='ocr_line' title='bbox 224 2593 2460 2674'>eins continetis offensas, ut ad einns nominis mentionem rabi-</span><br />
+<span class='ocr_line' title='bbox 225 2476 2462 2573'>dorm pectornm efferuescatis ardoribus? numquid regiam sibi</span><br />
+<span class='ocr_line' title='bbox 150 2383 2462 2476'>o uindicans potestatem terrarum orbem cuncttnm legionibus in-</span><br />
+<span class='ocr_line' title='bbox 226 2280 2464 2364'>festissimis occnpauit et pacatas ab eordio nationes alias dele-</span><br />
+<span class='ocr_line' title='bbox 243 2175 2466 2262'>uit ao sustulit alias sibi parere ceruicibns compnlit sabingatis?</span><br />
+<span class='ocr_line' title='bbox 238 2073 2466 2159'>nnmquid arloribus auaritiae flagrans uninersas opes illas, qui-</span><br />
+<span class='ocr_line' title='bbox 232 1969 2466 2056'>bus se genus humanum studiose contendit impleri, possessionis</span><br />
+<span class='ocr_line' title='bbox 151 1867 2466 1953'>as snae mancipio uindicauit? numqail libilinum cupilitatibus</span><br />
+<span class='ocr_line' title='bbox 229 1763 2466 1852'>gestiens pudicitiae repagula ui fregit aut alienis fartim insi-</span><br />
+<span class='ocr_line' title='bbox 229 1661 2466 1746'>diatus est matrimoniis? nnmquid adrogantiae sapercilio tmilus</span><br />
+<span class='ocr_line' title='bbox 228 1558 2465 1643'>ininrias et contumelias passim sine ullius personae discriminibus</span><br />
+<span class='ocr_line' title='bbox 229 1452 2523 1538'>inrogauit? et non in cunctos et ldmen praetendit uitae et peri-E</span><br />
+<span class='ocr_line' title='bbox 303 1179 2334 1252'>4 liuerticulo Sab 5 aliguit P corr c 6 quit P corr e</span><br />
+<span class='ocr_line' title='bbox 228 1093 2333 1166'>8 offeaas P 8 nnmquit P eorr c' 18 numquit P corr</span><br />
+<span class='ocr_line' title='bbox 234 1005 2470 1080'>14 gen*s P stadiosae P 15 nnmquit P eorr 1I nnmquit</span><br />
+<span class='ocr_line' title='bbox 228 921 2334 995'>P corr 18 uullis nllias Elussmannws 18 in cunctos] cunctis V</span><br />
+<span class='ocr_line' title='bbox 231 837 1285 909'>praetendit scrpsi: praetenderit P</span><br />
+<p />
+<span class='ocr_line' title='bbox 435 752 2468 823'>4,18 - 52,20 i P sic se eazcipiunt: et non w, omninm uir-</span><br />
+<span class='ocr_line' title='bbox 230 667 2466 738'>tutnm suu - maloram tanta eperiattur examina utram ss,so in cunctos et</span><br />
+<span class='ocr_line' title='bbox 229 580 2470 654'>lamen praetenderit w,uu - quadam dalcedine abque a,s ne illm tellns ww,x</span><br />
+<span class='ocr_line' title='bbox 230 490 2468 568'>4. 4. ad uerba in cuunctos et lamen adxotaui mants gw4aedam recen-</span><br />
+</div>
+</body>
+</html>
+

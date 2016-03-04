@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0092.tif'>
+<span class='ocr_line' title='bbox 300 2770 368 2834'>8a.</span><br />
+<span class='ocr_line' title='bbox 897 2788 1243 2840'>De Civitate.</span><br />
+<span class='ocr_line' title='bbox 1661 2766 1888 2840'>Cap. 17.</span><br />
+<span class='ocr_line' title='bbox 364 2688 1893 2755'>Neque ſecuritatem quam quærunt præſtare poteſt paucorum ho-</span><br />
+<span class='ocr_line' title='bbox 299 2626 1894 2692'>minum inter ſe conſpiratio, quia in parvis numeris parva Sociorum</span><br />
+<span class='ocr_line' title='bbox 297 2566 1891 2632'>acceſſio ad certam ſufficſt victoriam, animoſque addit aggreſſoribus.</span><br />
+<span class='ocr_line' title='bbox 298 2502 1894 2566'>Multitudo autem quæ ſecuritatis ſuæ ſpem præſtare poteſt, numero</span><br />
+<span class='ocr_line' title='bbox 298 2440 1892 2503'>nnon certo, ſed cum viribus hoſtium comparato determinatur, ut ma-</span><br />
+<span class='ocr_line' title='bbox 295 2376 1897 2442'>jor ſit quam ut exceſſus tanti ei tam conſpicui momeuti ad Bellum f-</span><br />
+<span class='ocr_line' title='bbox 300 2313 1506 2378'>niendum ſit, ut hoſtis ad aggrediendum provocetur.</span><br />
+<span class='ocr_line' title='bbox 361 2251 1896 2316'>Sit autem multitudo quantacunque, ſi tamen actiones eorum Iudi-</span><br />
+<span class='ocr_line' title='bbox 298 2189 1898 2256'>ciis \&amp; Arbitriis multorum gubernentur, nullam inde expectare poſ-</span><br />
+<span class='ocr_line' title='bbox 297 2127 1897 2191'>ſunt ſecuritatem, neque contra communem hoſtem, neque contra</span><br />
+<span class='ocr_line' title='bbox 298 2064 1899 2130'>injurias alter alterius. Diſſentientes enim inter ſe de Virium uſu non</span><br />
+<span class='ocr_line' title='bbox 298 2002 1897 2066'>ſibi mutuò auxiliaturi ſunt, ſed oppoſitis conſiliis vires ad nihilum</span><br />
+<span class='ocr_line' title='bbox 297 1939 1901 2004'>reducturi. Vnde non modo à communi hoſte facile ſuperantur, ſed</span><br />
+<span class='ocr_line' title='bbox 298 1878 1902 1943'>etiam de commodis propriis inter ſe Bello certaturi ſunt. Siquidem</span><br />
+<span class='ocr_line' title='bbox 298 1815 1901 1878'>enim hominum nmmerus magnus, ſine Potentia communi quæ poſ-</span><br />
+<span class='ocr_line' title='bbox 298 1752 1900 1817'>ſet omnes cogere, in ÆEquitatem cæteraſque Leges Naturæ obſer-</span><br />
+<span class='ocr_line' title='bbox 300 1690 1900 1753'>vandas conlentire ſupponeretur, idem etiam de toto genere humano-</span><br />
+<span class='ocr_line' title='bbox 299 1627 1903 1692'>ſupponendum eſſet, itaque Regimine Civili omnino opus non eſſet,</span><br />
+<span class='ocr_line' title='bbox 297 1573 1502 1629'>victuris ſcilicet hominibus in Pace, \&amp; ſine Dominis.</span><br />
+<span class='ocr_line' title='bbox 363 1501 1907 1567'>Neque ad ſecuritatem (quam perpetuam eſſe volunt) ſufſicit, ut</span><br />
+<span class='ocr_line' title='bbox 299 1439 1905 1503'>gubernentur pro certo tantùm \&amp; determinato tempore, ut in uno</span><br />
+<span class='ocr_line' title='bbox 301 1377 1900 1442'>prælio, vel Bello uno. Etſi enim (per conatum unanimem) hoſtem</span><br />
+<span class='ocr_line' title='bbox 300 1316 1901 1381'>vincant, poſtea tamen, ſi communem hoſtem non habeant, vel ſi alii</span><br />
+<span class='ocr_line' title='bbox 299 1252 1902 1317'>hoſtem, alii amicum, eundem putent, Societas neceſſariò diſſolvetur,</span><br />
+<span class='ocr_line' title='bbox 302 1190 1901 1255'>\&amp; propter voluntatum differentias, inter ſeipſos Bellum renovabitur.</span><br />
+<span class='ocr_line' title='bbox 361 1128 1904 1191'>Sed ſunt, inquit aliquis, Animalia quædam bruta, ut Apes, \&amp;</span><br />
+<span class='ocr_line' title='bbox 302 1066 1905 1129'>Formicæ quæ pacificè in eodem Alveari, \&amp; in eadem Formicaria</span><br />
+<span class='ocr_line' title='bbox 302 1006 1901 1068'>inter ſe vivunt, habenturque ab Ariſtotele pro Animalibus Politicis,</span><br />
+<span class='ocr_line' title='bbox 303 942 1904 1007'>regunturque ſuo unumquodque Iudicio \&amp; Appetitu, idque ſine uſa</span><br />
+<span class='ocr_line' title='bbox 304 880 1905 943'>Sermonis quo ſignificare alius alii poſſit, quid ad utilitatem commu-</span><br />
+<span class='ocr_line' title='bbox 305 818 1907 881'>nem conducerc, vel non conducere exiſtimant. Quid ergo imnpedit</span><br />
+<span class='ocr_line' title='bbox 305 754 1576 819'>quo minùs homines idem faciant ? Ad hoc reſpondeo.</span><br />
+<span class='ocr_line' title='bbox 368 693 1908 759'>Primò, Quod Homines inter ſe de Honoribus \&amp; Dignitate per-</span><br />
+<span class='ocr_line' title='bbox 307 631 1907 693'>petuò contendunt; ſed Animalia illa non item. Itaque inter homines</span><br />
+<span class='ocr_line' title='bbox 303 566 1908 635'>Invidia, Odium, Bellum, propter eam (inter alias) cauſam ſæpe naſq-</span><br />
+<span class='ocr_line' title='bbox 305 513 852 567'>tur; inter illa rariſſimè.</span><br />
+<span class='ocr_line' title='bbox 367 448 1908 507'>Secundò, Inter Animalia illa bonum Publicum \&amp; Privatum idem</span><br />
+<span class='ocr_line' title='bbox 305 379 1906 445'>eſt. Ergo adl bonum Privatum dum naturaliter feruntur, ſimul pro-</span><br />
+<span class='ocr_line' title='bbox 307 316 1908 381'>curant Bonum Commune. Homini autem in bonis propriis nibil tamo</span><br />
+<span class='ocr_line' title='bbox 304 255 1370 321'>jucundum eſt, quam quod alienis ſunt majora.</span><br />
+<span class='ocr_line' title='bbox 1735 209 1909 259'>Tertiò.</span><br />
+</div>
+</body>
+</html>
+

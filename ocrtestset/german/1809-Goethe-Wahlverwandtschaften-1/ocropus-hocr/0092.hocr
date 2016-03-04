@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0092.tif'>
+<span class='ocr_line' title='bbox 560 1693 603 1722'>s</span><br />
+<p />
+<span class='ocr_line' title='bbox 187 1596 985 1644'>mit einer zarten Säure verbunden, die uns</span><br />
+<span class='ocr_line' title='bbox 182 1532 983 1581'>in Lufcform bekannt geworden ist. Bringt</span><br />
+<span class='ocr_line' title='bbox 184 1478 982 1523'>man ein Stück solchen Steines in verdünnte</span><br />
+<span class='ocr_line' title='bbox 183 1420 980 1462'>Schwefelsäure, so ergreift diese den Kalk und</span><br />
+<span class='ocr_line' title='bbox 182 1351 980 1403'>erscheint mit ihm als Gyps ; jene zarte luf-</span><br />
+<span class='ocr_line' title='bbox 178 1294 978 1342'>tige Säure hingegen entflieht. Hier ist eine</span><br />
+<span class='ocr_line' title='bbox 179 1238 976 1281'>Trennung, eine nene Zusammensehung ent-</span><br />
+<span class='ocr_line' title='bbox 178 1174 976 1217'>standen und man glanbt sich nunmehr berech-</span><br />
+<span class='ocr_line' title='bbox 176 1110 974 1156'>tigt, sogar das Wort Wahlverwandtschaft an-</span><br />
+<span class='ocr_line' title='bbox 175 1047 971 1089'>zuwenden, weil es wirklich aussieht als</span><br />
+<span class='ocr_line' title='bbox 174 981 972 1027'>wenn ein Verhältniß dem andern vorgezoges,</span><br />
+<span class='ocr_line' title='bbox 174 926 812 969'>eins vor dem andern erwählt würde.</span><br />
+<p />
+<span class='ocr_line' title='bbox 239 809 968 853'>Verzeihen Sie mlr, sagte Charlotte, wie</span><br />
+<span class='ocr_line' title='bbox 173 746 968 791'>ich dem Naturforscher verzeihe; aber ich wür-</span><br />
+<span class='ocr_line' title='bbox 174 681 967 731'>de hier niemals eine Wahl, eher eine Na-</span><br />
+<span class='ocr_line' title='bbox 173 618 964 666'>turnothwendigkeit erblicken, und diese kanm :</span><br />
+<span class='ocr_line' title='bbox 173 556 965 604'>denn es ist am Ende ielleicht gar nur die</span><br />
+<span class='ocr_line' title='bbox 172 494 966 543'>Sache der Gelegenheit. Gelegenheit macht</span><br />
+<span class='ocr_line' title='bbox 173 431 966 479'>Verhältuisse wie sie Diebe macht; und wenn</span><br />
+<span class='ocr_line' title='bbox 171 371 962 419'>von Ihren Naturkörpern die Rede ist, so</span><br />
+<span class='ocr_line' title='bbox 171 308 963 353'>scheint mir die Wahl blos in den HHänden</span><br />
+</div>
+</body>
+</html>
+

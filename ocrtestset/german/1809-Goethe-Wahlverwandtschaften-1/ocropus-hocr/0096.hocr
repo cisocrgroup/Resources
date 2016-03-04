@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0096.tif'>
+<span class='ocr_line' title='bbox 560 1689 602 1722'>8g</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 1596 974 1648'>Man gllte dergleichen, versetzte der</span><br />
+<span class='ocr_line' title='bbox 182 1535 976 1583'>Hauptmann, nicht mit Worten abchun. Wie</span><br />
+<span class='ocr_line' title='bbox 180 1473 974 1522'>schon gesagt! sobald ichh Ihnen dle Versuche</span><br />
+<span class='ocr_line' title='bbox 180 1414 972 1460'>selbst zeigen kann, wird alles anschaulicher und</span><br />
+<span class='ocr_line' title='bbox 183 1356 976 1400'>angenehmer werden. Jeht müßte ich Sie mit</span><br />
+<span class='ocr_line' title='bbox 183 1293 976 1339'>schrecklichen Kuunstworten hinhalten, die Ihnen</span><br />
+<span class='ocr_line' title='bbox 183 1235 976 1278'>doch keine Vorstellung gäben. Man muß</span><br />
+<span class='ocr_line' title='bbox 183 1170 977 1213'>diese todtscheinenden und doch zur Thätigkeit</span><br />
+<span class='ocr_line' title='bbox 182 1108 975 1150'>innerlich immer bereiten Wesen wirkend vor</span><br />
+<span class='ocr_line' title='bbox 182 1042 976 1086'>seinen Augen sehen, mit Theilnahme schauen,</span><br />
+<span class='ocr_line' title='bbox 181 981 977 1022'>wie sie einander suchen, sich anziehen, ergrei-</span><br />
+<span class='ocr_line' title='bbox 181 912 977 965'>fen, zerstören, verschlingen, aufzehren und</span><br />
+<span class='ocr_line' title='bbox 183 862 977 912'>sodann aus der lnnigsten Verbindung wieder</span><br />
+<span class='ocr_line' title='bbox 183 802 975 847'>in ernenter, neuer, unerwarteter Gestalt her</span><br />
+<span class='ocr_line' title='bbox 184 743 976 784'>vortreten: dann traut man ihnen erst ein</span><br />
+<span class='ocr_line' title='bbox 185 673 976 724'>ewiges Leben, ja wohl gar Sinn und Ver-</span><br />
+<span class='ocr_line' title='bbox 184 609 973 660'>stand zu, weil wir unsere Sinne kaum ge-</span><br />
+<span class='ocr_line' title='bbox 184 548 974 597'>nügend fühlen, sie recht zu beobachten, und</span><br />
+<span class='ocr_line' title='bbox 184 487 975 534'>unsre Vernunft kaum hinlänglich, sse zu fassen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 361 976 410'>Ich läugne nlcht, sagte Eduard, das die</span><br />
+<span class='ocr_line' title='bbox 185 298 975 345'>seltsamen Kunstwörter dewjenigen der nicht</span><br />
+</div>
+</body>
+</html>
+

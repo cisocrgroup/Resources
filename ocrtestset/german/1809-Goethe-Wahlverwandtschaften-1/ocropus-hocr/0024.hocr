@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0024.tif'>
+<span class='ocr_line' title='bbox 568 1695 607 1722'>u7</span><br />
+<p />
+<span class='ocr_line' title='bbox 201 1599 971 1645'>be mir aus -allem diesem den ersten wahrhaft</span><br />
+<span class='ocr_line' title='bbox 198 1542 970 1586'>fröhlichen Sommer znsammengebaut, den ich</span><br />
+<span class='ocr_line' title='bbox 197 1482 820 1524'>in meinem Leben zt genießen dachte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 259 1350 969 1403'>Wenn mir nur nicht, versetzte Eduard in-</span><br />
+<span class='ocr_line' title='bbox 192 1301 968 1346'>dem er sich die Stirne rieb, bey alle dem,</span><br />
+<span class='ocr_line' title='bbox 190 1242 968 1283'>was du mir so liebevoll und versiändig wie-</span><br />
+<span class='ocr_line' title='bbox 189 1179 966 1220'>derhohlst, immer der Gedanke beyginge, durch</span><br />
+<span class='ocr_line' title='bbox 187 1117 965 1158'>die Gegenwart des Hauptmanns würde nichts</span><br />
+<span class='ocr_line' title='bbox 187 1055 965 1095'>gestört, ja vielmehr alles beschleunigt und neu</span><br />
+<span class='ocr_line' title='bbox 187 993 977 1041'>belebt. Auch er hat einen Theil meiner</span><br />
+<span class='ocr_line' title='bbox 186 928 964 973'>Wanderungen mitgemacht; auch er hat man-</span><br />
+<span class='ocr_line' title='bbox 183 870 962 914'>ches, und in verschiedenem Sinne, sich ange-</span><br />
+<span class='ocr_line' title='bbox 183 819 961 857'>merkt: ir benuzten das zusammen, und ale</span><br />
+<span class='ocr_line' title='bbox 183 753 957 797'>dann würde es erst ein hübsches Ganze wer</span><br />
+<span class='ocr_line' title='bbox 183 699 247 731'>den.</span><br />
+<p />
+<span class='ocr_line' title='bbox 248 567 953 611'>So laß mich denn dir aufrichtig gestehen,</span><br />
+<span class='ocr_line' title='bbox 185 507 955 547'>entgegnete Chharlotte mit einiger Ungeduld,</span><br />
+<span class='ocr_line' title='bbox 183 442 954 487'>daß diesem Vorhaben mein Gefühl wider</span><br />
+<span class='ocr_line' title='bbox 182 381 953 424'>spricht, daß eine Ahndung mir nichts Gutex</span><br />
+<span class='ocr_line' title='bbox 180 323 317 361'>weissagt.</span><br />
+</div>
+</body>
+</html>
+

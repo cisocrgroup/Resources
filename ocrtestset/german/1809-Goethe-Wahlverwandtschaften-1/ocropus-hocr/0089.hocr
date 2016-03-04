@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0089.tif'>
+<span class='ocr_line' title='bbox 199 1593 989 1644'>Kraft und Bestimmtheit kennen lernen. Die-</span><br />
+<span class='ocr_line' title='bbox 195 1529 989 1581'>jenigen Naturen, die ssch bepm Zusammen</span><br />
+<span class='ocr_line' title='bbox 194 1469 989 1519'>tresfen einander schnell ergreisen und wechsel-</span><br />
+<span class='ocr_line' title='bbox 194 1408 988 1456'>seitig bestimmen, nennen wir verwandt. An</span><br />
+<span class='ocr_line' title='bbox 193 1349 987 1397'>den Alcalien und Säuren, die, obgleich ein-</span><br />
+<span class='ocr_line' title='bbox 190 1292 986 1334'>ander entgegengeseht und vielleicht eben des</span><br />
+<span class='ocr_line' title='bbox 189 1225 985 1271'>wegen, weil sie einander entgegengeseht sind,</span><br />
+<span class='ocr_line' title='bbox 188 1156 982 1208'>sich am entschledensten suchen und fassen, slch</span><br />
+<span class='ocr_line' title='bbox 187 1096 982 1145'>modificiren und zusammen einen neuen Körper</span><br />
+<span class='ocr_line' title='bbox 188 1038 983 1080'>bilden, ist diese Verwandtschaft auffallend ge-</span><br />
+<span class='ocr_line' title='bbox 185 976 980 1021'>nug. Gedenken wir nur des Kalks, der zuu</span><br />
+<span class='ocr_line' title='bbox 184 918 978 958'>allen Säuren eine große Neigung, eine ent-</span><br />
+<span class='ocr_line' title='bbox 180 851 975 901'>schiedene. Verelnigungslust äußert. Sobalt</span><br />
+<span class='ocr_line' title='bbox 179 801 974 847'>unser chemisches Cabinet ankommt, wollen</span><br />
+<span class='ocr_line' title='bbox 178 735 972 784'>wir Sie verschiedene Versuche sehen lassen,</span><br />
+<span class='ocr_line' title='bbox 178 676 970 721'>die sehr unterhaltend sind und einen bessern</span><br />
+<span class='ocr_line' title='bbox 177 616 967 659'>Begriff geben als Worte, Namen mnd</span><br />
+<span class='ocr_line' title='bbox 174 556 435 598'>Kunstausdrücke.</span><br />
+<p />
+<span class='ocr_line' title='bbox 238 423 963 473'>Lassen Sie mich gestehen, sagte Charlotte,</span><br />
+<span class='ocr_line' title='bbox 169 361 962 416'>wenn Sie diese Ihre wunderlichen Wesenn</span><br />
+<span class='ocr_line' title='bbox 168 304 961 345'>verwandt nennen, so kommen sie mir nichd</span><br />
+</div>
+</body>
+</html>
+

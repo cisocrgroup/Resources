@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0100.tif'>
+<span class='ocr_line' title='bbox 321 1669 845 1722'>Fünftes Kapice l.</span><br />
+<p />
+<span class='ocr_line' title='bbox 521 1484 648 1525'>Brief</span><br />
+<span class='ocr_line' title='bbox 410 1418 750 1447'>der Vorsteherinn,</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 1216 974 1261'>Eww. Gnaden werden verzeihen, wenn ich</span><br />
+<span class='ocr_line' title='bbox 185 1148 975 1200'>mich heute ganz kurz fässe: denn ich habe</span><br />
+<span class='ocr_line' title='bbox 184 1088 974 1141'>nach vollendeter öffentlicher Prüfung dessen</span><br />
+<span class='ocr_line' title='bbox 182 1039 974 1081'>was wir im vergangenen Jahr an unsern</span><br />
+<span class='ocr_line' title='bbox 183 976 973 1021'>Zöglingen geleistet haben, an die sämmtlichen</span><br />
+<span class='ocr_line' title='bbox 184 914 974 958'>Aeltern und Vorgesehten den Verlauf zu mel-</span><br />
+<span class='ocr_line' title='bbox 184 850 972 894'>den; auch darf ich wohl kurz seyn, weil ich</span><br />
+<span class='ocr_line' title='bbox 184 787 971 834'>mit Wenigem Viel sagen kann. Ihre Fräu</span><br />
+<span class='ocr_line' title='bbox 183 721 972 770'>lein Tochter hat sich in jedem Sinne als die</span><br />
+<span class='ocr_line' title='bbox 184 660 972 706'>erste bewiesen. Die bepliegenden Zeugnisse,</span><br />
+<span class='ocr_line' title='bbox 182 598 970 648'>ihr eigner Brief, der die Beschreibung der</span><br />
+<span class='ocr_line' title='bbox 182 533 969 591'>Preise enthält die ihr geworden sind, und</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0061.tif'>
+<span class='ocr_line' title='bbox 567 1691 612 1722'>I=</span><br />
+<p />
+<span class='ocr_line' title='bbox 192 1595 981 1642'>brochen; und was ließe slch nicht noch alles</span><br />
+<span class='ocr_line' title='bbox 192 1541 370 1573'>einwenden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 259 1410 983 1457'>Wäre es denn lelcht anders zu machen</span><br />
+<span class='ocr_line' title='bbox 191 1348 634 1396'>gewesen? fragte Eduard.</span><br />
+<span class='ocr_line' title='bbox 192 1222 984 1271'>, Gar leicht, versetzte der Hauptmann; sie</span><br />
+<span class='ocr_line' title='bbox 189 1165 985 1206'>durfte nur die eine Felsenecke, die noch da-</span><br />
+<span class='ocr_line' title='bbox 171 1086 985 1142'>zu unscheinbar ist, weil sie aus kleinen Theilen</span><br />
+<span class='ocr_line' title='bbox 171 1034 984 1086'>besteht, wegbrechen; so erlangte sie eine schön</span><br />
+<span class='ocr_line' title='bbox 191 972 985 1015'>geschwungene Wendung zum Aufstieg und zue</span><br />
+<span class='ocr_line' title='bbox 190 912 985 957'>gleich überflüssige Steine, um die Stellen her-</span><br />
+<span class='ocr_line' title='bbox 189 855 983 895'>aufzumauern, wo der Weg schmal und ver</span><br />
+<span class='ocr_line' title='bbox 187 795 983 837'>krüppelt geworden wäre. Dochh sey dieß im</span><br />
+<span class='ocr_line' title='bbox 174 732 981 780'>engsten Vertrauen unter uns gesagt: sie wird</span><br />
+<span class='ocr_line' title='bbox 186 670 981 712'>sonst irre und verdrießlich. Auch muß man</span><br />
+<span class='ocr_line' title='bbox 184 607 981 658'>was gemacht ist, bestehen lassen. Will man</span><br />
+<span class='ocr_line' title='bbox 185 544 980 592'>weiter Geld und Mühe aufwenden, so wäre</span><br />
+<span class='ocr_line' title='bbox 184 486 979 530'>von der Mooshütte hinaufwärts und über die</span><br />
+<span class='ocr_line' title='bbox 187 419 979 466'>Anhöhe noch mancherley zu thun und viel</span><br />
+<span class='ocr_line' title='bbox 185 361 567 404'>angenehmes zu leisten.</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0052.tif'>
+<span class='ocr_line' title='bbox 460 3379 538 3439'>46</span><br />
+<span class='ocr_line' title='bbox 1095 3384 1658 3434'>.I3. xI. CAP α V.</span><br />
+<p />
+<span class='ocr_line' title='bbox 462 3205 2289 3307'>ἀνεμίχθησαν σφίσι. τῷ δὲ Dθαωνι ἥγγειλε ταύτα</span><br />
+<span class='ocr_line' title='bbox 466 3111 2287 3210'>ἴππεύς, καὶ ἀπιστούμενος εθεʼ ἔφη ταῦτα ψευδῆ,</span><br />
+<span class='ocr_line' title='bbox 462 3017 2287 3113'>Καῖσαρ, ήνʼʼ καὶ εἰπῶν ἑαυτὸν διεχρήσατο. πιστευ-</span><br />
+<span class='ocr_line' title='bbox 462 2919 2291 3019'>σάντων δʼ ἐκ τούτου πάντων καὶ ἑτοίμως ἐχόντων</span><br />
+<span class='ocr_line' title='bbox 461 2822 2338 2924'>ἀναμαχέσασθαι, οἱ τε γὰρ δορυφόροι συχνοὶ ἡσαν,5</span><br />
+<span class='ocr_line' title='bbox 396 2727 2291 2826'>3καὶ ἕτεροι οὐκ ὀλίγοι παρῆσαν, καὶ ἱκετευόντων αὐ-</span><br />
+<span class='ocr_line' title='bbox 459 2634 2285 2732'>τὸν μήθʼ ἐαυτὸν μήτεσφὰς προδούναι, πάντες γὰρʼ</span><br />
+<span class='ocr_line' title='bbox 462 2538 2292 2636'>ἔλεγον ὐπὲρ σού ἡδέως ἀποθανούμεθαʼʼ, ὁ Dθαων</span><br />
+<span class='ocr_line' title='bbox 452 2442 2292 2541'>πολύ δικαιότερόν ἐστινʼʼ εἶπεν ἕνα ὑπὲρ πάντων</span><br />
+<span class='ocr_line' title='bbox 460 2347 2360 2445'>ἢ πολλοὺς ὑπὲρ ἐνὸς ἀπολέσθαι , καὶ μὴ βούλεσθαιο</span><br />
+<span class='ocr_line' title='bbox 463 2249 2287 2349'>δι ἕνα ἄνδρα τὸν δῆμον τῶν Ρωμαίων στασιάζειν</span><br />
+<span class='ocr_line' title='bbox 459 2155 2285 2252'>καὶ τοσοῦτον ὄχλον ἀνθρώπων φθείρεσθαι. ταῦτʼ</span><br />
+<span class='ocr_line' title='bbox 462 2058 2292 2158'>εἰπῶν εἰς τὸ δωμάτιον ἀνεχώρησε, καί τινα τοῖς τε</span><br />
+<span class='ocr_line' title='bbox 460 1963 2288 2061'>οἰκείοις καὶ τῷ 9ὐιτελλίῳ ὑπὲρ αὐτῶν ἐπιστείλας,</span><br />
+<span class='ocr_line' title='bbox 459 1869 2361 1965'>τά τε γράμματα ὅσα τινὲς αὐτῷ κατʼ ἐκείνου ἐγε- 15</span><br />
+<span class='ocr_line' title='bbox 460 1783 2294 1869'>γράφεσαν ἔκαυσεν, ὥστε μηδένα ἐξ αὐτῶν φωρα-</span><br />
+<span class='ocr_line' title='bbox 459 1675 2291 1770'>θέντα κινδυνεῦσαι, καὶ καλῶν ἕνα ἕκαστον τῶν</span><br />
+<span class='ocr_line' title='bbox 460 1581 2287 1677'>παρόντων ήσπάζετο αὐτοὺς καὶ ἐδίδουσφίσι χρήματα.</span><br />
+<span class='ocr_line' title='bbox 397 1478 2291 1581'>C κἀν τούτῳ ταραχῆς γενομένης στρατιωτῶν ἐξῆλθε,</span><br />
+<span class='ocr_line' title='bbox 458 1385 2362 1485'>καὶ καταστήσας αὐτοὺς οὐ πρότερον ἀνεχώρησε πρὶν 2o</span><br />
+<span class='ocr_line' title='bbox 457 1291 2291 1389'>ὲς τὸ ἀσφαλὲς ἄλλους ἀλλαχού πέμψαι. καὶ οὕτως</span><br />
+<span class='ocr_line' title='bbox 460 1196 2291 1292'>ἐπεὶ μηδὲν ἔτι ταραχῶδες ἐγίνετο, ἑαυτὸν διεχρή-</span><br />
+<span class='ocr_line' title='bbox 460 1112 2298 1196'>σατο. καὶ οἱ στρατιῶται τὸ σῶμα αὐτο ἔθαψαν, καί</span><br />
+<span class='ocr_line' title='bbox 457 1001 1647 1102'>τινες αὐτῷ ἐπέσφαξαν ἑαυτούς.</span><br />
+<span class='ocr_line' title='bbox 612 908 2363 1007'>Τούτο τὸ τέλος τῷ θωνι γέγονε, ζήσαντι μὲν 25</span><br />
+<span class='ocr_line' title='bbox 461 814 2290 910'>ἐπτὰ καὶ τριάκοντα ἔτη, ἄρξαντι δὲ ἡμέρας ἐνενή-</span><br />
+<span class='ocr_line' title='bbox 459 719 2290 815'>κοντα· ὅθεν καὶ τὴν ἀσέβειαν καὶ τὴν πονηρίαν τοῦ</span><br />
+<span class='ocr_line' title='bbox 458 622 2290 720'>βίου συνεσκίασεʼ κάκιστα γάρ ἀνθρώπων ζήσας</span><br />
+<span class='ocr_line' title='bbox 460 526 2288 623'>κάλλιστα ἀπέθανεν. οἱ δὲ στρατιῶται εὐθύς μὲν</span><br />
+<span class='ocr_line' title='bbox 460 430 2360 527'>ἐταράχθησαν, καὶ ὑπʼ ἀλλήλων πολλοὶ ἀνηρέθησαν· s</span><br />
+<span class='ocr_line' title='bbox 461 345 2285 430'>ἔπειτα ώμονόησαν καὶ προσκεχωρήκεσαν τοῖς κεκρα-</span><br />
+<span class='ocr_line' title='bbox 458 249 730 333'>τηκόσιν.</span><br />
+</div>
+</body>
+</html>
+

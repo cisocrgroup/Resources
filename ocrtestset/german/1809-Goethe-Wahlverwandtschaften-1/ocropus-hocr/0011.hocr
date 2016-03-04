@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0011.tif'>
+<span class='ocr_line' title='bbox 245 1588 980 1641'>Drüben in den nenen Anlagen, versehte</span><br />
+<span class='ocr_line' title='bbox 180 1535 980 1588'>der Gärtner. Die Mooshütte wird heute</span><br />
+<span class='ocr_line' title='bbox 179 1468 979 1514'>fertig, die sie an der Felswand, dem Schlos-</span><br />
+<span class='ocr_line' title='bbox 180 1403 980 1453'>se gegenüber gebant hat. Alles ist recht schön</span><br />
+<span class='ocr_line' title='bbox 176 1343 980 1397'>geworden und muß Ew. Gnaden gesallen.</span><br />
+<span class='ocr_line' title='bbox 178 1284 980 1329'>Man hat einen vortrefflichen Anblick: unten</span><br />
+<span class='ocr_line' title='bbox 178 1212 362 1264'>das Dorf,</span><br />
+<span class='ocr_line' title='bbox 177 1158 353 1207'>che, über</span><br />
+<span class='ocr_line' title='bbox 176 1094 331 1135'>wegsieht;</span><br />
+<span class='ocr_line' title='bbox 179 1039 311 1075'>Gärten.</span><br />
+<span class='ocr_line' title='bbox 392 1222 981 1272'>ein wenig rechter Hand die Kir-</span><br />
+<span class='ocr_line' title='bbox 386 1155 983 1199'>deren Thurmspite man fast hins</span><br />
+<span class='ocr_line' title='bbox 379 1093 983 1136'>gegenüber das Schloß und die</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 908 982 952'>Ganz recht, versezte Eduard; einige</span><br />
+<span class='ocr_line' title='bbox 175 850 980 893'>Schritte von hier konnte ich die Leute arbei-</span><br />
+<span class='ocr_line' title='bbox 176 789 341 831'>ten sehen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 246 656 977 710'>Dann, fuhr der Gärtner fort, öffnet sich</span><br />
+<span class='ocr_line' title='bbox 179 601 978 656'>rechts das Thal ud man sieht über die rei-</span><br />
+<span class='ocr_line' title='bbox 177 537 976 582'>chen Baumwiesen in eine heitere Ferne. Der</span><br />
+<span class='ocr_line' title='bbox 175 476 976 520'>Stieg die Felsen hinauf ist gar hübsch ange-</span><br />
+<span class='ocr_line' title='bbox 175 413 972 457'>legt. Die gnädige Frau versteht es; man</span><br />
+<span class='ocr_line' title='bbox 173 352 765 396'>arbeitet unter ihr mit Vergnügen.</span><br />
+</div>
+</body>
+</html>
+

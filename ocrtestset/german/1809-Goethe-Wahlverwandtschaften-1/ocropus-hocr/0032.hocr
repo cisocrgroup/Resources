@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0032.tif'>
+<span class='ocr_line' title='bbox 190 1598 968 1643'>ich dem Ehmann versagte, dem Licbhaber zu-</span><br />
+<span class='ocr_line' title='bbox 191 1540 398 1580'>gestehen soll.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1421 968 1473'>Wentgstens, meln Lieber, fuhr sie fort,</span><br />
+<span class='ocr_line' title='bbox 186 1353 967 1404'>sollst du gewahr werden, daß detne Wünsche,</span><br />
+<span class='ocr_line' title='bbox 186 1306 968 1355'>die freundliche Lebhaftigkeit womit dn sie aus-</span><br />
+<span class='ocr_line' title='bbox 186 1245 968 1286'>drückst, mich nicht ungerührt, mich nicht un-</span><br />
+<span class='ocr_line' title='bbox 186 1181 967 1223'>bewegt lassen. Sie nöthigen mich zn einem</span><br />
+<span class='ocr_line' title='bbox 188 1117 969 1160'>Geständniß. Ich habe dir bisher auch etwas</span><br />
+<span class='ocr_line' title='bbox 186 1057 969 1098'>verborgen. Ich befinde mich in einer ähnli-</span><br />
+<span class='ocr_line' title='bbox 187 997 968 1037'>chen Lage wie du, und habe mlr schon eben</span><br />
+<span class='ocr_line' title='bbox 187 936 968 977'>die Gewalt- angethan, die ich dir nun über</span><br />
+<span class='ocr_line' title='bbox 188 880 545 919'>dich selöst zumuthe.</span><br />
+<p />
+<span class='ocr_line' title='bbox 254 756 967 801'>Das hör' ich gern, sagte Eduard; ich</span><br />
+<span class='ocr_line' title='bbox 190 692 966 739'>merke wohl, im Ehstande muß man sich</span><br />
+<span class='ocr_line' title='bbox 189 630 967 677'>manchmal streiten, denn dadurch erfährt man</span><br />
+<span class='ocr_line' title='bbox 188 574 500 607'>was von einander.</span><br />
+<p />
+<span class='ocr_line' title='bbox 255 443 965 488'>Nun sollst du also erfahren, sagte Char-</span><br />
+<span class='ocr_line' title='bbox 190 382 964 424'>lotte, daß es mir mit Ottilien geht, wie dir</span><br />
+<span class='ocr_line' title='bbox 191 321 965 363'>mit dem Hauptmann. Hdchst ungern weisi ich</span><br />
+</div>
+</body>
+</html>
+

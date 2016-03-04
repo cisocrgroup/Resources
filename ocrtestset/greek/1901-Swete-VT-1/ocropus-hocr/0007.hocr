@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0007.tif'>
+<span class='ocr_line' title='bbox 918 3816 2350 3945'>1. 1 1 1AMl ΕI 1</span><br />
+<span class='ocr_line' title='bbox 945 3879 1754 3945'>Τ ττ κτ 1</span><br />
+<p />
+<span class='ocr_line' title='bbox 862 3491 1661 3580'>1Ν C REEH</span><br />
+<p />
+<span class='ocr_line' title='bbox 401 3166 2122 3233'>ΑCCΟRL1Ν TΟ THE SEPTUAΟIΝT</span><br />
+<p />
+<span class='ocr_line' title='bbox 515 2036 2023 2099'>HEΝRY BARCLΑ sWETI L.L.</span><br />
+<p />
+<span class='ocr_line' title='bbox 955 859 1528 924'>CAMBRIDE</span><br />
+<span class='ocr_line' title='bbox 618 721 1867 791'>ΑT THE IVERSITV PRESS</span><br />
+<span class='ocr_line' title='bbox 2144 1127 2538 1322'>.</span><br />
+<span class='ocr_line' title='bbox 2088 1027 2540 1124'>ή</span><br />
+<span class='ocr_line' title='bbox 2061 927 2540 1063'>κ .τ</span><br />
+<span class='ocr_line' title='bbox 2047 859 2343 956'>Α τ Λ</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0059.tif'>
+<span class='ocr_line' title='bbox 578 1696 618 1722'>=</span><br />
+<p />
+<span class='ocr_line' title='bbox 268 1596 994 1643'>Es gab Gelegenheit über die Gegend,</span><br />
+<span class='ocr_line' title='bbox 201 1534 995 1581'>über Anlagen zu- sprechen, die man nach einer</span><br />
+<span class='ocr_line' title='bbox 202 1469 993 1520'>sotchen Nebersicht vlel besser zu Stande bringe,</span><br />
+<span class='ocr_line' title='bbox 200 1411 994 1455'>als wenn man nur einzeln, nach zufälligen Ein-</span><br />
+<span class='ocr_line' title='bbox 168 1338 904 1396'>- drücken, an der Natur hernmversuche.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1225 991 1269'>Das müssen wir meiner Frau deutlich</span><br />
+<span class='ocr_line' title='bbox 196 1163 588 1205'>machen, sagte Ednard.</span><br />
+<p />
+<span class='ocr_line' title='bbox 262 1024 987 1079'>Thue das nicht! versetzte der Hauptman,</span><br />
+<span class='ocr_line' title='bbox 193 972 989 1023'>der die leberzeugungen anderer nicht gern mit</span><br />
+<span class='ocr_line' title='bbox 193 912 987 953'>den seinigen durchkreuzte, den die Krfahrung</span><br />
+<span class='ocr_line' title='bbox 190 846 986 902'>gelehrt hane, daß die Ansichten der Menschen</span><br />
+<span class='ocr_line' title='bbox 190 791 985 846'>viel zn wamnigfaltig sind, als daß sie, selbst</span><br />
+<span class='ocr_line' title='bbox 190 730 986 776'>durch die vernünftigsten Vorstellungen, auf</span><br />
+<span class='ocr_line' title='bbox 188 673 981 713'>einen Punct. versammelt werden kdnnten.</span><br />
+<span class='ocr_line' title='bbox 187 608 980 650'>Thhue es nicht! rief er: sie dürfte leicht lrre</span><br />
+<span class='ocr_line' title='bbox 185 543 978 590'>werden. Es ist ihr, wie allen denen, die sich</span><br />
+<span class='ocr_line' title='bbox 184 481 977 528'>nur aus Liebhaberey mit solchen Dingen be:</span><br />
+<span class='ocr_line' title='bbox 181 418 977 465'>schäftigen, mehr daran aelegen, daß ste et:</span><br />
+<span class='ocr_line' title='bbox 180 351 975 404'>was thue, als daß etwas gethan werde. Man</span><br />
+<span class='ocr_line' title='bbox 179 298 971 350'>tastet an der Natur, man hat Vorliebe für</span><br />
+</div>
+</body>
+</html>
+

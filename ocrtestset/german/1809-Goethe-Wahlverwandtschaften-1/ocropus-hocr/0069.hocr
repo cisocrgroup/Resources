@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0069.tif'>
+<span class='ocr_line' title='bbox 572 1693 615 1722'>Sd</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1587 985 1637'>Unfähigkeit die Regeln der Grammaik zu</span><br />
+<span class='ocr_line' title='bbox 194 1527 988 1574'>fassen. Ich habe diese Beschwerde näher</span><br />
+<span class='ocr_line' title='bbox 196 1464 987 1513'>untersucht: es ist wahr, sie schreibt langsam</span><br />
+<span class='ocr_line' title='bbox 194 1391 990 1450'>und steif wenn man so will, doch nicht zage</span><br />
+<span class='ocr_line' title='bbox 194 1340 988 1390'>haft und ungestalt. Was lch ihr von der</span><br />
+<span class='ocr_line' title='bbox 190 1280 986 1325'>französischen Sprache, die zwar mein Fach</span><br />
+<span class='ocr_line' title='bbox 162 1213 988 1263'>, nlcht ist, schrittweise mittheilte, begriff ste</span><br />
+<span class='ocr_line' title='bbox 191 1156 986 1199'>leicht. Freilich ist es wunderbar, sie weiß</span><br />
+<span class='ocr_line' title='bbox 189 1092 988 1135'>vieles und recht gut, nur wenn man sie fragt,</span><br />
+<span class='ocr_line' title='bbox 189 1027 655 1069'>scheint sie nichts zu wissen.</span><br />
+<span class='ocr_line' title='bbox 240 905 987 948'>- Soll ich mlt einer allgemeinen Bemerkung</span><br />
+<span class='ocr_line' title='bbox 189 839 989 888'>schlleßen, so möchte ich sagen: sie lernt nicht</span><br />
+<span class='ocr_line' title='bbox 185 786 985 828'>als eine die erzogen werden soll, sondern als</span><br />
+<span class='ocr_line' title='bbox 185 722 994 767'>eine die erziehen will.; nicht als Schülerinn,-</span><br />
+<span class='ocr_line' title='bbox 183 660 986 705'>sondern als künftige Lehrerinn. Vielleicht</span><br />
+<span class='ocr_line' title='bbox 182 600 984 643'>kommt es Ew.. Gnaden sonderbar vor, daß</span><br />
+<span class='ocr_line' title='bbox 183 533 983 580'>ich selbst als Erzieher und Lehrer jemanden</span><br />
+<span class='ocr_line' title='bbox 182 474 982 518'>nicht mehr zu loben glaube, als wenn ich</span><br />
+<span class='ocr_line' title='bbox 183 408 981 457'>lhn für meines gleichen erkläre. Ew. Gna-</span><br />
+<span class='ocr_line' title='bbox 181 343 980 394'>den bessre Einsicht, tiefere Menschen- und</span><br />
+<span class='ocr_line' title='bbox 180 288 978 330'>Weltkenntniß wird aus meinen beschränkten</span><br />
+</div>
+</body>
+</html>
+

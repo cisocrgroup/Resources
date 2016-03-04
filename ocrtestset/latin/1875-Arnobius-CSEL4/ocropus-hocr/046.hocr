@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/046.tif'>
+<span class='ocr_line' title='bbox 488 4465 584 4531'>46</span><br />
+<span class='ocr_line' title='bbox 1100 4477 2119 4536'>Arnobii aduersus nationes</span><br />
+<p />
+<span class='ocr_line' title='bbox 501 4276 2732 4363'>teretis uos temen nec potionem inoognitam dubitaretis haurire</span><br />
+<span class='ocr_line' title='bbox 447 4163 2736 4259'>spe salntis proposits atue amore inoolumitatis ineensi. elnxit</span><br />
+<span class='ocr_line' title='bbox 447 4070 2735 4163'>atque apparuit Christns rei maimae nnntistor aunspieinm</span><br />
+<span class='ocr_line' title='bbox 503 3966 2736 4052'>fanustam portans et praeooninm salutare credentibns. quaenam</span><br />
+<span class='ocr_line' title='bbox 505 3865 2817 3948'>est ista crudelitas, inhumanitas quae tanta, quinimmo, ut s</span><br />
+<span class='ocr_line' title='bbox 504 3760 2738 3846'>uerins eloquar, fastilinm, snpereilinm, nntiatorem mnneris</span><br />
+<span class='ocr_line' title='bbox 507 3658 2738 3743'>et portitorem tanti non tantum uerborum malelictionibus</span><br />
+<span class='ocr_line' title='bbox 509 3554 2744 3640'>soindere ueram etiam bello grami atque omnibus persequi</span><br />
+<span class='ocr_line' title='bbox 507 3451 2748 3536'>telorm effsionibus et ruinis? non placent es quae dicit et</span><br />
+<span class='ocr_line' title='bbox 357 3344 2821 3433'>. et em ] offensionibus audiantnr a uobis: pro lndicris es natici- o</span><br />
+<p />
+<span class='ocr_line' title='bbox 507 3245 2751 3331'>nationibus oompntate. stolilissimas res loquitur et fatuua dona</span><br />
+<span class='ocr_line' title='bbox 507 3139 2749 3226'>promittit: ridete ut sapisntes nos uiri et in suis erroribus</span><br />
+<span class='ocr_line' title='bbox 509 3038 2753 3123'>fataitatem relinquite uuoltari. quaenam est haec feritas, ut</span><br />
+<span class='ocr_line' title='bbox 509 2935 2748 3020'>repetamus quae dicta snnt saepins, quae libilo tam carnifex,</span><br />
+<span class='ocr_line' title='bbox 510 2833 2927 2917'>inerpiabile bellam indioere nihil de te merito, dilacerare sis</span><br />
+<span class='ocr_line' title='bbox 511 2524 2928 2830'>zzazze:</span><br />
+<span class='ocr_line' title='bbox 512 2731 2752 2820'>detur enm nelle per uisoera, qui non modo nuullam intulerit</span><br />
+<span class='ocr_line' title='bbox 513 2408 2925 2506'>interitam fagerent et immortalitatem. oonsequerentr ignotam ? ;</span><br />
+<span class='ocr_line' title='bbox 509 2302 2925 2409'>oumque nouitas rernm et inaudita promissio audientinm tur- w l</span><br />
+<span class='ocr_line' title='bbox 511 2219 2926 2302'>baret mentes et credulitatem faceret haesitare, nirtutam om- l</span><br />
+<span class='ocr_line' title='bbox 505 2097 2923 2196'>ninm dominus atque ipsius mortis extinctor hominem sanm,</span><br />
+<span class='ocr_line' title='bbox 518 1994 2923 2097'>permisit interfici, ut ex rebus oonsequentibus seirent in' tato ,</span><br />
+<span class='ocr_line' title='bbox 512 1907 2923 1994'>esse spes suas quas iamdudum aooeperant de snimarum salnte '</span><br />
+<span class='ocr_line' title='bbox 519 1804 2310 1888'>nec periculum mortis alis se posse ratione uitare.</span><br />
+<span class='ocr_line' title='bbox 589 1509 2612 1582'>D inhumanitasqne Sab 6 loquar Sab fsstiliosum Sab</span><br />
+<span class='ocr_line' title='bbox 513 1414 2919 1496'>9 ea quae P 11 oompätate P comportate Sab 18 fataitstem (</span><br />
+<span class='ocr_line' title='bbox 525 1321 2919 1414'>Sab: fatuitantem P 15 dilacerare Sab: delacersre P 17 tlli [</span><br />
+<span class='ocr_line' title='bbox 525 1261 2919 1321'>Meursis: nulli P omnibns Gel diceret \&amp;ab in err: dieere'</span><br />
+<span class='ocr_line' title='bbox 527 1133 2917 1234'>P docuerit Gel 18 animis scripsi: his P esse- P 18 oonse-,</span><br />
+<span class='ocr_line' title='bbox 518 1078 2624 1149'>qneretur P 20 turbarent Sab 21 fsoerent Sab hesitare P</span><br />
+<span class='ocr_line' title='bbox 517 985 1968 1058'>d5 aasoon us s- Ei. mo us m- rsuucie. P</span><br />
+</div>
+</body>
+</html>
+

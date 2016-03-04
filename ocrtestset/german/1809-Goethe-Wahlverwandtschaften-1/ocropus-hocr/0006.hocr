@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0006.tif'>
+<span class='ocr_line' title='bbox 736 2249 845 2296'>Die</span><br />
+<p />
+<span class='ocr_line' title='bbox 280 2045 1287 2147'>Wah lverwandtschaften.</span><br />
+<p />
+<span class='ocr_line' title='bbox 502 1687 609 1735'>i n</span><br />
+<span class='ocr_line' title='bbox 688 1685 1158 1752'>o m a n</span><br />
+<p />
+<span class='ocr_line' title='bbox 539 1361 996 1436'>G o e t h e.</span><br />
+<p />
+<span class='ocr_line' title='bbox 353 917 1159 976'>E r st e r - T h e i l.</span><br />
+<p />
+<span class='ocr_line' title='bbox 572 684 930 748'>Tübingen,</span><br />
+<span class='ocr_line' title='bbox 479 574 1205 626'>J. G. Cottaischen Buchhandlung.</span><br />
+</div>
+</body>
+</html>
+

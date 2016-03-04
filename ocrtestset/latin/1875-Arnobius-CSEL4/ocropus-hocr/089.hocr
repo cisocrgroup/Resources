@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/089.tif'>
+<span class='ocr_line' title='bbox 1161 4502 1472 4558'>Liber I.</span><br />
+<span class='ocr_line' title='bbox 2346 4493 2430 4558'>89</span><br />
+<p />
+<span class='ocr_line' title='bbox 196 4290 2430 4388'>uunde sant elephanti tauri cerui muli asini? uunde leones</span><br />
+<span class='ocr_line' title='bbox 197 4196 2432 4290'>equi canes lapi pantherae eorumque quae ninunt quid aut</span><br />
+<span class='ocr_line' title='bbox 196 4093 2516 4182'>uunde sunt animae? neque enim fidem res habet, ut Platonico</span><br />
+<span class='ocr_line' title='bbox 195 3993 2430 4082'>er illo cratere quem conficit miscetque Timaeis aut horum</span><br />
+<span class='ocr_line' title='bbox 143 3893 2431 3976'>s animae uenerint aut lacusta mus sorex blatta rana oentipeda</span><br />
+<span class='ocr_line' title='bbox 195 3774 2430 3873'>animata esse credantur et uitnere, quandoquidem ex elementis</span><br />
+<span class='ocr_line' title='bbox 193 3683 2428 3774'>ipsis oausa est illis atque origo nascendi, si ad animalia gig-</span><br />
+<span class='ocr_line' title='bbox 192 3579 2427 3666'>nenda, quae in singulis his degunt, insunt abditae atque ob-</span><br />
+<span class='ocr_line' title='bbox 193 3478 2440 3562'>scurissimae rationes. nam et uidemus alios ex sapientibus dicere,</span><br />
+<span class='ocr_line' title='bbox 109 3373 2429 3459'>xo tellurem esse horum matrem, auam tum alios, aerinm spiritum</span><br />
+<span class='ocr_line' title='bbox 192 3269 2430 3356'>his alios iangere, solem uero nonnullos esse horum opifioem et</span><br />
+<span class='ocr_line' title='bbox 193 3169 2430 3254'>e ignibus animatos einns uitali agitatione motari. quid? si et</span><br />
+<span class='ocr_line' title='bbox 190 3067 2428 3149'>haec non sunt et est aliqua res alia, alia causa, alia ratio,</span><br />
+<span class='ocr_line' title='bbox 191 2955 2428 3048'>potestas alia denique inauditi nobis atque incogniti nominis,</span><br />
+<span class='ocr_line' title='bbox 110 2859 2430 2944'>x>genus quae hominum finerit et rerum constitutionibus adpli-</span><br />
+<span class='ocr_line' title='bbox 195 2760 2426 2843'>carit? nonne fieri potis est, ut eorti homines ita sint</span><br />
+<span class='ocr_line' title='bbox 192 2651 2595 2739'>nec ] ad deum primum natiuitatis eoram referatur auctoritas?, sP</span><br />
+<span class='ocr_line' title='bbox 192 2551 2494 2636'>quid enim putamus habuisse rationis Platonem illnm magnum</span><br />
+<span class='ocr_line' title='bbox 189 2448 2428 2531'>pie sancteque sapientem, cum hominis fictionem deo remouit</span><br />
+<span class='ocr_line' title='bbox 106 2345 2424 2429'>so a maximo et ad minores nescio quos transtulit cumqae eius-</span><br />
+<span class='ocr_line' title='bbox 187 2226 2570 2327'>dem noluit sinceritatis esse mizturas humani animas generis,</span><br />
+<span class='ocr_line' title='bbox 192 2138 2574 2226'>cuius animam fecerat uniersitatis istins, quam quod hominis</span><br />
+<span class='ocr_line' title='bbox 188 2036 2424 2121'>fabricam indignam esse rebatur deo nec rei flaccilae fictionem</span><br />
+<span class='ocr_line' title='bbox 187 1909 2627 2018'>magnitudini eiuus et eminentiae conuenire? ergo oum haec ita $3</span><br />
+<span class='ocr_line' title='bbox 106 1830 2625 1916'>ss sint, non absone neque inaniter credimus, mediae qualitatis '</span><br />
+<span class='ocr_line' title='bbox 188 1727 2421 1812'>esse animas hominum utpote ab rebus non principalibus editas,</span><br />
+<span class='ocr_line' title='bbox 187 1622 2424 1711'>iuri subiectas mortis, paruarum et labilinm uirium: perpetuitate</span><br />
+<span class='ocr_line' title='bbox 188 1521 2420 1605'>donari, si spem muneris tanti denm ad principem conferant,</span><br />
+<p />
+<span class='ocr_line' title='bbox 397 1383 798 1488'>8 Tim. p. 41</span><br />
+<span class='ocr_line' title='bbox 261 1244 2288 1316'>1 elefanti P mulni P corr e' 2 phanterae P panterae r</span><br />
+<span class='ocr_line' title='bbox 187 1158 2424 1230'>quae Gel: qi P uiant P corr c' 4 timeus P 6 quando-</span><br />
+<span class='ocr_line' title='bbox 183 1074 2432 1145'>quilem soripsi: quilem P quia Urs quia eadem Salm 8 qne P</span><br />
+<span class='ocr_line' title='bbox 181 989 2286 1058'>corr e 10 horum scripsi: hominem P hominam tuel omniam DUDrs</span><br />
+<span class='ocr_line' title='bbox 181 902 2289 973'>tnm Sab: cam P cam ea Salm walios P aerem Sab</span><br />
+<span class='ocr_line' title='bbox 183 815 2286 887'>15 gens Sab hominem \&amp;ab fincrerit P 16 pote Sab</span><br />
+<span class='ocr_line' title='bbox 183 732 2290 801'>18 piae P corr sanctaeque P eorr 21 nolait Urs: noluit P</span><br />
+<span class='ocr_line' title='bbox 180 641 2424 716'>23 fictionem magnitdini Sab: fictione magnitudinis P 27 parbarum</span><br />
+<span class='ocr_line' title='bbox 181 558 2353 629'>P eorr iam perpetaitate V 28 si add Gel dominum Sab</span><br />
+</div>
+</body>
+</html>
+

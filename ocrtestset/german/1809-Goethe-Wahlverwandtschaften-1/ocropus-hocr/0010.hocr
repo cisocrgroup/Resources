@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0010.tif'>
+<span class='ocr_line' title='bbox 542 2232 1035 2296'>Er stes Kapitel.</span><br />
+<p />
+<span class='ocr_line' title='bbox 339 1926 1314 1982'>Eduard -- so nennen wir einen reichen</span><br />
+<span class='ocr_line' title='bbox 251 1841 1311 1896'>Baron im besten Mannesalter -= Eduard</span><br />
+<span class='ocr_line' title='bbox 247 1755 1310 1812'>hatte in seiner Baumschule die schönste Stuns</span><br />
+<span class='ocr_line' title='bbox 246 1667 1308 1739'>de eines Aprilnachmittags zugebracht, um</span><br />
+<span class='ocr_line' title='bbox 242 1588 1308 1645'>frisch erhaltene Pfropfreiser auf junge Stäm-</span><br />
+<span class='ocr_line' title='bbox 241 1506 1305 1564'>me zu bringen. Sein Geschäft war eben</span><br />
+<span class='ocr_line' title='bbox 240 1428 1303 1484'>vollendet; er legte die Geräthschaften in das</span><br />
+<span class='ocr_line' title='bbox 241 1339 1301 1401'>Futteral zusammen und betrachtete seine Ar-</span><br />
+<span class='ocr_line' title='bbox 240 1252 1302 1319'>beit mit Vergnügen, als der Gärtner hinzu-</span><br />
+<span class='ocr_line' title='bbox 236 1171 1305 1245'>trat und sich an dem theilnehmenden Fleisi-</span><br />
+<span class='ocr_line' title='bbox 237 1089 671 1143'>des Herrn ergehte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 321 920 1295 981'>HHast du meine Frau nicht gesehen ? srag-</span><br />
+<span class='ocr_line' title='bbox 228 838 1290 895'>te Eduard, indem er sich weiter zu gehen an-</span><br />
+<span class='ocr_line' title='bbox 227 757 382 807'>schickte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 984 685 1078 733'>z -</span><br />
+</div>
+</body>
+</html>
+

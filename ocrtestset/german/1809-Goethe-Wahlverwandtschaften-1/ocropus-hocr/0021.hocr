@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0021.tif'>
+<span class='ocr_line' title='bbox 595 1700 672 1722'>... e</span><br />
+<span class='ocr_line' title='bbox 592 1665 664 1702'>A</span><br />
+<span class='ocr_line' title='bbox 572 1597 614 1626'>Ng</span><br />
+<p />
+<span class='ocr_line' title='bbox 216 1504 966 1549'>drangst auf eine Veebindung; ich willigte nlcht</span><br />
+<span class='ocr_line' title='bbox 213 1449 965 1493'>gleich: denn da wlr ohugefähr von denselben</span><br />
+<span class='ocr_line' title='bbox 211 1389 964 1434'>Jahren sind, so sin ich als Frau wohl älter</span><br />
+<span class='ocr_line' title='bbox 210 1331 964 1374'>geworden, du nicht als Mann. Zulezt wollte</span><br />
+<span class='ocr_line' title='bbox 210 1272 964 1315'>ich dir' nicht versagen, was dn für dein elnzi:</span><br />
+<span class='ocr_line' title='bbox 208 1214 962 1256'>ges Gläck zu halten schienst. Du wolltestvon</span><br />
+<span class='ocr_line' title='bbox 205 1155 961 1197'>allen Unruhen, die du bey Hsf, im Milltär,</span><br />
+<span class='ocr_line' title='bbox 204 1094 961 1136'>auf Reisen erlebt hattest, dich an meiner Sei:</span><br />
+<span class='ocr_line' title='bbox 203 1032 960 1074'>te erhohlen, zur Besinnung kommen, des Le-</span><br />
+<span class='ocr_line' title='bbox 203 973 958 1013'>bens geniesen; aber auch nur mit mir allein.</span><br />
+<span class='ocr_line' title='bbox 201 913 958 954'>Mdeine einzige Tochter that ich in Pension,</span><br />
+<span class='ocr_line' title='bbox 198 853 957 894'>wo sie sich freylich mannigfaltiger ausbildet,</span><br />
+<span class='ocr_line' title='bbox 199 799 956 837'>als bey einem ländlichen Aufentalte geschehen</span><br />
+<span class='ocr_line' title='bbox 197 739 954 782'>könnte; und nicht sie allein, auch Ottilien,</span><br />
+<span class='ocr_line' title='bbox 196 678 955 725'>meine liebe Nichte, hat ich dorthin, die</span><br />
+<span class='ocr_line' title='bbox 194 623 953 667'>vielleicht zur häuslichen Gehülfinn unter meö</span><br />
+<span class='ocr_line' title='bbox 194 563 950 606'>ner Anleitung am besten herangewachsen wäre.</span><br />
+<span class='ocr_line' title='bbox 193 502 949 553'>Das alles geschah mit deiner Einstimmung,</span><br />
+<span class='ocr_line' title='bbox 192 446 949 489'>blos damit wir uns selbst leben, bloß damit</span><br />
+<span class='ocr_line' title='bbox 191 384 946 430'>wir das srüh so sehnlich gewünschte, endlich</span><br />
+<span class='ocr_line' title='bbox 190 325 946 366'>spät erlangte Glück ungestört genießen möchten.</span><br />
+<span class='ocr_line' title='bbox 190 262 947 306'>So haben wir unsern ländlichen Auufenthalt</span><br />
+</div>
+</body>
+</html>
+

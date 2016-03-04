@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0039.tif'>
+<span class='ocr_line' title='bbox 310 2770 502 2840'>Cap. o.</span><br />
+<span class='ocr_line' title='bbox 933 2787 1245 2839'>De Homine.</span><br />
+<span class='ocr_line' title='bbox 1850 2772 1905 2821'>31</span><br />
+<span class='ocr_line' title='bbox 308 2691 1912 2757'>luntaria eſt ea, quæ à Voluntate proficiſcitur, nec ulla alia. Quod ſi</span><br />
+<span class='ocr_line' title='bbox 307 2629 1913 2693'>pro Appetitu Rationali dicamus Appetitum, qui oritur à Delibera-</span><br />
+<span class='ocr_line' title='bbox 307 2568 1913 2632'>tione antecedente, tunc Definitio eadem eſt quam dixi, nempe ulti-</span><br />
+<span class='ocr_line' title='bbox 308 2504 1913 2568'>mus in Deliberando Appetitus. Quanquam autem vulgo ſæpiſſimè</span><br />
+<span class='ocr_line' title='bbox 306 2443 1915 2507'>dicamus habuiſſe aliquem Voluntatem faciendi id, quod facere poſtea</span><br />
+<span class='ocr_line' title='bbox 308 2379 1915 2446'>noluit; id tamen non Voluntas proprie eſt, ſed Inclinatio, quæ actio-</span><br />
+<span class='ocr_line' title='bbox 307 2317 1911 2381'>nem non facit, ut ſit Voluntaria, quæ dependere debet non ab omni,</span><br />
+<span class='ocr_line' title='bbox 306 2254 1911 2318'>ſed ab ultimo Appetitu. Intervenientes enim Appetitus ſive Inclina-</span><br />
+<span class='ocr_line' title='bbox 307 2198 1911 2256'>tiones non ſunt Voluntates; ſi enim eſſent, omnes actiones ſimul</span><br />
+<span class='ocr_line' title='bbox 305 2144 1172 2193'>eſſent \&amp; Voluntariæ \&amp; Involuntariæ.</span><br />
+<span class='ocr_line' title='bbox 367 2068 1915 2130'>Manifeſtum hinc eſt Voluntarias actiones eſſe non modò eas, quæ</span><br />
+<span class='ocr_line' title='bbox 306 2003 1914 2069'>incipiunt ab Appetitu alicujus rei, ſed etiam illas, quæ proficiſcuntur</span><br />
+<span class='ocr_line' title='bbox 306 1940 1913 2006'>ab Averſione, vel à Metu eventuum qui conſequuntur Facti alicujus</span><br />
+<span class='ocr_line' title='bbox 305 1893 589 1940'>omiſſionem.</span><br />
+<span class='ocr_line' title='bbox 368 1817 1916 1880'>Formulæ Sermonis quibus Paſſiones declarantur, partim eædem</span><br />
+<span class='ocr_line' title='bbox 305 1752 1912 1817'>ſunt quibus alias ſignificamus Cogitationes. Et primo generatim</span><br />
+<span class='ocr_line' title='bbox 307 1690 1912 1754'>Paſſiones omnes proferri poſſunt Indicative; ut Amo, Metuo, Giau-</span><br />
+<span class='ocr_line' title='bbox 306 1629 1914 1694'>deo, Delibero, Volo, \&amp;c. Sunt autem aliquæ quæ ſuas habent pro-</span><br />
+<span class='ocr_line' title='bbox 304 1564 1915 1629'>lationes ſibi proprias; quæ tamen Affirmationes non ſunt, niſi quan-</span><br />
+<span class='ocr_line' title='bbox 307 1503 1917 1568'>do inſerviunt Illationibus. Deliberatio profertur Subjunctive, qui mo-</span><br />
+<span class='ocr_line' title='bbox 306 1437 1915 1505'>dus proprius et Suppoſitionum à quibus ducimus Conſequentias; ut,</span><br />
+<span class='ocr_line' title='bbox 301 1377 1916 1443'>ſihoc fiat, tunc ſequetur illud; nec differt à Sermone ratiocinandi, niſi</span><br />
+<span class='ocr_line' title='bbox 306 1315 1917 1378'>quod in ratiocinatione nominibus utimur Vniverſalibus; in Delibera-</span><br />
+<span class='ocr_line' title='bbox 308 1250 1915 1318'>tione plerumque Singularibus. Sermo Cupiditatis \&amp; Averſionis eſt</span><br />
+<span class='ocr_line' title='bbox 309 1190 1914 1255'>Imperativus; ut, hoe fac, ab hoc abſtine; quæ verba ad illum qui ad</span><br />
+<span class='ocr_line' title='bbox 298 1129 1915 1192'>faciendum vel abſtinendum obligatur, mandatum dicitur; alioqui Pre-</span><br />
+<span class='ocr_line' title='bbox 307 1067 1916 1130'>catie; vel Conſilium. Sermo vanæ Giloriæ, item Indignationis, \&amp; Mi-</span><br />
+<span class='ocr_line' title='bbox 308 1002 1913 1071'>ſericordiæ, aliarumque multarum cupiditatum ſermo eſt Dptativus.</span><br />
+<span class='ocr_line' title='bbox 309 938 1916 1007'>Cupiditatis autem cognoſcendi ſermo peculiaris eſt Interrogaivus; ut</span><br />
+<span class='ocr_line' title='bbox 309 874 1916 943'>Qpid eſt; Quamndo ert; Quemodo factum eſt; Quid ita. Paſſionum</span><br />
+<span class='ocr_line' title='bbox 308 817 1916 883'>ſermones alios non reperio. Iurationes enim maledictioneſque \&amp;</span><br />
+<span class='ocr_line' title='bbox 311 754 1916 818'>convitia Paſſiones non ſignificant ut Verba, ſed ut Actiones male</span><br />
+<span class='ocr_line' title='bbox 312 691 671 754'>moratæ linguæ.</span><br />
+<span class='ocr_line' title='bbox 376 628 1914 693'>Formulæ hæ ſignificationes quidem ſunt Paſſionum Voluntariæ;</span><br />
+<span class='ocr_line' title='bbox 313 565 1917 631'>ſigna autem certa non ſunt; idque, quia Voluntaria ſunt. Paſſionis</span><br />
+<span class='ocr_line' title='bbox 313 502 1912 570'>Præſentis certiſſima ſigna ſunt illa, quæ à Vultu, Geſtu, Actionibus,</span><br />
+<span class='ocr_line' title='bbox 314 438 1330 506'>Finibus, Negotiiſque hominum capiuntur.</span><br />
+<span class='ocr_line' title='bbox 378 375 1914 441'>Quoniam in Deliberatione, Appetitus \&amp; Averſiones à proſpectu</span><br />
+<span class='ocr_line' title='bbox 313 312 1915 378'>Bonorum \&amp; Malorum, conſequentium actionem de qua delibera-</span><br />
+<span class='ocr_line' title='bbox 314 244 1916 319'>mus, alternæ ſunt, \&amp; catenam longam ſaeiunt condſequentiarum, cu-</span><br />
+<span class='ocr_line' title='bbox 1850 190 1919 251'>jus</span><br />
+</div>
+</body>
+</html>
+

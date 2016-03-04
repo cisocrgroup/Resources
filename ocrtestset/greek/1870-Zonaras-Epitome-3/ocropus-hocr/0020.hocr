@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0020.tif'>
+<span class='ocr_line' title='bbox 524 3380 600 3439'>14</span><br />
+<span class='ocr_line' title='bbox 1153 3389 1706 3439'>LLI3. xI. CAP.1V.</span><br />
+<p />
+<span class='ocr_line' title='bbox 525 3211 2347 3310'>ἐκεῖνον ἐκάκιζεν, καὶ τοὺς ἐπαινοῦντας ὡς φίλους</span><br />
+<span class='ocr_line' title='bbox 525 3114 2346 3212'>ἐκείνου ἐμίσειʼ καὶ παμπληθεῖς ἀπέκτεινε τῶν κατὰ</span><br />
+<span class='ocr_line' title='bbox 521 3017 2349 3119'>τοῦ πατρὸς καὶ τῆς μητρὸς καὶ τῶν ἀδελφῶν αὐτού</span><br />
+<span class='ocr_line' title='bbox 521 2924 2347 3022'>τὸν ιβέριον ἐρεθισάντων, καίτοι τὴν ὀργὴν αὐτοῖς</span><br />
+<span class='ocr_line' title='bbox 522 2828 2395 2926'>ἀφεῖναι λέγων καὶ τὰ γράμματα καταφλέξαι αὐτῶν. 5</span><br />
+<span class='ocr_line' title='bbox 523 2732 2348 2829'>καὶ ναοὺς δὲ ἑαυτῷ καὶ θυσίας ὡς θεῷ γίνεσθαι</span><br />
+<span class='ocr_line' title='bbox 524 2636 2350 2735'>ἐκέλευσεν. αἰτούμενός τέ τι ὡργίζετο, καὶ αὐθις</span><br />
+<span class='ocr_line' title='bbox 526 2541 2350 2638'>ἐμηνία ὡς μὴ αἰτούμενος· ὁξύς τʼ ἐπί τινας πράξεις</span><br />
+<span class='ocr_line' title='bbox 526 2444 2350 2541'>ἐφέρετο, καὶ νωθέστατα ἐνίας μετακεχείριστο τά τε</span><br />
+<span class='ocr_line' title='bbox 523 2341 2422 2446'>χρήματα καὶ ἀφειδέστατα ἀνήλισκε, καὶ ῥυπαρώτατα:ο</span><br />
+<span class='ocr_line' title='bbox 331 2253 2351 2350'>PI554 ἠργυρολόγειʼ τοῖς τε θωπεύουσιν ατὸν καὶ τοῖς</span><br />
+<span class='ocr_line' title='bbox 525 2155 2352 2254'>παρρησιαζομένοις καὶ ἥχθετο ὁμοίως καὶ ἥδετο. καὶ</span><br />
+<span class='ocr_line' title='bbox 525 2061 2351 2159'>πολλοὺς μὲν μεγάλα ἀδικήσαντας ἐκόλασε, πολλοὺς</span><br />
+<span class='ocr_line' title='bbox 529 1965 2352 2062'>δὲ μηδὲν ήδικηκότας ἀπέκτεινε. καὶ τῶν ἑταίρων</span><br />
+<span class='ocr_line' title='bbox 524 1869 2425 1967'>τοὺς μὲν ὑπερεκολάκευε, τοὺς δὲ ὑπερύβριζε. τοι- 15</span><br />
+<span class='ocr_line' title='bbox 525 1775 2352 1874'>οὐτῳ δὲ τὸ σύμπαν οἱ Ρωμαῖοι τότε παρεδόθησαν</span><br />
+<span class='ocr_line' title='bbox 527 1678 2352 1776'>αὐτοκράτορι ὥστε τὰ τοῦ ιβερίου ἔργα, καίτοι δο-</span><br />
+<span class='ocr_line' title='bbox 525 1582 2354 1679'>κοῦντα παγχάλεπα, τοσοῦτον τὰ τοῦ αίου παρενεγ-</span><br />
+<span class='ocr_line' title='bbox 526 1487 2355 1584'>κεῖν ὅσον κρείττω ἐκείνων τὰ τοῦ Ἀύγούστου εἶναι</span><br />
+<span class='ocr_line' title='bbox 528 1387 2428 1488'>ἐδόκουν. ιβέριος μὲν γὰρ ἠρχε καὶ τοῖς ἄλλοις τ-</span><br />
+<span class='ocr_line' title='bbox 526 1295 2354 1392'>ὑπηρέταις πρὸς τὸ αὐτού ἐκέχρητο βούλημα, άιος</span><br />
+<span class='ocr_line' title='bbox 531 1195 2354 1296'>δὲ ἥρχετο μὲν ὑπὸ τῶν ἀρματηλατούντων καὶ ὑπὸ</span><br />
+<span class='ocr_line' title='bbox 463 1100 2357 1200'>3τῶν ὁπλομαχούντων, ἐδούλευε δὲ καὶ τοῖς ὀρχησταῖς</span><br />
+<span class='ocr_line' title='bbox 529 1008 2357 1104'>καὶ τοῖς λοιποῖς τοῖς περὶ τὴν σκηνήν. τὸν γοῦν</span><br />
+<span class='ocr_line' title='bbox 524 911 2427 1009'>πελλῆν τῶν τότε τραγῳδῶν τὸν εὐδοκιμώτατον καὶ 25</span><br />
+<span class='ocr_line' title='bbox 532 816 2355 913'>δημοσιεύων συνόντα αὐτῷ εἶχεν ἀεί, καὶ χωρὶς μὲν</span><br />
+<span class='ocr_line' title='bbox 533 716 2356 817'>ἐκεῖνος, χωρὶς δʼ οἱ λοιποὶ πάνθʼ ὅσα ἄν τοιούτοι</span><br />
+<span class='ocr_line' title='bbox 536 623 2354 721'>δυνηθέντες τολμήσειαν, ἐπʼ ἐξουσίας ἐποίουν. καὶ</span><br />
+<span class='ocr_line' title='bbox 532 528 2354 626'>αὐτῶν τὰ μὲν πρῶτα θεατὴς καὶ ἀκροατὴς ἐγίνετο,</span><br />
+<span class='ocr_line' title='bbox 532 431 2427 529'>συσπουδάζων καὶ ἀντιστασιάζων τισίν· εἶτα καὶ ἄρ- 30</span><br />
+<span class='ocr_line' title='bbox 532 335 2353 434'>ματα ἥλασε καὶ ἐμονομάχησεν, δρχήσει τε ἐκέχρητο</span><br />
+<span class='ocr_line' title='bbox 534 244 2353 338'>καὶ τραγῳδίαν ὑπεκρίνετο. ἄπαξ δὲ τοὺς πρώτους</span><br />
+</div>
+</body>
+</html>
+

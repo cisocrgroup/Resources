@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0071.tif'>
+<span class='ocr_line' title='bbox 462 1688 606 1722'>- lg</span><br />
+<p />
+<span class='ocr_line' title='bbox 184 1592 976 1641'>se hatte in ihrem Leben genugsam einsehen</span><br />
+<span class='ocr_line' title='bbox 182 1520 976 1578'>gelernt, wie hoch jede wahre Neigung zu</span><br />
+<span class='ocr_line' title='bbox 181 1468 976 1518'>schäten sep, in einer Welt wo Gleichgültig-</span><br />
+<span class='ocr_line' title='bbox 181 1406 977 1453'>keit und Abneigung eigentlich recht zu Hause</span><br />
+<span class='ocr_line' title='bbox 179 1347 247 1384'>sind.</span><br />
+</div>
+</body>
+</html>
+

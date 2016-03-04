@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0066.tif'>
+<span class='ocr_line' title='bbox 318 2769 380 2836'>58</span><br />
+<span class='ocr_line' title='bbox 933 2785 1250 2836'>De Bomine.</span><br />
+<span class='ocr_line' title='bbox 1683 2766 1915 2839'>Cap. 12.</span><br />
+<span class='ocr_line' title='bbox 311 2686 1915 2753'>bitum non ſit; neque res aut locus quem non ab aliquo Spiritu ani-</span><br />
+<span class='ocr_line' title='bbox 310 2625 1498 2688'>matum, habitatum, ſive occupatum finxerint aliqui.</span><br />
+<span class='ocr_line' title='bbox 372 2567 1914 2626'>Mundi materia indormis Deus habebatur, dictus Chaos. Cœelum,</span><br />
+<span class='ocr_line' title='bbox 310 2500 1528 2563'>Terra, Oceanus, Planetæ, Ignis, Venti totidem Dii.</span><br />
+<span class='ocr_line' title='bbox 374 2438 1914 2501'>Viri, Fæminæ, Aves, Crocodilus, Vitulus, Canis, Anguis, Por-</span><br />
+<span class='ocr_line' title='bbox 310 2376 1915 2439'>rum, Cæpe, deificsta. Omnia ferè loca Dæmonibus plena erant;</span><br />
+<span class='ocr_line' title='bbox 311 2313 1916 2376'>Campeſtria Panibus \&amp; Paniſcis; Silvæ Faunis \&amp; Nymphis. Omnis</span><br />
+<span class='ocr_line' title='bbox 309 2251 1916 2313'>luvius \&amp; Fons Dæmonem habebat cognomen; Vnaquæque Do-</span><br />
+<span class='ocr_line' title='bbox 310 2189 1915 2252'>mus ſuum Larem;Vnuſquiſque Homo ſuum Genium. Plenum erat</span><br />
+<span class='ocr_line' title='bbox 309 2132 1916 2190'>Dæmonibus Infernum; Larvæ, Lemures, Vmbræ mortuorum omni-</span><br />
+<span class='ocr_line' title='bbox 308 2063 1916 2127'>bus fere locis. Etiam Accidentibus divinitatem attribuerunt, tem-</span><br />
+<span class='ocr_line' title='bbox 309 2002 1920 2065'>pla ædificarunt, ut Tempori, Diei, Nocti, Paci, Concordiæ,</span><br />
+<span class='ocr_line' title='bbox 308 1938 1911 2002'>Amori, Contentioni, Victoriæ, Virtuti, Honori, Sanitati, Rubigini,</span><br />
+<span class='ocr_line' title='bbox 309 1877 1914 1940'>Febri; quæ cum optarent aut metuerent, invocabant, quaſi imapen-</span><br />
+<span class='ocr_line' title='bbox 310 1815 1914 1879'>dentes capitibus Deos. Etiam Ingenia propria invocabant nomine</span><br />
+<span class='ocr_line' title='bbox 310 1753 1915 1814'>Muſarum; Ignorantiam propriam nomine Fortunæ; Luxuriam pro-</span><br />
+<span class='ocr_line' title='bbox 310 1690 1915 1754'>priam nomine Cupidinis; Iram propriam nomine Furiarum; Pu-</span><br />
+<span class='ocr_line' title='bbox 309 1628 1913 1691'>denda propria nomine Priapi; proprias denique Pollutiones Incubis</span><br />
+<span class='ocr_line' title='bbox 312 1564 1920 1629'>\&amp; Succubis imputaverunt. Adeo ut nihil eſſet de quo ut de perſona-</span><br />
+<span class='ocr_line' title='bbox 311 1500 1914 1567'>Poëëta loqui potuit, quod ab illis aut Deus aut Dæmon non crede-</span><br />
+<span class='ocr_line' title='bbox 310 1454 444 1489'>retur.</span><br />
+<span class='ocr_line' title='bbox 368 1375 1915 1450'>Iidem Religionis Gentium authores, cum Religionis fundamen-</span><br />
+<span class='ocr_line' title='bbox 309 1313 1913 1377'>tum animadvertiſſenr eſſe Cauſarum ignorationem, \&amp; inde innatum</span><br />
+<span class='ocr_line' title='bbox 308 1259 1915 1318'>hominibus morem fortunas ſuas Cauſis adſeribendi, nihil ad Effectum</span><br />
+<span class='ocr_line' title='bbox 306 1190 1916 1254'>attinentibus, obtrudere ignorantibus auſi ſunt pro Cauſis ſecundis</span><br />
+<span class='ocr_line' title='bbox 307 1129 1916 1193'>ſecundos quoſdam \&amp; miniſtrantes Deos, Fæcunditatem Veneri, Ar-</span><br />
+<span class='ocr_line' title='bbox 308 1066 1917 1132'>tes Apollini, Ingenium Mercurio, Veutos AEolo, alioſque Effectus</span><br />
+<span class='ocr_line' title='bbox 309 1004 1912 1070'>Diis aliis aſcribentes. Adeo ut quot ſunt rerum agendarum genera,</span><br />
+<span class='ocr_line' title='bbox 309 956 1203 1004'>tot ferè veteres Ethnici habuere Deos.</span><br />
+<span class='ocr_line' title='bbox 369 880 1916 942'>Etiam ad Cultum divinum quem Natura dictat, nempe Oblatio-</span><br />
+<span class='ocr_line' title='bbox 312 816 1917 882'>nes, Preces, Gratiarum actiones, cæteraſque antedictas iidlem au-</span><br />
+<span class='ocr_line' title='bbox 312 752 1917 820'>rhores Imaginum tum pictarum \&amp; ſculptarum, tum fuſarum adora-</span><br />
+<span class='ocr_line' title='bbox 311 691 1917 754'>tiones addidere, eo fine ut Populus, id eſt Ignorantium multitudo</span><br />
+<span class='ocr_line' title='bbox 309 628 1920 692'>Deos ipſos in iſtis Imaginibus habitare exiſtimaret, \&amp; Agris, Tem-</span><br />
+<span class='ocr_line' title='bbox 310 566 1919 630'>plis, Reditibus \&amp; Sacerdouibus donaret; quæ omnia Sacra habe-</span><br />
+<span class='ocr_line' title='bbox 309 510 1916 567'>hantur, id eſt, ſolius Sacerdotis commodo deſtinata, ut Cavernæ,</span><br />
+<span class='ocr_line' title='bbox 308 440 1912 507'>Luci, Sylvæ, Montes, Inſulæ integræ quæ illis conſecratæ erant.</span><br />
+<span class='ocr_line' title='bbox 311 387 1915 442'>Diis autem iſtis non modò varias formas ut Hominum, Beſtiarum,</span><br />
+<span class='ocr_line' title='bbox 311 314 1916 380'>Monſtrorum, ſed etiam omne genus Paſſionum \&amp; Facultatum car-</span><br />
+<span class='ocr_line' title='bbox 313 252 1918 316'>alium, ut Sexum, Sermonem, ſ.upidinem, Qienerationem (genera-</span><br />
+<span class='ocr_line' title='bbox 1749 209 1914 253'>tianem</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/015.tif'>
+<span class='ocr_line' title='bbox 1241 4447 1525 4500'>Liber I.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 4243 2488 4327'>imbribus uestra inrigent rura, pluuiarum quicumque sunt rores</span><br />
+<span class='ocr_line' title='bbox 257 4140 2488 4225'>nostris ab agelluulis abigant. lanitia crent uestra numerosis</span><br />
+<span class='ocr_line' title='bbox 257 4034 2688 4130'>fetibus multiplicari, sterilitatem infastam nostris pecuariis in- :</span><br />
+<span class='ocr_line' title='bbox 255 3935 2489 4018'>ferant. ex oliuuetis nnestris atque uinetis plenam faciant autum-</span><br />
+<span class='ocr_line' title='bbox 211 3832 2489 3915'>s nitatem fandi, at ex nostris exprimi nnum prohibeant pal-</span><br />
+<span class='ocr_line' title='bbox 257 3727 2490 3811'>mitibus rorem. ad extremum et ultimum in uestro ore praecipiant</span><br />
+<span class='ocr_line' title='bbox 257 3623 2489 3707'>suam fruges retinere natdram, at uero in nostro mel amarum</span><br />
+<span class='ocr_line' title='bbox 253 3521 2490 3605'>fieri, olearum fluenta rancescere et sub ipsins pocnli labris</span><br />
+<span class='ocr_line' title='bbox 257 3417 2590 3501'>in acoris perfiliam uinum repente mutari quod cum minime 22</span><br />
+<span class='ocr_line' title='bbox 179 3311 2590 3398'>o fieri testificentar res ipsae ] neque minus ad nos quicquam t.8</span><br />
+<span class='ocr_line' title='bbox 254 3211 2593 3294'>neque ad uos plarimum redundare nnitalibus ex benefieiis con--</span><br />
+<span class='ocr_line' title='bbox 255 3107 2490 3190'>stet, libido quae tanta est inimicos atque hostes deos esse con-</span><br />
+<span class='ocr_line' title='bbox 254 3004 2492 3087'>tendere Christianis, quos in rebus tristissimis atque laetis nihil</span><br />
+<span class='ocr_line' title='bbox 255 2900 2490 2984'>abs te uideas ratione in aliqua discrepare? si uerum uobis per-</span><br />
+<span class='ocr_line' title='bbox 177 2792 2576 2882'>smittitis ac sine ullis adsentationibus dici: uerba sunt haec,</span><br />
+<span class='ocr_line' title='bbox 253 2694 2491 2778'>uerba sunt, res immo per calamnias creditae, non cognitionis</span><br />
+<span class='ocr_line' title='bbox 256 2590 2588 2673'>alicuins testimonio comprobatae. ceterum dii ueri et qui habere, 23</span><br />
+<span class='ocr_line' title='bbox 257 2486 2492 2571'>qni ferre nominis huius auctoritatem condigni snnt, neque</span><br />
+<span class='ocr_line' title='bbox 252 2383 2491 2468'>irascnntur neque indignantnr neque quod alteri noceat insidiosis</span><br />
+<span class='ocr_line' title='bbox 181 2281 2489 2364'>so machinationibus construunt. etenim reuera est impinnm et sa-</span><br />
+<span class='ocr_line' title='bbox 257 2177 2491 2262'>crilegia cuncta transcendens, sapientem illam credere beatissi-</span><br />
+<span class='ocr_line' title='bbox 254 2074 2494 2158'>mamque natnram magnum aliquid putare, si se sibi aliquis adu-</span><br />
+<span class='ocr_line' title='bbox 255 1972 2492 2056'>latoria humilitate summittat: et si faerit non factum, despectam</span><br />
+<span class='ocr_line' title='bbox 255 1868 2525 1954'>se credere et ab summi culminis decilisse fastigio. puerile,</span><br />
+<span class='ocr_line' title='bbox 181 1765 2493 1850'>as pusillum est et eile, uit et illis conueniens, quos iamdudum</span><br />
+<span class='ocr_line' title='bbox 256 1574 2493 1746'>zz%Sz</span><br />
+<p />
+<span class='ocr_line' title='bbox 326 1281 2359 1336'>2 nistris P corr numorosis P corr 4 olinetis r: olinis P</span><br />
+<span class='ocr_line' title='bbox 254 1177 2496 1249'>5 tnhnum (i eras) P nllum Urs palmitibus Sab in err: palmites P</span><br />
+<span class='ocr_line' title='bbox 254 1091 2493 1163'>palmitis Gel, r 8 rancescere Sab, r: racescere P ipsins poculi</span><br />
+<span class='ocr_line' title='bbox 254 1005 2289 1076'>scripsi: ipsins potnn P ipsis. potam Gel ipsis positam Salm</span><br />
+<span class='ocr_line' title='bbox 251 920 2359 992'>9 sin P eorr perfiliam Sab: perfldia P 15 adsentatiob. P</span><br />
+<span class='ocr_line' title='bbox 256 835 2361 905'>16 credite P 17 comprobate P ueri Gel: uestri P</span><br />
+<span class='ocr_line' title='bbox 253 761 2358 820'>22 siai P 24 summi culminis Sab: summis ctulminibus P</span><br />
+<span class='ocr_line' title='bbox 253 661 2492 734'>fastiligio P eorr 25 eile Sab: exire P 26 et heroas Drs:</span><br />
+<span class='ocr_line' title='bbox 254 588 2381 647'>werrores P et hos Gel 9T crassiorae P corr oonditionis P</span><br />
+</div>
+</body>
+</html>
+

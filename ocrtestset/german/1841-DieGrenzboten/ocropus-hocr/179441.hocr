@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 179441.tif'>
+<span class='ocr_line' title='bbox 1685 4686 1776 4753'>H0</span><br />
+<p />
+<span class='ocr_line' title='bbox 1115 4477 2206 4554'>Tief im längst versunknen Schlosse</span><br />
+<span class='ocr_line' title='bbox 1063 4367 1932 4443'>An krpstall'ner Bergeswand,</span><br />
+<span class='ocr_line' title='bbox 1058 4262 1854 4336'>Ruht der edle Barbarosse,</span><br />
+<span class='ocr_line' title='bbox 1059 4153 2133 4228'>Träumend von dem deutschen Land.</span><br />
+<span class='ocr_line' title='bbox 1062 4043 2047 4121'>Ihn umschwebt noch seiner Tage</span><br />
+<span class='ocr_line' title='bbox 1060 3937 1835 4013'>Wundexvolle Herrlichkeit,</span><br />
+<span class='ocr_line' title='bbox 1061 3828 1989 3903'>Die nun als verklung'ne Sage</span><br />
+<span class='ocr_line' title='bbox 1061 3724 1860 3796'>Töntin dieser neuen Zeit.</span><br />
+<span class='ocr_line' title='bbox 1141 3510 2304 3590'>Und ein Schatz liegt dort im Grunde,</span><br />
+<span class='ocr_line' title='bbox 1063 3403 2034 3481'>Dessen Spur fich längst verlor;</span><br />
+<span class='ocr_line' title='bbox 1064 3295 1983 3370'>Aber einmal, geht die Kunde,</span><br />
+<span class='ocr_line' title='bbox 1068 3185 2041 3261'>Steigt er glänzend noch empor!</span><br />
+<span class='ocr_line' title='bbox 1067 3080 2221 3156'>Forscht nach ihm mit frischem Muthe;</span><br />
+<span class='ocr_line' title='bbox 1066 2971 2080 3048'>Denn glückselig wird der Mann,</span><br />
+<span class='ocr_line' title='bbox 1068 2864 1905 2939'>Der die rechte Zauberruthe</span><br />
+<span class='ocr_line' title='bbox 1070 2756 1823 2831'>Neber ihm erheben kann.</span><br />
+<span class='ocr_line' title='bbox 1144 2553 2129 2626'>Und wir glauben dem Berichte,</span><br />
+<span class='ocr_line' title='bbox 1069 2445 1996 2522'>Der uns ward zu diesex Frist,</span><br />
+<span class='ocr_line' title='bbox 1075 2323 2152 2408'>Daßß des deutschen Volks Geschichte</span><br />
+<span class='ocr_line' title='bbox 1073 2222 1992 2298'>Dieser Schay des Kaisers ist;</span><br />
+<span class='ocr_line' title='bbox 1073 2117 1919 2191'>Daß er unserem Geschlechte</span><br />
+<span class='ocr_line' title='bbox 1077 2014 2026 2090'>Durch Verheisung ihn verlieh,</span><br />
+<span class='ocr_line' title='bbox 1077 1905 2066 1982'>Wann es führen kann die rechte</span><br />
+<span class='ocr_line' title='bbox 1068 1793 1726 1870'>Zanberruthe, Poesie!</span><br />
+<span class='ocr_line' title='bbox 1150 1584 2050 1657'>Ja, es ist in Staub gesunken</span><br />
+<span class='ocr_line' title='bbox 1070 1479 1790 1552'>Alter Tage Derrlichkeit.</span><br />
+<span class='ocr_line' title='bbox 1072 1369 2032 1446'>Darum, dasl ihr lezter Funken</span><br />
+<span class='ocr_line' title='bbox 1073 1262 1933 1339'>Nicht erstirbt in dieser Zeit,</span><br />
+<span class='ocr_line' title='bbox 1072 1155 2023 1237'>Lasset uns ein Bündniß stiften,</span><br />
+<span class='ocr_line' title='bbox 1074 1047 1877 1123'>Sie im Bilde zu erneu'n,</span><br />
+<span class='ocr_line' title='bbox 1074 941 2223 1016'>Aus den Grüften, aus den Schriften</span><br />
+<span class='ocr_line' title='bbox 1074 832 1823 910'>Ihre Geister zu befrein.</span><br />
+</div>
+</body>
+</html>
+

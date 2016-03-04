@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0029.tif'>
+<span class='ocr_line' title='bbox 561 1699 612 1722'>d -</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1597 973 1647'>dlese Tage gepeinlgt hatten, wachten wieder</span><br />
+<span class='ocr_line' title='bbox 196 1540 974 1584'>auf, und es schien ihm unmdglich, seinen</span><br />
+<span class='ocr_line' title='bbox 198 1479 974 1526'>Freund einer so ängstlichen Lage zu überlassen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1359 971 1407'>Sich etwas zu versagen, war Eduard</span><br />
+<span class='ocr_line' title='bbox 192 1298 972 1345'>nicht gewohnt. Von Jugend auf das einzige,</span><br />
+<span class='ocr_line' title='bbox 191 1236 973 1280'>verzogene Kind reicher Aeltern, die ihn zu</span><br />
+<span class='ocr_line' title='bbox 192 1174 973 1217'>einer seltsamen aber höchst vortheilhaften Heie</span><br />
+<span class='ocr_line' title='bbox 192 1110 973 1161'>rat mit ener viel ältern Frau zu bereden</span><br />
+<span class='ocr_line' title='bbox 193 1051 972 1092'>wußten, von dieser auch auf alle Weise ver-</span><br />
+<span class='ocr_line' title='bbox 193 988 974 1029'>zärtelt, indem sie sein gutes Betragen gegen</span><br />
+<span class='ocr_line' title='bbox 191 928 972 968'>sie durch die größte Freygebigkeit zu erwiedern</span><br />
+<span class='ocr_line' title='bbox 189 872 972 914'>fitchte, nach ihrem baldigen Tode fein eigener</span><br />
+<span class='ocr_line' title='bbox 189 812 970 855'>HHerr, auf Relsen unabhängig, jeder Abwech</span><br />
+<span class='ocr_line' title='bbox 195 751 971 793'>felung jeder Veränderung mächtig, nichts e-</span><br />
+<span class='ocr_line' title='bbox 190 688 968 732'>bertriebenes wollend, aber viel und vielerley</span><br />
+<span class='ocr_line' title='bbox 187 626 968 672'>wollend, freymüthig, wohlthätig, brav, ja</span><br />
+<span class='ocr_line' title='bbox 185 570 970 611'>tapfer im Fal! -- was konnte in der Welt</span><br />
+<span class='ocr_line' title='bbox 185 505 730 549'>feinen Wünschen entgegensiehen!</span><br />
+<p />
+<span class='ocr_line' title='bbox 251 383 966 425'>Blcher war alles nach seinem Sinne ge-</span><br />
+<span class='ocr_line' title='bbox 183 320 966 364'>gangen, auch zum Besitz Charlottens war er</span><br />
+</div>
+</body>
+</html>
+

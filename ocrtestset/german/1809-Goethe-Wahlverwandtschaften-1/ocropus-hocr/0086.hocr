@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0086.tif'>
+<span class='ocr_line' title='bbox 555 1689 598 1721'>7g</span><br />
+<p />
+<span class='ocr_line' title='bbox 251 1596 974 1643'>Ohne Frage, sagte Charlotte beystimmend.</span><br />
+<span class='ocr_line' title='bbox 186 1533 978 1580'>Regentropfen vereinigen sich schnell zu Strö-</span><br />
+<span class='ocr_line' title='bbox 185 1479 981 1527'>men. Und schon als Kinder spielen wir er-</span><br />
+<span class='ocr_line' title='bbox 185 1419 976 1467'>staunt mit dem neckslber, indem wir es in</span><br />
+<span class='ocr_line' title='bbox 175 1355 979 1398'>Kügelchen trennen und es wieder zusammen-</span><br />
+<span class='ocr_line' title='bbox 182 1300 403 1340'>laufen lassen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 248 1172 976 1217'>Ud so darf ich wohl, fügte der Haupt-</span><br />
+<span class='ocr_line' title='bbox 183 1108 976 1152'>mann hlnzu, eines bedeutenden Punctes im</span><br />
+<span class='ocr_line' title='bbox 183 1045 979 1088'>flüchtigen Vorbeygehen erwähnen, daß näme</span><br />
+<span class='ocr_line' title='bbox 183 985 978 1026'>lich dieser völlig reine, durch Flüssigkeit mdg-</span><br />
+<span class='ocr_line' title='bbox 182 924 976 969'>liche Bezug sich entschieden und immer durch</span><br />
+<span class='ocr_line' title='bbox 181 866 975 906'>die Kugelgestalt auszsichnet. Der fallende</span><br />
+<span class='ocr_line' title='bbox 182 807 977 849'>Wassertropfen ist rund, von den Kuecksilber-</span><br />
+<span class='ocr_line' title='bbox 181 742 973 788'>kügelchen haben Sie selbst gesprochen; ja ein</span><br />
+<span class='ocr_line' title='bbox 181 680 975 726'>fallendes geschmolzenes Bley, wenn es Zeit</span><br />
+<span class='ocr_line' title='bbox 181 613 973 673'>hat völlig zu erstarren, kommt unten in Ge-</span><br />
+<span class='ocr_line' title='bbox 181 552 538 593'>stalt einer Kugel an.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 427 974 472'>Lassen Sie mich voreilen, sagte Char-</span><br />
+<span class='ocr_line' title='bbox 180 363 976 409'>lotte, ob ich treffe, wo Sie hinwollen. Wie</span><br />
+<span class='ocr_line' title='bbox 180 300 972 349'>jedes gegen sich selbst einenrBezug hatt, so</span><br />
+</div>
+</body>
+</html>
+

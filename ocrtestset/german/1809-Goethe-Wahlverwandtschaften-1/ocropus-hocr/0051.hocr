@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0051.tif'>
+<span class='ocr_line' title='bbox 350 1660 796 1721'>e Drittes Kap itel.</span><br />
+<span class='ocr_line' title='bbox 396 1579 641 1606'>y ; ==</span><br />
+<span class='ocr_line' title='bbox 229 1438 982 1483'>Der Hauptmann kam. Er hatte einen</span><br />
+<span class='ocr_line' title='bbox 186 1375 982 1417'>sehr vcrständigen Brief vorausgeschickt, der</span><br />
+<span class='ocr_line' title='bbox 185 1310 983 1356'>Tharlotten völlig beruhigte. So viel Deutlichs</span><br />
+<span class='ocr_line' title='bbox 186 1249 981 1293'>keit über sich selbst, so viel Klarheit über</span><br />
+<span class='ocr_line' title='bbox 183 1190 980 1232'>seinen eigenen Zustand, über den Zustand sei-</span><br />
+<span class='ocr_line' title='bbox 184 1131 978 1172'>ner Freunde, gab eine heitere und frdhliche</span><br />
+<span class='ocr_line' title='bbox 182 1071 324 1111'>Aussscht.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 945 974 991'>Dle Unterhaltungen der ersten Stunden</span><br />
+<span class='ocr_line' title='bbox 177 881 975 927'>waren, wie unter Freunden zu geschehen pflegt</span><br />
+<span class='ocr_line' title='bbox 177 813 972 866'>die sich eine Zeit lang nicht gesehen haben, leb-</span><br />
+<span class='ocr_line' title='bbox 174 757 972 804'>haft, ja fast erschöpfend. Gegen Abend ver-</span><br />
+<span class='ocr_line' title='bbox 174 699 971 743'>anlaßte Charlotte einen Spaziergang auf die</span><br />
+<span class='ocr_line' title='bbox 173 638 971 681'>neuen Anlagen. Der Hhauptmann gefiel sich</span><br />
+<span class='ocr_line' title='bbox 173 574 972 618'>sehr in der Gegend und bemerkte jede Schön</span><br />
+</div>
+</body>
+</html>
+

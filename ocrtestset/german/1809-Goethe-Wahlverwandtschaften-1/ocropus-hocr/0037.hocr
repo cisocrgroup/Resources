@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0037.tif'>
+<span class='ocr_line' title='bbox 569 1693 612 1722'>o</span><br />
+<p />
+<span class='ocr_line' title='bbox 201 1593 980 1643'>fahr auszusehen. Wenn dieß nicht solbstsüchtig</span><br />
+<span class='ocr_line' title='bbox 197 1525 980 1579'>genannt werden soll, was will man so nen</span><br />
+<span class='ocr_line' title='bbox 197 1472 980 1525'>nent Nimm Ottilien, laß mir den Haupt-</span><br />
+<span class='ocr_line' title='bbox 196 1412 980 1460'>mann, und in Gottes Namen sey der Ver-</span><br />
+<span class='ocr_line' title='bbox 193 1351 428 1391'>such gemacht!</span><br />
+<p />
+<span class='ocr_line' title='bbox 257 1229 977 1272'>Ee möchte noch zu wagen sepn, sagte Char-</span><br />
+<span class='ocr_line' title='bbox 189 1165 975 1208'>lotte bedenklich, wenn die Gefahr für uns</span><br />
+<span class='ocr_line' title='bbox 189 1103 975 1145'>allein wäre. Glaubst du denn aber, daß es</span><br />
+<span class='ocr_line' title='bbox 189 1040 974 1083'>räthlich sey, den Hauptmann mit Ottilien als</span><br />
+<span class='ocr_line' title='bbox 187 979 974 1021'>HHausgenossen' zu sehen, einen Mann ohngee</span><br />
+<span class='ocr_line' title='bbox 185 919 972 961'>fähr in deinen Jahren, in denJahren -- daß</span><br />
+<span class='ocr_line' title='bbox 183 864 972 902'>ich dir dieses Schmeichelhafte nur gerade unter</span><br />
+<span class='ocr_line' title='bbox 184 803 967 845'>die Augen sage -- wo der Mann erst liebe-</span><br />
+<span class='ocr_line' title='bbox 182 741 965 784'>fähig und erst der Liebe werth wird, und ein</span><br />
+<span class='ocr_line' title='bbox 184 679 850 730'>Mädchen von Ottiliens Vorzügen? -</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 556 963 598'>Ich weiß doch auch nicht, versehte</span><br />
+<span class='ocr_line' title='bbox 179 492 959 535'>Eduard, wie du Dttilien so hoch stellen kannst!</span><br />
+<span class='ocr_line' title='bbox 179 431 960 474'>Mur dadurch erkläre ich mir's, daß sie deine</span><br />
+<span class='ocr_line' title='bbox 177 370 958 417'>Neigung zu ihrer Mutter geerbt hat. Hübsch</span><br />
+<span class='ocr_line' title='bbox 176 310 956 359'>ist sie, das ist wahr, und ich erinnre mich,</span><br />
+</div>
+</body>
+</html>
+

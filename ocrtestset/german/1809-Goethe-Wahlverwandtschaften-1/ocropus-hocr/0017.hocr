@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0017.tif'>
+<span class='ocr_line' title='bbox 570 1699 609 1721'>Lo</span><br />
+<p />
+<span class='ocr_line' title='bbox 277 1602 969 1647'>Ganz recht, versetzte Eduard; aber selbst</span><br />
+<span class='ocr_line' title='bbox 213 1544 969 1587'>diese verschiedenen Gelegenheiten, diese An-</span><br />
+<span class='ocr_line' title='bbox 212 1485 968 1526'>erbietungen machen ihm neue Qual, nene Une</span><br />
+<span class='ocr_line' title='bbox 212 1422 967 1469'>ruhe. Keines von den Verhältnissen lst ihm</span><br />
+<span class='ocr_line' title='bbox 210 1366 968 1408'>gemäß. Er sols nicht wirken; er solt sich auf-</span><br />
+<span class='ocr_line' title='bbox 210 1309 968 1352'>opfern, seine Zeit, seine Gesinnugen, seine</span><br />
+<span class='ocr_line' title='bbox 207 1247 964 1289'>Art zu seyn, und das ist ihm unmöglich.</span><br />
+<span class='ocr_line' title='bbox 206 1186 964 1229'>Jemehr ich das alles bctcachte, jemehr ich</span><br />
+<span class='ocr_line' title='bbox 207 1125 963 1166'>es fühle, desto lebhafter wird der Wunsch</span><br />
+<span class='ocr_line' title='bbox 207 1065 574 1107'>ihn bey uns zu sehen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 268 952 962 995'>Ee ist recht schön und liebenswürdig von</span><br />
+<span class='ocr_line' title='bbox 202 895 960 932'>dir, versetzte Charlotte, daß du des Freundes</span><br />
+<span class='ocr_line' title='bbox 200 835 960 877'>Zustand mit so viel Theilnahme bedenkst; al-</span><br />
+<span class='ocr_line' title='bbox 200 775 957 816'>lein erlaube mir dich aufzufordern, auch deis</span><br />
+<span class='ocr_line' title='bbox 197 717 676 756'>ner, auch unser zu gedenken.</span><br />
+<p />
+<span class='ocr_line' title='bbox 259 596 954 639'>Das habe ich gethan, entgegnete ihr</span><br />
+<span class='ocr_line' title='bbox 195 538 952 579'>Eduard. Wir können von seiner Nähe uns</span><br />
+<span class='ocr_line' title='bbox 192 479 949 519'>nur Vortheil und Annehmlichkeit versprechen.</span><br />
+<span class='ocr_line' title='bbox 190 420 949 458'>Von dem Auswande will ich nicht reden, der</span><br />
+<span class='ocr_line' title='bbox 188 360 948 399'>auf alle Fälle gering für mkch wird, wenn er</span><br />
+</div>
+</body>
+</html>
+

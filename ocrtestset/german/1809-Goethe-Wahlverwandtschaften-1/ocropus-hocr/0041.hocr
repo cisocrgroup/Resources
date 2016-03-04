@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0041.tif'>
+<span class='ocr_line' title='bbox 564 1690 608 1722'></span><br />
+<p />
+<span class='ocr_line' title='bbox 197 1600 980 1642'>an der Mauer aufgerichtet, eingefügt oder</span><br />
+<span class='ocr_line' title='bbox 200 1535 979 1583'>fonst angebracht; der hohe Soekel der Kirche</span><br />
+<span class='ocr_line' title='bbox 196 1473 977 1521'>selbst war damit vermannigfaltigt und geziert.</span><br />
+<span class='ocr_line' title='bbox 195 1416 978 1461'>Ednard fchlte sich sonderbar überrascht, wie</span><br />
+<span class='ocr_line' title='bbox 194 1356 978 1401'>er durch die kleine Pforte herein trat er</span><br />
+<span class='ocr_line' title='bbox 195 1291 975 1343'>drückte Charlotten die Hhand und im Auge stand</span><br />
+<span class='ocr_line' title='bbox 193 1235 491 1278'>ihm eine Thräne.</span><br />
+<p />
+<span class='ocr_line' title='bbox 256 1107 975 1151'>Aber der närrische Gast verscheuchte fse</span><br />
+<span class='ocr_line' title='bbox 191 1047 974 1088'>gleich. Denn dieser hatte keine Ruh im</span><br />
+<span class='ocr_line' title='bbox 189 985 976 1027'>Schloß gehabt, war spornftreichs durchs Dors</span><br />
+<span class='ocr_line' title='bbox 188 925 972 965'>bls an das Kirchhofthor gerltten, wo er shill</span><br />
+<span class='ocr_line' title='bbox 185 867 971 909'>hielt und seinen Freunden -entgegen rlef: - Ihr</span><br />
+<span class='ocr_line' title='bbox 185 808 968 852'>habt mich doch ntcht zum besten? Thue'a</span><br />
+<span class='ocr_line' title='bbox 184 745 967 792'>wirklich Nocnh, so blelbe ich zu Mittage hier.</span><br />
+<span class='ocr_line' title='bbox 183 685 965 731'>Haltet mich nicht auf: ich habe hente noch</span><br />
+<span class='ocr_line' title='bbox 179 627 398 669'>viel zu thun.</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 504 965 556'>Da Ihr Euch so weit bemühe habe, rief</span><br />
+<span class='ocr_line' title='bbox 177 441 960 483'>ihm Eduard entgegen; so reitet noch vollends</span><br />
+<span class='ocr_line' title='bbox 176 380 960 423'>herein, wir kommen an oiuen .ensthaften Orte</span><br />
+</div>
+</body>
+</html>
+

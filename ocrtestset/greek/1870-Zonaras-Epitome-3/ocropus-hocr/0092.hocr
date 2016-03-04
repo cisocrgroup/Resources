@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0092.tif'>
+<span class='ocr_line' title='bbox 581 3357 657 3417'>86</span><br />
+<span class='ocr_line' title='bbox 1148 3366 1844 3414'>LI3. XII. CAP. III. I.</span><br />
+<p />
+<span class='ocr_line' title='bbox 512 3184 2410 3287'>1 Τούτου κρατούντος ὁ ἱερὸς ολύκαρπος ὁ μύρ-</span><br />
+<span class='ocr_line' title='bbox 577 3089 2405 3189'>νηt ἀρχιερεὺς τόν μαρτυρικὸν ἀνεδήσατο στέφανον</span><br />
+<span class='ocr_line' title='bbox 386 2993 2409 3092'>W I20καὶ ὁ μέγας ἐπὶ λόγοις καὶ μείζων ἐν ὁμολογίᾳ ου-</span><br />
+<span class='ocr_line' title='bbox 578 2897 2408 2995'>στῖνος ἐνήθλησεν, οὐ πολλὰ μέχρι τούδε συγγράμ-</span><br />
+<span class='ocr_line' title='bbox 575 2805 2455 2901'>ματα σώζονται. τῷ δὲ ὀγδόῳ ἔτει τῆς Μάρκου 9ὐή- 5</span><br />
+<span class='ocr_line' title='bbox 576 2712 2410 2806'>ρου τοῦ Ἀντωνίνου τούτου ἀρχῆς Ἀνίκητος τελευτᾷ,</span><br />
+<span class='ocr_line' title='bbox 577 2610 2407 2712'>ἔτη ἂν ἐπὶ δέκα τῆς Ρaμαίων ἐκκλησίας προστάς</span><br />
+<span class='ocr_line' title='bbox 575 2515 2410 2614'>καὶ τοῦτον Σωτὴρ διαδέχεται. καὶ Κελαδίωνος μετὰ</span><br />
+<span class='ocr_line' title='bbox 577 2430 2411 2517'>δέκα καὶ τέσσαρα ἔτη τὴν ζωὴν ἐκμετρήσαντος</span><br />
+<span class='ocr_line' title='bbox 566 2324 2481 2423'>Ἀγριππῖνος τὴν Ἀλεξανδρέων ἐπισκοπὴν ἐγκεχείρι- ο</span><br />
+<span class='ocr_line' title='bbox 577 2229 2410 2329'>στο. καὶ τῆς Ἀντιοχέων ἐκκλησίας μετὰ Ἡρωνα</span><br />
+<span class='ocr_line' title='bbox 576 2131 2411 2230'>Κορνηλίου προστάντος τετάρτου, πέμπτος Ερως αὐ-</span><br />
+<span class='ocr_line' title='bbox 572 2036 2412 2134'>τὸν διεδέξατο, κἀκεῖνον ἔκτος θεόφιλος, ὅς καὶ κατὰ</span><br />
+<span class='ocr_line' title='bbox 511 1941 2412 2038'>c Μαρκίωνος ἐγγράφως ὡπλίσατο· ὅν ἕβδομος διεδέ-</span><br />
+<span class='ocr_line' title='bbox 575 1844 2480 1942'>ξατο Μαξιμῖνος. τού Ρmμαίων δὲ ἀρχιερατεύσαντος 15</span><br />
+<span class='ocr_line' title='bbox 575 1759 2408 1849'>Σωτῆρος μεταστάντος τῶν γηίνων, ἀντεισῆκτο Eλεύ-</span><br />
+<span class='ocr_line' title='bbox 574 1651 821 1737'>θερος.</span><br />
+<span class='ocr_line' title='bbox 516 1558 2411 1658'>4 Κόμοδος δὲ ὁ υἴὸς Ἀντωνίνου Μάρκου ἄριστα</span><br />
+<span class='ocr_line' title='bbox 575 1460 2411 1559'>παρὰ τοῦ πατρὸς τραφείς τε καὶ ἀναχθεὶς οὐ κατὰ</span><br />
+<span class='ocr_line' title='bbox 573 1366 2482 1462'>τὴν παιδείαν ἀποβεβήκει ἥνπερ πεπαίδευτο. ἀλλʼ ε0</span><br />
+<span class='ocr_line' title='bbox 575 1269 2411 1368'>ἄκακος μὲν ὴν καὶ πρὸς πανουργίαν ἀποπεφύκει,</span><br />
+<span class='ocr_line' title='bbox 580 1174 2410 1271'>δειλὸς δὲ ὢν καὶ τοῖς συνοῦσι πειθόμενος διʼ ἀπλό-</span><br />
+<span class='ocr_line' title='bbox 575 1078 2411 1175'>τητα τὰ ἥθη τε διεφθάρη καὶ εἰς ἀσέλγειαν καὶ μιαι-</span><br />
+<span class='ocr_line' title='bbox 575 977 2410 1079'>φονίαν προήχθη , ἐννεακαιδεκέτης τυγχάνων ὅτε τῆς</span><br />
+<span class='ocr_line' title='bbox 578 886 2484 983'>ἐξουσίας ἐκράτησεν. ὅθεν τὰς συμβουλίας τῶν ἀρί- σ</span><br />
+<span class='ocr_line' title='bbox 579 789 2410 888'>στων τῆς βουλῆς παρωσάμενος, οὓς ἐπιτρόπους αὐτῷ</span><br />
+<span class='ocr_line' title='bbox 514 693 2413 792'>D ἐπέστησεν ὁ πατήρ, σπένδεται τοῖς βαρβάροις καὶ</span><br />
+<span class='ocr_line' title='bbox 581 600 2410 695'>εἰς τὴν Ρώμην ὑπονοστεῖ , οὔτε πονεῖν ἐθέλων καὶ</span><br />
+<span class='ocr_line' title='bbox 583 502 2411 601'>ἐρρᾳστωνευμένης ἐρῶν βιοτῆς. ὅθεν καὶ πλειστάκις</span><br />
+<span class='ocr_line' title='bbox 584 419 2483 504'>ἐπεβουλεύθη, καὶ συχνοὺς ἀπέκτεινεν οὐκ ἄνδρας 3)</span><br />
+<p />
+<span class='ocr_line' title='bbox 715 221 2410 285'>Cap. 4. Dionis Histοriae Rοmanae 1. 71, c. 36 - I. 72, 13.</span><br />
+</div>
+</body>
+</html>
+

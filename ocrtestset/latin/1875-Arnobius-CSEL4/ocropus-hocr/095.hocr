@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/095.tif'>
+<span class='ocr_line' title='bbox 1187 4440 1496 4498'>Liber I.</span><br />
+<span class='ocr_line' title='bbox 2367 4425 2452 4491'>96</span><br />
+<p />
+<span class='ocr_line' title='bbox 222 4238 2449 4349'>et foliola dilatarit, uentns unde oriatur et quid sit, onr tem-</span><br />
+<span class='ocr_line' title='bbox 221 4135 2450 4221'>poram uicissitudines institatae, cum statui unum posset et una</span><br />
+<span class='ocr_line' title='bbox 221 4029 2450 4118'>esse species caeli, nihil ut rerum desideraret integritas? quae</span><br />
+<span class='ocr_line' title='bbox 225 3921 2452 4016'>est cansa, quae ratio, ut maria salsa sint ant terrarum aquae hae</span><br />
+<span class='ocr_line' title='bbox 179 3825 2451 3912'>s dulees uel calidae, aliae sint amarae uel frigilae? quo ex</span><br />
+<span class='ocr_line' title='bbox 221 3725 2452 3808'>materiae genere hnmanorum corporum concreta et stabilita</span><br />
+<span class='ocr_line' title='bbox 221 3621 2452 3706'>snnt uiscera, unde ossa solidata, quid intestina, quid uenas</span><br />
+<span class='ocr_line' title='bbox 221 3517 2450 3603'>fistnlatas et conmeabiles fecerit? cur cum esset utilits oculis</span><br />
+<span class='ocr_line' title='bbox 221 3417 2450 3500'>nos inlaminare conpluribus ad periculnm caecitatis, duorum</span><br />
+<span class='ocr_line' title='bbox 151 3313 2452 3397'>o sumus angustiis adplicati? belnarum et anguinm tam infinita</span><br />
+<span class='ocr_line' title='bbox 221 3210 2521 3293'>atque innumerabilia genera cuias rei sunt caasa ael informata</span><br />
+<span class='ocr_line' title='bbox 222 3103 2450 3191'>uel prodita? quil in mundo faciant bubones immussili bu-</span><br />
+<span class='ocr_line' title='bbox 220 2999 2590 3088'>teones? quid alites et uoluucres ceterae? quil formicarum ] et t. 5e</span><br />
+<span class='ocr_line' title='bbox 220 2899 2451 2985'>uermium genera in uarias labes perniciesque nascentia? quil</span><br />
+<span class='ocr_line' title='bbox 150 2799 2492 2885'>1s pulices, quid inpudentes muscae, araneae sorices mares san-</span><br />
+<span class='ocr_line' title='bbox 221 2694 2448 2780'>guisngae tippulae? quid spinae, qid sentes, quid auenae, qui</span><br />
+<span class='ocr_line' title='bbox 219 2594 2452 2679'>loliuum, quil herbarum annt fruticum aut adoletntia naribus aut</span><br />
+<span class='ocr_line' title='bbox 219 2488 2449 2574'>tristia in odoribus semina? immo si aliquid sciri, oomprehendi</span><br />
+<span class='ocr_line' title='bbox 221 2387 2447 2471'>aut aliquil si posse censetis, quil sit triticum dicite, far hor-</span><br />
+<span class='ocr_line' title='bbox 145 2272 2564 2368'>so deum milinm cicer faba lenticula melo cuminum porrina</span><br />
+<span class='ocr_line' title='bbox 221 2178 2449 2272'>ulpionm caepe? non enim, si frnnctni uobis sunt et ciborum</span><br />
+<span class='ocr_line' title='bbox 219 2074 2450 2161'>mediis in generibus constituta, epeditam aut promptum est</span><br />
+<span class='ocr_line' title='bbox 221 1970 2448 2060'>quid sint singnla scire, cur talibus figurata sint formis, faerit</span><br />
+<span class='ocr_line' title='bbox 219 1871 2445 1956'>necessitas aliqua, ut non alios sapores alios odores alios co-</span><br />
+<span class='ocr_line' title='bbox 143 1767 2446 1854'>ss lores quam quos habent singulae res babere debuerint an et</span><br />
+<span class='ocr_line' title='bbox 221 1665 2442 1750'>alios potaerint sumere. ipsa deinde haec quid sint, sapor dico</span><br />
+<span class='ocr_line' title='bbox 291 1435 2444 1492'>1 dilaniarit P 4 ut Sab: ant P salsa Sab: sola eam solas P</span><br />
+<span class='ocr_line' title='bbox 215 1335 2350 1407'>sola salsa Elussmanmus terrarnm] oeterarum aquaram rs</span><br />
+<span class='ocr_line' title='bbox 216 1249 2443 1319'>aquae hae dulces uel calidae, aliae Elussmannus: haec (c eras) dnlces</span><br />
+<span class='ocr_line' title='bbox 213 1161 2309 1233'>aliae P 6 concreta Sab: concreata P 7 sint Meursius</span><br />
+<span class='ocr_line' title='bbox 213 1078 2442 1157'>8 utillins F 10 applicati (adplicsti r) Sab: aßpliaari P 19 im-</span><br />
+<span class='ocr_line' title='bbox 215 983 2444 1063'>mussnli buteones Gel: inmussilib; teones (s c') P immustnli buteones</span><br />
+<span class='ocr_line' title='bbox 217 906 2310 984'>Sab 18 uoluscres P corr 15 sanguisugae Sab: sangnsngae P</span><br />
+<span class='ocr_line' title='bbox 218 820 2444 892'>16 tippnlae Sab: hippulae P 17 ant adolentia] suane olentis</span><br />
+<span class='ocr_line' title='bbox 217 747 2444 808'>Salm adulentia P corr e' redblentia UUrs ad tactum dolentia Eluss-</span><br />
+<span class='ocr_line' title='bbox 213 663 2443 721'>mannus 18 scire \&amp;ab 18 si om Sab 9) melo cminum</span><br />
+<span class='ocr_line' title='bbox 215 564 2307 635'>Salm: meloneum uinum P inula euminum Sab porri Sab</span><br />
+<span class='ocr_line' title='bbox 210 473 2444 549'>$21 oepae P 2 potuerunt \&amp;ab corr in err dico il est sapor</span><br />
+<span class='ocr_line' title='bbox 213 365 744 460'>del Elussmannus</span><br />
+</div>
+</body>
+</html>
+

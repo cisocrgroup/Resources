@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0027.tif'>
+<span class='ocr_line' title='bbox 300 2763 494 2835'>Cap. 4.</span><br />
+<span class='ocr_line' title='bbox 929 2786 1258 2837'>De Bamine.</span><br />
+<span class='ocr_line' title='bbox 1838 2773 1898 2815'>19</span><br />
+<span class='ocr_line' title='bbox 296 2685 1900 2753'>generum. Alterum, quæ nova ſunt nec tamen Definitione explicata;</span><br />
+<span class='ocr_line' title='bbox 297 2624 1810 2690'>qualia à laborantibus Philoſophis \&amp; Scholaſticis excogitata ſunt.</span><br />
+<span class='ocr_line' title='bbox 360 2564 1903 2628'>Alterum eſt quando Nomen aliquod à duobus nominibus com-</span><br />
+<span class='ocr_line' title='bbox 300 2499 1902 2567'>ponitur, quorum ſignificationes ſunt inconſiſtentes; ut nomen hoc,</span><br />
+<span class='ocr_line' title='bbox 297 2436 1904 2503'>corpus incorporeum, (vel quod idem eſt) ſulbſtantia incorporea; aliaque ſi-</span><br />
+<span class='ocr_line' title='bbox 300 2373 1902 2441'>milia. Quandocunque enim affirmatio aliqua falſa eſt, ex duobus</span><br />
+<span class='ocr_line' title='bbox 301 2313 1902 2378'>nominibus quibus conſtat ſi fiat nomen unum, illud erit inſignifi-</span><br />
+<span class='ocr_line' title='bbox 300 2253 1906 2318'>cans; exempli cauſa ſi falſum ſit dicere quadratum eſt rotundum, no-</span><br />
+<span class='ocr_line' title='bbox 300 2189 1905 2253'>men illud quadratum rotundum ſonus merus eſt, nihil ſignificans. Si-</span><br />
+<span class='ocr_line' title='bbox 300 2127 1906 2193'>militer ſi falſum ſit dicere virtutem fundi vel ſtari poſſe, verba hæc in-</span><br />
+<span class='ocr_line' title='bbox 294 2064 1905 2127'>fuſa virtus, inftata virtus, nomina ſunt inſignificantia. Itaque in ver-</span><br />
+<span class='ocr_line' title='bbox 301 2002 1906 2067'>bum abſurdum \&amp; inſignificans non facile inciditur quod non com-</span><br />
+<span class='ocr_line' title='bbox 299 1937 1850 2004'>poſitum ſit à nomibus quæ intelligi à vulgo hominum non poſſunt.</span><br />
+<span class='ocr_line' title='bbox 363 1878 1906 1940'>Quando cogitatio alicujus rei oritur à ſermone audito, \&amp; ut</span><br />
+<span class='ocr_line' title='bbox 300 1812 1908 1878'>oportuit ordinato, tunc qui audit, verba illa dicitur Intelligere; Intel-</span><br />
+<span class='ocr_line' title='bbox 299 1752 1907 1815'>lectus enim aliud non eſt præter conceptum natum à Sermone. Ita-</span><br />
+<span class='ocr_line' title='bbox 300 1690 1905 1757'>que ſi ſermo homini peculiaris ſit (ut videtur eſſe) etiam homini ſoli</span><br />
+<span class='ocr_line' title='bbox 300 1626 1907 1692'>proprius Intellectus eſt. Vnde ſequitur Affirmationes falſas, eaſdem-</span><br />
+<span class='ocr_line' title='bbox 298 1564 1902 1628'>que univerſales intelligi non poſſe; quanquam nonnulli ſunt qui pu-</span><br />
+<span class='ocr_line' title='bbox 299 1502 1904 1567'>tant ſe intelligere tunc quando verba audita tacitè apud ſe animo re-</span><br />
+<span class='ocr_line' title='bbox 301 1456 451 1498'>citant.</span><br />
+<span class='ocr_line' title='bbox 362 1376 1902 1442'>Quæ orationum genera ſignificanr Appetitum, Averſionem, cæ-</span><br />
+<span class='ocr_line' title='bbox 300 1313 1903 1378'>teraſque animi humani Paſſiones; quiſque ſit eorum uſus \&amp; abuſus</span><br />
+<span class='ocr_line' title='bbox 301 1253 1290 1315'>tunc dicam, quando dicam de Paſſionibus.</span><br />
+<span class='ocr_line' title='bbox 363 1190 1905 1254'>Nomina rerum quæ placent, quia non omnibus ſimiliter placent</span><br />
+<span class='ocr_line' title='bbox 303 1128 1902 1192'>res eædem, neque eidem homini, idem omni tempore, inconſtantis</span><br />
+<span class='ocr_line' title='bbox 303 1066 753 1130'>ſunt ſignificationis.</span><br />
+<span class='ocr_line' title='bbox 364 1003 1908 1068'>Cum enim nomina omnia ad conceptus ſignificandos impoſita fu-</span><br />
+<span class='ocr_line' title='bbox 299 948 1907 1007'>erint, neceſſe eſt cum eaſdem res non ſimiliter ſentiamus, ut eaſdem</span><br />
+<span class='ocr_line' title='bbox 297 879 1908 943'>etiam ſæpenumero diſſimiliter nominemus. Etſi rei conceptæ natura</span><br />
+<span class='ocr_line' title='bbox 304 817 1906 881'>non mutetur, diverſitas tamen receptionis (ortæ à diverſitate natura-</span><br />
+<span class='ocr_line' title='bbox 303 753 1905 818'>rum individuarum, \&amp; à præjudiciis Opinionum) facit ut unuſquiſ-</span><br />
+<span class='ocr_line' title='bbox 296 690 1901 755'>que nomina illis imponat propria ſua affectione aliquatenus tincta.</span><br />
+<span class='ocr_line' title='bbox 307 626 1908 690'>Quamobrem in omni ratiocinatione cautela opus eſt, ne præter</span><br />
+<span class='ocr_line' title='bbox 306 564 1909 629'>ſignificationem ipſius rei, admittamus etiam aliquid de natura inge-</span><br />
+<span class='ocr_line' title='bbox 308 502 1905 567'>nio \&amp; aftectibus hominis qui loquitur. Nomina autem hujuſmodi</span><br />
+<span class='ocr_line' title='bbox 307 438 1904 505'>plerumque ſunt Virtutum \&amp; Vitiorum nomina.Nam quam alius Pru-</span><br />
+<span class='ocr_line' title='bbox 307 375 1904 440'>denttam, alius vocat Metum; quam alius Crudelitatem, alius vocat</span><br />
+<span class='ocr_line' title='bbox 309 308 1907 378'>Iuſlitiam; quam hic Proluvium ille Magnificentiam appellat; quæ</span><br />
+<span class='ocr_line' title='bbox 309 247 1911 317'>huic Giravitas alteri videtur Stupor, \&amp;c. Itaque ex hujuſmodi nomi-</span><br />
+<span class='ocr_line' title='bbox 1091 200 1267 249'>d d d 2.</span><br />
+<span class='ocr_line' title='bbox 1787 205 1911 252'>nibus</span><br />
+</div>
+</body>
+</html>
+

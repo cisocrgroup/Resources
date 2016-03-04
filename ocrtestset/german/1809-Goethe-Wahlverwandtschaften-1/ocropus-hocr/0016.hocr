@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0016.tif'>
+<span class='ocr_line' title='bbox 214 1606 972 1646'>etwas von mir anzunehmen: denn wir sind</span><br />
+<span class='ocr_line' title='bbox 212 1544 972 1586'>unsre Lebzeit über einander wechselseitig so viel</span><br />
+<span class='ocr_line' title='bbox 210 1487 971 1528'>schuldig geworden, daß wir nicht berechnen</span><br />
+<span class='ocr_line' title='bbox 208 1427 967 1471'>können, wie unser Eredit und Debet sich ges</span><br />
+<span class='ocr_line' title='bbox 207 1369 967 1412'>gen eknander verhalte - daß er geschäftlos ist,</span><br />
+<span class='ocr_line' title='bbox 204 1312 963 1354'>das ist eigentlich seine Aual. Das Vielfache,</span><br />
+<span class='ocr_line' title='bbox 203 1253 964 1293'>was er an sich ausgebildet hat, zu Andrer</span><br />
+<span class='ocr_line' title='bbox 203 1190 961 1234'>Nuzen täglich und stündlich zu gebrauchen,</span><br />
+<span class='ocr_line' title='bbox 199 1129 961 1170'>ist ganz allein sein Vergnügen, ja seine Lei-</span><br />
+<span class='ocr_line' title='bbox 199 1071 958 1110'>denschaft. Und nun die Hände in den Schoos</span><br />
+<span class='ocr_line' title='bbox 197 1008 959 1047'>zlt legen, oder noch weiter zu studiren, sich wei-</span><br />
+<span class='ocr_line' title='bbox 197 948 955 996'>tere Geschicklichkeit zu verschaffen, da er das</span><br />
+<span class='ocr_line' title='bbox 197 894 957 932'>nicht brauchen kann, was er in vollem Maaas</span><br />
+<span class='ocr_line' title='bbox 194 832 955 874'>se besizt - genung, liebes Kind, es ist eine</span><br />
+<span class='ocr_line' title='bbox 193 770 952 815'>peinliche Lage, deren Hual er doppelt und</span><br />
+<span class='ocr_line' title='bbox 193 709 854 753'>dreyfach in seiner Einsamkeit empfindet.</span><br />
+<p />
+<span class='ocr_line' title='bbox 252 651 954 694'>Ich dachte doch, sagte Charlotte, ihm</span><br />
+<span class='ocr_line' title='bbox 189 591 949 634'>wären von verschiedenen Orten Anerbietun-</span><br />
+<span class='ocr_line' title='bbox 188 530 947 572'>gen geschehen. Ich hatte selbst, um seinets</span><br />
+<span class='ocr_line' title='bbox 189 471 946 513'>willen, an manche thätige Freunde und Freuns</span><br />
+<span class='ocr_line' title='bbox 186 411 945 452'>dinnen geschrieben, und soviel ich weiß, blieb</span><br />
+<span class='ocr_line' title='bbox 185 349 689 393'>diesi auch nicht ohwe Wirkung.</span><br />
+</div>
+</body>
+</html>
+

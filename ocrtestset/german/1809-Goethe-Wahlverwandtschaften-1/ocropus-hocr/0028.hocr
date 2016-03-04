@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0028.tif'>
+<span class='ocr_line' title='bbox 376 1664 803 1722'>Zweytes Kap itel.</span><br />
+<p />
+<span class='ocr_line' title='bbox 539 1585 636 1605'>gp »g= «gggggggg</span><br />
+<p />
+<span class='ocr_line' title='bbox 261 1449 979 1491'>Eduard fand sich allein auf seinem Zim:</span><br />
+<span class='ocr_line' title='bbox 193 1378 976 1434'>mer, und wirklich hatte die Wiederhohlung</span><br />
+<span class='ocr_line' title='bbox 192 1314 978 1365'>seiner Lebensschicksale aue dem Munde Char-</span><br />
+<span class='ocr_line' title='bbox 186 1254 979 1304'>lottens, die Vergegenwärtigung ihres beyder-</span><br />
+<span class='ocr_line' title='bbox 183 1203 979 1254'>seltigen Lustandes, ihrer Vorsätze, sein, leb-</span><br />
+<span class='ocr_line' title='bbox 187 1146 975 1189'>Haftes Gemüch angenehm außgeregt. Er hatte</span><br />
+<span class='ocr_line' title='bbox 186 1085 972 1130'>sich in ihrer Nähe, ln lhrer Gesellschaft so</span><br />
+<span class='ocr_line' title='bbox 185 1024 971 1067'>glücklich gefühlt, daß er sich einen freund-</span><br />
+<span class='ocr_line' title='bbox 187 961 973 1006'>lichen, theilnehmenden, aber ruhigen und auf</span><br />
+<span class='ocr_line' title='bbox 185 900 971 946'>nichts hindeutenden Brief an den Hauptmann</span><br />
+<span class='ocr_line' title='bbox 177 838 967 883'>ausdachte. Als er aber zum Schreibtisch ging</span><br />
+<span class='ocr_line' title='bbox 183 777 967 820'>und den Brief des Frenndes aufnahm , um</span><br />
+<span class='ocr_line' title='bbox 181 714 966 758'>ihn nochmals durchzulesen, trat ihm sogleich</span><br />
+<span class='ocr_line' title='bbox 182 654 965 698'>wieder der traurige Zustand des trefflichen</span><br />
+<span class='ocr_line' title='bbox 183 592 965 639'>Mannes entgegen; alle Empfindungen, die ihn</span><br />
+</div>
+</body>
+</html>
+

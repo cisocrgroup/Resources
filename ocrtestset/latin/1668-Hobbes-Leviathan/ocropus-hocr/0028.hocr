@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0028.tif'>
+<span class='ocr_line' title='bbox 297 2784 360 2816'>20</span><br />
+<span class='ocr_line' title='bbox 925 2782 1255 2837'>De omine.</span><br />
+<span class='ocr_line' title='bbox 1700 2764 1906 2838'>Cag. 3</span><br />
+<span class='ocr_line' title='bbox 298 2688 1900 2755'>nibus Principia ratiocinandi conſtitui non poſſunt. Neque ex Me-</span><br />
+<span class='ocr_line' title='bbox 298 2624 1901 2689'>taphoris, aliiſque orationis tropis. Sed minus ſunt hæc perculoſa,</span><br />
+<span class='ocr_line' title='bbox 298 2562 1161 2628'>quia inconſtantam ſuam profitentur.</span><br />
+<span class='ocr_line' title='bbox 720 2433 1506 2486'>CAPVT V,</span><br />
+<span class='ocr_line' title='bbox 788 2310 1398 2372'>De Ratione \&amp; Scientia.</span><br />
+<span class='ocr_line' title='bbox 429 2185 1903 2250'>Ii ratiocinatur, vel Totum quærit Additione partium; vel Re-</span><br />
+<span class='ocr_line' title='bbox 430 2122 1903 2187'>ſiduum, Subiraclione partis à parte: id quod (ſi verbis fiat) nihil</span><br />
+<span class='ocr_line' title='bbox 300 2061 1904 2127'>aliud eſt, præter Conceptionem conſequentiæ Nominis partis ad</span><br />
+<span class='ocr_line' title='bbox 305 1998 1905 2062'>Nomen totius, vel Nominum totius \&amp; partis ad Nomen partis reli-</span><br />
+<span class='ocr_line' title='bbox 303 1934 1905 1999'>quæ. Quanquam autem in rebus quibuſdam (ut in numeris) aliæ</span><br />
+<span class='ocr_line' title='bbox 304 1875 1906 1937'>ſint operationes, præter Additionem \&amp; Subtractionem, ut Multipli-</span><br />
+<span class='ocr_line' title='bbox 304 1812 1906 1876'>catio \&amp; Diviſio, in idem tamen recidunt; nam Mdultiplicatio eſt</span><br />
+<span class='ocr_line' title='bbox 304 1749 1905 1813'>æqualium inter ſe Additio; \&amp; Diviſio aliud non eſt, quam ejuſdem</span><br />
+<span class='ocr_line' title='bbox 305 1687 1906 1751'>rei, quoties poſſumus, Subtractio. Neque Numeris ſolis operatio-</span><br />
+<span class='ocr_line' title='bbox 307 1625 1906 1688'>nes illæ conveniunt, ſed omni rerum generi, quarum una alteri addi</span><br />
+<span class='ocr_line' title='bbox 308 1560 1908 1626'>vel auferri poteſt. Sicut enim Arithmetici Addere \&amp; Subtrahere ſo-</span><br />
+<span class='ocr_line' title='bbox 307 1495 1905 1563'>lent iu Numeris; ita Gieometræ facere idem docent in Li~eis, ignris,</span><br />
+<span class='ocr_line' title='bbox 307 1431 1906 1500'>Adngulis, Proportionibus, Temporibus, Gradibus velocitatis, Virium, Po-</span><br />
+<span class='ocr_line' title='bbox 305 1374 1905 1438'>tentiæ, \&amp; cæteris. Idem etiam Logici faciunt in conſequentiis terborum,</span><br />
+<span class='ocr_line' title='bbox 307 1310 1905 1375'>Addentes duo nomina ad faciendam propoſitionem, \&amp; duas propoſiticnes</span><br />
+<span class='ocr_line' title='bbox 308 1248 1907 1314'>ad faciendum Syllogiſmum, \&amp; plures Syilogiſmos ad faciendam De-</span><br />
+<span class='ocr_line' title='bbox 308 1185 1912 1251'>monſtrationem; \&amp; à ſumma ſive concluuone Srliogiſmiſubtrahunt</span><br />
+<span class='ocr_line' title='bbox 308 1123 1911 1189'>unam propoſitionem, ad inveniendam alteram. Etiam Scriptores Poli-</span><br />
+<span class='ocr_line' title='bbox 308 1066 1911 1126'>tici addunt ſimul plura pacta, ad inveniendum hominis Gfſicium; \&amp;</span><br />
+<span class='ocr_line' title='bbox 304 998 1910 1067'>Iuris Conſulti addunt ſimul Leges \&amp; Facta ad inveniendum, quid ſit in</span><br />
+<span class='ocr_line' title='bbox 306 940 1911 1005'>actionibus hominum privatorum Ius \&amp; Injuria. Vbicunque locus eſt</span><br />
+<span class='ocr_line' title='bbox 307 883 1911 941'>Additoni, \&amp; Subiractioni, ibi etiam locus eſt Ratloni; \&amp; ubi illis locus</span><br />
+<span class='ocr_line' title='bbox 309 815 1119 880'>non eſt, ibi neque rationi locus eſt.</span><br />
+<span class='ocr_line' title='bbox 369 752 1912 817'>Ex iis quæ dicta ſunt Rationem Definire, id eſt vocis ejus quare-</span><br />
+<span class='ocr_line' title='bbox 309 687 1906 754'>nus ſumitut pro Facultate animi, ſignificationem determinare poſſu-</span><br />
+<span class='ocr_line' title='bbox 310 626 1913 691'>mus. Ratio enim, hoc ſenſu, nihil aliud eſt, præter Cemputationem ſive</span><br />
+<span class='ocr_line' title='bbox 309 565 1914 627'>Additionem \&amp; Subtractionem Nominum generalium, quæ ad nota-</span><br />
+<span class='ocr_line' title='bbox 310 501 1910 565'>tionem ſive ſignificationem cogitationum noſtrarum recipiuntur.</span><br />
+<span class='ocr_line' title='bbox 309 436 1913 504'>Notationem, inquam, quando computamus ſoli; ſigniſicationem, quan-</span><br />
+<span class='ocr_line' title='bbox 312 378 1415 440'>do aliis computationem noſtram Demonſſramus.</span><br />
+<span class='ocr_line' title='bbox 374 315 1911 380'>Sicut autem in Arithmetica imperiti ſæpe Proſeſſores aliquando</span><br />
+<span class='ocr_line' title='bbox 312 245 1913 318'>ſalsò computant; ita etiam in RRationibus aliarum rerum, peritiſſimi,</span><br />
+<span class='ocr_line' title='bbox 1777 208 1917 255'>verſa.</span><br />
+</div>
+</body>
+</html>
+

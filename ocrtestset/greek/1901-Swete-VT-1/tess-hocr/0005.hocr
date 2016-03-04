@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.03' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "0005.tif"; bbox 0 0 2940 4064; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 618 118 2322 467">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 618 118 2322 467">
+     <span class='ocr_line' id='line_1_1' title="bbox 618 118 2322 211; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 618 118 915 206; x_wconf 90' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1032 118 1321 209; x_wconf 85' lang='lat' dir='ltr'><strong>OLD</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1437 118 2322 211; x_wconf 77' lang='lat' dir='ltr'><strong>TESTAMENT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1139 396 1803 467; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1139 396 1260 464; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1378 396 1803 467; x_wconf 76' lang='lat' dir='ltr'><strong>GREEK</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 713 655 2243 752">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 713 655 2243 752">
+     <span class='ocr_line' id='line_1_3' title="bbox 713 655 2243 752; baseline 0.004 -44"><span class='ocrx_word' id='word_1_6' title='bbox 713 655 1186 731; x_wconf 48' lang='lat' dir='ltr'><strong>ACCORDIJQ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1215 736 1230 752; x_wconf 24' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_8' title='bbox 1457 658 1638 713; x_wconf 87' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1698 658 2243 715; x_wconf 79' lang='lat' dir='ltr'><strong>SEPTUAGINT</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

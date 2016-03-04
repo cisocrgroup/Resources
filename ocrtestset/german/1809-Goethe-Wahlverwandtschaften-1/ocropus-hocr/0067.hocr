@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0067.tif'>
+<span class='ocr_line' title='bbox 580 1691 623 1721'>0o</span><br />
+<p />
+<span class='ocr_line' title='bbox 198 1588 988 1636'>und Vorgesetzten mlttheilt. Diejenigen dle an</span><br />
+<span class='ocr_line' title='bbox 197 1527 991 1572'>Ewo. Gnaden gerlchtet sind lese ich immer mit</span><br />
+<span class='ocr_line' title='bbox 196 1462 989 1509'>doppelter Aufmerksamkeit, mit doppeltem Ver-</span><br />
+<span class='ocr_line' title='bbox 193 1400 988 1450'>gnügen: denn lndem wir Ihnen zu einer</span><br />
+<span class='ocr_line' title='bbox 192 1339 987 1387'>Tochter Gläck zu wünschen haben, die alle</span><br />
+<span class='ocr_line' title='bbox 188 1278 987 1324'>jene glänzenden Eigenschaften vereinigt, wo-</span><br />
+<span class='ocr_line' title='bbox 188 1218 983 1261'>durch man in der Welt emporsteigt; so muß</span><br />
+<span class='ocr_line' title='bbox 187 1152 982 1196'>ich wenigstens Sie nicht minder glücklich preisen,</span><br />
+<span class='ocr_line' title='bbox 187 1087 979 1132'>das Ihnen in Ihrer Pflegetochter ein Kind</span><br />
+<span class='ocr_line' title='bbox 186 1022 980 1067'>beschert ist, das zum Wohl, zur Zufrieden-</span><br />
+<span class='ocr_line' title='bbox 184 960 978 1002'>heit anderer und gewiß auch zu seinem eigenen</span><br />
+<span class='ocr_line' title='bbox 182 902 977 943'>Glüc geboren ward. Ottilie ist fast unser ein-</span><br />
+<span class='ocr_line' title='bbox 180 841 974 884'>zlger Zögling, äber den lch mit unserer so</span><br />
+<span class='ocr_line' title='bbox 178 782 974 825'>sehr verehrten Vorsteherinn nicht einig werden</span><br />
+<span class='ocr_line' title='bbox 177 721 972 764'>kann. Ich verarge dieser thätigen Frau kei-</span><br />
+<span class='ocr_line' title='bbox 176 658 972 702'>nesweges, daß sie verlangt, man soll die</span><br />
+<span class='ocr_line' title='bbox 174 594 969 641'>Früchte ihrer Sorgfalt äußerlich und dentlich</span><br />
+<span class='ocr_line' title='bbox 172 531 966 577'>sehen; aber es giebt auch verschlossene Früchte,</span><br />
+<span class='ocr_line' title='bbox 171 471 967 515'>die erst die rechten kernhaften sind, und die</span><br />
+<span class='ocr_line' title='bbox 170 409 965 455'>sich früher oder später zu einem schönen Le-</span><br />
+<span class='ocr_line' title='bbox 169 345 963 393'>ben entwickeln. Dergleichen ist gewiß Ihre</span><br />
+<span class='ocr_line' title='bbox 166 286 961 332'>Pflegetochter. So lange ich sie unterrichte</span><br />
+</div>
+</body>
+</html>
+

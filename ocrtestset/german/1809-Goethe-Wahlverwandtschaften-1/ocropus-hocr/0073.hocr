@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0073.tif'>
+<span class='ocr_line' title='bbox 557 1694 600 1722'>dd</span><br />
+<p />
+<span class='ocr_line' title='bbox 190 1592 984 1637'>schreibpsng, wozu schon genugsame Vorarbeit</span><br />
+<span class='ocr_line' title='bbox 190 1528 983 1576'>da seyn muß, aus ;der ssch nachher Pachtan-</span><br />
+<span class='ocr_line' title='bbox 189 1467 983 1514'>schläge und anderes schon entwickeln werden.</span><br />
+<span class='ocr_line' title='bbox 188 1400 982 1453'>Nur eines laß uns festsehen und einrichten:</span><br />
+<span class='ocr_line' title='bbox 186 1338 983 1393'>trenne alles was eigentlich Geschäft ist yom</span><br />
+<span class='ocr_line' title='bbox 184 1285 982 1329'>Leben. Dae Geschäft verlangt Ernst und</span><br />
+<span class='ocr_line' title='bbox 183 1221 983 1268'>Strenge, das Leben Willkahr; das Geschäfe</span><br />
+<span class='ocr_line' title='bbox 183 1161 982 1204'>die reinsie Folge, dem Leben thuut eine Incon-</span><br />
+<span class='ocr_line' title='bbox 182 1095 989 1138'>seguenz oft noth, ja sie ist liebenswürdig uyd-</span><br />
+<span class='ocr_line' title='bbox 183 1032 981 1075'>erhaiternd. Bist du bey dem einen sicher,</span><br />
+<span class='ocr_line' title='bbox 181 969 988 1009'>so. kannst du in dem andern desto freyer seyn;:</span><br />
+<span class='ocr_line' title='bbox 181 908 988 950'>anstatt daß bey einev Vermischung das. Sichre:</span><br />
+<span class='ocr_line' title='bbox 177 850 987 898'>durch, das Freye-weggerissen und' aufgehoben-</span><br />
+<span class='ocr_line' title='bbox 176 798 265 829'>wird.</span><br />
+<span class='ocr_line' title='bbox 186 666 978 717'>, Eduard fählte in -diesen Vorschlägen einen</span><br />
+<span class='ocr_line' title='bbox 174 602 981 648'>leisen Vorwurf. Zwar von Natur nicht un-</span><br />
+<span class='ocr_line' title='bbox 174 536 980 586'>ordentlich, konnte er doch niemals dazu kome</span><br />
+<span class='ocr_line' title='bbox 173 473 971 524'>men, seine Papiere nach Fächern abzuthelen.</span><br />
+<span class='ocr_line' title='bbox 169 414 970 458'>Das was er mut andern abzuthun hatte, was</span><br />
+<span class='ocr_line' title='bbox 170 352 970 399'>blos von ihm selbst abhing, es- war nicht ge-</span><br />
+<span class='ocr_line' title='bbox 168 294 966 337'>schieden; so wie er auch . Geschäfte und Be-</span><br />
+</div>
+</body>
+</html>
+

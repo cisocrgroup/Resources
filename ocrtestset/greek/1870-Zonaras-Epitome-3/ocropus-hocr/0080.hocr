@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0080.tif'>
+<span class='ocr_line' title='bbox 563 3381 640 3441'>74</span><br />
+<span class='ocr_line' title='bbox 1149 3390 1800 3440'>LIs. X7. CAP. XXIII.</span><br />
+<p />
+<span class='ocr_line' title='bbox 563 3211 2387 3309'>φέροντες τῆς σφῶν παραπολαύοντας μητροπόλεως</span><br />
+<span class='ocr_line' title='bbox 561 3117 2386 3216'>ἄλλους ὁρὰν, Eλληνες γάρ ἐν αὐτῇ κατῳκίσθησαν,</span><br />
+<span class='ocr_line' title='bbox 561 3022 2387 3118'>μηδὲ ξενικοὺς τιμάσθαι θεοὸς ἐν αὐτῇ ἀνεχόμενοι,</span><br />
+<span class='ocr_line' title='bbox 562 2926 2390 3024'>ἔως μὲν Ἀδριανὸς παρά τε τῇ Ἀίγύπτῳ καὶ τῇ Συ-</span><br />
+<span class='ocr_line' title='bbox 560 2830 2389 2926'>ρίᾳ διέτριβεν, ἠρέμουν διευλαβούμενοι ἐπεὶ δʼ ἐκεῖ-</span><br />
+<span class='ocr_line' title='bbox 558 2733 2390 2833'>θεν ἀπῆλθε, τά τε τῆς χαρας ἐπίκαιρα κατελάμβανον,</span><br />
+<span class='ocr_line' title='bbox 559 2639 2391 2737'>Πνʼ ἔχοιεν αὐτὰ ὁρμητήρια, καὶ πολλὰ τοὺς Ρωμαίους</span><br />
+<span class='ocr_line' title='bbox 563 2543 2390 2642'>ἐκάκωσαν λάθρᾳ τε καὶ ἀναφανδόν, τῶν τε ἀπαντα-</span><br />
+<span class='ocr_line' title='bbox 561 2443 2392 2547'>χού γῆς ουδαίων συνιόντων ἐκεῖ καὶ πολλῶν ἀλλο-</span><br />
+<span class='ocr_line' title='bbox 560 2363 2389 2448'>φύλων ἔρωτι κέρδους συνεπικουρούντων αὐτοῖς. ὁ</span><br />
+<span class='ocr_line' title='bbox 561 2256 2393 2353'>μέντοι Ἀδριανὸς τοὺς ἐπιφανεστάτους τῶν στρατη-</span><br />
+<span class='ocr_line' title='bbox 369 2159 2394 2260'>PI5ὸογῶν τοῖς Iουδαίοις ἐπήγαγεν, ὧν ἐπῆρχε ευῆρος</span><br />
+<span class='ocr_line' title='bbox 552 2064 2393 2161'>ούλιος. ὅς κατὰ συστάδην συμβαλεῖν τοῖς ἐναντίοις</span><br />
+<span class='ocr_line' title='bbox 562 1969 2392 2066'>οὐκ ἔκρινε σύμφορον, τὸ πλῆθος αὐτῶν καὶ τὴν ἀπό-</span><br />
+<span class='ocr_line' title='bbox 561 1872 2390 1970'>γνωσιν εὐλαβούμενος, τροφῆς δὲ σφᾶς ἀπείργων καὶ</span><br />
+<span class='ocr_line' title='bbox 562 1778 2392 1874'>κατακλείων, ἔστι δʼ οὐ καὶ ὅπῃ παρήκοι τοὺς στρα-</span><br />
+<span class='ocr_line' title='bbox 561 1678 2392 1779'>τιώτας μοίραις αὐτῶν ἐπάγων, χρονιώτερον μέν,</span><br />
+<span class='ocr_line' title='bbox 562 1586 2392 1682'>ἀκινδυνότερον δὲ τὸ ἔθνος αὐτῶν ἐξέτριψ-έʼ τε καὶ</span><br />
+<span class='ocr_line' title='bbox 565 1488 2388 1587'>ἐξετρύχωσεν, ὡς κομιδῇ βραχίστους περιγενέσθαι.</span><br />
+<span class='ocr_line' title='bbox 562 1394 2389 1491'>φρούρια μὲν γὰρ αὐτῶν τὰ κρείττω πεντήκοντα κα-</span><br />
+<span class='ocr_line' title='bbox 563 1297 2384 1397'>τεστράφησαν, κώμαι δὲ πέντε καὶ όγδοήκοντα ἐπʼ</span><br />
+<span class='ocr_line' title='bbox 566 1202 2393 1300'>ἐνακοσίαις ὀνομαστόταται κατεσκάφησαν ἀνδρῶν</span><br />
+<span class='ocr_line' title='bbox 568 1107 2393 1203'>δὲ μυριάδες ὀκτώ καὶ πεντήκοντα ἐν ταῖς καταδρο-</span><br />
+<span class='ocr_line' title='bbox 500 1010 2394 1109'>I μαῖς καὶ ταῖς μάχαις ἐσφάγησαν. τὸ δὲ πλῆθος τῶν</span><br />
+<span class='ocr_line' title='bbox 566 915 2393 1013'>λιμῷ καὶ νόσοις καὶ πυρὶ φθαρέντων ἀνεξερεύνητον</span><br />
+<span class='ocr_line' title='bbox 564 820 2393 918'>τυγχάνον οὐκ ἔγνωσται, ὥστε πάσαν σχεδὸν τὴν ου-</span><br />
+<span class='ocr_line' title='bbox 468 722 2393 822'>δαίαν ἐρημωθῆναι. ὅ καὶ πρὸ τοῦ πολέμου αὐτοῖς</span><br />
+<span class='ocr_line' title='bbox 374 630 2392 726'>vW II204συμβόλοις τισὶ τὸ θεῖον ἐνέφηνε. τό τε γὰρ μνηr</span><br />
+<span class='ocr_line' title='bbox 566 531 2391 631'>μεῖον τοῦ Σολομῶντος ἐξ οὐδεμιὰς δήλης αἰτίας διε-</span><br />
+<span class='ocr_line' title='bbox 565 437 2390 533'>λθη τε καὶ συνέπεσε, καὶ λύκοι καὶ ὕαιναι πλεῖσται</span><br />
+<span class='ocr_line' title='bbox 568 341 2390 437'>εἰς τὰς πόλεις αὐτῶν εἰσέπιπτον ὡρυόμεναι. πολλοὶ</span><br />
+<span class='ocr_line' title='bbox 564 255 2389 346'>μέντοι καὶ Ρῶμαῖοι τότε ἀπώλοντο, ὥστε καὶ 7δρια-</span><br />
+</div>
+</body>
+</html>
+

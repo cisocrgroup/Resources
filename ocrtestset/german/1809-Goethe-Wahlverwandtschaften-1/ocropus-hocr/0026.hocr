@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0026.tif'>
+<span class='ocr_line' title='bbox 556 1673 606 1720'>ro</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1578 975 1624'>ard, bey Menschen, die nur dunkel vor sich</span><br />
+<span class='ocr_line' title='bbox 194 1522 974 1565'>hin leben, nicht bey solchen, die schon durch</span><br />
+<span class='ocr_line' title='bbox 194 1454 952 1507'>Erfahrung aufgeklärt sich mehr bewußt sind.</span><br />
+<p />
+<span class='ocr_line' title='bbox 249 1341 969 1387'>Dae Bewußtsepn, mein Liebster, entgegs</span><br />
+<span class='ocr_line' title='bbox 188 1283 966 1334'>nete Charlotte, ist keine hinlängliche Waffe,</span><br />
+<span class='ocr_line' title='bbox 187 1225 968 1267'>ja manchmal eine gefährliche, für den der sie</span><br />
+<span class='ocr_line' title='bbox 186 1162 964 1204'>führt; und aus diesem allen tritt wenigstens</span><br />
+<span class='ocr_line' title='bbox 186 1100 965 1141'>so viel hervor, daß wir uns ja nicht überei-</span><br />
+<span class='ocr_line' title='bbox 186 1038 965 1079'>len sollen. Gdnne mir noch einige Tage, ent-</span><br />
+<span class='ocr_line' title='bbox 186 979 402 1019'>scheide nicht!</span><br />
+<p />
+<span class='ocr_line' title='bbox 250 859 962 903'>Wie die Sache steht, erwiederte Eduard,</span><br />
+<span class='ocr_line' title='bbox 183 800 961 841'>werden wir uns, auch nach mehreren Tagen,</span><br />
+<span class='ocr_line' title='bbox 184 735 964 784'>immer übereilen. Die Gründe für und da</span><br />
+<span class='ocr_line' title='bbox 183 674 961 720'>gegen haben wir wechselsweise vorgebracht; es</span><br />
+<span class='ocr_line' title='bbox 182 617 960 657'>kommt auf den Entschluß an, und da wär' es</span><br />
+<span class='ocr_line' title='bbox 182 553 959 598'>wirklich das beste, wir gäben ihn dem Loos</span><br />
+<span class='ocr_line' title='bbox 183 491 308 530'>anheim.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 370 959 413'>Ich weisj, versetzte Charlotte, daß du ln</span><br />
+<span class='ocr_line' title='bbox 181 306 956 348'>zweifelhaften Fällen gerne wettest oder wür-</span><br />
+<p />
+<span class='ocr_line' title='bbox 740 256 803 288'>g</span><br />
+</div>
+</body>
+</html>
+

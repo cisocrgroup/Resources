@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.03' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "0008.tif"; bbox 0 0 1156 1782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 545 60 621 93">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 545 60 621 93">
+     <span class='ocr_line' id='line_1_1' title="bbox 545 60 621 93; baseline 0.026 -2"><span class='ocrx_word' id='word_1_1' title='bbox 545 60 621 93; x_wconf 76' lang='deu-frak' dir='ltr'>Die</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 188 973 263">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 188 973 263">
+     <span class='ocr_line' id='line_1_2' title="bbox 184 188 973 263; baseline -0.001 -10"><span class='ocrx_word' id='word_1_2' title='bbox 184 188 973 263; x_wconf 81' lang='deu-frak' dir='ltr'>Wahlverwandtsschaften.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 484 374 664 386">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 484 374 664 386">
+     <span class='ocr_line' id='line_1_3' title="bbox 484 374 664 386; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 484 374 664 386; x_wconf 57' lang='deu-frak' dir='ltr'>.—-——.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 357 500 795 536">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 357 500 795 536">
+     <span class='ocr_line' id='line_1_4' title="bbox 357 500 795 536; baseline 0 -7"><span class='ocrx_word' id='word_1_4' title='bbox 357 500 546 535; x_wconf 70' lang='deu-frak' dir='ltr'>Erster</span> <span class='ocrx_word' id='word_1_5' title='bbox 606 501 795 536; x_wconf 70' lang='deu-frak' dir='ltr'>Theil-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0025.tif'>
+<span class='ocr_line' title='bbox 259 1594 957 1647'>Auf diese Weise wäret Ihr Frauen wohl</span><br />
+<span class='ocr_line' title='bbox 196 1536 958 1583'>unüberwindlich, versezte Eduard: erst verstäns</span><br />
+<span class='ocr_line' title='bbox 197 1473 957 1523'>dg, das man nicht widersprechen kann, liebe-</span><br />
+<span class='ocr_line' title='bbox 195 1416 955 1465'>voll, daß man sich gern hingiebt, gefühlvoll,</span><br />
+<span class='ocr_line' title='bbox 196 1357 957 1405'>daß man Euch nicht weh thnn mag, ahndungs-</span><br />
+<span class='ocr_line' title='bbox 195 1300 602 1341'>voll, daß man erschrickt.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1177 960 1222'>Ich bin nicht abergläubisch, versezte Char-</span><br />
+<span class='ocr_line' title='bbox 197 1117 960 1168'>lotte, und gebe nichts auf diese dunklen An-</span><br />
+<span class='ocr_line' title='bbox 198 1054 960 1104'>regungen, insofern sie nur solche wären; aber</span><br />
+<span class='ocr_line' title='bbox 197 994 961 1036'>es sind meistenthetls unbewußte Erinnerungen</span><br />
+<span class='ocr_line' title='bbox 195 936 960 977'>glücklicher und unglücklicher Folgen, die wir</span><br />
+<span class='ocr_line' title='bbox 196 879 961 920'>ak eigenen oder fremden Handlungen erlebt</span><br />
+<span class='ocr_line' title='bbox 196 818 960 865'>haben. Nichts ist bedeutender ln jedem Zu-</span><br />
+<span class='ocr_line' title='bbox 196 759 958 807'>stande, als die Dazwischenkunfc eines Dritten.</span><br />
+<span class='ocr_line' title='bbox 195 703 959 746'>Hch habe Freunde gesehen, Geschwister, Lie-</span><br />
+<span class='ocr_line' title='bbox 196 643 958 687'>bende, Gatten, deren Verhältniß durch den</span><br />
+<span class='ocr_line' title='bbox 196 580 959 624'>zufälligen oder gewählten Hinzutritt einer</span><br />
+<span class='ocr_line' title='bbox 195 524 958 565'>neuen Person ganz und gar verändert, deren</span><br />
+<span class='ocr_line' title='bbox 196 463 699 505'>Lage völlig umgekehrt worden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 342 958 386'>Das kaann wohl geschehen, versetzte Edu-</span><br />
+</div>
+</body>
+</html>
+

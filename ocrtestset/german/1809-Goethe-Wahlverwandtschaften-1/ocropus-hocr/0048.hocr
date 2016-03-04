@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0048.tif'>
+<span class='ocr_line' title='bbox 561 1691 603 1721'>a</span><br />
+<p />
+<span class='ocr_line' title='bbox 192 1598 975 1642'>fuß, meine Verbindungen eifrig benutze und</span><br />
+<span class='ocr_line' title='bbox 176 1538 976 1585'>aufrege, ihm eine Stelle zu verschaffen, die</span><br />
+<span class='ocr_line' title='bbox 190 1471 976 1524'>ihm nach seiner Weise einige Zufriedenheit ge-</span><br />
+<span class='ocr_line' title='bbox 189 1417 414 1459'>währen kann.</span><br />
+<p />
+<span class='ocr_line' title='bbox 255 1300 977 1343'>Eduard versicherte seine Gattlnn auf die</span><br />
+<span class='ocr_line' title='bbox 188 1239 975 1282'>anmuthigste Weise der lebhaftesten Dankbarkeit.</span><br />
+<span class='ocr_line' title='bbox 189 1176 974 1219'>Er eilte mit freyem frohen Gemüth seinem</span><br />
+<span class='ocr_line' title='bbox 188 1111 976 1155'>Freunde Vorschläge schriftlich zu thun. Char-</span><br />
+<span class='ocr_line' title='bbox 189 1050 977 1093'>lotte mußte in einer Nachschrift ihren Bey-</span><br />
+<span class='ocr_line' title='bbox 188 988 978 1031'>fall eigenhändig hinzufügen, ihre freundschast-</span><br />
+<span class='ocr_line' title='bbox 189 931 977 972'>lichen Bitten mit den seinen vereinigen. Sie</span><br />
+<span class='ocr_line' title='bbox 187 862 974 913'>schrieb mit gewandter Feder-gefällig und pers</span><br />
+<span class='ocr_line' title='bbox 188 812 973 862'>bindlich, aber doch mit einer Art von Hast,</span><br />
+<span class='ocr_line' title='bbox 190 749 974 794'>die ihr sonst nicht gewöhnlich war; und was</span><br />
+<span class='ocr_line' title='bbox 188 688 975 731'>ihr nicht leicht begegnete, sie verunstaltete das</span><br />
+<span class='ocr_line' title='bbox 190 623 975 669'>Papier zuleht mit einem Tintenfleck, der sie</span><br />
+<span class='ocr_line' title='bbox 191 563 975 606'>ärgerlich machte und nttr größer wurde, in</span><br />
+<span class='ocr_line' title='bbox 191 498 712 543'>dem sie ihn wegwischen wollte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 372 974 419'>Eduard scherzte darüber, und weil noch</span><br />
+<span class='ocr_line' title='bbox 191 311 974 359'>Platz war jügte er eine zweyte Nachschrist</span><br />
+</div>
+</body>
+</html>
+

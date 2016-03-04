@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0006.tif'>
+<span class='ocr_line' title='bbox 840 3867 2106 3943'>πουbοn : C. . CL.Y Αx SΟΝS,</span><br />
+<span class='ocr_line' title='bbox 612 3772 2330 3828'>CAMIRIDIE uNIVERSITV PRESS ARPIIΟSE,</span><br />
+<p />
+<span class='ocr_line' title='bbox 1130 3681 1817 3728'>ΑVE MAΕIA 1AN Ε.</span><br />
+<span class='ocr_line' title='bbox 932 3584 2016 3633'>φlasgοω: 5 WELLINΟTΟN STTRPIT.</span><br />
+<p />
+<span class='ocr_line' title='bbox 1463 3433 1662 3511'></span><br />
+<span class='ocr_line' title='bbox 1324 3293 1650 3397'>55:.</span><br />
+<p />
+<span class='ocr_line' title='bbox 1462 3213 1652 3280'>w</span><br />
+<p />
+<span class='ocr_line' title='bbox 1068 3005 1874 3059'>1u : F. A. B1ΟCR HAUS.</span><br />
+<span class='ocr_line' title='bbox 917 2920 2138 2973'>Cιη οτν: THΕ MI.CILI.AN CMI P.N.</span><br />
+<p />
+<span class='ocr_line' title='bbox 1178 1706 1788 1771'>[. Αaπκ sa.</span><br />
+</div>
+</body>
+</html>
+

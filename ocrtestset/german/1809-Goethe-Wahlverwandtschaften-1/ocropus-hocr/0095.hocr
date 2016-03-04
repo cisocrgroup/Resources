@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0095.tif'>
+<span class='ocr_line' title='bbox 262 1588 985 1638'>Da slnd die Chemiker viel galanter, sagte</span><br />
+<span class='ocr_line' title='bbox 196 1527 987 1581'>Eduard: sie gesellen ein viertes dazu, damit</span><br />
+<span class='ocr_line' title='bbox 197 1469 530 1513'>keines leer ausgehk.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1342 985 1397'>Ha wohl! oeksetzte der Hanptmann diese</span><br />
+<span class='ocr_line' title='bbox 190 1282 982 1332'>FAlle stnd allerdings dle bedentendsten und</span><br />
+<span class='ocr_line' title='bbox 190 1221 983 1268'>merkwürdigsten, wo man das Anzlehen, dae</span><br />
+<span class='ocr_line' title='bbox 190 1157 983 1200'>Verwandtseyn, dieses Verlassen, dieses Vers</span><br />
+<span class='ocr_line' title='bbox 188 1091 982 1135'>einigen gleichsam übers Krenz, wirklich dar-</span><br />
+<span class='ocr_line' title='bbox 187 1027 983 1071'>stellen kann; wo vier, bisher je zwey zu zwey</span><br />
+<span class='ocr_line' title='bbox 186 966 981 1011'>verbundene Wesen in Berührung gebracht,</span><br />
+<span class='ocr_line' title='bbox 185 907 978 954'>ihre bisherige Vereinigung verlassen' and sich</span><br />
+<span class='ocr_line' title='bbox 181 852 976 899'>aufs neue verbinden. - Fn dlesem Fahrenlassenn</span><br />
+<span class='ocr_line' title='bbox 179 781 975 838'>und Ergreifen, ln diesem Fliehen mnd Suchen,</span><br />
+<span class='ocr_line' title='bbox 174 724 974 781'>glaubt man wirklich eine höhere Bestimmung</span><br />
+<span class='ocr_line' title='bbox 174 661 973 710'>zu sehen; man traut solchen Wesen eine Are</span><br />
+<span class='ocr_line' title='bbox 173 598 970 651'>von Wollen und Wählen zu, und hält das</span><br />
+<span class='ocr_line' title='bbox 174 540 970 590'>Kunskwort Wahlverwandtschaften pollkommen</span><br />
+<span class='ocr_line' title='bbox 171 482 391 527'>gerechtfertigt.</span><br />
+<p />
+<span class='ocr_line' title='bbox 236 354 961 402'>Beschrelben Sie mir einen solchen Falh,</span><br />
+<span class='ocr_line' title='bbox 169 294 431 339'>fagte Charlotte.</span><br />
+</div>
+</body>
+</html>
+

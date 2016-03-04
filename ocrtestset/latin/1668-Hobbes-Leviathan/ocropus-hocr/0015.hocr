@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0015.tif'>
+<span class='ocr_line' title='bbox 306 2768 501 2840'>Cap. 1</span><br />
+<span class='ocr_line' title='bbox 920 2791 1244 2841'>De Homine.</span><br />
+<span class='ocr_line' title='bbox 302 2690 1904 2760'>ria efficiant ſomnia. Atqne hinc eſt, quod ſæpe accidit, ut illi, qui</span><br />
+<span class='ocr_line' title='bbox 300 2630 1905 2698'>cubantes algent, ſæpiſſimè in ſomniis timeant, videanturque ſibi Ima-</span><br />
+<span class='ocr_line' title='bbox 300 2567 1904 2633'>gines videre terrificas (motus enim à Cerebro ad partes alias corpo-</span><br />
+<span class='ocr_line' title='bbox 300 2509 1906 2571'>ris internas \&amp; ab illis ad Cerebrum eſt reciprocus.) Hinc etiam ac-</span><br />
+<span class='ocr_line' title='bbox 301 2444 1902 2508'>cidit, quòd, ſicut Ira calorem efficit in partibus aliquibus corporis,</span><br />
+<span class='ocr_line' title='bbox 302 2383 1905 2446'>dum vigilamus; ita etiam dum dormimus, nimius earundem partium</span><br />
+<span class='ocr_line' title='bbox 302 2317 1905 2386'>calor eſſciat Iram, excitetque in Cerebro Phantaſma alicujus hoſtis.</span><br />
+<span class='ocr_line' title='bbox 303 2258 1905 2322'>Eodem modo, ut amor in vigilantibus amorem efficit, \&amp; calorem in</span><br />
+<span class='ocr_line' title='bbox 303 2195 1906 2259'>partibus corporis aliquibus internis; ita etiam earundem partium</span><br />
+<span class='ocr_line' title='bbox 299 2133 1907 2197'>calor in dormientibus imaginem efficit amoris. Somnia denique \&amp;</span><br />
+<span class='ocr_line' title='bbox 299 2070 1903 2135'>vigilantium Phantaſmata altera alterius ſunt inverſa; nimirum motu</span><br />
+<span class='ocr_line' title='bbox 300 2008 1904 2072'>incipiente dum vigilamus ab uno termino, \&amp; ab altero dum Som-</span><br />
+<span class='ocr_line' title='bbox 302 1963 480 2006'>niamus.</span><br />
+<span class='ocr_line' title='bbox 363 1882 1905 1948'>Inter Somnium \&amp; cogitationes vigilantium diſtinguere difficili-</span><br />
+<span class='ocr_line' title='bbox 303 1822 1908 1885'>mum tunc eſt, quando caſu aliquo factum eſt ut minimè animadverta-</span><br />
+<span class='ocr_line' title='bbox 303 1759 1908 1824'>mus, nos dormiiſſe; id quod facile contingit illi, qui facinoris ali-</span><br />
+<span class='ocr_line' title='bbox 305 1699 1907 1762'>cujus facti, vel faciendi conſcius, \&amp; ſollicitus dormit ſine circum-</span><br />
+<span class='ocr_line' title='bbox 303 1637 1907 1698'>ſtantiis exuendi veſtes, \&amp; eundi cubitum; ut qui in cathedra dormit</span><br />
+<span class='ocr_line' title='bbox 300 1573 1908 1638'>ſedens vel reclinatus. Qui enim ad dormiendum ſe componit, ſi forte</span><br />
+<span class='ocr_line' title='bbox 304 1510 1906 1573'>Phantaſma aliquod inſolitum aut mirandum videri contingat, non</span><br />
+<span class='ocr_line' title='bbox 305 1447 1907 1512'>aliud illi videri poteſt quam Somnium. Marcum Erutum legimus (qui</span><br />
+<span class='ocr_line' title='bbox 305 1387 1908 1450'>cum amicus fuiſſet ſulius Cæſaris, \&amp; ab eo vitam condonatam acce-</span><br />
+<span class='ocr_line' title='bbox 305 1321 1905 1385'>perat, illum tamen ingrat occiderat) nocte illa quæ præceſſit diem,</span><br />
+<span class='ocr_line' title='bbox 305 1259 1900 1325'>in quo pugnatum eſt contra Auguſtum Cæſarem apud Philippos,</span><br />
+<span class='ocr_line' title='bbox 307 1198 1905 1261'>Phantaſma habuiſſe horribile, quod ab hiſtoricis vulgo narratur ut</span><br />
+<span class='ocr_line' title='bbox 307 1138 1905 1201'>Viſio vera; ſed ab eo qui conſideraverit ſingulas ejus circumſtan-</span><br />
+<span class='ocr_line' title='bbox 306 1077 1905 1141'>tias non Viſionem ſed Somnium fuiſſe breve judicabit. Sedenti</span><br />
+<span class='ocr_line' title='bbox 304 1013 1906 1078'>enim in Tentorio, \&amp; (propter horrorem facti ſui temerarii) triſti</span><br />
+<span class='ocr_line' title='bbox 308 949 1908 1016'>\&amp; cogitabundo, nec bene ſopito, ſed dormitanti tantùm, propter</span><br />
+<span class='ocr_line' title='bbox 305 887 1907 953'>aërem non ſatis calidum, Somniare facilimum erat de ea re, qua</span><br />
+<span class='ocr_line' title='bbox 305 826 1906 890'>maximè terrebatur, \&amp; propter eundem terrorem, paulatim rurſus</span><br />
+<span class='ocr_line' title='bbox 304 761 1905 828'>evigilare, \&amp; ſimul exiſtimare ſpectrum illud, quod apparuerat, pau-</span><br />
+<span class='ocr_line' title='bbox 305 703 1909 767'>latim evaneſcere, \&amp; quia dormiiſſe ſe neſciebat, neſcire etiam fuiſſe</span><br />
+<span class='ocr_line' title='bbox 307 638 1905 705'>Somnium, aut aliud quicquam præter rem viſam. Neque ſunt hujuſ-</span><br />
+<span class='ocr_line' title='bbox 307 573 1905 640'>mnodi accidentia valde rara; nam etiam qui perſectè vigilant, ſi meti-</span><br />
+<span class='ocr_line' title='bbox 305 513 1905 582'>culoſi, ſuperſtitioſi, fabulis rerum terribilium occupati ſint, \&amp; in</span><br />
+<span class='ocr_line' title='bbox 306 450 1905 516'>tenebris ſoli, ejuſdem generis imaginationibus obnoxii ſunt, cre-</span><br />
+<span class='ocr_line' title='bbox 304 388 1904 459'>dantque ſe umbras \&amp; mortuorum Spiritus ambulantes videre in Cœe-</span><br />
+<span class='ocr_line' title='bbox 305 324 1896 389'>miteriis; cum tamen revera nihil videant præter mera Phantaſmata,</span><br />
+<span class='ocr_line' title='bbox 303 260 1902 332'>vel decepti ſunt ab homoinibus improbis, qui timore eorum ſuperſti-</span><br />
+<span class='ocr_line' title='bbox 1786 217 1899 265'>tioſo</span><br />
+</div>
+</body>
+</html>
+

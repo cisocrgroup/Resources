@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0043.tif'>
+<span class='ocr_line' title='bbox 561 1579 606 1611'>s</span><br />
+<p />
+<span class='ocr_line' title='bbox 266 1482 977 1529'>Bald fanden sich die Dreye im Saale zu-</span><br />
+<span class='ocr_line' title='bbox 196 1418 976 1466'>fammen; dae Essen ward aufgetragen,- und</span><br />
+<span class='ocr_line' title='bbox 198 1359 977 1407'>Mittler- erzählte von seinen heutigen Thaten</span><br />
+<span class='ocr_line' title='bbox 198 1298 977 1347'>und Vorhaben. Dieser seltsame Mann war</span><br />
+<span class='ocr_line' title='bbox 195 1236 976 1285'>fräherhin Geistlicher gewesen und hatte sich</span><br />
+<span class='ocr_line' title='bbox 196 1179 978 1226'>bey einer rastlosen Thätigkeit in seinem Amte</span><br />
+<span class='ocr_line' title='bbox 195 1121 977 1164'>dadurch ansgezeichnet, daß er alle Streitig-</span><br />
+<span class='ocr_line' title='bbox 193 1057 977 1101'>keiten, sowohl die häuslichen, als die nach-</span><br />
+<span class='ocr_line' title='bbox 194 994 977 1036'>barlichen, erst der einzelnen Bewohner, so-</span><br />
+<span class='ocr_line' title='bbox 194 932 974 977'>dann ganzer Gemeinden und mehrerer Guts</span><br />
+<span class='ocr_line' title='bbox 194 871 974 914'>besitcr, zu stillen und zu schlichten wußte.</span><br />
+<span class='ocr_line' title='bbox 192 803 972 856'>So lange er im Dlenste war, hatte sich kein</span><br />
+<span class='ocr_line' title='bbox 191 754 973 803'>Ehpaar scheiden lassen, und die Landescolle-</span><br />
+<span class='ocr_line' title='bbox 187 694 971 740'>gien wurden mit keinen Händeln und Pro-</span><br />
+<span class='ocr_line' title='bbox 187 633 969 680'>eessen von dorther behelliget. Wie nöthig</span><br />
+<span class='ocr_line' title='bbox 185 572 968 618'>ihm die Rechtskunde sey, ward er zeithg ges</span><br />
+<span class='ocr_line' title='bbox 184 513 968 558'>wahr. Er warf sein ganzes Studlum darauf,</span><br />
+<span class='ocr_line' title='bbox 184 452 967 496'>und fühlte sich bald den geschicktesten Advoca-</span><br />
+<span class='ocr_line' title='bbox 181 390 962 436'>ten gewachsen. Seln Wirkungskreis dehnte</span><br />
+<span class='ocr_line' title='bbox 182 328 964 375'>sich wunderbar aus, und man war im Be</span><br />
+<span class='ocr_line' title='bbox 180 269 960 317'>griff ihn nach der Residenz zu ziehen, nm</span><br />
+<span class='ocr_line' title='bbox 178 212 959 253'>das von oben herein zu vollenden, was er</span><br />
+</div>
+</body>
+</html>
+

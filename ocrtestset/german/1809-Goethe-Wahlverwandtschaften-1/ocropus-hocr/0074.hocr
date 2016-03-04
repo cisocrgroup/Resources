@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0074.tif'>
+<span class='ocr_line' title='bbox 562 1688 604 1722'>öz</span><br />
+<p />
+<span class='ocr_line' title='bbox 185 1591 984 1645'>schäftigung, Uiterhaltung und Zerstreuung</span><br />
+<span class='ocr_line' title='bbox 184 1531 985 1580'>nicht genugsäm von einander absonderte. Jeht</span><br />
+<span class='ocr_line' title='bbox 181 1470 983 1516'>wurde es ihm leicht, da ein Freund diese</span><br />
+<span class='ocr_line' title='bbox 183 1410 985 1457'>Bemühung übernahm, ein zweytes Ich die</span><br />
+<span class='ocr_line' title='bbox 181 1348 982 1395'>Sonderung bewirkte, in die das eine Ich</span><br />
+<span class='ocr_line' title='bbox 179 1294 690 1337'>nicht imner slch spalten mag.</span><br />
+<p />
+<span class='ocr_line' title='bbox 245 1165 982 1210'>Sie errichteten auf dem Flügel des Haupt-</span><br />
+<span class='ocr_line' title='bbox 178 1098 981 1145'>manns eine Repositur sür das Gegenwärtige,</span><br />
+<span class='ocr_line' title='bbox 176 1038 983 1080'>ein Archiv für dass Vergangene; schafften alle</span><br />
+<span class='ocr_line' title='bbox 175 976 982 1018'>Documente, Papiere, Nachrichten, aus ver-</span><br />
+<span class='ocr_line' title='bbox 174 906 980 957'>schiedenen Behältnissen, Kammern, Schrän-</span><br />
+<span class='ocr_line' title='bbox 173 858 981 907'>ken und Kisten herbey, und auf das geschwin-</span><br />
+<span class='ocr_line' title='bbox 175 795 980 841'>deste war der Wust in eine erfreuliche Ord-</span><br />
+<span class='ocr_line' title='bbox 175 727 979 779'>nung gebracht, lag rubricirt in bezeichneten</span><br />
+<span class='ocr_line' title='bbox 176 669 979 714'>Füchern. Was man wünschte ward vollstän</span><br />
+<span class='ocr_line' title='bbox 175 604 979 653'>diger gefunden als man gehofft hatte. Hier-</span><br />
+<span class='ocr_line' title='bbox 174 537 977 590'>bey ging ihnen ein alter Schreiber sehr an</span><br />
+<span class='ocr_line' title='bbox 174 480 979 525'>die Hhand, der den Tag über, ja einen Theil</span><br />
+<span class='ocr_line' title='bbox 174 417 976 462'>der Nacht, nicht vom Pulte kam, und mit</span><br />
+<span class='ocr_line' title='bbox 173 351 975 398'>dem Eduard bisher immer unzufrieden gewee</span><br />
+<span class='ocr_line' title='bbox 171 293 315 332'>sen war.</span><br />
+<p />
+<span class='ocr_line' title='bbox 756 249 814 273'>F- K</span><br />
+</div>
+</body>
+</html>
+

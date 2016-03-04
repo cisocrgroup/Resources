@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0080.tif'>
+<span class='ocr_line' title='bbox 559 1672 601 1721'>ra</span><br />
+<p />
+<span class='ocr_line' title='bbox 185 1593 981 1640'>immer so zu sehen, das er Niemand im R</span><br />
+<span class='ocr_line' title='bbox 167 1534 979 1577'>cken hatte. Jeht zu dreyen war diese Vor-</span><br />
+<span class='ocr_line' title='bbox 186 1472 986 1517'>sicht unnöthlg; und da es dießmal nicht auf</span><br />
+<span class='ocr_line' title='bbox 186 1412 982 1460'>Erregung des - Gefähls, auf Neberraschung</span><br />
+<span class='ocr_line' title='bbox 186 1353 983 1397'>der Einbildungskraft angesehen war; so dachte</span><br />
+<span class='ocr_line' title='bbox 185 1290 983 1335'>er selbst nicht daran, sich sonderlich in Acht</span><br />
+<span class='ocr_line' title='bbox 185 1228 377 1272'>zu nehmen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 253 1102 982 1145'>Nur eines Abends fiel es ihm auf, als</span><br />
+<span class='ocr_line' title='bbox 186 1037 984 1081'>er sich nachlässig gesett hatte, daß Charlotte</span><br />
+<span class='ocr_line' title='bbox 186 977 983 1019'>ihm in das Buch sah. Seine alte Ungednld</span><br />
+<span class='ocr_line' title='bbox 186 909 985 957'>erwachte und er verwies es ihr, gewtsserma-</span><br />
+<span class='ocr_line' title='bbox 185 859 985 898'>sen unfreundlich. Wollte man sich doch sol-</span><br />
+<span class='ocr_line' title='bbox 187 798 987 838'>che Unarten, wie so manches andre was der</span><br />
+<span class='ocr_line' title='bbox 188 733 985 778'>Gesellschaft lästig ist, ein für allemal abge-</span><br />
+<span class='ocr_line' title='bbox 186 666 984 715'>wöhnen. Wenn ich Jemand vorlese, ist es</span><br />
+<span class='ocr_line' title='bbox 189 606 985 652'>denn nicht als wenn ich ihm mündlich etwas</span><br />
+<span class='ocr_line' title='bbox 189 540 986 590'>vortrüge? Das Geschriebene, das Gedruckte</span><br />
+<span class='ocr_line' title='bbox 190 481 986 524'>tritt an die Stelle meines eigenen Sinnes,</span><br />
+<span class='ocr_line' title='bbox 189 412 988 461'>meines eigenen Herzens; und würde ich mich</span><br />
+<span class='ocr_line' title='bbox 190 349 987 396'>wohl zu reden bemühen, wenn ein Fensterchen</span><br />
+<span class='ocr_line' title='bbox 192 284 989 331'>vor mneiner Stirn, vor- meiner Brust anges</span><br />
+</div>
+</body>
+</html>
+

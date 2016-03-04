@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0083.tif'>
+<span class='ocr_line' title='bbox 296 2767 526 2838'>Cap. 1t.</span><br />
+<span class='ocr_line' title='bbox 917 2784 1232 2839'>Dæ omine.</span><br />
+<span class='ocr_line' title='bbox 1828 2791 1895 2821'>n P</span><br />
+<span class='ocr_line' title='bbox 297 2686 1901 2752'>ctam Injuria ſupponit, nempe illum, qui cum pactum eſt. Itaque</span><br />
+<span class='ocr_line' title='bbox 296 2624 1899 2689'>contingit aliquando Injuriam alius, Damnum quod ab Injurià eſt,</span><br />
+<span class='ocr_line' title='bbox 297 2563 1903 2627'>alius facit, ut quando Dominus debitam alicui ſolvere pecuniam ſer-</span><br />
+<span class='ocr_line' title='bbox 298 2502 1901 2565'>vum juſſerit, ſi Servus non fecerit, Injuria quæ Creditori fit à Do-</span><br />
+<span class='ocr_line' title='bbox 298 2438 1900 2503'>mino eſt, quæ Domino fit, à Servo eſt; non enim Servus, ſed Do-</span><br />
+<span class='ocr_line' title='bbox 299 2377 1899 2441'>minus cum Creditore pactus eſt. Similiter, in ſtatu Civili, debita</span><br />
+<span class='ocr_line' title='bbox 300 2314 1897 2378'>ſibi remittere homines privati poſſunt; ſed Latrocinia non item,</span><br />
+<span class='ocr_line' title='bbox 300 2252 1764 2316'>quia ſunt quaſi debita publica, ita ut Injuriæ factæ ſint Civitati.</span><br />
+<span class='ocr_line' title='bbox 361 2191 1900 2254'>Quod Volenti fit, Injuria non eſt. Nam niſi Pactum ſit, ut non</span><br />
+<span class='ocr_line' title='bbox 299 2129 1901 2192'>faceret, Injuria eſſe non poteſt; ſi Pactum ſit, tollitur Obligatio per</span><br />
+<span class='ocr_line' title='bbox 299 2066 1478 2128'>Voluntatem Obligantis, id ejus quicum pactum eſt.</span><br />
+<span class='ocr_line' title='bbox 356 2003 1902 2067'>Iuſtitia Actionum dividitur à Scriptoribus in Commutativam \&amp;c</span><br />
+<span class='ocr_line' title='bbox 298 1942 1903 2004'>Diſtributivam; quarum priorem dicunt in proportione Arithmetieà,,</span><br />
+<span class='ocr_line' title='bbox 301 1879 1902 1942'>poſteriorem in Geometricà conſiſtere; ita ut Commutativam in re-</span><br />
+<span class='ocr_line' title='bbox 301 1817 1900 1880'>rum commutandarum ÆEqualitate quoad pretium, Diſtributivam in</span><br />
+<span class='ocr_line' title='bbox 300 1756 1904 1820'>Beneficiorum æequaliter merentibus æquali Diſtributione conſiſtere</span><br />
+<span class='ocr_line' title='bbox 300 1694 1906 1758'>dicant; quaſi pluris vendere quàm emimus Injuſtum eſſet. Pretium</span><br />
+<span class='ocr_line' title='bbox 299 1631 1903 1695'>omnium rerum Contrahentium appetitu æſtimatur, pretiumque Iu-</span><br />
+<span class='ocr_line' title='bbox 300 1569 1901 1634'>ſtum eſt in quod ambo Emptor \&amp; Venditor conſentiunt. Meritum</span><br />
+<span class='ocr_line' title='bbox 299 1506 1903 1570'>autem (præterquam quod in Contractibus qui prior præſtat, ut alter</span><br />
+<span class='ocr_line' title='bbox 299 1442 1904 1507'>quoque præſtet pòſt, Mſereti dici poſſit) non ex Iure, ſed ex Grati</span><br />
+<span class='ocr_line' title='bbox 298 1381 1900 1446'>eſt. Diſtinctio ergo illa, illo quo exponi ſolet ſenſu, bona non eſt.</span><br />
+<span class='ocr_line' title='bbox 300 1318 1904 1384'>Iuſtitia Commutativa, propriè eſt Iuſtitia Contrahentium, id eſt,</span><br />
+<span class='ocr_line' title='bbox 302 1257 1905 1320'>Conſervatio pactorum de Venditione \&amp; Emptione, de mutuò Da-</span><br />
+<span class='ocr_line' title='bbox 302 1195 1905 1261'>tione \&amp; Acceptione; de Conductione; de Commutationibus, aliiſ-</span><br />
+<span class='ocr_line' title='bbox 302 1135 976 1197'>que Actibus Contrahentium.</span><br />
+<span class='ocr_line' title='bbox 365 1073 1907 1135'>Iuſtitia autem Diſtributiva eſt Iuſtitia Arbitri, qui (quia Pides ei</span><br />
+<span class='ocr_line' title='bbox 300 1008 1903 1074'>adhibetur) ſi Fidem ſervat, utrique parti quod ſuum eſt Diſribuit;</span><br />
+<span class='ocr_line' title='bbox 303 948 996 1011'>\&amp; alia non eſt quam AEquitas.</span><br />
+<span class='ocr_line' title='bbox 361 890 1908 948'>Vt ab antecedente Pacto Iuſtitia, ita ab antecedente Gratia de-</span><br />
+<span class='ocr_line' title='bbox 301 819 1906 886'>pendet Gratitudo, quæ eſt Lex Naturalis quarta, \&amp; comprehendi</span><br />
+<span class='ocr_line' title='bbox 302 752 1905 823'>poteſt hac Formulà: Qui Sieneficium gratis datum accipit, conari debet,</span><br />
+<span class='ocr_line' title='bbox 302 694 1907 761'>ne danti juſta cauſa ſit Beneficii dati pœnitendi. Nemo enim dat niſi re-</span><br />
+<span class='ocr_line' title='bbox 303 632 1906 699'>ſpiciens ad lonum ſibi, propterea quòd omnis Actionis Voluntariæe</span><br />
+<span class='ocr_line' title='bbox 304 571 1906 637'>finis Bonum volenti eſt; quod Bonum ſi fruſtra expectandum eſſet,</span><br />
+<span class='ocr_line' title='bbox 305 509 1906 574'>homines ſcierint, nullum erit Benefaciendi initium, neque Confi-</span><br />
+<span class='ocr_line' title='bbox 304 446 1907 511'>dentiæ mutuæ, neque mutui Auxilii, neque Reconciliationis inter</span><br />
+<span class='ocr_line' title='bbox 304 381 1907 447'>inimicos. Mdanebunt ergo in conditione Belli. Quod eſt contra Le-</span><br />
+<span class='ocr_line' title='bbox 302 320 1639 385'>gem Naturæ primam, quæ Pacem quærendam eſſe dictat.</span><br />
+<span class='ocr_line' title='bbox 363 254 1906 325'>Lex Natutæ quinta eſt, ut Vnuſquiſuueſe commodum cæeteris tnſtet.</span><br />
+<span class='ocr_line' title='bbox 1750 201 1910 263'>Qu~</span><br />
+<span class='ocr_line' title='bbox 1156 209 1294 256'>lII2</span><br />
+</div>
+</body>
+</html>
+

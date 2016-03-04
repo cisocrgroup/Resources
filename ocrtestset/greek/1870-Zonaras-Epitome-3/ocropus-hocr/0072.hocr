@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0072.tif'>
+<span class='ocr_line' title='bbox 524 3379 601 3439'>66</span><br />
+<span class='ocr_line' title='bbox 1139 3384 1741 3435'>LLI3. XI. CAP. xI.</span><br />
+<p />
+<span class='ocr_line' title='bbox 506 3206 2351 3311'>ωνας, ὡς ὁ Ἀππιανὸς ἐν τῷ εἰκοστῷ τρίτῳ λόγῳ</span><br />
+<span class='ocr_line' title='bbox 523 3106 2351 3212'>τῆς Ρhμαῖκῆς ἱστορίας φησ4, μήτε χρήματα ἄ ἐπε-</span><br />
+<span class='ocr_line' title='bbox 523 3015 2350 3115'>τείως ἐλάμβανον διδόναι αὐτοῖς ἀνεχόμενος καὶ δίκας</span><br />
+<span class='ocr_line' title='bbox 525 2918 2346 3021'>εἰσπράξασθαι τῶν πεπραγμένων αὐτοῖς ἱμειρόμενος.</span><br />
+<span class='ocr_line' title='bbox 521 2820 2398 2924'>πυθόμενος οὐν ὁ Δεκέβαλος, ὅς ἠρχε Δακῶν, τὴν5</span><br />
+<span class='ocr_line' title='bbox 521 2732 2350 2827'>τοῦ ραιανοῦ κατὰ τοῦ ἔθνους ὁρμήν, ἔδεισεν, εἰδώς</span><br />
+<span class='ocr_line' title='bbox 521 2634 2348 2733'>τὸν ἄνδρα στρατηγικώτατον. καὶ πολέμου συρρα-</span><br />
+<span class='ocr_line' title='bbox 521 2539 2353 2636'>γέντος σφίσι πολλοὺς μὲν τῶν πολεμίων ἀπέκτειναν</span><br />
+<span class='ocr_line' title='bbox 325 2441 2353 2542'>PI5s5οἱ Ρωμαῖοι, οὐ μείους δὲ καὶ αὐτῶν ἐτραυματίσθη-</span><br />
+<span class='ocr_line' title='bbox 522 2357 2422 2444'>σαν. τοσοῦτοι δʼ ἡσαν οἱ τραυματίαι ὡς ἐπιλιπόν-- 10</span><br />
+<span class='ocr_line' title='bbox 521 2251 2353 2346'>των τῶν ἐπιδέσμων μηδὲ τῆς ἑαυτοῦ ἐσθῆτος φείσα-</span><br />
+<span class='ocr_line' title='bbox 524 2154 2351 2253'>σθαι τὸν ραιανόν. ἐπεὶ δὲ τά τε ἄκρα, δυσχερῶς</span><br />
+<span class='ocr_line' title='bbox 520 2059 2352 2154'>μέν, κατέλαβε δέ, καὶ πέλας τῶν βασιλείων ήλθεν</span><br />
+<span class='ocr_line' title='bbox 522 1962 2352 2061'>αὐτῶν, πρέσβεις ὁ Δεκέβαλος πέπομφε, συντιθέμενος</span><br />
+<span class='ocr_line' title='bbox 520 1866 2422 1966'>τά τε ὅπλα καὶ τὰ μηχανήματα καὶ τοὰς μηχανοποιούς 15</span><br />
+<span class='ocr_line' title='bbox 522 1771 2351 1867'>παραδούναι, καὶ ἄπαν ἕτερον ὅ ἄν ἀπαιτοῖτο ποιῆ-</span><br />
+<span class='ocr_line' title='bbox 523 1674 2352 1773'>σαι καὶ πρὸς τὸν αὐτοκράτορα ἐλθὼν ἐς οὐδας κα-</span><br />
+<span class='ocr_line' title='bbox 518 1578 2351 1677'>τακλιθεὶς αὐτῷ προσεκύνησεν. εἶτα εἰς τὴν ταλίαν</span><br />
+<span class='ocr_line' title='bbox 520 1485 2353 1581'>ὁ ραιανὸς ἀναζεύξας καὶ τοὺς τοῦ Δεκεβάλου πρέσ-</span><br />
+<span class='ocr_line' title='bbox 522 1386 2421 1485'>βεις ἐπήγετο. οἱπερ εἰσαχθέντες εἰς τὸ συνέδριον, 2ο</span><br />
+<span class='ocr_line' title='bbox 456 1290 2349 1388'>3 καὶ τὰ ὅπλα τε ἀποθέμενοι καὶ τὰς χεῖρας συνάψ-αν-</span><br />
+<span class='ocr_line' title='bbox 519 1195 2350 1293'>τες ἐν αἰχμαλώτων σχήματι πολλά τε εἶπον καὶ ἰκέ-</span><br />
+<span class='ocr_line' title='bbox 521 1101 2349 1198'>τευσαν καὶ οὕτω σπονδῶν τυχόντες αὐθις τὰ ὅπλα</span><br />
+<span class='ocr_line' title='bbox 520 1002 2350 1101'>ἀπέλαβον. ραιανὸς δὲ καὶ ἐθριάμβευσε καὶ Δακι-</span><br />
+<span class='ocr_line' title='bbox 519 905 2421 1006'>κὸς όνομάσθη. οὐχ ὡς ἀρήιος δὲ τῶν ἄλλων ήμέλειz5</span><br />
+<span class='ocr_line' title='bbox 521 824 2346 909'>ἢ ἡττον ἐδίκαζεν, ἀλλὰ καὶ πολλαχού καὶ πολλάκις</span><br />
+<span class='ocr_line' title='bbox 522 715 1233 811'>ἐπὶ βήματος ἔκρινεν.</span><br />
+<span class='ocr_line' title='bbox 658 621 2347 728'>3tς δὲ ἀπηγγέλλετο αὐτῷ ὁ σεκέβαλος αὐθις</span><br />
+<span class='ocr_line' title='bbox 523 535 2348 623'>νεωτερίζων καὶ ταῖς συνθήκαις οὐκ ἐμμένων, αὐτὸς</span><br />
+<p />
+<span class='ocr_line' title='bbox 653 305 2346 373'>1 εἰκοστῷ τρίτῳ] inscriptο Δακικη. Conf. Phοtii 3iblioth.</span><br />
+<span class='ocr_line' title='bbox 520 241 1248 306'>p. 16 a, 22 ed. 3ekkeri.</span><br />
+</div>
+</body>
+</html>
+

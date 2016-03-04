@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0049.tif'>
+<span class='ocr_line' title='bbox 572 1690 616 1721'>ad</span><br />
+<p />
+<span class='ocr_line' title='bbox 202 1594 980 1641'>hinzu: der Freund solle aus diesen Zeichen die</span><br />
+<span class='ocr_line' title='bbox 203 1533 978 1578'>Ulngeduld sehen womit er erwartet werde, und</span><br />
+<span class='ocr_line' title='bbox 200 1474 977 1521'>nach der-Eile,,womit der Brief geschrieben,</span><br />
+<span class='ocr_line' title='bbox 201 1412 859 1461'>die Eilfertigkeit seiner Reise einrichten.</span><br />
+<span class='ocr_line' title='bbox 213 1293 977 1336'>- Der Bote war sort und Eduard glaubte</span><br />
+<span class='ocr_line' title='bbox 193 1231 977 1275'>seine Dankbarkeit nicht überzengender ausdrd-</span><br />
+<span class='ocr_line' title='bbox 193 1166 974 1210'>eken zu können, als indem er aber und</span><br />
+<span class='ocr_line' title='bbox 194 1104 974 1147'>abermals darauf bestand: Charlotte solle so-</span><br />
+<span class='ocr_line' title='bbox 192 1039 972 1084'>gleich Ottilien aus der Pension hohlen lassen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 923 971 962'>Sie bat um Anfschub und muußte diesen</span><br />
+<span class='ocr_line' title='bbox 189 855 970 905'>Abend bey Eduard:dle-Sust gu elner musica-</span><br />
+<span class='ocr_line' title='bbox 187 803 971 845'>lischen Unterhaltung auszuregen. Charlotte</span><br />
+<span class='ocr_line' title='bbox 186 742 967 785'>spielte sehr gut Elavier; Eduard nicht eben</span><br />
+<span class='ocr_line' title='bbox 185 679 966 725'>so beguem die Flöte denn ob er sich gleich</span><br />
+<span class='ocr_line' title='bbox 183 618 966 663'>zu Zeiten viel Mühe gegeben hatte, so war</span><br />
+<span class='ocr_line' title='bbox 183 557 964 600'>ihm doch' nicht die Geduld, die Ausdauer</span><br />
+<span class='ocr_line' title='bbox 181 495 961 539'>verliehen, die zur Ausbildung eines solchen</span><br />
+<span class='ocr_line' title='bbox 182 437 963 480'>Talentes gehört. Er führte deshalb seine Par-</span><br />
+<span class='ocr_line' title='bbox 180 372 962 420'>tie sehr ungleich ans, einige Stellen gut,</span><br />
+<span class='ocr_line' title='bbox 177 313 960 356'>nur vielleicht zu geschwind; bey andern wieder</span><br />
+</div>
+</body>
+</html>
+

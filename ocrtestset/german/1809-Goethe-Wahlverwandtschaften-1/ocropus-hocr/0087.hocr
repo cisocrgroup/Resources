@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0087.tif'>
+<span class='ocr_line' title='bbox 580 1694 623 1722'>L</span><br />
+<p />
+<span class='ocr_line' title='bbox 204 1591 988 1640'>muß es auch gegen andere ein Verhältniß</span><br />
+<span class='ocr_line' title='bbox 205 1531 307 1574'>haben.</span><br />
+<p />
+<span class='ocr_line' title='bbox 267 1408 988 1456'>Und das wird nach Verschiedenheit der</span><br />
+<span class='ocr_line' title='bbox 200 1345 987 1393'>Wesen -verschieden sepn, fuhr Eduard eilig</span><br />
+<span class='ocr_line' title='bbox 194 1278 988 1332'>fort. Bald werden sie sich als Freunde und</span><br />
+<span class='ocr_line' title='bbox 192 1225 985 1278'>alte Bekannte begegnen, die schnell zusame</span><br />
+<span class='ocr_line' title='bbox 192 1165 985 1207'>mentreten, sich vereinigen, ohne an einander</span><br />
+<span class='ocr_line' title='bbox 192 1098 984 1144'>etwas zu verändern, wie sich Wein mit Was-</span><br />
+<span class='ocr_line' title='bbox 190 1037 983 1079'>ser vermischt. Dagegen werden andre fremd</span><br />
+<span class='ocr_line' title='bbox 190 963 981 1015'>neben einander verharren und selbst durch</span><br />
+<span class='ocr_line' title='bbox 188 911 982 956'>mechanisches Mischen uund Reiben sich keines-</span><br />
+<span class='ocr_line' title='bbox 185 854 981 897'>weges verbtnden; wiaz Oel uyd Wasser zu-</span><br />
+<span class='ocr_line' title='bbox 184 790 979 843'>sammengerüttelt. sich den Augenblick wieder</span><br />
+<span class='ocr_line' title='bbox 180 740 587 778'>auus einander sondert.</span><br />
+<p />
+<span class='ocr_line' title='bbox 244 608 976 656'>Es fehlt nicht viel, sagte. Charlotte, so</span><br />
+<span class='ocr_line' title='bbox 178 545 973 591'>sieht man ln diesen einfachen Formen die</span><br />
+<span class='ocr_line' title='bbox 176 487 969 535'>Menschen, die man gekannt hat; besonders</span><br />
+<span class='ocr_line' title='bbox 174 424 967 466'>aber erinnert man sich dabey der Societäten,</span><br />
+<span class='ocr_line' title='bbox 173 361 969 406'>in denen man lebte. Die meiste Aehnlichkeit</span><br />
+<span class='ocr_line' title='bbox 169 300 965 344'>jedoch mit diesen Helenlosen Wesen haben die</span><br />
+</div>
+</body>
+</html>
+

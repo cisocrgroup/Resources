@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 179451.tif'>
+<span class='ocr_line' title='bbox 1009 4299 2351 4393'>Briefe aus London.</span><br />
+<p />
+<span class='ocr_line' title='bbox 307 3785 2213 3853'>Sophie Löwe. Deutsche Isolirung. Herzog Tarl von B.. - -</span><br />
+<span class='ocr_line' title='bbox 2271 3788 3077 3853'>- -. Proeeß der Eisenbahn.</span><br />
+<p />
+<span class='ocr_line' title='bbox 309 3697 3079 3765'>Doctor Helber. Proces der Times. Doetor Kolb. Eseroquerieen. Deutsche Zeitung. Kühne's</span><br />
+<p />
+<span class='ocr_line' title='bbox 1088 3605 2287 3675'>Rebellen in Jrland. Gugkon's Savage.</span><br />
+<p />
+<span class='ocr_line' title='bbox 457 3261 3088 3340'>Die Abreise Sophie Löwe's hat das Bischen Zusammenleben der hiesigen deutschen</span><br />
+<span class='ocr_line' title='bbox 308 3151 3086 3238'>Colonie, welches sich während ihres Engagements hier gebildet hatte, wieder aufgelöst,</span><br />
+<span class='ocr_line' title='bbox 304 3048 3090 3131'>wenn man überhaupt die hier vereinzelt und zerstreut lebenden Deutschen eine Colonie</span><br />
+<span class='ocr_line' title='bbox 304 2940 3091 3017'>nennen kann. Man kann es leider den Deutschen nicht nachrühmen, daß sie in der</span><br />
+<span class='ocr_line' title='bbox 306 2828 3094 2911'>Fremde zusammenhalten, sogar in Paris, wo doch die Zahl derselben so' unverhältniß-</span><br />
+<span class='ocr_line' title='bbox 308 2728 3091 2809'>mäßtig groß ist, drängt sich diese Bemerkung auf, um wie viel mehr in dem ungeheuren</span><br />
+<span class='ocr_line' title='bbox 304 2621 3097 2702'>London, wo das isolirte Leben ohnehin an der Tagesordnung ist. Die Triumphe, wel-</span><br />
+<span class='ocr_line' title='bbox 304 2509 3089 2590'>che die Löwe hier feierte, hatte die Nationaleitelkeit etwas auufgerüttelt; man freute sich</span><br />
+<span class='ocr_line' title='bbox 303 2392 3092 2478'>des Sieges, den die geistreichen Augen der liebenswürdigen Landsmännin auf Freund</span><br />
+<span class='ocr_line' title='bbox 305 2296 3094 2372'>John, mit den hochblonden Haaren, ausübten, und das Theater bot an solchen Tagen</span><br />
+<span class='ocr_line' title='bbox 307 2186 3096 2266'>eine Art Stelldichein, wobei man Dialecte aus allen Gegenden Deutschlands hören</span><br />
+<span class='ocr_line' title='bbox 304 2078 3070 2167'>konnte. Indeß wurde der Triumph, den die Deutschen von der Bühne herab feierten</span><br />
+<span class='ocr_line' title='bbox 301 1973 3094 2051'>in etwas wieder gestört durch einen Landsmann, der, in einer der ersten Logen sitzend,</span><br />
+<span class='ocr_line' title='bbox 301 1860 3095 1943'>vie spöttischen Blicke des Parterres auf sich zog. Denken Sie sich einen Mann mit</span><br />
+<span class='ocr_line' title='bbox 300 1755 3092 1839'>hochgeschminkten Wangen und gefärbtem Barte, die Farbe der Kleidung im schreienden</span><br />
+<span class='ocr_line' title='bbox 305 1646 3096 1734'>Gegensahe, mit goldenen Ketten, wie ein Zahnarzt, behängt, glänzende Brillantringe an</span><br />
+<span class='ocr_line' title='bbox 305 1539 3096 1622'>den Fingern über die Handschuhe, mit einem Binocle bewaffnet, das an Dimension ei-</span><br />
+<span class='ocr_line' title='bbox 307 1438 3094 1517'>ner kleinen Kanone nahe kömmt, mit herausgebogenem Leibe, und Blicken, die zu sagen</span><br />
+<span class='ocr_line' title='bbox 304 1323 3094 1409'>scheinen: Betrachtet mich! Denken Sie sich diesen Mann in Mitte der englischen Ari-</span><br />
+<span class='ocr_line' title='bbox 307 1205 3094 1298'>stokratie, in ihrer feinen Zurückhaltung in Toilette und Bewegung, und Sie werden</span><br />
+<span class='ocr_line' title='bbox 306 1095 3093 1205'>leicht begreifen, daß vas landsmännische Gefühl durch diese Erscheinng eben nicht sehr</span><br />
+<span class='ocr_line' title='bbox 312 1001 3093 1096'>erquickt wurde, um so mehr, als jener Herr allgemein als ein Deutscher bekannt ist.</span><br />
+<span class='ocr_line' title='bbox 315 895 1993 976'>Es war der ehemalige regierende Herzog von B... .</span><br />
+<span class='ocr_line' title='bbox 2048 891 3092 974'>- - - - -, der Herzog Carl, der jetzt</span><br />
+</div>
+</body>
+</html>
+

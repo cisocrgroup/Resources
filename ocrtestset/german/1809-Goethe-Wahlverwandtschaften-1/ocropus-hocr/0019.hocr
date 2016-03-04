@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0019.tif'>
+<span class='ocr_line' title='bbox 208 1594 959 1646'>Freunde kann ich mir beydes versprechen; und</span><br />
+<span class='ocr_line' title='bbox 206 1531 959 1587'>dann entspringen noch hundert andre Verhält-</span><br />
+<span class='ocr_line' title='bbox 206 1483 959 1528'>nisse daraus, die ich mir alle gern vorstellen</span><br />
+<span class='ocr_line' title='bbox 204 1422 958 1470'>mag, die auch auf dich Bezug haben und wo-</span><br />
+<span class='ocr_line' title='bbox 203 1366 959 1411'>von ich ziel Gutes voraussehe. Nun danke</span><br />
+<span class='ocr_line' title='bbox 203 1307 957 1350'>ich dir, daß du mich freundlich angehdrt hast;</span><br />
+<span class='ocr_line' title='bbox 203 1248 958 1290'>itzt sprich aber anch recht frey und umständlich</span><br />
+<span class='ocr_line' title='bbox 203 1185 958 1228'>und sage mir alles was du zu sagen hast, ich</span><br />
+<span class='ocr_line' title='bbox 202 1126 661 1165'>will dich nicht unterbrechen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 264 1005 956 1046'>Recht gut, versetzte Charlotte: so will ich</span><br />
+<span class='ocr_line' title='bbox 200 942 958 987'>gleich mit einer allgemeinen Bemerkung anfane</span><br />
+<span class='ocr_line' title='bbox 200 890 957 932'>gen. Die Männer denken mehr auf das</span><br />
+<span class='ocr_line' title='bbox 200 830 956 876'>Einzelne, auf das Gegenwärtige, und das</span><br />
+<span class='ocr_line' title='bbox 199 774 956 816'>mit Recht, weil sie zu thun, zu wirken beru-</span><br />
+<span class='ocr_line' title='bbox 198 713 954 757'>sen sind; die Weiber hingegen mehr auf das</span><br />
+<span class='ocr_line' title='bbox 197 654 955 696'>was im Leben zusammenhängt, und das mit</span><br />
+<span class='ocr_line' title='bbox 198 595 953 637'>aleichem Rechte, weil ihr Schicksal, das</span><br />
+<span class='ocr_line' title='bbox 198 536 953 585'>Schicksal ihrer Familien, an diesen Zusammen-</span><br />
+<span class='ocr_line' title='bbox 198 470 951 518'>hang geknüpst ist, und anch gerade dieses Zu-</span><br />
+<span class='ocr_line' title='bbox 197 417 950 460'>sammenhängende von ihnen gefordert wird.</span><br />
+<span class='ocr_line' title='bbox 197 360 952 399'>Laß uns deswegen einen Bsie? aiuf unser ae:</span><br />
+</div>
+</body>
+</html>
+

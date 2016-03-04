@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0036.tif'>
+<span class='ocr_line' title='bbox 560 1685 600 1722'>dg</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1593 967 1639'>Wir sind wunderliche Menschen, sagte</span><br />
+<span class='ocr_line' title='bbox 194 1534 967 1579'>Eduard lächelnd. Wenn wir: nur etivas das</span><br />
+<span class='ocr_line' title='bbox 191 1470 614 1516'>uns Sorge macht, aus</span><br />
+<span class='ocr_line' title='bbox 191 1418 601 1458'>verbannen - können, da</span><br />
+<span class='ocr_line' title='bbox 191 1357 605 1401'>nun sey es abgethan.</span><br />
+<span class='ocr_line' title='bbox 190 1303 621 1342'>nen wir vieles aufopsern,</span><br />
+<span class='ocr_line' title='bbox 643 1467 967 1516'>unserer Gegenwart</span><br />
+<span class='ocr_line' title='bbox 640 1414 966 1466'>glauben wir schon,</span><br />
+<span class='ocr_line' title='bbox 657 1354 966 1400'>Jm Ganzen kön</span><br />
+<span class='ocr_line' title='bbox 662 1302 966 1342'>aber uns im Eins</span><br />
+<p />
+<span class='ocr_line' title='bbox 189 1235 966 1281'>zelnen herzugeben, ist eine Forderung, der wir</span><br />
+<span class='ocr_line' title='bbox 189 1174 966 1219'>selten gewachsen sind. So war meine Mut-</span><br />
+<span class='ocr_line' title='bbox 189 1111 966 1155'>ter. So lange ich als Knabe oder Jngling</span><br />
+<span class='ocr_line' title='bbox 191 1051 966 1092'>bey lhr lebte, konnte sie der angenblicklichen</span><br />
+<span class='ocr_line' title='bbox 191 991 966 1031'>Besorgnisse nicht los werden. Verspätete ich</span><br />
+<span class='ocr_line' title='bbox 189 932 964 972'>mich bey eingm Ausritt, so mußte mir ein</span><br />
+<span class='ocr_line' title='bbox 188 875 966 916'>Unglück ' begegnet feyn; durchnetzte emich ein</span><br />
+<span class='ocr_line' title='bbox 190 815 963 857'>Regenschauer, so war das Fieber mir gewisß.</span><br />
+<span class='ocr_line' title='bbox 190 745 963 797'>Ich verreiste, ich entfernte mich von ihr, und</span><br />
+<span class='ocr_line' title='bbox 191 690 820 743'>nn schien ich ihr kaum anzugehdren.</span><br />
+<p />
+<span class='ocr_line' title='bbox 256 565 963 609'>Betrachten wir es genaner, fuhr er fort,</span><br />
+<span class='ocr_line' title='bbox 189 498 968 545'>so handeln wir beyde thörigt und unverantr</span><br />
+<span class='ocr_line' title='bbox 188 441 965 486'>wortlich, zwey der edelsten Naturen, die nnser</span><br />
+<span class='ocr_line' title='bbox 189 377 963 427'>Verz so nahe angehen, im Kummer und im</span><br />
+<span class='ocr_line' title='bbox 190 322 964 366'>Druck zu lassen, nur un uns keiner Ge-</span><br />
+</div>
+</body>
+</html>
+

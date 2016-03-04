@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0078.tif'>
+<span class='ocr_line' title='bbox 557 1695 599 1722'>-r</span><br />
+<p />
+<span class='ocr_line' title='bbox 184 1595 984 1644'>manche Summe, die ihnen zu willkührlichen</span><br />
+<span class='ocr_line' title='bbox 184 1533 982 1582'>Ausgaben übrig blieb, auf die nothigsien zu</span><br />
+<span class='ocr_line' title='bbox 182 1482 657 1522'>verwenden Anlaß gefunden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 249 1354 979 1405'>So benutzte Charlotte die Kenntnisse, die</span><br />
+<span class='ocr_line' title='bbox 181 1294 977 1339'>Thätigkeit des HHhauptmanns auch nach ihrem</span><br />
+<span class='ocr_line' title='bbox 180 1234 978 1276'>Sinne und fing an mit seiner Gegenwart</span><br />
+<span class='ocr_line' title='bbox 178 1170 977 1212'>völlig zufrieden und über alle Folgen beruhigt</span><br />
+<span class='ocr_line' title='bbox 177 1104 975 1148'>zu werden. Sie bereitete sich gewdhnlich vor,</span><br />
+<span class='ocr_line' title='bbox 175 1039 976 1083'>manches zu fragen, und da sie gern leben</span><br />
+<span class='ocr_line' title='bbox 176 978 976 1025'>mochte, so suchte sie alles Schädliche, alles</span><br />
+<span class='ocr_line' title='bbox 175 910 976 960'>Tödtliche zu entfernen. Die Bleyglasur der</span><br />
+<span class='ocr_line' title='bbox 175 857 972 907'>Töpferwaren, der Grünspan kupferner Gefäße</span><br />
+<span class='ocr_line' title='bbox 174 798 973 842'>hatte ihr schon, manche, Sorge gemacht. Sie</span><br />
+<span class='ocr_line' title='bbox 174 729 972 780'>ließ sich hierüber belehren, und natarlicher-</span><br />
+<span class='ocr_line' title='bbox 173 665 971 720'>weise mußte man auf die Grundbegriffe der</span><br />
+<span class='ocr_line' title='bbox 172 606 779 664'>Physk und Chemie zurückgehen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 239 478 969 526'>Zufälligen aber immer willkommenen A-</span><br />
+<span class='ocr_line' title='bbox 173 414 968 463'>lasi zu solchen Unterhaltungen gab Eduaros</span><br />
+<span class='ocr_line' title='bbox 174 352 968 406'>Neigung, der Gesellschaft vorzulesen. Er</span><br />
+<span class='ocr_line' title='bbox 173 289 967 334'>hatte eine sehr wohlklingende tiefe Stimme</span><br />
+</div>
+</body>
+</html>
+

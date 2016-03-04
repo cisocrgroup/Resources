@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0038.tif'>
+<span class='ocr_line' title='bbox 562 1694 602 1721'>ar</span><br />
+<p />
+<span class='ocr_line' title='bbox 196 1601 971 1642'>das der Hauptmann mich auf sie aufmerksam</span><br />
+<span class='ocr_line' title='bbox 195 1539 972 1584'>machte, als wir vor einem Jahre zurückkamen</span><br />
+<span class='ocr_line' title='bbox 195 1480 970 1525'>und sie mit dir bey deiner Tante trafen.</span><br />
+<span class='ocr_line' title='bbox 194 1419 971 1466'>Hbsch ist sie, besonders. hat sie schöne Augen;</span><br />
+<span class='ocr_line' title='bbox 183 1362 972 1405'>aber ich wüßte doch nicht, daß sie den min-</span><br />
+<span class='ocr_line' title='bbox 195 1303 873 1349'>desten Eindruck auf mich gemacht hätte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1178 970 1222'>Das ist kkblich an dir, sagte Charlotte,</span><br />
+<span class='ocr_line' title='bbox 194 1116 971 1157'>denn ich war ja gegenwärtig; und ob ste gleich</span><br />
+<span class='ocr_line' title='bbox 194 1054 973 1095'>viel jünger ist als ich, so hatte doch die Ge-</span><br />
+<span class='ocr_line' title='bbox 192 991 973 1036'>genwart der ältern Freundinn so siele Reize</span><br />
+<span class='ocr_line' title='bbox 193 935 972 975'>für dich, daß du - über die aufblühende ver-</span><br />
+<span class='ocr_line' title='bbox 193 875 972 917'>sprechende Schönheit hinaussahest. Es gehdrt</span><br />
+<span class='ocr_line' title='bbox 193 808 969 861'>auch dieß zu deiner Art zu sepn, deshalb ich</span><br />
+<span class='ocr_line' title='bbox 195 756 761 799'>so gern das Leben mit dir theile.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 628 968 674'>Charlotte, so aufrichtig sie zu sprechen</span><br />
+<span class='ocr_line' title='bbox 194 566 971 612'>schien, verhehlte doch ewas. Sie hatte</span><br />
+<span class='ocr_line' title='bbox 194 502 970 550'>nämlich damals dem von Reisen zurücdkehrens</span><br />
+<span class='ocr_line' title='bbox 195 433 968 488'>den Eduard Ottilien abschtlich vorgeführt,</span><br />
+<span class='ocr_line' title='bbox 194 381 970 424'>um dieser geliebten Pflegetochter eine so groe</span><br />
+<span class='ocr_line' title='bbox 196 318 969 362'>se Parthie zuzuwendenn denn an sich selbst,</span><br />
+</div>
+</body>
+</html>
+

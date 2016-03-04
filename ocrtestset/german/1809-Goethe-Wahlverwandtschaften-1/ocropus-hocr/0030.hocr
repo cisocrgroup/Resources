@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0030.tif'>
+<span class='ocr_line' title='bbox 566 1695 608 1722'>I</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1599 972 1648'>gelangt, den er sich durch eine hartnäckige, ja</span><br />
+<span class='ocr_line' title='bbox 195 1537 972 1583'>romanenhafte Treue doch zuleht erworben</span><br />
+<span class='ocr_line' title='bbox 194 1479 972 1525'>hatte; und nun fühlte er sich zum erstenmal</span><br />
+<span class='ocr_line' title='bbox 191 1421 972 1463'>widersprochen, zum erslenmal gehindert, eben</span><br />
+<span class='ocr_line' title='bbox 188 1358 970 1407'>da er seinen Jugendfreund an sich heranziehen,</span><br />
+<span class='ocr_line' title='bbox 190 1296 970 1346'>da er ilein ganzes Daseyn gleichsam abschlie-</span><br />
+<span class='ocr_line' title='bbox 189 1244 968 1295'>sien wollte. Er war verdrießlich, ungeduldig,</span><br />
+<span class='ocr_line' title='bbox 188 1181 967 1224'>nahm einigemal die Feder und legte se nie-</span><br />
+<span class='ocr_line' title='bbox 188 1119 966 1162'>der, weil er nicht einig mit sich werden konnte,</span><br />
+<span class='ocr_line' title='bbox 185 1056 966 1097'>was er schreiben sollte. Gegen die Wünsche</span><br />
+<span class='ocr_line' title='bbox 185 991 965 1036'>seiner Fran wollte er nicht, nach ihrem Ver-</span><br />
+<span class='ocr_line' title='bbox 185 930 964 974'>langen konnte er nicht; unruhig wie er wor</span><br />
+<span class='ocr_line' title='bbox 183 876 963 923'>sollte. er oinen ruhigen Brief schreiben, es</span><br />
+<span class='ocr_line' title='bbox 184 810 963 859'>wäre ihm ganz unmdgllch gewesen. Das na-</span><br />
+<span class='ocr_line' title='bbox 183 756 963 800'>türlichste war, daß er Ausschub suchte. Mit</span><br />
+<span class='ocr_line' title='bbox 184 692 962 738'>wenig Worten bat er seinen Freund um Ver-</span><br />
+<span class='ocr_line' title='bbox 183 629 960 674'>zeihung, daß er diese Tage nicht geschrieben,</span><br />
+<span class='ocr_line' title='bbox 184 568 960 612'>dasß er heut' nicht umständlich schreibe, und</span><br />
+<span class='ocr_line' title='bbox 183 505 961 559'>versprach für nächstens ein bedeutenderes, ein</span><br />
+<span class='ocr_line' title='bbox 183 444 513 485'>beruhigendes Blatt.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 381 964 424'>Charlotte benutzte des andern Tags auf</span><br />
+<span class='ocr_line' title='bbox 183 318 961 362'>eiuem Spaziergang nach derselben Stelle die</span><br />
+</div>
+</body>
+</html>
+

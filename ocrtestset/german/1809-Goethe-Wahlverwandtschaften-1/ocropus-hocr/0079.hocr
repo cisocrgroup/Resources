@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0079.tif'>
+<span class='ocr_line' title='bbox 563 1687 604 1722'>z</span><br />
+<p />
+<span class='ocr_line' title='bbox 182 1588 985 1635'>und war früher, wegen lebhafter gefühleer</span><br />
+<span class='ocr_line' title='bbox 181 1526 984 1572'>Recitation dichterischer und rednerischer Ars</span><br />
+<span class='ocr_line' title='bbox 181 1463 984 1512'>beiten, angenehm und berühmt gewesen. Nun</span><br />
+<span class='ocr_line' title='bbox 180 1401 985 1450'>waren es andre Gegenstände die ihn beschäf-</span><br />
+<span class='ocr_line' title='bbox 180 1331 984 1386'>tigten, andve Schriften woraus er vorlas</span><br />
+<span class='ocr_line' title='bbox 179 1279 983 1331'>und -eben seit einiger Zeit vorzüglich Werfo</span><br />
+<span class='ocr_line' title='bbox 179 1214 982 1259'>physschen, chemischen und technischen Inhalts.</span><br />
+<p />
+<span class='ocr_line' title='bbox 247 1085 983 1129'>Eine seiner besondern Eigenheiten, die er</span><br />
+<span class='ocr_line' title='bbox 178 1021 983 1065'>jedoch vielleicht mit mehrern Menschen theilt,</span><br />
+<span class='ocr_line' title='bbox 180 959 983 1007'>war die, daß es ihm unerträglich fiel, wenn</span><br />
+<span class='ocr_line' title='bbox 177 895 980 942'>Jeuand ihm beym Lesen in das Buch sah.</span><br />
+<span class='ocr_line' title='bbox 176 838 981 881'>In feüherer Zeit, beym Vorlesen von Gedich-</span><br />
+<span class='ocr_line' title='bbox 176 778 981 825'>ten, Schausplelen, Erzählungen, war es die</span><br />
+<span class='ocr_line' title='bbox 174 709 980 759'>natürliche Folge der lebhaften Absicht, die der</span><br />
+<span class='ocr_line' title='bbox 175 651 980 694'>Vörlesende so gut als der Dichter, der Schau-</span><br />
+<span class='ocr_line' title='bbox 174 586 978 633'>spieler, der Erzählende hat, zu überraschen,</span><br />
+<span class='ocr_line' title='bbox 174 520 976 567'>Pausen zu machen, Erwartungen zu erregen;</span><br />
+<span class='ocr_line' title='bbox 173 459 977 507'>da es denn freylich dieser beabsichtigten Wir-</span><br />
+<span class='ocr_line' title='bbox 173 396 976 442'>kung sehr zuwider ist, wenn ihm ein Drit-</span><br />
+<span class='ocr_line' title='bbox 172 334 976 380'>ter wissentlich mit den Augen vorspringt. Er</span><br />
+<span class='ocr_line' title='bbox 171 271 974 315'>pflegte sch auch deswegen in solchem Falle</span><br />
+</div>
+</body>
+</html>
+

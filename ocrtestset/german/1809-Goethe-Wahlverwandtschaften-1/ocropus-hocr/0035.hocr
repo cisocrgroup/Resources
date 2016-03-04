@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0035.tif'>
+<span class='ocr_line' title='bbox 574 1691 613 1721'>ez</span><br />
+<p />
+<span class='ocr_line' title='bbox 202 1594 982 1639'>Empfindung, wenn mene Tochter, welche recht</span><br />
+<span class='ocr_line' title='bbox 201 1532 981 1579'>gut weiß, daßj die arme Octilie ganz von uns</span><br />
+<span class='ocr_line' title='bbox 199 1470 981 1522'>abhängt, sich ihrer Vortheile übermüthlg gegen</span><br />
+<span class='ocr_line' title='bbox 198 1408 979 1460'>sie bedient, und unsre Wohlthat dadurch ge:</span><br />
+<span class='ocr_line' title='bbox 195 1354 601 1396'>wissermaßen vernichtet.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1229 977 1276'>Doeh wer ist so gebildet, daß er nicht</span><br />
+<span class='ocr_line' title='bbox 192 1164 974 1208'>seine Vorzüge gegen andre manchmal auf eine</span><br />
+<span class='ocr_line' title='bbox 191 1102 975 1146'>grausame Weise geltend machte? Wer steht so</span><br />
+<span class='ocr_line' title='bbox 187 1039 974 1082'>hoch, daß er unter einem solchen Druck n!cht</span><br />
+<span class='ocr_line' title='bbox 189 980 974 1020'>manchmal leiden müßte? Durch dlese Prüfun-</span><br />
+<span class='ocr_line' title='bbox 187 919 971 961'>gen wächst Ottiliena Werth; aber seitdem ich</span><br />
+<span class='ocr_line' title='bbox 184 861 970 910'>den peinlichen -Zastand- recht deutlich einsehe,</span><br />
+<span class='ocr_line' title='bbox 183 803 968 845'>habe ich mir Mdhe- gegeben, sie anderwärts</span><br />
+<span class='ocr_line' title='bbox 181 740 966 785'>unterzubringen. Stündlich soll mir eine Ant-</span><br />
+<span class='ocr_line' title='bbox 178 678 965 721'>wort kommen, und alsdann will ich nicht zau-</span><br />
+<span class='ocr_line' title='bbox 180 617 962 666'>dern. So steht es mit üir, mein Bester.</span><br />
+<span class='ocr_line' title='bbox 175 556 963 600'>Du siehst, wir tragon beyderseits dieselben</span><br />
+<span class='ocr_line' title='bbox 176 495 960 537'>Sorgen in einem treuen freundschaftlichen Hher-</span><br />
+<span class='ocr_line' title='bbox 173 432 958 476'>zen. Laß uns sie gemeinsam tragen, da sie</span><br />
+<span class='ocr_line' title='bbox 173 371 739 414'>sich nicht gegeneinander aufheben.</span><br />
+</div>
+</body>
+</html>
+

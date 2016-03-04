@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0044.tif'>
+<span class='ocr_line' title='bbox 566 1692 607 1722'>ar</span><br />
+<p />
+<span class='ocr_line' title='bbox 189 1599 978 1643'>von unten herauf begonnen hatte, als er</span><br />
+<span class='ocr_line' title='bbox 188 1535 976 1583'>einen ansehnlichen Lotteriegewinnst that, sich</span><br />
+<span class='ocr_line' title='bbox 183 1476 973 1524'>ein näßiges Gut kaufte, es verpgchtete und</span><br />
+<span class='ocr_line' title='bbox 184 1416 973 1467'>zum Mittespunet seiner Wirksamkeit mgchte,</span><br />
+<span class='ocr_line' title='bbox 183 1345 971 1403'>mit »deg festen Vorsaz, oder vielmehr nach</span><br />
+<span class='ocr_line' title='bbox 183 1292 972 1348'>alter Gewohnheit und Neigung, ln keinem</span><br />
+<span class='ocr_line' title='bbox 181 1239 969 1292'>HHause zu verwellen, wo nichts zu schlichten</span><br />
+<span class='ocr_line' title='bbox 181 1176 969 1221'>und nichts zu helfen wäre. Diejenigen die</span><br />
+<span class='ocr_line' title='bbox 180 1113 967 1158'>auf Namensbedentungen abergläubisch sind,</span><br />
+<span class='ocr_line' title='bbox 179 1050 970 1095'>behaupten, der Name Mittler habe ihn ge-</span><br />
+<span class='ocr_line' title='bbox 180 989 968 1032'>nöthigt, diese seltsamste aller Bestimmungen</span><br />
+<span class='ocr_line' title='bbox 178 932 399 972'>gu - ergreifen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 246 812 966 856'>Der Nachtisch war aufgetragen, als der</span><br />
+<span class='ocr_line' title='bbox 181 749 966 794'>Gast seine Wirthe ernstlich vermahnte, nicht</span><br />
+<span class='ocr_line' title='bbox 179 685 965 730'>weiter mit ihren Entdeckungen zurückzuhalten,</span><br />
+<span class='ocr_line' title='bbox 179 625 964 668'>well er gleich nach dem Kafsee fortmüsse.</span><br />
+<span class='ocr_line' title='bbox 180 561 967 607'>Die beyden Ehleute machten umstündlich ihre</span><br />
+<span class='ocr_line' title='bbox 179 500 964 543'>Bekenntnisse; aber kaum hatte er den Sinn</span><br />
+<span class='ocr_line' title='bbox 181 440 965 489'>der Sache vernommen, als er verdrießlich</span><br />
+<span class='ocr_line' title='bbox 179 375 966 420'>vom Tische auffuhr, ans Fenster sprang und</span><br />
+<span class='ocr_line' title='bbox 182 314 681 359'>ssin Pserd zu satteln befahl..</span><br />
+</div>
+</body>
+</html>
+

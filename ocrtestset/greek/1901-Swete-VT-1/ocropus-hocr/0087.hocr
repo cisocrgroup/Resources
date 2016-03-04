@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0087.tif'>
+<span class='ocr_line' title='bbox 1282 3891 1558 3944'>NEΣΣ</span><br />
+<span class='ocr_line' title='bbox 2256 3886 2488 3941'>XXX 34</span><br />
+<p />
+<span class='ocr_line' title='bbox 366 3743 2550 3820'>2 Λεία καὶ ἔτεκεν υἰὸν ἔκτον τῷ Τακὼβ. καὶ εἰπεν Λεία Δεδωρηται ὁ Λ</span><br />
+<span class='ocr_line' title='bbox 437 3653 2487 3729'>θεός μοι δῶρον καλόν· ἐν τῷ νῦν καιρό αἰρετιεῖ με ὁ ἀνὴρ μου, τέτοκα</span><br />
+<span class='ocr_line' title='bbox 367 3563 2487 3640'>21 γὰρ αὐτῷ υίοὺς ἐξ· καὶ ἐκάλεσεν τὸ δνομα αὐτοῦ Ζαβουλν. 'καὶ</span><br />
+<span class='ocr_line' title='bbox 433 3480 2488 3554'>μετὰ τοῦτο ἕτεκεν θυγατέρα, καὶ ἐκάλεσεν τὸ ὅνομα αὐτῆς Δεινά. καὶ</span><br />
+<span class='ocr_line' title='bbox 366 3392 2490 3466'>ἔστη τοῦ τίκτειν. ἐμνήσθη δὲ θεὸς αχήλ· καὶ ἐπήκουσεν αὐτῆς</span><br />
+<span class='ocr_line' title='bbox 363 3302 2486 3376'>23 ὁ θεός, καὶ ἀνέῳξεν αὐτῆς τὴν μήτραν· καὶ συλλαβοῦσα ἔτεκεν τῷ</span><br />
+<span class='ocr_line' title='bbox 361 3219 2490 3290'>24 ακὼβ υίόν. εἶπεν δὲ αχήλ Ἀφεῖλεν ὀ θεός μου τὸ ὅνειδος· καὶ</span><br />
+<p />
+<span class='ocr_line' title='bbox 440 3128 2484 3200'>ἐκάλεσεν τὸ ὅνομα αὐτοῦ ωσὴφ λέγουσα Προσθέτω ὁ θεός μοι υίὸν ἐτε-</span><br />
+<span class='ocr_line' title='bbox 372 3039 550 3086'>3 ρον.</span><br />
+<span class='ocr_line' title='bbox 750 3036 2485 3113'>γένετο δὲ ὡς ἕτεκεν αχὴλ τὸν Τωσήφ, εἰπεν ακὼβ τῷ</span><br />
+<span class='ocr_line' title='bbox 441 2952 2486 3024'>Λαβάν Ἀπόστειλόν με ἵνα ἀπέλθω εἰς τὸν τόπον μου καὶ εἰς τὴν γῆν</span><br />
+<span class='ocr_line' title='bbox 370 2863 2490 2935'>26 μου. ἀςόδος μοι τὰς γυναὶκας καὶ τὰ παιδία, περὶ δν δεδούλευκά</span><br />
+<span class='ocr_line' title='bbox 440 2777 2490 2849'>σοι, ἵνα ἀπέλθω· σὺ γὰρ γινώσκεις τὴν δουλίαν ἢν δεδούλευκά σοι.</span><br />
+<span class='ocr_line' title='bbox 368 2686 2490 2761'>4γ εἰπεν δὲ αὐτῷ Λαβάν Εἰ ερον χάριν ἐναντίον σου, oἰωνισάμην ἄν·</span><br />
+<span class='ocr_line' title='bbox 367 2601 2491 2672'>8 εὐλόγησεν γάρ με ὁ θεὸς τῇ σῇ εἰσόδῳ. διάστειλον τὸν μισθόν σου</span><br />
+<span class='ocr_line' title='bbox 365 2509 2491 2586'>20 πρὸς μέ, καὶ δὼσω σοι. εἶεν δὲ αὐτῷ Τακὼβ Σὺ γινώσκεις ἐ</span><br />
+<span class='ocr_line' title='bbox 365 2425 2491 2496'>χφ δεδούλευκά σοι, καὶ ὅσα ἡν κτὴνη σου μετʼ ἐμοῦ. μικρὰ γὰρ ἡν ὅσα</span><br />
+<span class='ocr_line' title='bbox 433 2338 2489 2411'>ἡν ἐναντίον μου, καὶ ηὺξήθη εἰς πλῆθος· καὶ ηὐλόγησέν σε Κὐριος ἐπὶ</span><br />
+<span class='ocr_line' title='bbox 363 2249 2485 2326'>31 τῷ ποδί μου. νῦν οὐν πότε ποιήσω κάγὼ ἐμαυτῷ οἰκον; καὶ εἰπεν</span><br />
+<span class='ocr_line' title='bbox 432 2162 2485 2238'>αὐτῷ Λαβάν Τί σοι δὼσω; εἰπεν δὲ αὐτῷ Τακὼβ Οὐ δσεις μοι οὐθέν-</span><br />
+<span class='ocr_line' title='bbox 432 2078 2484 2148'>ἐὰν ποιήσεις μοι τὸ ῥῆμα τοῦτο, πάλιν ποιμανῶ τὰ πρόβατά σου καὶ</span><br />
+<span class='ocr_line' title='bbox 359 1990 2481 2061'>32 φυλάξω. παρελθάτω τὰ πρόβατά σου σήμερον, καὶ διαχώρισον</span><br />
+<span class='ocr_line' title='bbox 431 1902 2483 1973'>ἐκεῖθεν πᾶν πρόβατον φαιὸν ἐν τοῖς ἂρνασιν καὶ πᾶν διάραντον καὶ</span><br />
+<span class='ocr_line' title='bbox 358 1817 2484 1885'>33 λευκὸν ἐν ταῖς αἰξίν ἔσται μοι μισθός. καὶ ἐπακούσεταί μοι ἡ δικαι-</span><br />
+<span class='ocr_line' title='bbox 428 1730 2481 1799'>οσύνη μου ἐν τῇ ἡμέρᾳ τῇ αὔριον, ὅτι ἐστὶν ὁ μισθός μου ἐνώπιόν σου·</span><br />
+<span class='ocr_line' title='bbox 429 1638 2482 1713'>πᾶν ὁ ἐὰν μὴ ᾖ ῥαντὸν καὶ διάλευκον ἐν ταῖς αἰξὶν καὶ φαιὸν ἐν τοῖς</span><br />
+<span class='ocr_line' title='bbox 358 1546 2477 1624'>34 ἄρνασιν, κεκλεμμένον ἔσται παρʼ ἐμοί. 3εἶπεν δὲ αὐτῷ Λαβάν Ἑστω</span><br />
+<p />
+<span class='ocr_line' title='bbox 453 1401 2587 1466'>19 Λια Α (Δεια A) ‖ om εκτον Ε 20 μοι ο θί AΕ ‖ ερετιει (Dip E</span><br />
+<span class='ocr_line' title='bbox 355 1338 2476 1401'>αιρετισει Ε ‖ και εκαλεσεν] εκαλεσεν δε Ε 27 om και εστη του τικτειν</span><br />
+<span class='ocr_line' title='bbox 355 1283 504 1333'>Λ</span><br />
+<span class='ocr_line' title='bbox 752 1269 2476 1335'>22 Paχηλ] pr της Λ Ε ‖ ηνεωξεν Ε ‖ την μητραν αυτης</span><br />
+<p />
+<span class='ocr_line' title='bbox 354 1205 2476 1268'>23 ειπεν δε] και ειπεν Ε 24 μοι ο θεος D 26 τας γυναικας μου</span><br />
+<span class='ocr_line' title='bbox 357 1139 2475 1206'>και τα παιδια μου Λ ‖ δεδουλευκα] εδουλευσα Ε bis 27 τη ση εισ.]</span><br />
+<span class='ocr_line' title='bbox 357 1071 2474 1139'>pr επι τη ση οδω Ε 28 διαστειλον] pr και ειπεν A ‖ τον μισθον σου]</span><br />
+<span class='ocr_line' title='bbox 357 1008 2475 1073'>μου τον μ. Ε ‖ προς με] προς σε ‖ om σοι Ε 29 α] ει E 30 οσα]</span><br />
+<span class='ocr_line' title='bbox 369 942 2477 1009'>σοι ‖ μου 1a] εμου 1 ‖ ευλογησεν Ε ‖ υριος] ο θς Ε ‖ ποδι] ποδει A</span><br />
+<span class='ocr_line' title='bbox 360 873 2477 941'>ποδιω Ε ‖ καγω] και εγω ‖ καγω εμαυτω sup ras Aa ‖ οικον A 31 τι</span><br />
+<span class='ocr_line' title='bbox 361 811 2477 877'>σοι δωσω] τι ποιησω σοι ‖ ειπεν δε] και ειπεν ‖ ουδεν AE ‖ ποιησης Λ1</span><br />
+<span class='ocr_line' title='bbox 365 747 2475 812'>Ε ‖ om μοι τ Ε 32 τα προβ.] pr παντα Λ Ε ‖ om σου Ε ‖ διαχωρη-</span><br />
+<span class='ocr_line' title='bbox 364 684 2476 744'>σονται παν προβ. εκειθεν ον εν τοις αρνασιν και παν ὅιαλευκον και ραντον</span><br />
+<span class='ocr_line' title='bbox 367 617 2478 683'>εν ταις αιξαισιν Ε διαρ. κ. λευκον] διαλευκον κ. ραντον ‖ εσται] pr και</span><br />
+<span class='ocr_line' title='bbox 367 553 1089 616'>Λ ‖ μισθος] sup ras A</span><br />
+<span class='ocr_line' title='bbox 1318 553 2476 615'>33 ο μισθος] οm ο E ενωπιον] εναντιον</span><br />
+<p />
+<span class='ocr_line' title='bbox 369 489 1765 552'>Ε ‖ om εαν A 34 om aυτω Ε ‖ εστω] εσται Ε</span><br />
+</div>
+</body>
+</html>
+

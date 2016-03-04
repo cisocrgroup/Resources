@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0072.tif'>
+<span class='ocr_line' title='bbox 370 1675 784 1721'>Viertes Kapie el.</span><br />
+<p />
+<span class='ocr_line' title='bbox 511 1578 698 1601'>g z. ggs K</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 1443 974 1498'>Die topographische Charte, auf welcher</span><br />
+<span class='ocr_line' title='bbox 178 1382 981 1424'>das Gut mit seinen Umgebungen, nach einem</span><br />
+<span class='ocr_line' title='bbox 177 1316 981 1360'>ziemlich großen Maaßstabe, characteristisch und</span><br />
+<span class='ocr_line' title='bbox 175 1254 976 1296'>faslich durch Federstriche und Farben; darge-</span><br />
+<span class='ocr_line' title='bbox 177 1194 981 1236'>stellt war, und welchs der HJauptmann durch</span><br />
+<span class='ocr_line' title='bbox 175 1128 981 1175'>einige' krigonowetrische-Messanze sicher zu!</span><br />
+<span class='ocr_line' title='bbox 177 1075 981 1119'>gründen wußte, war bald fertig: denn wenie:</span><br />
+<span class='ocr_line' title='bbox 175 1016 974 1057'>ger Schlaf, als dieser thättige Mann, be-</span><br />
+<span class='ocr_line' title='bbox 176 952 974 996'>durste kaum Jemand, so wiesein Tag siets</span><br />
+<span class='ocr_line' title='bbox 176 889 979 932'>dem augenblicklichen Zwecke gewidmet und</span><br />
+<span class='ocr_line' title='bbox 177 823 978 868'>deswegen jederzeit am Abende etwas gethan</span><br />
+<span class='ocr_line' title='bbox 176 770 250 798'>wdar.</span><br />
+<p />
+<span class='ocr_line' title='bbox 242 635 981 687'>Laß uns nun, sagte er zu seinem Freun-'</span><br />
+<span class='ocr_line' title='bbox 178 572 979 616'>de, an das ebrige gehen, an die Gutsbe-</span><br />
+</div>
+</body>
+</html>
+

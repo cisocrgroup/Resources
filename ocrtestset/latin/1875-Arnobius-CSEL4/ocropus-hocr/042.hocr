@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/042.tif'>
+<span class='ocr_line' title='bbox 499 4487 586 4554'>4</span><br />
+<span class='ocr_line' title='bbox 1107 4503 2124 4564'>Arnobii aduersus nationes</span><br />
+<p />
+<span class='ocr_line' title='bbox 501 4302 2754 4388'>mortalim quiret enm uidere, quis oernere, si talem uolu-</span><br />
+<span class='ocr_line' title='bbox 501 4201 2752 4285'>isset inferre se terris qualis ei primigenia nstara est et</span><br />
+<span class='ocr_line' title='bbox 502 4087 2748 4183'>qualem se ipse in sua esse uoluit uel qualitate uel numine?</span><br />
+<span class='ocr_line' title='bbox 503 3993 2748 4087'>adsumpsit igitar hominis formam et sub nostri generis simili-</span><br />
+<span class='ocr_line' title='bbox 341 3891 2828 3977'>. tudine potentiam suam olausit, ut et uileri posset et oonspici, s</span><br />
+<p />
+<span class='ocr_line' title='bbox 500 3787 2748 3874'>uerba faceret et doceret atque Omnis eequeretur res eas</span><br />
+<span class='ocr_line' title='bbox 329 3684 2747 3771'>fs4 propter quas ] in mundum uenerat faciendas summi regis im-</span><br />
+<span class='ocr_line' title='bbox 398 3582 2748 3666'>l perio et dispositione seruatis. quid enim, dicit, rex summus</span><br />
+<p />
+<span class='ocr_line' title='bbox 499 3483 2747 3564'>ea quae in mundo facienda esse decreuerat sine homine simu-</span><br />
+<span class='ocr_line' title='bbox 497 3376 2826 3462'>lato non quibat efficere? si oporteret ita fieri quemadmodum-w</span><br />
+<span class='ocr_line' title='bbox 499 3273 2744 3359'>dicitis, ita fortasse fecisset; quia non oportait, aliter fecit.</span><br />
+<span class='ocr_line' title='bbox 499 3165 2750 3256'>quare isto uoluit et illo genere noluuit, latent [aliter] iuolatae et</span><br />
+<span class='ocr_line' title='bbox 497 3066 2748 3155'>uit nllis comprehensibiles causae, quaS aocipere fortasse potuisses,</span><br />
+<span class='ocr_line' title='bbox 499 2966 2750 3051'>si non esses iamdudum ad non accipiendum' paratus et prius</span><br />
+<span class='ocr_line' title='bbox 499 2861 2826 2948'>te formares ad non credendi frontem quam tibi esset epo- 14</span><br />
+<span class='ocr_line' title='bbox 399 2759 2748 2845'>48 sitam id quod nouisse atque audire conquiris. sed more est</span><br />
+<p />
+<span class='ocr_line' title='bbox 498 2654 2750 2741'>hominis interemptus. non ipse: neque enim cadere diainas in</span><br />
+<span class='ocr_line' title='bbox 499 2554 2748 2637'>res potest mortis occasus nec interitionis dissolutione dilabi id</span><br />
+<span class='ocr_line' title='bbox 499 2449 2748 2534'>quod est unum et simples nec ullarum partim congregatione</span><br />
+<span class='ocr_line' title='bbox 499 2346 2831 2430'>o0npaotum. quis est ergo uisuus in patibulo pendere, quis mor- w</span><br />
+<span class='ocr_line' title='bbox 499 2243 2746 2329'>tuus? homo quem induerat et secum ipse portabat. incredi-</span><br />
+<span class='ocr_line' title='bbox 497 2137 2752 2225'>bile dictu est et oaecis obscuritatibus iauolutum. si uelis, non</span><br />
+<span class='ocr_line' title='bbox 497 2039 2750 2122'>caecum est et similitudine proxsima constitutam. si quo tem-</span><br />
+<span class='ocr_line' title='bbox 497 1934 2750 2022'>pore Sibylla praesagia, oracula illa depromens fandebat ui ut</span><br />
+<span class='ocr_line' title='bbox 497 1830 2827 1918'>dicitis \&amp;pollinis plena, ab impiis esset caesa atque interempta ss</span><br />
+<p />
+<span class='ocr_line' title='bbox 567 1507 2749 1578'>1 gui gueret c qui quereret c', Sab 2 inferres P 8 uoluit</span><br />
+<span class='ocr_line' title='bbox 495 1419 2602 1491'>wel nouit Urs: noluit P 6 adgue P corr 7 quass P</span><br />
+<span class='ocr_line' title='bbox 497 1333 2755 1406'>8 seraatis Gel: seruatus P dieite Sab licitis Gel 8 qe P</span><br />
+<span class='ocr_line' title='bbox 497 1249 2752 1320'>corr c' 11 ista Sab latent [aliter] Boffsanus et Ewgisss:</span><br />
+<span class='ocr_line' title='bbox 497 1174 2750 1234'>latent aliter P latenter Sab latent taliter Meursius latent fataliter Eluss-</span><br />
+<span class='ocr_line' title='bbox 497 1079 2749 1148'>mannus 12 nlli Gel potnsses P eorr e' 16 nonisse Eilde-</span><br />
+<span class='ocr_line' title='bbox 499 992 2754 1062'>brandiss:-non esse P nosse Gel adque P corr oonquiris Drs :</span><br />
+<span class='ocr_line' title='bbox 497 907 2601 976'>oonquireres P 20 mortaus est Sab 92 lictn Urs: dietum P</span><br />
+<span class='ocr_line' title='bbox 497 821 2752 899'>f28 similituine proima Sala: similitadine proimo P similitndini pro-</span><br />
+<span class='ocr_line' title='bbox 398 733 2733 806'>xime \&amp;ab 2 sybilla P Sibylls prsesags, oraonla Gel Sibylla</span><br />
+<p />
+<span class='ocr_line' title='bbox 499 646 1194 718'>9raesags oracnla Salm</span><br />
+</div>
+</body>
+</html>
+

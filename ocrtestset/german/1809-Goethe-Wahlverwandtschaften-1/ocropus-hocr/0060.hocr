@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0060.tif'>
+<span class='ocr_line' title='bbox 573 1694 613 1722'></span><br />
+<p />
+<span class='ocr_line' title='bbox 198 1600 989 1643'>dleses oder jenes Pläzchen; man wagt nicht</span><br />
+<span class='ocr_line' title='bbox 198 1535 989 1584'>dieses oder jenes Hinderniß wegznräumen,</span><br />
+<span class='ocr_line' title='bbox 193 1476 985 1520'>man ist nicht kühn genug etwas aufzuopfern;</span><br />
+<span class='ocr_line' title='bbox 193 1419 986 1466'>man kann sich voraus nicht vorstellen was ente</span><br />
+<span class='ocr_line' title='bbox 191 1358 984 1404'>stehen soll, man probiert, es geräth, es mic</span><br />
+<span class='ocr_line' title='bbox 178 1289 982 1340'>-räth, man verändert, verändert vielletcht was</span><br />
+<span class='ocr_line' title='bbox 188 1240 982 1279'>man lassen sollte, läßt was man verändern</span><br />
+<span class='ocr_line' title='bbox 187 1172 981 1216'>sollte, und so bleibt es zuleht immer ein</span><br />
+<span class='ocr_line' title='bbox 187 1109 980 1154'>Stückwerk, das gefällt und anregt, aber nicht</span><br />
+<span class='ocr_line' title='bbox 184 1049 345 1090'>befriedigt.</span><br />
+<span class='ocr_line' title='bbox 217 923 977 967'>Gesteh mir aufrichtig, sagte Eduard, du</span><br />
+<span class='ocr_line' title='bbox 181 853 859 907'>bist mit ihren Anlagen nicht zufrieden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 241 743 969 786'>Wenn die Ausführung den Gedanken er-</span><br />
+<span class='ocr_line' title='bbox 173 676 967 721'>schöpfte, der sehr gut ist, sö wäre nichts zu</span><br />
+<span class='ocr_line' title='bbox 174 614 968 658'>erinnern. Sie hat sich mühsam durch das</span><br />
+<span class='ocr_line' title='bbox 171 550 964 597'>Gestein hinaufgequält und guält nun jeden,</span><br />
+<span class='ocr_line' title='bbox 170 489 963 533'>wenn du willst, den sie hinaufführt. Weder</span><br />
+<span class='ocr_line' title='bbox 169 424 962 470'>neben einander, noch hinter einander schreitet</span><br />
+<span class='ocr_line' title='bbox 167 362 959 406'>man mit einer gewissen Freyheit. Der Tact</span><br />
+<span class='ocr_line' title='bbox 168 302 958 346'>des Schrittes wird jeden Augenblick unter-</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0047.tif'>
+<span class='ocr_line' title='bbox 562 1691 608 1722'>a</span><br />
+<p />
+<span class='ocr_line' title='bbox 195 1598 970 1644'>man auf ihn das Zutrauen sezte, daß er sie</span><br />
+<span class='ocr_line' title='bbox 192 1543 483 1576'>vertreiben würde.</span><br />
+<p />
+<span class='ocr_line' title='bbox 258 1417 972 1461'>Eduard äbersah das ganze Verhältnie</span><br />
+<span class='ocr_line' title='bbox 193 1356 973 1400'>recht deutlich und mahlte es noch recht sc arf</span><br />
+<span class='ocr_line' title='bbox 191 1301 971 1342'>aus. Wollen wir unsern Freund in elnem</span><br />
+<span class='ocr_line' title='bbox 189 1236 972 1279'>folchen Zustande wissen? rief er: Du kannst</span><br />
+<span class='ocr_line' title='bbox 188 1173 772 1219'>nicht so grausam seyn, Charlotte!</span><br />
+<p />
+<span class='ocr_line' title='bbox 254 1049 970 1089'>Der wunderllche Mann, unser Mittler,</span><br />
+<span class='ocr_line' title='bbox 190 987 970 1029'>versetzre Charlotte, hat am Ende doch Recht.</span><br />
+<span class='ocr_line' title='bbox 189 919 970 969'>Alle solche Unternehmungen sind Wagestücke.</span><br />
+<span class='ocr_line' title='bbox 188 871 969 919'>Was daraus werden kann sieht kein Mensch</span><br />
+<span class='ocr_line' title='bbox 186 813 971 853'>voraus. Solche neue Verhältnisse können</span><br />
+<span class='ocr_line' title='bbox 185 749 970 795'>fruchtbar seyn an Glück und an Unglück, ohne</span><br />
+<span class='ocr_line' title='bbox 186 689 968 733'>daß wir uns dabey Verdienst oder Schuld</span><br />
+<span class='ocr_line' title='bbox 185 626 967 671'>sonderlich zurechnen dürfen. Ich fühle mich</span><br />
+<span class='ocr_line' title='bbox 186 565 968 611'>nicht stark genng dir länger zu widerstehen,</span><br />
+<span class='ocr_line' title='bbox 185 504 968 550'>Laß uns den Versuch machen. Das elnzige</span><br />
+<span class='ocr_line' title='bbox 184 446 967 490'>was ich dich bitte: es sey nur auf kurze Zeit</span><br />
+<span class='ocr_line' title='bbox 184 378 966 430'>angesehen. Erlaube mir, daß ich mich thätiger</span><br />
+<span class='ocr_line' title='bbox 183 322 964 367'>als bisher sür ihn verwende, und meinen Eins</span><br />
+</div>
+</body>
+</html>
+

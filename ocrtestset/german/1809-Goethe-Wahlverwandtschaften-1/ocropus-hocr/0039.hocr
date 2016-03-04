@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0039.tif'>
+<span class='ocr_line' title='bbox 567 1694 608 1722'>5a</span><br />
+<p />
+<span class='ocr_line' title='bbox 198 1593 977 1640'>in Bezug auf Eduard, dachte sie nicht mehr.</span><br />
+<span class='ocr_line' title='bbox 196 1519 978 1581'>Der Hhauptmann war auch angestiftet, Eduar-</span><br />
+<span class='ocr_line' title='bbox 196 1473 977 1520'>den aufmerksam zu machen; aber dieser, der</span><br />
+<span class='ocr_line' title='bbox 191 1409 976 1465'>seine frühe Liebe zu Charlotten hartnäclg im</span><br />
+<span class='ocr_line' title='bbox 185 1352 977 1399'>Sinne Gehielt, sah weder rechts noch links,</span><br />
+<span class='ocr_line' title='bbox 189 1289 977 1339'>und war nur glücklich in dem Gefühl, daß</span><br />
+<span class='ocr_line' title='bbox 187 1233 977 1276'>es möglich sey, eines so lebhaft gewünschten</span><br />
+<span class='ocr_line' title='bbox 187 1168 975 1212'>und durch eine Reihe von Ereignissen schein-</span><br />
+<span class='ocr_line' title='bbox 189 1106 974 1148'>bar auf immer versagten Gutes endlich doch</span><br />
+<span class='ocr_line' title='bbox 186 1040 526 1082'>theilhaft zu werden.</span><br />
+<p />
+<span class='ocr_line' title='bbox 251 921 974 963'>Eben stand das Ehpaar im Begriff die</span><br />
+<span class='ocr_line' title='bbox 185 863 971 905'>neuen Anlagen herunter nach dem Schlosse zu</span><br />
+<span class='ocr_line' title='bbox 185 801 972 849'>gehen, als en Bedienter ihnen hastig entge-</span><br />
+<span class='ocr_line' title='bbox 183 739 969 786'>gen stieg und mit lachendem Munde sich schon</span><br />
+<span class='ocr_line' title='bbox 181 682 968 722'>von unten herauf vernehmen ließ. Kommen</span><br />
+<span class='ocr_line' title='bbox 179 617 967 660'>Ew. Gnaden doch ja schnell herüber! Herr</span><br />
+<span class='ocr_line' title='bbox 181 547 967 600'>Mittler ist in den Schloßhof gesprengt. Er</span><br />
+<span class='ocr_line' title='bbox 178 492 966 538'>hat uns alle zusammengeschrieen, wir sollen</span><br />
+<span class='ocr_line' title='bbox 177 436 963 477'>Sie aufsuchen, wir sollen Sie fragen, ob es</span><br />
+<span class='ocr_line' title='bbox 178 370 962 422'>Noth thue? Ob es Noh thut, rjef er uns</span><br />
+<span class='ocr_line' title='bbox 178 299 960 354'>ngch: Hört ihr? aber geschwind, geschwind!</span><br />
+</div>
+</body>
+</html>
+

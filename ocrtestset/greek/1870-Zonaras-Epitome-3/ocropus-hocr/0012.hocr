@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0012.tif'>
+<span class='ocr_line' title='bbox 1171 3388 1702 3439'>LI3. XI. CAP. II.</span><br />
+<p />
+<span class='ocr_line' title='bbox 525 3209 2354 3310'>ὑπʼ αὐτὸν προσεφέρετο, καὶ μέγα δυνάμενος, ἅτε</span><br />
+<span class='ocr_line' title='bbox 460 3113 2355 3212'>Καῖσαρ, ἐξ ἴσου τοῖς ἀσθενεστάτοις ἐσωφρόνει, καὶ</span><br />
+<span class='ocr_line' title='bbox 527 3018 2355 3116'>οὕτε τι πρὸς τὸν Δροῦσον ἐπίφθονον οὕτε πρὸς τὸν</span><br />
+<span class='ocr_line' title='bbox 540 2923 2356 3019'>ιβέριον ἐποίει ἐπίβουλον, καὶ δυνάμενος παρά τε</span><br />
+<span class='ocr_line' title='bbox 527 2825 2354 2924'>τῶν στρατιωτῶν ἑκόντων καὶ τῆς βουλῆς καὶ τοῦ</span><br />
+<span class='ocr_line' title='bbox 533 2731 2357 2829'>δήμου τὴν ἀρχὴν τὴν αὐτοκράτορα λήψ-εσθαι οὐκ</span><br />
+<span class='ocr_line' title='bbox 527 2637 2357 2735'>ἠθέλησεν. ὁ δὲ είσων χρόνῳ ὕστερον εἰς τὴν Ροi-</span><br />
+<span class='ocr_line' title='bbox 529 2539 2358 2637'>μην ἀνακομισθείς, καὶ ἐπὶ τῷ φόνῳ τοῦ ερμανικοῦ</span><br />
+<span class='ocr_line' title='bbox 531 2445 2360 2541'>εἰς τὸ βουλευτήριον ὑπʼ αὐτοῦ τού λβερίου εἰσαχr</span><br />
+<span class='ocr_line' title='bbox 529 2348 2428 2445'>θεὶς διακρουομένου τὴν ὑποψίαν τὴν ἐπὶ τῇ φθορῷ10</span><br />
+<span class='ocr_line' title='bbox 528 2251 2355 2349'>τοῦ ερμανικοῦ, καὶ ἀναβολὴν αἰτήσας, ἑαυτὸν κα-</span><br />
+<span class='ocr_line' title='bbox 528 2156 2360 2255'>τεχρήσατο. ἐπὶ τρισὶ δὲ υοῖς ὁ ερμανικὸς ἐτελεύ-</span><br />
+<span class='ocr_line' title='bbox 531 2059 2358 2157'>τησεν, οἷς ὁ Ἀῦγουστος ἐν ταῖς διαθήκαις αὐτοῦ</span><br />
+<span class='ocr_line' title='bbox 532 1964 2360 2062'>Καίσαρας ώνόμασε. τούτων ὁ πρεσβύτατος Vέροων</span><br />
+<span class='ocr_line' title='bbox 591 1867 2430 1966'>κατὰ τὸν χρόνον ἐκεῖνον τοῖς ἐφήβοις κατηριθμήθη. 15</span><br />
+<span class='ocr_line' title='bbox 330 1842 573 1890'>11 II17ι</span><br />
+<span class='ocr_line' title='bbox 341 1773 2359 1869'>P51ρ 44ἄχρι μὲν οὖν τοῦ χρόνου τούτου πλεῖστα χρηστὰ</span><br />
+<span class='ocr_line' title='bbox 593 1676 2354 1776'>ὁ ιβέριος ἔπραξε καὶ βραχέα ἐξήμαρτεν, ἐπεὶ δʼ</span><br />
+<span class='ocr_line' title='bbox 531 1581 2360 1678'>ὁ ερμανικὸς ἐκποδών οἱ ἐγένετο, κατʼ ὀλίγον ήλ-</span><br />
+<span class='ocr_line' title='bbox 526 1484 2358 1582'>λοίωτο. τά τε γὰρ ἄλλα ἀγρίως ἠρχε καὶ τοῖς εἰς</span><br />
+<span class='ocr_line' title='bbox 527 1390 2429 1486'>αὐτὸν ἢ τὴν μητέρα ἢ τὸν Ἀῦγουστον πράξασί τι ἢ κ</span><br />
+<span class='ocr_line' title='bbox 528 1294 2356 1392'>εἰπούσιν ἀνεπιτήδειον ἀπηνῶς ὡς ἀσεβήσασι προσε-</span><br />
+<span class='ocr_line' title='bbox 526 1195 2358 1295'>φέρετο, καὶ εἰς τοὺς ὑπονοηθέντας ἐπιβουλεύειν</span><br />
+<span class='ocr_line' title='bbox 525 1101 2354 1199'>αὐτῷ ἀπαραίτητος ήν. ἥδη δὲ καὶ ἐνδεικνύμενός</span><br />
+<span class='ocr_line' title='bbox 525 1006 2357 1103'>τισιν ὅτι βούλεται τεθνάναι τινάς, διʼ ἐκείνων σφᾶς</span><br />
+<span class='ocr_line' title='bbox 525 908 2428 1008'>ἀπεκτίννυε, καὶ οὐκ ἐλάνθανε ταῦτα ποιῶν. ἐξήταζέ 25</span><br />
+<span class='ocr_line' title='bbox 524 814 2356 911'>τε τῶν δυνατῶν ἑκάστου τὴν ἡμέραν καὶ τὴν ὥραν</span><br />
+<span class='ocr_line' title='bbox 462 715 2355 816'>3 ἐν ή ἐγεγέννητο, καὶ οὕτω τὸ πεπρωμένον ἑκάστῳ</span><br />
+<span class='ocr_line' title='bbox 527 622 2351 721'>ἐξηρεύνα· ὥστε καὶ τῷ άλβᾳ τῷ μετὰ ταῦτα αὐ-</span><br />
+<span class='ocr_line' title='bbox 524 524 2354 624'>ταρχήσαντι ἀπαντήσας ἔφη καὶ σύ ποτε τῆς ἡγεμο-</span><br />
+<span class='ocr_line' title='bbox 524 430 2425 527'>νίας γεύση.ʼ ἐφείσατο δὲ αὐτοῦ, λέγων ὅτι ἐν γήρᾳ 5-</span><br />
+<span class='ocr_line' title='bbox 526 333 2352 431'>καὶ μετὰ πολὐ τῆς τελευτῆς αὐτοῦ ἄρξει. εἶτα μετὰ</span><br />
+<span class='ocr_line' title='bbox 525 247 2355 335'>τού Δρούσου ὑπάτευσεν ὁ λβέριος, ὅθεν πολλοὶ τὸν</span><br />
+</div>
+</body>
+</html>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0079.tif'>
+<span class='ocr_line' title='bbox 1053 3387 1704 3436'>LI3. XI. CAP. XXIII.</span><br />
+<span class='ocr_line' title='bbox 2217 3381 2293 3440'>73</span><br />
+<p />
+<span class='ocr_line' title='bbox 392 3215 2295 3314'>| σκέπτετο καὶ συνδιητᾶτο τῶν συνήθων τοῖς ἑορτά-</span><br />
+<span class='ocr_line' title='bbox 392 3095 698 3215'>| ρνσιν</span><br />
+<span class='ocr_line' title='bbox 608 3018 2296 3126'>Ρπεὶ δʼ ἐς τὴν Ρῶμην ἡκε, χρεοκοπίαν ἐκήρυξε</span><br />
+<span class='ocr_line' title='bbox 392 2924 2295 3029'>| τοῖς ὅφλουσι τῷ βασιλικῷ ταμείῳ καὶ τῷ δημοσίῳ τῷ</span><br />
+<span class='ocr_line' title='bbox 392 2828 2296 2927'>|5 τῶν Ρωμαίων. εἶτα εἰς ἄλλην ἐξ ἄλλης φοιτῶν ἐπαρ-</span><br />
+<span class='ocr_line' title='bbox 392 2722 2358 2830'>| χίαν, καὶ τὰς χώρας ἐπεσκέπτετο καὶ τὰς πόλεις, καὶ 3</span><br />
+<span class='ocr_line' title='bbox 392 2635 2297 2737'>| μετεσκεύαζεν ἔκαστον πρὸς τὸ βέλτιον. καὶ οὐ τὰ</span><br />
+<span class='ocr_line' title='bbox 392 2541 2298 2640'>| κοινὰ τῶν στρατοπέδων μόνον ἐφώρα διʼ ἐαυτοῦ καὶ</span><br />
+<span class='ocr_line' title='bbox 392 2444 2298 2546'>| ἐξήταζε, ἀλλὰ καὶ τὰ τοῦ καθʼ ἕκαστον. καὶ ὅσους</span><br />
+<span class='ocr_line' title='bbox 392 2351 2299 2450'>]|ρ πρὸς τὸ ἀβρότερον εὔρισκεν ἐκδεδιητημένους, πρὸς</span><br />
+<span class='ocr_line' title='bbox 392 2256 2296 2354'>| τὸ στρατιωτικώτερον μετῆγε καὶ μετερρύθμιζε, καὶ</span><br />
+<span class='ocr_line' title='bbox 392 2161 2298 2257'>| πρὸς παντοίαν μάχην τοὺς στρατιώτας ἐγύμναζε καὶ</span><br />
+<span class='ocr_line' title='bbox 392 2065 2298 2168'>| ἐδίδασκεν ἄπερ ἔδει ποιεῖν. καὶ τούς μὲν ἐτίμα, τοὺς</span><br />
+<span class='ocr_line' title='bbox 392 1970 2298 2075'>| δὲ ἐνουθέτει, καὶ διητᾶτο σκληρότερον, Πνʼ ὁρῷη τὸ</span><br />
+<span class='ocr_line' title='bbox 392 1876 2299 1971'>|15 στρατιωτικὸν αὐτόν, καὶ οὕτω διαιτᾶσθαι κὰκεῖνο</span><br />
+<span class='ocr_line' title='bbox 392 1779 2302 1877'>| ἐθίζοιτο. ἐντεύθεν τοὺς στρατιώτας τοιούτους ἐποίη-</span><br />
+<span class='ocr_line' title='bbox 392 1684 2300 1781'>| σεν ὡς καὶ ἰπποτῶν ἴλην σύν γε τοῖς ὅπλοις τὸν</span><br />
+<span class='ocr_line' title='bbox 392 1589 2300 1694'>| 7στρον εὐμαρῶς διανήξασθαι, καὶ τοὺς βαρβάρους</span><br />
+<span class='ocr_line' title='bbox 392 1491 2301 1591'>| ταῦθʼ ὁρῶντας ἐκπλήττεσθαι, ὥστε καὶ χρᾶσθαι</span><br />
+<span class='ocr_line' title='bbox 392 1398 2300 1497'>|2ο διαλλακτῇ τούτῳ τῷ αὐτοκράτορι ἐφʼ οἷς ἀλλήλοις</span><br />
+<span class='ocr_line' title='bbox 392 1303 2363 1400'>| ἐκπεπολέμωντο. ἐσπούδαζε δὲ καὶ περὶ θήρας, ὡς C</span><br />
+<span class='ocr_line' title='bbox 392 1207 2301 1304'>| ἐν ταύταις καί τινά οἱ μέλη κατεαγήναιʼ καὶ ἐν dυ-</span><br />
+<span class='ocr_line' title='bbox 392 1113 2297 1210'>| σίᾳ πόλιν ὔκισεν Mδριανοῦ θήρας καλέσας αὐτήν.</span><br />
+<span class='ocr_line' title='bbox 392 1015 2301 1113'>| εἰς Ἀῖγυπτον δὲ ἀπιῶν καὶ τῷ τάφῳ ομπηίου</span><br />
+<span class='ocr_line' title='bbox 392 922 2301 1017'>|25 Μάγνου διεφθαρμένῳ περιτυχῶν, καὶ ἐνήγισε τῷ</span><br />
+<span class='ocr_line' title='bbox 392 818 1558 922'>| κειμένῳ καὶ τούτʼ εἶπε τὸ ἔπος</span><br />
+<span class='ocr_line' title='bbox 395 730 2184 827'>| τῷ ναοῖς βρίθοντι πόση σπάνις ἔπλετο τύμβου</span><br />
+<span class='ocr_line' title='bbox 392 629 1474 740'>| καὶ τὸ μνῆμα ἀνῳκοδόμησεν.</span><br />
+<span class='ocr_line' title='bbox 617 539 2305 638'>Eν δὲ αλαιστίνη πόλιν οἰκοδομήσας ἀντὶ τῆς</span><br />
+<span class='ocr_line' title='bbox 392 442 2306 550'>|30 κατασκαφείσης ερουσαλήμ Ἀίλίαν Καπιτωλῖναν</span><br />
+<span class='ocr_line' title='bbox 392 352 2303 446'>| ώνόμασε, καὶ ἔνθα πρόην ὁ τοῦ θεοῦ νεώς Hδρυτo,</span><br />
+<span class='ocr_line' title='bbox 392 261 2367 355'>| τῷ Διὶ τέμενος ἀνθιδρύσατο ἔτερον. ουδαιοι δὲμὴ D</span><br />
+</div>
+</body>
+</html>
+

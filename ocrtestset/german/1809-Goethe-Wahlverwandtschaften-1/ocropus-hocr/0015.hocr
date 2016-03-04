@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0015.tif'>
+<span class='ocr_line' title='bbox 259 1600 965 1646'>Es betrisft unsern Freund, den Haupd-</span><br />
+<span class='ocr_line' title='bbox 196 1541 965 1582'>mann, antwortete Eduard. Du kennst die</span><br />
+<span class='ocr_line' title='bbox 198 1478 965 1524'>traurige Lage, in die er, wie so mancher an-</span><br />
+<span class='ocr_line' title='bbox 197 1418 965 1463'>dere, ohne sein Verschulden gesetzt ist. Wie</span><br />
+<span class='ocr_line' title='bbox 200 1359 965 1406'>schmerzlich muß es einem Manne von seinen</span><br />
+<span class='ocr_line' title='bbox 198 1304 965 1345'>Kenntnissen, seinen Talenten und Fertigkeiten</span><br />
+<span class='ocr_line' title='bbox 197 1242 965 1284'>seyn, sich außer Thätigkeit zu sehen und -=</span><br />
+<span class='ocr_line' title='bbox 198 1179 964 1221'>ich will nicht lange zurückhalten mit dem was</span><br />
+<span class='ocr_line' title='bbox 199 1118 964 1161'>ich für ihn wünsche: lch möchte daß wir ihn</span><br />
+<span class='ocr_line' title='bbox 202 1058 710 1100'>auf einige Zeit zu uns nähmen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 262 942 964 981'>Das ist wohl gn überlegen und von mehr</span><br />
+<span class='ocr_line' title='bbox 197 882 963 924'>als einer Seite zu betrachten, versezte Char-</span><br />
+<span class='ocr_line' title='bbox 196 832 271 862'>lotte.</span><br />
+<p />
+<span class='ocr_line' title='bbox 260 701 962 747'>Meine Ansschten bin ich berelt dir mitzu-</span><br />
+<span class='ocr_line' title='bbox 196 644 959 685'>theilen, entgegnete ihr Eduard. In seinem</span><br />
+<span class='ocr_line' title='bbox 196 584 960 627'>letzten Briefe herrscht ein stiller Ausdruck des</span><br />
+<span class='ocr_line' title='bbox 195 524 960 567'>tiessten Mismuthes; nicht daß es ihm an ir-</span><br />
+<span class='ocr_line' title='bbox 193 465 959 506'>gend einem Bedürfniß fehle: denn er weis sich</span><br />
+<span class='ocr_line' title='bbox 192 403 959 446'>durchaus zu beschränken und für das Nochwen-</span><br />
+<span class='ocr_line' title='bbox 192 346 959 386'>dige habe ich gesorgt; auch drückt es ihn nicht</span><br />
+</div>
+</body>
+</html>
+

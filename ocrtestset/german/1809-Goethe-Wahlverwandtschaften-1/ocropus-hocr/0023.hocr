@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0023.tif'>
+<span class='ocr_line' title='bbox 576 1694 617 1722'>s</span><br />
+<p />
+<span class='ocr_line' title='bbox 214 1592 976 1640'>Nur daß wir nichts hinderndes, sremdes her-</span><br />
+<span class='ocr_line' title='bbox 213 1535 975 1580'>ein bringen. Bedenke, daß unsre Vorsätze,</span><br />
+<span class='ocr_line' title='bbox 211 1474 975 1521'>auch was die Unterhaltung betrifft, sich ge</span><br />
+<span class='ocr_line' title='bbox 209 1415 975 1461'>wissermaßen nur auf unser beyderseitiges Zu-</span><br />
+<span class='ocr_line' title='bbox 208 1351 974 1401'>sammenseyn bezogen. Du wolltest zuerst die</span><br />
+<span class='ocr_line' title='bbox 206 1299 972 1342'>Tagebücher deiner Reise mir in ordentlicher</span><br />
+<span class='ocr_line' title='bbox 204 1239 972 1283'>Folge mittheilen, bey dieser Gelegenheit so</span><br />
+<span class='ocr_line' title='bbox 202 1177 971 1220'>manches dahin gehörige von Papieren in Ord-</span><br />
+<span class='ocr_line' title='bbox 200 1111 974 1155'>nung bringen, und unter meiner Theilnahme,</span><br />
+<span class='ocr_line' title='bbox 199 1055 969 1096'>mit meiner Beyhülfe, aus diesen unschäzbae</span><br />
+<span class='ocr_line' title='bbox 199 997 967 1036'>ren aber verworrenen Heften und Blättern</span><br />
+<span class='ocr_line' title='bbox 197 936 967 977'>ein für uns und andre erfreuliches Ganze zue</span><br />
+<span class='ocr_line' title='bbox 194 880 966 919'>sammenstellen. Ich versprach dir an der Ab-</span><br />
+<span class='ocr_line' title='bbox 192 819 963 864'>schrlft zu helfen, und wir dachten es uns so</span><br />
+<span class='ocr_line' title='bbox 191 760 962 807'>bequem, so artig, so gemüthlich und heimlich,</span><br />
+<span class='ocr_line' title='bbox 190 704 961 746'>die Welt, die wir zusammen nicht sehen soll-</span><br />
+<span class='ocr_line' title='bbox 185 643 959 686'>ten, in der Erinnernng zu durchreisen. Ja</span><br />
+<span class='ocr_line' title='bbox 185 584 956 629'>der Anfang ist schon gemacht. - Dann hast du</span><br />
+<span class='ocr_line' title='bbox 183 527 955 566'>die Abende deine Flöte wieder vorgenommen,</span><br />
+<span class='ocr_line' title='bbox 181 461 955 514'>begleitest mich am Elavier; und an Besuchen</span><br />
+<span class='ocr_line' title='bbox 180 404 953 447'>aus der Nachbarschaft und in die Nachbar-</span><br />
+<span class='ocr_line' title='bbox 180 340 951 386'>schast fehlt es uns nicht. Ich wenlgstens ha-</span><br />
+</div>
+</body>
+</html>
+

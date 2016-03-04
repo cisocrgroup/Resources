@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0018.tif'>
+<span class='ocr_line' title='bbox 575 1699 611 1722'>t</span><br />
+<p />
+<span class='ocr_line' title='bbox 211 1599 965 1646'>zu uns zieht; besonders wenn ich zugleich be-</span><br />
+<span class='ocr_line' title='bbox 210 1547 965 1589'>denke, daß uns seine Gegenwart nicht die</span><br />
+<span class='ocr_line' title='bbox 208 1488 967 1536'>mindeste Unbeguemlichkeit verursacht. Auf</span><br />
+<span class='ocr_line' title='bbox 207 1431 964 1473'>dem rechten Flügel des Schlosses kann er</span><br />
+<span class='ocr_line' title='bbox 205 1370 964 1413'>wohnen, und alles andre findet sich. Wie viel</span><br />
+<span class='ocr_line' title='bbox 203 1314 962 1356'>wird ihm dadurch geleistet, und wie manches</span><br />
+<span class='ocr_line' title='bbox 203 1253 963 1300'>Angenehme wird uns durch seinen Umgang,</span><br />
+<span class='ocr_line' title='bbox 203 1191 961 1234'>ja wie mancher Vortheil! Jch hätte längst ei-</span><br />
+<span class='ocr_line' title='bbox 203 1132 960 1174'>ne Ausmessung des Gutes und der Gegend ge-</span><br />
+<span class='ocr_line' title='bbox 200 1071 959 1112'>wünscht; er wird ste besorgen und leiten.</span><br />
+<span class='ocr_line' title='bbox 200 1011 959 1053'>Deine Absicht ist, selbst die Güter künstig zu</span><br />
+<span class='ocr_line' title='bbox 197 953 957 992'>verwalten, sobald dieJahre der gegenwärtlgen</span><br />
+<span class='ocr_line' title='bbox 197 895 957 934'>Pächter verflossen sind. Wie bedenklich ist</span><br />
+<span class='ocr_line' title='bbox 196 835 955 878'>ein solches Unternehmen! Zu wie manchen</span><br />
+<span class='ocr_line' title='bbox 197 778 954 817'>Vorkenntnissen kann er uns nicht verhelfen!</span><br />
+<span class='ocr_line' title='bbox 193 708 953 758'>Ich sühle nur zu sehr, daß mir ein Mann dies</span><br />
+<span class='ocr_line' title='bbox 193 654 954 698'>ser Art abgeht. Die Landleute haben die</span><br />
+<span class='ocr_line' title='bbox 194 589 952 639'>rechten Kenntnisse; ihre Mittheilungen aber</span><br />
+<span class='ocr_line' title='bbox 192 532 948 578'>sind confus und nicht ehrlich. De Studirten</span><br />
+<span class='ocr_line' title='bbox 190 476 946 518'>aus der Stadt und von den Akademieen sud</span><br />
+<span class='ocr_line' title='bbox 191 413 950 456'>wohl klar und ordentlich; aber es fehlt an der</span><br />
+<span class='ocr_line' title='bbox 191 356 949 396'>nnmittelbaren Einsicht in die Sache. Vom</span><br />
+</div>
+</body>
+</html>
+

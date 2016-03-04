@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0007.tif'>
+<span class='ocr_line' title='bbox 250 2467 348 2509'>p~</span><br />
+<span class='ocr_line' title='bbox 575 2750 1617 2833'>Ad Nobiliſſimum Virum</span><br />
+<span class='ocr_line' title='bbox 415 2467 500 2510'>P</span><br />
+<span class='ocr_line' title='bbox 1192 2418 1467 2478'>IS I</span><br />
+<span class='ocr_line' title='bbox 833 2221 1775 2283'>Tv v v v ~. r vT3V</span><br />
+<span class='ocr_line' title='bbox 377 2223 833 2277'>A~ NVTN I</span><br />
+<span class='ocr_line' title='bbox 770 1609 1960 1701'>rint ſtudia mea; quantum ille Au-</span><br />
+<span class='ocr_line' title='bbox 770 1521 1963 1611'>thoritate ſudicii ſui apud viros bo-</span><br />
+<span class='ocr_line' title='bbox 768 1338 1964 1432'>duriſſimis temporibus, beneficio me</span><br />
+<span class='ocr_line' title='bbox 245 1250 1965 1344'>adjuverit, ipſe n6ſti. Commemoro autem, non ut</span><br />
+<span class='ocr_line' title='bbox 248 892 1965 985'>quam poſtulat, aut cultus Divinus, aut commodum</span><br />
+<span class='ocr_line' title='bbox 248 800 1965 892'>Patriæ, aut Societas Civilis, aut Amicitia ſingularis;</span><br />
+<span class='ocr_line' title='bbox 248 710 1964 801'>pius erga Deum, eruditus ad Pacem, fortis ad Bel-</span><br />
+<span class='ocr_line' title='bbox 251 614 1961 712'>lum, in congreſſibus jucundus, in Amicitiis firmus.</span><br />
+<span class='ocr_line' title='bbox 251 525 1963 619'>Honoris igitur \&amp; gratitudinis cauſa erga illum, \&amp;</span><br />
+<span class='ocr_line' title='bbox 253 435 1961 532'>devotionis erga teipſum, Tractatum hunc de Pote-</span><br />
+<span class='ocr_line' title='bbox 253 354 1957 442'>ſtate Civili, \&amp; Eccleſiaſtica, humiliter tibi Offero,</span><br />
+<span class='ocr_line' title='bbox 253 249 1960 348'>Dedicoque. De illis, qui Doctrinæ, quam continet,</span><br />
+<span class='ocr_line' title='bbox 1753 195 1960 265'>favere</span><br />
+<span class='ocr_line' title='bbox 1066 162 1310 233'>aaa 2</span><br />
+</div>
+</body>
+</html>
+

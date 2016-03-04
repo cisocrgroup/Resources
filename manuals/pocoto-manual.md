@@ -3,6 +3,7 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München
 % 2015-08-25\
+    last updated: 2016-03-04\
     \vspace{1cm}{%
 \includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
@@ -875,7 +876,9 @@ or (experts only) have installed language resources
 together with the profiler software on your system.
 
 For more information about the profiler web service (and how you can install it locally)
-see the [profiler manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/profiler-manual.pdf).
+see the [profiler manual][profman].
+
+[profman]: https://github.com/cisocrgroup/Resources/blob/master/manuals/profiler-manual.md
 
 ## Profiling using the profiler web service
 The easiest method to get a language profile for your OCRed document
@@ -888,11 +891,11 @@ In order to use the profiler web service you have to configure a valid
 service URL. This URL is the connection point to a running
 instance of the profiler web service. If you want more information
 about the profiler web service, take a look into the
-[profiler manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/profiler-manual.pdf)
+[profiler manual][profman]
 on how to configure and deploy the web service. CIS offers an open
 profiler web service for various languages. If you want to use
 it, you have to use the following URL for the configuration:
-`marmolata:9080:cis.lmu.de/axis2/services/ProfilerWebService`. You can use
+`http://langprofiler.informatik.uni-leipzig.de/axis2/services/ProfilerWebService`. You can use
 any valid URL for a running instance of the web service.
 
 To configure the URL of the web service, click to `Tools -> Options`
@@ -921,7 +924,7 @@ and have appropriate language resources available, you can locally
 profile your exported project on the command line and re-import it into
 \pocoto{}. If you want to do this, you should have a good
 understanding on the usage of command line tools and have read the
-[profiler manual](http://www.cis.lmu.de/ocrworkshop/data/manuals/profiler-manual.pdf)
+[profiler manual][profman]
 on how to install the profiler and generate a language profile for your OCRed document
 locally. In the remainder of this section it is assumed that you have
 installed the profiler and that you have access to appropriate

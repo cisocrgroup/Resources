@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file ocropus-book/003.tif'>
+<span class='ocr_line' title='bbox 737 3471 1896 3583'>LIBE PRIM VS</span><br />
+<span class='ocr_line' title='bbox 337 3201 2534 3330'>W4uoniam comperi nonnullos, qui se plurimum sapere suis I</span><br />
+<span class='ocr_line' title='bbox 239 3106 2480 3192'>persuasionibus credunt, insanire, bacchari et uuelut quiddam</span><br />
+<span class='ocr_line' title='bbox 247 3005 2478 3089'>promptum et oracnlo dicere: postquam esse in mundo Chris-</span><br />
+<span class='ocr_line' title='bbox 207 2903 2476 2987'>s tiana gens ooepit, terrarnm orbem perisse, multiformibus malis</span><br />
+<span class='ocr_line' title='bbox 247 2800 2473 2884'>affectum esse genus humanum, ipsos etiam caelites derelictis</span><br />
+<span class='ocr_line' title='bbox 245 2697 2474 2780'>curis sollemnibus, quibus quondam solebant inuisere res nos-</span><br />
+<span class='ocr_line' title='bbox 249 2591 2478 2678'>tras, terrarum ab regionibus exterminatos: statui pro captu ac</span><br />
+<span class='ocr_line' title='bbox 248 2505 2476 2574'>mediocritate sermonis contraire inuidiae et calumniosas dissol-</span><br />
+<span class='ocr_line' title='bbox 177 2385 2475 2472'>o uere criminationes, ne aut illi sibi uideantur, popularia dum</span><br />
+<span class='ocr_line' title='bbox 246 2285 2474 2372'>uerba depromnnt, magnum aliquil dicere aut si nos talibns</span><br />
+<span class='ocr_line' title='bbox 245 2181 2676 2266'>continuerimns ab litibus, obtinuisse se causam putent uictam</span><br />
+<span class='ocr_line' title='bbox 245 2075 2476 2162'>sai uitio non adsertoram silentio destitutam. neque enim nega-</span><br />
+<span class='ocr_line' title='bbox 244 1975 2478 2059'>uerim ualidissimam esse accusationem istam hostilibusque con-</span><br />
+<span class='ocr_line' title='bbox 171 1870 2479 1956'>as dignos odiis nos esse, si apud nos esse constiterit causas, per</span><br />
+<span class='ocr_line' title='bbox 243 1767 2476 1851'>quas suis mundus aberrauit ab legibus, exterminati sunt dii</span><br />
+<span class='ocr_line' title='bbox 243 1665 2474 1749'>longe, esamina tanta maerorum mortalium inportata sunt</span><br />
+<span class='ocr_line' title='bbox 243 1561 2536 1646'>saecnlis. inspiciamus igitur opinionis istins mentem et hoct</span><br />
+<span class='ocr_line' title='bbox 243 1459 2477 1544'>quod dicitur quale sit summotisque omnibus contentionum</span><br />
+<span class='ocr_line' title='bbox 165 1353 2474 1441'>o stadiis, quuibus obscurari et contegi contemplatio rerum solet,</span><br />
+<span class='ocr_line' title='bbox 241 1253 2476 1338'>an sit istad quod dicitur uerum, momentorum parium ezami-</span><br />
+<span class='ocr_line' title='bbox 239 1149 2475 1234'>natione pendamus. efficietur enim profecto rationnm conse-</span><br />
+<span class='ocr_line' title='bbox 238 1046 2474 1134'>quentinm oopulatu, nt non impii nos magis sedd illi ipsi reperi-</span><br />
+<span class='ocr_line' title='bbox 311 767 2476 880'>12 a Sab 14 histam P corr 15 odii* P 16 erterminati</span><br />
+<span class='ocr_line' title='bbox 233 688 2476 758'>sumus, dum longe Sab exterminandi sumus, si per nos Gel erterminati</span><br />
+<span class='ocr_line' title='bbox 229 602 2476 672'>simus longe, lum Meuursius 17 moraliam P 18 summotisque]</span><br />
+<span class='ocr_line' title='bbox 229 516 1549 592'>summo usque Sab 23 repperiantur P</span><br />
+</div>
+</body>
+</html>
+

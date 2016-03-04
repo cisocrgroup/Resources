@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0098.tif'>
+<span class='ocr_line' title='bbox 303 2776 375 2839'>o</span><br />
+<span class='ocr_line' title='bbox 929 2786 1273 2841'>Ne Civitae.</span><br />
+<span class='ocr_line' title='bbox 1685 2757 1913 2837'>Cap.18.</span><br />
+<span class='ocr_line' title='bbox 304 2688 1913 2754'>exercitibus dependet, exercituum robur à Civitatis Vnitate, Civita-</span><br />
+<span class='ocr_line' title='bbox 303 2640 1911 2690'>tis Vnitas ab unica Summam habentis Poteſtatem Perſona. Etiam</span><br />
+<span class='ocr_line' title='bbox 302 2563 1907 2629'>Mdſilitiæ Ius (etiam ſolum) Summa eſt Poteſtas; quia Ius in milites eſt,</span><br />
+<span class='ocr_line' title='bbox 303 2518 1085 2563'>Ius in Potentiam totius Civitatis.</span><br />
+<span class='ocr_line' title='bbox 364 2437 1913 2503'>Vndecimò, EEjuſdem poteſtatis eſt Conſliarios, Magiſtratus, Mini-</span><br />
+<span class='ocr_line' title='bbox 302 2377 1913 2444'>ſtroſque omnes tam Pacis quan Belli eligendi Ius. Cui enim Pacis \&amp;</span><br />
+<span class='ocr_line' title='bbox 302 2314 1914 2379'>Defenſionis procurandæ imponitur onus, eidem Ius conceditur Me-</span><br />
+<span class='ocr_line' title='bbox 302 2252 1386 2317'>diis quibus ſe exoneret pro arbitrio ſuo utendi.</span><br />
+<span class='ocr_line' title='bbox 366 2192 1913 2254'>Duodecimò, Ejuſdem Poteſtatis Ius eſt Piæmia, ut Divitias Ho-</span><br />
+<span class='ocr_line' title='bbox 303 2128 1912 2193'>noreſque bene merentibus tribuendi, \&amp; transgreſſoribus Pœenas Le-</span><br />
+<span class='ocr_line' title='bbox 304 2065 1911 2130'>gibus pr efinitas inſigendi. Vol ſi pœna Lege ſtatuta non ſit, faciendi</span><br />
+<span class='ocr_line' title='bbox 304 2003 1912 2068'>Leges pœenales quæ ſibi ad excitandos \&amp; terrendos improbos vide-</span><br />
+<span class='ocr_line' title='bbox 306 1956 849 2006'>buntur commodiſſimæ.</span><br />
+<span class='ocr_line' title='bbox 365 1882 1914 1948'>Poſtremò, ſi cogitemus quanti unuſquiſque ſe æſtimet, quantum-</span><br />
+<span class='ocr_line' title='bbox 302 1819 1910 1887'>que ab aliis ſibi honoris deferri cupit, quibus ipſe tantundem tri-</span><br />
+<span class='ocr_line' title='bbox 304 1757 1910 1822'>buere indignum putat, unde Simultates, Factiones, \&amp; Bellum de-</span><br />
+<span class='ocr_line' title='bbox 304 1696 1908 1761'>nnique naſci ſolet, fatebimur ad Civitatis diſſolutionem tendere etiam</span><br />
+<span class='ocr_line' title='bbox 304 1641 1909 1698'>controverſias de Honore \&amp; Ordine Civium, \&amp; Poteſtatis Summæ</span><br />
+<span class='ocr_line' title='bbox 302 1570 1908 1636'>coërcione indigere. Neceſſariæ ergo ſunt Leges quibus quis cuique</span><br />
+<span class='ocr_line' title='bbox 299 1509 1909 1573'>Honor tribuendus ſit, in congreſſibus \&amp; alloquiis definiatur. Itaque</span><br />
+<span class='ocr_line' title='bbox 299 1447 1906 1511'>conferendi Titulos, Ordineſque Civium diſtinguendi, ejuſdem Sum-</span><br />
+<span class='ocr_line' title='bbox 299 1384 1906 1448'>mæ Poteſtatis Ius eſt. Atque hæec ſunt Iura Summam habentis Pote-</span><br />
+<span class='ocr_line' title='bbox 299 1321 1904 1387'>ſtatem principalia, nt ampliter hic demonſtratum eſt, \&amp; brevius de-</span><br />
+<span class='ocr_line' title='bbox 298 1259 1904 1323'>monſtrari potuit unico hoc argumento. Iura enim hæc omnia quin</span><br />
+<span class='ocr_line' title='bbox 300 1199 1905 1263'>Civitatis ſint negabit nemo; Civitas autem niſi per Perſonam ſuam</span><br />
+<span class='ocr_line' title='bbox 300 1136 1903 1201'>(nempe eum qui Summam habet Poteſtatem) neque Loqui neque</span><br />
+<span class='ocr_line' title='bbox 298 1073 1904 1138'>Agere poteſt. Sunt ergo Iura hæec omnia illius, qui in Civitate Sum-</span><br />
+<span class='ocr_line' title='bbox 300 1021 1903 1077'>mam habet Poteſtatem, ſive is Homo ſit, ſive Cœtus hominum. Sunt</span><br />
+<span class='ocr_line' title='bbox 300 953 1903 1017'>autem \&amp; alia Iura ejuſdem, ſed minora, \&amp; in diverſis Civitatibus di-</span><br />
+<span class='ocr_line' title='bbox 301 889 1904 954'>verſa, quibus tamen amiſſis Cives protegendi potentia non amitti-</span><br />
+<span class='ocr_line' title='bbox 302 828 1902 892'>tur, \&amp; quæ transferri poſſunt ad Cives privatos. Sed illa quæ enu-</span><br />
+<span class='ocr_line' title='bbox 300 766 1901 829'>meravimus Iura majora transferri non poſſunt. Iure enim Militiæe</span><br />
+<span class='ocr_line' title='bbox 301 702 1901 768'>amiſſo, Ius Iudicandi propter defectum Potentiæ fruſſra erit. Iure</span><br />
+<span class='ocr_line' title='bbox 300 639 1902 704'>exigendi pecuniam amiſſo, milites nulli erunt. Iure Regulandi do-</span><br />
+<span class='ocr_line' title='bbox 301 579 1899 643'>ctrinas amiſſo, animabuntur Cives ſuperſtitioſi ad rebellionem à ſuis</span><br />
+<span class='ocr_line' title='bbox 300 514 1898 581'>ipſorum Phantaſiis. Summatim, ſi Iurium dictorum quodlibet unum</span><br />
+<span class='ocr_line' title='bbox 302 451 1899 517'>delit, cætera ceſſabunt omnia, fietque diviſio de qua Chriſtus ipſe</span><br />
+<span class='ocr_line' title='bbox 302 390 1899 454'>loquens ilixit, Regnum diviſum in ſeipſo ſtare non poteſt. Nliſi enim Iu-</span><br />
+<span class='ocr_line' title='bbox 301 328 1896 392'>rium horum diviſio antecedat, diviſio populi in exercitus oppoſitos</span><br />
+<span class='ocr_line' title='bbox 301 263 1897 332'>aulla erit. Opinio docentium Iura RRegni Anglicani diviſa eſſe inter</span><br />
+<span class='ocr_line' title='bbox 1698 206 1894 266'>RRegem,</span><br />
+</div>
+</body>
+</html>
+

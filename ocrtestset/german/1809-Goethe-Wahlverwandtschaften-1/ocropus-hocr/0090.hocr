@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0090.tif'>
+<span class='ocr_line' title='bbox 555 1692 597 1722'>88</span><br />
+<p />
+<span class='ocr_line' title='bbox 179 1592 979 1641'>sowöhl ale Blutsverwandte, vielmehr als Gei-</span><br />
+<span class='ocr_line' title='bbox 180 1534 980 1578'>stes - und Seelenverwandte vor. Auf eben</span><br />
+<span class='ocr_line' title='bbox 180 1473 980 1524'>diese Weise können unter Menschen wahrhaft</span><br />
+<span class='ocr_line' title='bbox 179 1409 979 1460'>bedeutende Freundschaften entstehen: denn ent-</span><br />
+<span class='ocr_line' title='bbox 177 1347 979 1400'>gegengesehte Eigenschasten machen eine inni-</span><br />
+<span class='ocr_line' title='bbox 176 1295 977 1347'>gere Vereinigung mdgllch. Und so will ich</span><br />
+<span class='ocr_line' title='bbox 179 1238 980 1279'>denn abwarten, was Sie mir von diesen ge</span><br />
+<span class='ocr_line' title='bbox 177 1170 980 1217'>heimnißvollen Wirkungen vor die Augen brin-</span><br />
+<span class='ocr_line' title='bbox 177 1107 979 1152'>gen werden. Ich will dich -=- sagte sie zu</span><br />
+<span class='ocr_line' title='bbox 180 1046 980 1087'>Eduard gewendet - jeßt im Vorlesen nicht</span><br />
+<span class='ocr_line' title='bbox 179 984 980 1025'>weiter stören, und um so viel besser untere</span><br />
+<span class='ocr_line' title='bbox 179 924 980 965'>richtet, deinen Vottrag mit Aufmerksamkeit</span><br />
+<span class='ocr_line' title='bbox 178 863 434 905'>vernehmen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 246 806 978 856'>Da du uns einmal aufgerufen hast, ver-</span><br />
+<span class='ocr_line' title='bbox 180 741 979 785'>setzte Eduard; so kommst du so leicht nichd</span><br />
+<span class='ocr_line' title='bbox 179 676 976 723'>los: denn eigentlich sind die verwickelten</span><br />
+<span class='ocr_line' title='bbox 180 617 976 676'>Fälle die interessanesten. Erst bey diesen</span><br />
+<span class='ocr_line' title='bbox 177 556 975 598'>lernt man die Grade der Verwandtschaften,</span><br />
+<span class='ocr_line' title='bbox 178 488 975 535'>die nähern, stärkern, entferntern, geringern</span><br />
+<span class='ocr_line' title='bbox 182 427 975 473'>Beziehungen kennen; die Verwandtschasten</span><br />
+<span class='ocr_line' title='bbox 181 364 980 412'>werden erst interessant, wenn sie Scheiduw</span><br />
+<span class='ocr_line' title='bbox 182 305 409 345'>gc bewirken.</span><br />
+<p />
+<span class='ocr_line' title='bbox 754 250 819 284'>e, R</span><br />
+</div>
+</body>
+</html>
+

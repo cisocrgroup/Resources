@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0031.tif'>
+<span class='ocr_line' title='bbox 548 1693 590 1722'>Is</span><br />
+<p />
+<span class='ocr_line' title='bbox 183 1600 954 1655'>Gelegenheit das Gespräch wieder anzuknüpfen,</span><br />
+<span class='ocr_line' title='bbox 182 1537 957 1584'>vielleicht in der Neberzeugung, daß man einen</span><br />
+<span class='ocr_line' title='bbox 182 1477 956 1524'>Vorsaz nicht sichrer abstumpfen kann, als wenn</span><br />
+<span class='ocr_line' title='bbox 181 1416 652 1463'>man ihn öftrrs durchsprlcht.</span><br />
+<p />
+<span class='ocr_line' title='bbox 243 1300 956 1342'>Ednarden- war diese Wiederhohkung er-</span><br />
+<span class='ocr_line' title='bbox 175 1234 954 1280'>wünscht. Er äusierte sich nach seiner Weise</span><br />
+<span class='ocr_line' title='bbox 175 1174 954 1216'>freundlich und angenehm : denn wenn er, ene</span><br />
+<span class='ocr_line' title='bbox 177 1111 955 1152'>psänglich wie er war, leicht aufloderte, wenn</span><br />
+<span class='ocr_line' title='bbox 175 1048 997 1094'>sein lebhaftes Begehren zudringllch ward, wenn -</span><br />
+<span class='ocr_line' title='bbox 174 988 950 1029'>seine Hartnäckigkeit ungeduldig machen konnte;</span><br />
+<span class='ocr_line' title='bbox 172 924 951 976'>sg waren doch alle seine Aeußerungen durch</span><br />
+<span class='ocr_line' title='bbox 171 867 952 910'>eine pollkonmene Schonung des andern der-</span><br />
+<span class='ocr_line' title='bbox 168 810 944 854'>gestalt gemildert, daß man ihn immer noch</span><br />
+<span class='ocr_line' title='bbox 168 749 948 793'>liebenswürdig finden mußte, wenn man ihn</span><br />
+<span class='ocr_line' title='bbox 169 688 546 733'>auch beschwerlich sand.</span><br />
+<p />
+<span class='ocr_line' title='bbox 231 565 945 609'>Auf eine solche Weise brachte er Char-</span><br />
+<span class='ocr_line' title='bbox 164 505 944 549'>lotten diesen Morgen erst in die helterste Lau-</span><br />
+<span class='ocr_line' title='bbox 163 446 944 488'>ne, dann durch anmuthige Gesprächswendune</span><br />
+<span class='ocr_line' title='bbox 160 375 941 427'>ger ganz aus der Fassung, so daß sie zuleht</span><br />
+<span class='ocr_line' title='bbox 159 323 942 375'>onsrief: Du willst gewiß, daß ich das was</span><br />
+</div>
+</body>
+</html>
+

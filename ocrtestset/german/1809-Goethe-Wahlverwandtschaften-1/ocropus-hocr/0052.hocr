@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0052.tif'>
+<span class='ocr_line' title='bbox 556 1691 601 1722'>I</span><br />
+<p />
+<span class='ocr_line' title='bbox 191 1594 977 1642'>heit welche durch die neuen Wege erst sichtbar</span><br />
+<span class='ocr_line' title='bbox 192 1537 977 1581'>und genießbar geworden. Er hatte ein geübo</span><br />
+<span class='ocr_line' title='bbox 190 1477 976 1523'>tes Auge und dabey ein genügsames; und ob</span><br />
+<span class='ocr_line' title='bbox 190 1416 977 1464'>er gleich das wünschenswerthe, sehr wohl kannte,</span><br />
+<span class='ocr_line' title='bbox 187 1357 976 1403'>machte er doch nicht, wie es öfters zu gesche-</span><br />
+<span class='ocr_line' title='bbox 186 1298 976 1344'>hen pflegt, Personen die ihn in dem Ihrigen</span><br />
+<span class='ocr_line' title='bbox 186 1234 976 1282'>herumführten, dadurch elnen üblen Humor,</span><br />
+<span class='ocr_line' title='bbox 187 1174 977 1220'>daß er mehr verlangte als die Umstände zu-</span><br />
+<span class='ocr_line' title='bbox 185 1116 976 1157'>ließen, oder auch wohl gar an etwas Voll</span><br />
+<span class='ocr_line' title='bbox 186 1052 974 1093'>kommneres erinnerte das er anderswo gesehen.</span><br />
+<p />
+<span class='ocr_line' title='bbox 251 928 974 970'>Als sie die Mooshütte erreichten, fanden</span><br />
+<span class='ocr_line' title='bbox 183 870 974 911'>sie solche auf das lusttgste ausgeschmückt, zwar</span><br />
+<span class='ocr_line' title='bbox 182 811 974 855'>nur mit künstlichen Blumen und Wintergrün,</span><br />
+<span class='ocr_line' title='bbox 190 749 974 793'>doch darunter so schöne Büschel natürlichen</span><br />
+<span class='ocr_line' title='bbox 185 684 974 732'>Weizeus und anderer Feld - und Baumsrüchte</span><br />
+<span class='ocr_line' title='bbox 187 626 975 668'>angebracht, daß sie dem Kunstsinn der An</span><br />
+<span class='ocr_line' title='bbox 189 561 972 608'>ordnenden zur Ehre gereichten. Obschon mein</span><br />
+<span class='ocr_line' title='bbox 184 503 971 545'>Mann nicht liebt, daß man seinen Geburts-</span><br />
+<span class='ocr_line' title='bbox 183 437 972 480'>oder Namenstag feyre, so wird er, mir doch</span><br />
+<span class='ocr_line' title='bbox 179 374 972 422'>heute nicht verargen, einem dreyfachen Feste</span><br />
+<span class='ocr_line' title='bbox 179 313 755 359'>diese wenigen Kränze zu widmen.</span><br />
+</div>
+</body>
+</html>
+

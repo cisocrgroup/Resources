@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>OCR Results</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="Description" content="OCRopus Output" />
+<meta name="ocr-system" content="ocropus-0.4" />
+<meta name="ocr-capabilities" content="ocr_line ocr_page" />
+</head>
+<body>
+
+<div class='ocr_page' title='file 0090.tif'>
+<span class='ocr_line' title='bbox 309 2777 376 2830'>B.</span><br />
+<span class='ocr_line' title='bbox 934 2784 1258 2835'>DDe omine.</span><br />
+<span class='ocr_line' title='bbox 1675 2762 1903 2838'>Cap. 1e.</span><br />
+<span class='ocr_line' title='bbox 305 2685 1908 2754'>in Accuſationibus, eo ipſo Reum abſolvunt quod condemnare eum</span><br />
+<span class='ocr_line' title='bbox 305 2622 1905 2688'>propter voces æquales non poſſunt; at contra non abſolvere, non</span><br />
+<span class='ocr_line' title='bbox 305 2558 1906 2626'>eſt condemnare. Idem contingeret deliberantibus utrum aliquid</span><br />
+<span class='ocr_line' title='bbox 304 2497 1906 2564'>ſtatim faciendum ſit, an in aliud tempus diſferendum. Eo enim quod</span><br />
+<span class='ocr_line' title='bbox 303 2434 1766 2500'>præſentem executionem non decernunt, decernunt dilationem.</span><br />
+<span class='ocr_line' title='bbox 364 2373 1907 2437'>Porro, ſi numerus impar ſit, ut tres, vel plures; ſiquidem vox</span><br />
+<span class='ocr_line' title='bbox 304 2311 1907 2374'>unius tolleret voces reliquorum contradictorias, numerus ille Per-</span><br />
+<span class='ocr_line' title='bbox 305 2247 1908 2313'>ſona non eſſet, propter diverſitatem opinionum \&amp; appetituum in re-</span><br />
+<span class='ocr_line' title='bbox 305 2183 1906 2250'>bus multis \&amp; maximi moomenti. Muta enim eſſet \&amp;\&amp; ad Agendum</span><br />
+<span class='ocr_line' title='bbox 303 2122 466 2184'>inepta.</span><br />
+<span class='ocr_line' title='bbox 366 2060 1904 2126'>Authorum duo ſunt genera. Sunt enim alii ſimpliciter Authores;</span><br />
+<span class='ocr_line' title='bbox 308 1997 1905 2062'>de quibus modò dictum eſt. Alii conditionaliter tantùm; ut qui</span><br />
+<span class='ocr_line' title='bbox 307 1936 1904 2000'>Pactum præſtare in ſe recipit, ſi is qui Pactus eſt, ante conſtitutum</span><br />
+<span class='ocr_line' title='bbox 308 1874 1905 1938'>diem non præſtiterit. Atque hi,quamquam Fidei habendæ Authores</span><br />
+<span class='ocr_line' title='bbox 307 1809 1904 1875'>ſunt, aliis tamen nominibus pro variis Actionum generibus vocitan-</span><br />
+<span class='ocr_line' title='bbox 310 1748 1445 1813'>tus, ut Fideijuſſores, Sponſores, Prudes, Vades.</span><br />
+</div>
+</body>
+</html>
+
