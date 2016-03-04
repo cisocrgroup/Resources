@@ -270,7 +270,7 @@ image files correctly \pocoto{} needs finer information of the
 bounding boxes, than the simple line based format of ocropy
 offers. \pocoto{} needs the line location files (llocs) of the
 according lines. These files can be produced using the
-`ocropy-gpageseg`
+`ocropy-rpred --llocs -m <modelname> book/*/*.bin.png`
 tool^[refer to the code of the tool for more information. ].
 
 There are some caveats, though. Make sure that the Abbyy XML files are
@@ -423,19 +423,20 @@ image files only once. The different \pocoto{} projects refer to the
 same images in one folder, but to different XML output files in
 different folders.
 
-#### Llocs directory
+#### llocs directory
 
 As mentioned before, if you want to use \pocoto{} in combination with
 [ocropy](https://github.com/tmbdev/ocropy) you need the line locations
+(horizontal pixel coordinate of each character measured along its text line image)
 in the llocs files for all the input documents. \pocoto{} expects the
-llocs to reside in a directory on the same level as the according xml
-directory of the hocr files. Additionally the name of the xml
-directory *must* contain the string `hocr`. The according llocs
-directory must have the same name as the xml directory with the string
-`hocr` replaced with `book`.
+llocs to reside in a directory on the same level as the
+directory of the hOCR files. Additionally the name of the
+directory *must* contain the string `hocr` (e.g., `ocropus-hocr`). The llocs
+directory must have the same name as the hOCR directory with the string
+`hocr` replaced with `book` (e.g., `ocropus-book`).
 
 Make sure that the directory structure of this llocs directory is
-exactly what `ocropy-gpageseg` generates. For each input file in the
+exactly what `ocropy-rpred --llocs` generates. For each input file in the
 xml directory there should be a directory under the llocs directory
 that contains the line locations for each line in the input xml page
 along with the recognized text of the line and the image snippet.
