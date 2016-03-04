@@ -1182,19 +1182,17 @@ text file`. The former exports all pages of your project^[
 ] as a single text file. The latter exports each page as a separate
 file into a directory that you can specify.
 
-At the time of this writing there is no possibility to export your
-project back into the original format of your OCR files. Therefore  is
-not yet possible to apply the corrections you did in \pocoto{} to your
-OCR files. Alas, there are no tools to convert \pocoto{}'s internal
-file format into the supported OCR file formats as well.
+## Exporting to your original input format
 
-We know that this is a big drawback. But this export functionality is
-under active development and will be finished as part of the current
-development process of \pocoto{}. When this feature has been implemented,
-you will be able to update \pocoto{} and then have the ability to export
-your project files
-back into your original OCR output files, without the need to update
-your projects.
+The newest version of \pocoto{} is now able to align your corrections
+with your input xml files. You can therefore export your correction
+from \pocoto{} back into your original files. You can either overwrite
+your existing files or create new ones.
+
+In order to export your files, go to `File -> Export -> export
+project` and select your export directory. If you do not want
+\pocoto{} to overwrite your original input files, choose another
+directory than your xml input directory.
 
 # Updating the application
 \pocoto{} has the capability to automatically update itself. This
