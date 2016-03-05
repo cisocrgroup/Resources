@@ -616,7 +616,17 @@ If you want to make use of several CPU cores simultaneously, use `GNU parallel`:
 
 For OCRopus, lets again assume you start from binarized tif images in the tif directory.
 You could equally well binarize your original color or greyscale images with `ocropus-nlbin` 
-which produces files with the extension `*.bin.png` and start from there.
+which produces files with the extension `*.bin.png` and start from there:
+
+```bash
+        ocropus-nlbin -n -Q4 <image-directory/*.<tif,jpg> -o book
+```
+
+Then you would enter the book directory and proceed as described below, but with `ocropus-gpageseg *.bin.png`. 
+At the end copy the binarized `*.bin.png` images to their own directory for later use with \pocoto{}, or
+provide it with the original images. In this case they must have the same pixel geometry or else the 
+bounding boxes of OCR tokens will be meaningless, so do not change the image resolution in the 
+binarization process if you plan to use the original images.
 
 First the page images need to be segmented:
 
@@ -651,7 +661,7 @@ contained in the `llocs` files to determine word boundaries in the image):
         done
 ```
 
-At the end, rename the tif-directory `ocropus-book` and put the tif images
+At the end, rename the tif-directory to `ocropus-book` and put the tif images
 into their own directory again named `tif`.
 
 [ocropus]: https://github.com/tmbdev/ocropy
