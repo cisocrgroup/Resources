@@ -690,6 +690,8 @@ options. You need to specify at least these:
       - `--out_doc outputFile` writes the original input document with
         correction candidates for each token as a `DocXML` formatted
         file.
+      - `--simpleOutput` writes the correction candidates in a simple
+        format to stdout.
 
 You can additionally restrict the number of iterations using the
 `--iteratons n` command line option. This overwrites any settings in
