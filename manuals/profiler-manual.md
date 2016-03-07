@@ -752,6 +752,16 @@ service. Just copy the language directories along with their `.ini`
 configuration files to the language backend of the profiler web
 service.
 
+You can test the profiler with a simple test file that is also located
+in the Resources directory:
+
+~~~{.bash}
+$ profiler --config Resources/lexicon/german.ini \
+  --sourceFile Resources/ocrtestset/data/grenzboten.german.doc.xml \
+  --sourceFormat DocXML --out_doc /tmp/out_doc.xml
+~~~
+
+
 [^3langs]: Currently there are language resources for German, Latin and
 Ancient Greek.
 
