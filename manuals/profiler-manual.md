@@ -210,13 +210,27 @@ something similar.
 
 ## Generating a language model
 
-In order to avoid a confusion of terminology, we make the following note:
-The `language aware OCR document error profiler`, or profiler for short, is a program
-calculating correction candidates for statistical series of suspected OCR errors in historical documents. Its output is a document containing the original OCR tokens together with correction candidates and further information (such as the historical and OCR patterns giving rise to the OCR token, its Levenshtein distance from a correction candidate and its weight) which might be called the `error profile` of the document which has been OCR'ed. The profiler uses *as input* various language dependent files such as a sorted lexicon of wordforms, a file of historical rewrite patterns describing spelling variations and a ground truth text. These files need to be compiled into a special form and represent language resources needed for the profiler. They are called a `language model` in the following and must not be confused with either the language aware error profile (output) or the profiler itself (program).
+In order to avoid a confusion of terminology, we make the following
+note: The `language aware OCR document error profiler`, or profiler
+for short, is a program calculating correction candidates for
+statistical series of suspected OCR errors in historical
+documents. Its output is a document containing the original OCR tokens
+together with correction candidates and further information (such as
+the historical and OCR patterns giving rise to the OCR token, its
+Levenshtein distance from a correction candidate and its weight) which
+might be called the `error profile` of the document which has been
+OCR'ed. The profiler uses *as input* various language dependent files
+such as a sorted lexicon of wordforms, a file of historical rewrite
+patterns describing spelling variations and a ground truth text. These
+files need to be compiled into a special form and represent language
+resources needed for the profiler. They are called a `language model`
+in the following and must not be confused with either the language
+aware error profile (output) or the profiler itself (program).
 
 After you have installed the binaries as described in the previous
-chapter, you can now build a language model. This profiler can then be used with this language model to get a list of correction candidates for historical spellings in various document written
-in this language.
+chapter, you can now build a language model. This profiler can then be
+used with this language model to get a list of correction candidates
+for historical spellings in various document written in this language.
 
 The installation process did compile and installed 3 different
 programs. Make sure that all of them are working before you proceed:
@@ -289,12 +303,14 @@ sed -e '/^[[:space:]]*$/d' input.txt > output.txt
 ~~~
 
 #### Simple creation of a modern dictionary with hunspell
+
 If you do not have any language resources available, you can use the
 spelling dictionaries of
-[LibreOffice](http://extensions.libreoffice.org/extension-center?getCategories=Dictionary) to create your own for usage with the profiler.
-You need to install [hunspell](https://de.wikipedia.org/wiki/Hunspell) and the hunspell tools in
-order to expand ("unmunch") Hunspell's dictionary (.dic) and affix (.aff) files into a list of
-wordforms needed for the profiler.
+[LibreOffice](http://extensions.libreoffice.org/extension-center?getCategories=Dictionary)
+to create your own for usage with the profiler.  You need to install
+[hunspell](https://de.wikipedia.org/wiki/Hunspell) and the hunspell
+tools in order to expand ("unmunch") Hunspell's dictionary (.dic) and
+affix (.aff) files into a list of wordforms needed for the profiler.
 
 Download a *spelling* dictionary of your desired language. The
 downloaded LibreOffice extension is a zip archive that you must
@@ -326,14 +342,16 @@ filter out all composita components from the dictionary file. The
 resulting file can now be processed in the same way as described
 above.
 
-Note that in the case of Latin we already provide sorted word lists. The somewhat
-involved procedure to generate it is described in the [README] accompanying our lexica.
+Note that in the case of Latin we already provide sorted word
+lists. The somewhat involved procedure to generate it is described in
+the [README] accompanying our lexica.
 
 German and Ancient Greek lexica are also provided.
 
 [README]: https://github.com/cisocrgroup/Resources/blob/master/lexica/README.md
 
 #### Pattern file
+
 The pattern file contains pattern rules that describe how to transform
 modern spellings to historical spellings. Each line of the file should
 contain exactly one pattern rule of the form `mod:hist`. You can use
@@ -694,7 +712,8 @@ languages[^3langs]. They also include simple `.ini` files for each
 language. You can use those language resources to start building your
 own custom language models.
 
-You can obtain these resources by checking out the appropriate git repository:
+You can obtain these resources by checking out the appropriate git
+repository:
 
 ~~~{.bash}
 $ git clone https://github.com/cisocrgroup/Resources
