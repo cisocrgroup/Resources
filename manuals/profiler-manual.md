@@ -993,19 +993,7 @@ $ make
 $ make deploy
 ~~~
 
-<<<<<<< HEAD
-You can also use this shorter version:
-
-~~~{.bash}
-$ make JAVA_HOME=/usr/lib/jvm/openjdk \
-  AXIS2_HOME=~/Downloads/axis2-1.6.3
-~~~
-
-After `make` finishes the profiler web service archive
-`ProfilerWebService.aar` can be found in the `build/lib/` directory.
-=======
 #### The configuration file
->>>>>>> development
 
 The profiler web service uses a configuration file `profiler.ini` that
 sets some variables for the web service. It is generated automatically
