@@ -826,11 +826,20 @@ file in the directory of the extracted archive. Read the hints in the
 comments of the file and configure your users and roles
 accordingly. Make sure that you have defined the correct roles if you
 want to access the GUI configuration interface of the tomcat web
-server. You can edit the `conf/server.xml` file to set further
-internal server settings like ports etc.
+server. For example if you want access to the `Manager App` web
+interface you have to manually insert the following two lines into the
+`logs/tomcat-users.xml` file:
 
-Note that none of these settings are mandatory. You can skip the whole
-configuration process and just use the default settings of the server.
+```{.xml}
+<role rolename="manager-gui"/>
+<user username="my-user-name" password="my-password"
+roles="manager-gui/>
+```
+
+You can edit the `conf/server.xml` file to set further internal server
+settings like ports etc.  Note that none of these settings are
+mandatory. You can skip the whole configuration process and just use
+the default settings of the server.
 
 After you have finished to setup the server, you can start the
 server. To start the server you have to execute the `bin/startup.sh`
