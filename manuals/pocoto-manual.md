@@ -3,7 +3,7 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München
 % 2015-08-25\
-    last updated: 2016-03-04\
+    last updated: 2016-03-18\
     \vspace{1cm}{%
 \includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
@@ -681,9 +681,13 @@ files used by the project to store the various information of the
 document. You should *never* edit one of the database files, since
 this will most likely end in a corrupted file that cannot be used by
 \pocoto{} anymore. If you are absolutely sure that you know what you
-are doing, you could edit the `.ocrproject` file manually^[
-    And maybe not even then.
-].
+are doing, you could edit the `.ocrproject` file manually. If, e.g., you
+prefer a specific font that has all the glyphs corresponding to your OCR output,
+you can change it by setting the `mainFontType`:
+
+#mainFontType=FreeSerif
+mainFontType=Andron Scriptor Web 
+
 
 If you you accidentally delete one of those three project files, you
 will most probably lose all the information about the project and all the
