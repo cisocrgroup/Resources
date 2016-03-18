@@ -685,9 +685,10 @@ are doing, you could edit the `.ocrproject` file manually. If, e.g., you
 prefer a specific font that has all the glyphs corresponding to your OCR output,
 you can change it by setting the `mainFontType`:
 
+```bash
 #mainFontType=FreeSerif
 mainFontType=Andron Scriptor Web 
-
+```
 
 If you you accidentally delete one of those three project files, you
 will most probably lose all the information about the project and all the
