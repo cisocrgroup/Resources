@@ -16,8 +16,7 @@ Texte. Verlag Dr. Hut.
 
 Reffle, Ulrich, and Christoph Ringlstetter. 2013. “Unsupervised
 Profiling of OCRed Historical Documents.” Pattern Recognition 46 (5):
-1346–57. doi:http://doi.org/http://dx.doi.org/10.1016/j.patcog.2012.
-10.002.
+1346–57. doi:http://doi.org/http://dx.doi.org/10.1016/j.patcog.2012.10.002.
 
 Schulz, Klaus U., and Stoyan Mihov. 2002. “Fast String Correction with
 Levenshtein Automata.”  International Journal on Document Analysis and
