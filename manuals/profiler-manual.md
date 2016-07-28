@@ -821,8 +821,12 @@ web server from the Apache
 Download the core distribution from the download page and extract the
 content of the archive to some convenient directory.
 
-First of all you should edit the `conf/tomcat-users.xml` configuration
-file in the directory of the extracted archive. Read the hints in the
+First of all you should edit the `conf/tomcat-users.xml` 
+configuration
+file in the directory of the extracted archive. 
+In a current system-wide installation, the `conf` directory is found 
+at `/var/lib/tomcat7`.
+Read the hints in the
 comments of the file and configure your users and roles
 accordingly. Make sure that you have defined the correct roles if you
 want to access the GUI configuration interface of the tomcat web
@@ -837,7 +841,9 @@ server. To start the server you have to execute the `bin/startup.sh`
 script. If you get an error, try to set the `JAVA_HOME` environment
 variable to point to the Java installation of your system as mentioned
 in the chapter [Building the profiler]. To stop the server you can
-execute the `bin/shutdown.sh` script.
+execute the `bin/shutdown.sh` script. Alternatively, with `tomcat7` you can
+also issue the commands `(sudo) service tomcat7 start` and 
+`(sudo) service tomcat7 stop`.
 
 In order to test if the server is running, you can open the URL
 `localhost:8080`[^8] in the web browser of your choice. You should see
@@ -853,7 +859,7 @@ finishes without any errors and try to open the URL again.
 ## Apache Axis2
 The profiler web service needs the Axis2 web service engine deployed
 on the tomcat web server. You can download the latest stable version^[
-    At the time of this writing the latest stable version was 1.6.3
+    At the time of this writing the latest stable version was 1.7.1.
 ] of the web archive (WAR) distribution from the axis2
 [download page](https://axis.apache.org/axis2/java/core/download.cgi).
 
