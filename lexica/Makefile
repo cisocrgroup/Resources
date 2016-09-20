@@ -1,5 +1,5 @@
-FBDIC ?= $(HOME)/local/bin/compileFBDic
-TRAIN ?= $(HOME)/local/bin/trainFrequencyList
+FBDIC = compileFBDic
+TRAIN = trainFrequencyList
 
 all: german latin greek
 greek: greek/freqlist.binfrq
@@ -16,8 +16,8 @@ german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
 %.fbdic: %.srt
 	$(FBDIC) $< $@
 
-latin/modern.txt:
-	cat latin/xa{a,b,c} > $@
+latin/modern.txt: latin/xaa latin/xab latin/xac
+	cat $< > $@
 
 %.nfc: %.txt
 	uconv -f utf8 -t utf8 -x nfc -o $@ $<

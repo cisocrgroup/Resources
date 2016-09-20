@@ -160,7 +160,7 @@ make sure that your systems `PATH` variable points to this directory:
 
 ~~~{.bash}
 $ export PREFIX=$HOME
-$ export PATH=$PATH:$HOME/bin
+$ export PATH=$PATH:$HOME
 ~~~
 
 Now you can start to build and install the profiler. From the Profiler top level
