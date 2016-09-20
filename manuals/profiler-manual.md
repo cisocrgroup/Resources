@@ -435,7 +435,7 @@ must sort the dictionary into the sorted dictionary file
 `lang.fbdic`. You can accomplish that using these two simple steps:
 
 ~~~
-$ sort LC_ALL=C lang.lex | uniq > lang.sorted.lex
+$ sort LC_ALL=C lang.lex | LC_ALL=C uniq > lang.sorted.lex
 $ compileFBDic lang.sorted.lex lang.fbdic
 ~~~
 
