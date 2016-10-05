@@ -3,10 +3,10 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München
 % 2015-08-25\
-    last updated: 2016-02-29\
-    \vspace{1cm}{%
-\includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
-<http://creativecommons.org/licenses/by-nc-sa/4.0/>
+    last updated: 2016-10-05\
+    \vspace{1cm}
+	\includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}\
+	<http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 \newpage
 
@@ -25,8 +25,7 @@ generate language aware error profiles for different languages. It relies on
 number of pre-compiled language resources -- the so called language
 backend of the profiler web service.
 
-This manual assumes that you have a running Linux/Unix system and that
-you are proficient using the command line and build files from
+This manual assumes that you have a running Linux/Unix^[We tested on (X)Ubuntu 14.04, 16.04, openSUSE LEAP 42.1 and Arch Linux, but it should run on any modern Linux/UNIX system.] system and that you are proficient using the command line and build files from
 source. It also assumes that you use some variation of a POSIX
 compliant shell. The compilation of the profiler and the deployment of
 the web service require some additional tools. You need to be able to
@@ -96,7 +95,7 @@ correction suggestions can be used among others to postcorrect
 historical OCR'ed documents. See the [PoCoTo manual][pocman]
 for more information about the postcorrection of OCR'ed documents.
 
-[pocman]: https://github.com/cisocrgroup/Resources/blob/master/manuals/pocoto-manual.md
+[pocman]: https://github.com/cisocrgroup/Resources/blob/master/manuals/pocoto-manual.pdf
 
 ## Requirements
 In order to build and use the profiler you need to install a number of external
@@ -107,7 +106,6 @@ required tools are installed on your system before you proceed.
 * [Git](http://git-scm.com/)
 * [The Gnu C++ Compiler](https://gcc.gnu.org/)
 * [Make](https://www.gnu.org/software/make/)
-* [Git](http://www.git-scm.com/)
 * [Xerces XML Parser](https://xerces.apache.org/xerces-c/)
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)
 * [Java Virtual Machine (JVM)](http://openjdk.java.net/)
@@ -120,6 +118,13 @@ management systems. Make also sure that you install the C version of
 the Xerces XML Parser^[
     Sometimes called `xerces-c` or something similar.
 ].
+
+On (X)Ubuntu 16.04, this can be achieved by:
+
+```bash
+sudo apt-get install cmake git gcc g++ make libxerces-c-dev libcppunit-dev \
+	openjdk-8-jdk libicu-dev
+```
 
 [^1]: All required tools are freely available and should be already
 included in your distribution's package management system
@@ -137,17 +142,19 @@ The source code of the profiler is maintained using a
 ~~~{.bash}
 $ git clone https://github.com/cisocrgroup/profiler.git
 ~~~
+
 Download and unpack the sources.
 
 [profiler]: https://github.com/cisocrgroup/Profiler
 
 ### Building the profiler
 In order to compile and install the profiler you need to know the path
-to your system's java instalation[^2]. Simply export this path via the
-`JAVA_HOME` environment variable into your current environment:
+to your system's java installation[^2]. Simply export this path via the
+`JAVA_HOME` environment variable into your current environment, e.g. (Ubuntu
+16.04):
 
 ~~~{.bash}
-$ export JAVA_HOME=/usr/lib/jvm/java-7-openjdk
+$ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 ~~~
 
 It is not necessary to install the profiler globally. You can install
@@ -159,8 +166,8 @@ directory. In order for the system to find the installed executables,
 make sure that your systems `PATH` variable points to this directory:
 
 ~~~{.bash}
-$ export PREFIX=$HOME
-$ export PATH=$PATH:$HOME
+$ export PREFIX=$HOME/.local
+$ export PATH=$PATH:$HOME/.local
 ~~~
 
 Now you can start to build and install the profiler. From the Profiler top level
@@ -175,8 +182,8 @@ You can also skip the step of exporting the `JAVA_HOME` and `PREFIX`
 variables and combine it all into one call to `make`:
 
 ~~~{.bash}
-$ make JAVA_HOME=/usr/lib64/jvm/java-7-openjdk
-$ make PREFIX=$HOME install
+$ make JAVA_HOME=/usr/lib64/jvm/java-8-openjdk-amd64
+$ make PREFIX=$HOME/.local install
 ~~~
 
 Make compiles the sources and installs the binaries into the given
@@ -211,19 +218,19 @@ something similar.
 ## Generating a language model
 
 In order to avoid a confusion of terminology, we make the following
-note: The `language aware OCR document error profiler`, or profiler
+note: The *language aware OCR document error profiler*, or profiler
 for short, is a program calculating correction candidates for
 statistical series of suspected OCR errors in historical
 documents. Its output is a document containing the original OCR tokens
 together with correction candidates and further information (such as
 the historical and OCR patterns giving rise to the OCR token, its
 Levenshtein distance from a correction candidate and its weight) which
-might be called the `error profile` of the document which has been
+might be called the *error profile* of the document which has been
 OCR'ed. The profiler uses *as input* various language dependent files
 such as a sorted lexicon of wordforms, a file of historical rewrite
 patterns describing spelling variations and a ground truth text. These
 files need to be compiled into a special form and represent language
-resources needed for the profiler. They are called a `language model`
+resources needed for the profiler. They are called a *language model*
 in the following and must not be confused with either the language
 aware error profile (output) or the profiler itself (program).
 
@@ -240,8 +247,16 @@ programs. Make sure that all of them are working before you proceed:
   ground truth file (see next chapter)
 * `compileFBDic` tool that compiles the dictionary.
 
+The following sections describe how to build language resources
+and how to use them with the profiler. However, if you just want to quickly
+setup some language resources and play with them, you may skip ahead to 
+Sect. [Provided language resources] 
+and use our prebuilt example resources for German, Latin and Ancient Greek.
+You will later need to come back here to read and understand the details in order
+to tune your pattern file to your document at hand.
+
 ### External language resources
-In order to build a language modele you need a number of external
+In order to build a language model you need a number of external
 lexical resources:
 
 * At least one sorted full form dictionary of modern words
@@ -706,7 +721,7 @@ $ profiler --config lang.ini --sourceFile input.txt \
   --out_html out.html --out_doc outdoc.xml
 ~~~
 
-## Language resources
+## Provided language resources
 
 We provide some basic [language resources][lexica]. These files contain
 dictionaries, pattern rules and training files for different
@@ -738,11 +753,13 @@ contains the Makefile and simply type `make`. You can speed up the
 build using parallel processes with `make -j n` where `n` is the
 number of parallel processes `make` uses.
 
+<!-- Not true anymore
 The Makefile assumes that the `compileFBDic` and the
 `trainFrequencyList` command line tools are installed under your home
 directory at `~/local/bin`. You can explicitly tell `make` where to
 find these programs using the variables `FBDIC` and `TRAIN`
 respectively.
+-->
 
 ~~~{.bash}
 $ FBDIC=/path/to/compileFBDic TRAIN=/path/to/trainFrequencyList make -j 4
@@ -755,10 +772,11 @@ configuration files to the language backend of the profiler web
 service.
 
 You can test the profiler with a simple test file that is also located
-in the Resources directory:
+in the Resources directory (start the command from above the Resources
+directory):
 
 ~~~{.bash}
-$ profiler --config Resources/lexicon/german.ini \
+$ profiler --config Resources/lexica/german.ini \
   --sourceFile Resources/ocrtestset/data/grenzboten.german.doc.xml \
   --sourceFormat DocXML --out_doc /tmp/out_doc.xml
 ~~~
@@ -775,8 +793,6 @@ can specify the `--allModern` command line option for the
 no such command line switch. To use the profiler without any
 historical patterns you have to provide a patterns file that must at
 least contain one (fake) pattern.
-
-\newpage
 
 # Profiler Web Service
 The profiler web service supplies the profiling tools as a web
@@ -805,6 +821,12 @@ additional tools installed:
   language models
 * The [Apache Ant](https://ant.apache.org) build tool
 
+For (X)Ubuntu, you can install Tomcat and Ant by
+
+```bash
+sudo apt-get install tomcat8 ant
+```
+
 ## Apache Tomcat web server
 In order to deploy the profiler web service you need a running
 instance of the Apache Tomcat web server. If you do not already have a
@@ -822,22 +844,20 @@ Download the core distribution from the download page and extract the
 content of the archive to some convenient directory.
 
 First of all you should edit the `conf/tomcat-users.xml` 
-configuration
-file in the directory of the extracted archive. 
-In a current system-wide installation, the `conf` directory is found 
-at `/var/lib/tomcat7`.
-Read the hints in the
+configuration file in the directory of the extracted archive. 
+(In a current system-wide installation, the `conf` directory is found 
+at `/var/lib/tomcat8`.) Read the hints in the
 comments of the file and configure your users and roles
 accordingly. Make sure that you have defined the correct roles if you
 want to access the GUI configuration interface of the tomcat web
 server. For example if you want access to the `Manager App` web
 interface you have to manually insert the following two lines into the
-`logs/tomcat-users.xml` file:
+`conf/tomcat-users.xml` file:
 
 ```{.xml}
 <role rolename="manager-gui"/>
 <user username="my-user-name" password="my-password"
-roles="manager-gui/>
+roles="manager-gui"/>
 ```
 
 You can edit the `conf/server.xml` file to set further internal server
@@ -850,9 +870,7 @@ server. To start the server you have to execute the `bin/startup.sh`
 script. If you get an error, try to set the `JAVA_HOME` environment
 variable to point to the Java installation of your system as mentioned
 in the chapter [Building the profiler]. To stop the server you can
-execute the `bin/shutdown.sh` script. Alternatively, with `tomcat7` you can
-also issue the commands `(sudo) service tomcat7 start` and 
-`(sudo) service tomcat7 stop`.
+execute the `bin/shutdown.sh` script.
 
 In order to test if the server is running, you can open the URL
 `localhost:8080`[^8] in the web browser of your choice. You should see
@@ -861,7 +879,7 @@ or if you do not see the start page, try to restart  the server
 executing the `bin/startup.sh` script again. Make sure that the script
 finishes without any errors and try to open the URL again.
 
-[^7]: At the time of this writing the latest stable version was 8.0.24
+[^7]: (X)Ubuntu 16.04 contains the version 8.0.34.
 [^8]: Make sure that the port number of the address matches your
       settings in the `conf/server.xml` configuration file.
 
@@ -926,7 +944,7 @@ languages it should support. It expects these files to be named after
 the language it supports and the file extension `.ini`. It wont detect
 configuration files with different naming conventions^[
     You can exploit this behavior to temporary disable a language --
-    just rename the extension of the according configuration file to
+    just rename the extension of the respective configuration file to
     something else.
 ] and therefore ignore all other files.
 
@@ -1029,6 +1047,9 @@ backend and profile executable. In order to deploy the web service
 just type `make deploy`. You may have to restart the tomcat server
 after the deployment of the profiler web service.
 
+Here is an example how to run make without changing the Makefile
+itself (change the environment variables to fit your environment):
+
 ~~~{.bash}
 $ export JAVA_HOME=/usr/lib/jvm/openjdk
 $ export AXIS2_HOME=~/Downloads/axis2-1.6.3
@@ -1046,8 +1067,8 @@ sets some variables for the web service. It is generated automatically
 by the build process. The file is put into the
 `build/lib/ProfilerWebService.aar` service during the deployment. If
 you need to manually deploy the web service (i.e. copy the web service
-file into the according `$TOMCAT_HOME/webapps/axis2/WEB-INF/services`
-directory you have to manually insert the configuration file into the
+file into `$TOMCAT_HOME/webapps/axis2/WEB-INF/services`
+directory) you have to manually insert the configuration file into the
 archive:
 
 ~~~{.bash}
