@@ -25,19 +25,20 @@ generate language aware error profiles for different languages. It relies on
 number of pre-compiled language resources -- the so called language
 backend of the profiler web service.
 
-This manual assumes that you have a running Linux/Unix^[We tested on (X)Ubuntu 14.04, 16.04, openSUSE LEAP 42.1 and Arch Linux, but it should run on any modern Linux/UNIX system.] system and that you are proficient using the command line and build files from
-source. It also assumes that you use some variation of a POSIX
-compliant shell. The compilation of the profiler and the deployment of
-the web service require some additional tools. You need to be able to
-install those requirements on your system if they are not already
-installed.
+This manual assumes that you have a running Linux/Unix^[We tested on (X)Ubuntu
+14.04, 16.04, openSUSE LEAP 42.1 and Arch Linux, but it should run on any modern
+Linux/UNIX system.] system and that you are proficient using the command line
+and build files from source. It also assumes that you use some variation of a
+POSIX compliant shell. The compilation of the profiler and the deployment of the
+web service require some additional tools. You need to be able to install those
+requirements on your system if they are not already installed.
 
 # The language aware OCR document error profiler
 
-The profiler calculates historical spelling
-variants and OCR errors of a (historical) document using a modern dictionary. It is
-therefore able to differentiate between *real* OCR Errors and
-historical spelling variants of words.
+The profiler calculates historical spelling variants and OCR errors of a
+(historical) document using a modern dictionary. It is therefore able to
+differentiate between *real* OCR Errors and historical spelling variants of
+words.
 
 First of all this part of the manual covers the general workings of
 the profiler. Then the more technical parts -- the
@@ -249,8 +250,8 @@ programs. Make sure that all of them are working before you proceed:
 
 The following sections describe how to build language resources
 and how to use them with the profiler. However, if you just want to quickly
-setup some language resources and play with them, you may skip ahead to 
-Sect. [Provided language resources] 
+setup some language resources and play with them, you may skip ahead to
+Sect. [Provided language resources]
 and use our prebuilt example resources for German, Latin and Ancient Greek.
 You will later need to come back here to read and understand the details in order
 to tune your pattern file to your document at hand.
@@ -843,9 +844,9 @@ web server from the Apache
 Download the core distribution from the download page and extract the
 content of the archive to some convenient directory.
 
-First of all you should edit the `conf/tomcat-users.xml` 
-configuration file in the directory of the extracted archive. 
-(In a current system-wide installation, the `conf` directory is found 
+First of all you should edit the `conf/tomcat-users.xml`
+configuration file in the directory of the extracted archive.
+(In a current system-wide installation, the `conf` directory is found
 at `/var/lib/tomcat8`.) Read the hints in the
 comments of the file and configure your users and roles
 accordingly. Make sure that you have defined the correct roles if you
