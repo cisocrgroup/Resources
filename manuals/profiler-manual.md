@@ -516,9 +516,9 @@ as well):
         dictionary that have a larger distance than this value are not
         considered to be valid correction candidates for any given
         word.
-      - `ocrErrorsOnHypothetic` sets the maximal
-        distance used to find similar token with a variant pattern
-        application. Just use the default value `1`.
+      - `ocrErrorsOnHypothetic` sets the maximal allowed
+        Levenshtein distance (error distance) used to find error interpretations
+	in addition to historical variants (see `histPatterns`).
       - `histPatterns` sets the the maximal number of patterns that
         can be applied to one word.
       - `cascadeRank` sets the rank of the dictionary[^5] (see
