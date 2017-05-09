@@ -6,7 +6,7 @@ PDFS = profiler-manual.pdf pocoto-manual.pdf
 
 all: $(PDFS)
 %.pdf: %.md
-	pandoc -N --toc \
+	pandoc -s -N --toc \
 	--latex-engine=xelatex \
 	-V papersize:a4paper \
 	-V documentclass:scrartcl \
