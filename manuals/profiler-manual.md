@@ -3,7 +3,7 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München
 % 2015-08-25\
-    last updated: 2016-02-29\
+    last updated: 2016-09-20\
     \vspace{1cm}{%
 \includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
