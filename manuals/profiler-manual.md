@@ -3,7 +3,7 @@
     Centrum für Informations- und Sprachverarbeitung (CIS)\
     Ludwig-Maximilians-Universität München\
    \vspace{1ex}\
-    with contributions by\
+    with contributions from\
    \vspace{1ex}\
    Uwe Springmann\
    Universitätsbibliothek\

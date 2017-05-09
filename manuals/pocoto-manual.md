@@ -1,12 +1,18 @@
 % Postcorrection Tool (PoCoTo) Manual
 % Florian Fink\
     Centrum für Informations- und Sprachverarbeitung (CIS)\
-    Ludwig-Maximilians-Universität München
+    Ludwig-Maximilians-Universität München\
+    \vspace{1ex}\
+    with contributions from\
+   \vspace{1ex}\
+   Uwe Springmann\
+   Universitätsbibliothek\
+   Julius-Maximilians-Universität Würzburg
 % 2015-08-25\
-    last updated: 2016-03-18\
-    \vspace{1cm}{%
-\includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}}\
-<http://creativecommons.org/licenses/by-nc-sa/4.0/>
+    last updated: 2017-05-09\
+    \vspace{1cm}
+	\includegraphics[width=0.2\textwidth]{img/by-nc-sa.eu.png}\
+	<http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 \newcommand{\pocoto}{\texttt{PoCoTo}}
 

@@ -10,6 +10,7 @@ all: $(PDFS)
 	--latex-engine=xelatex \
 	-V papersize:a4paper \
 	-V documentclass:scrartcl \
+    -V classoption:titlepage=true \
 	-V classoption:DIV=12 \
 	-V mainfont:"Linux Libertine O" \
 	-V sansfont:"Linux Biolinum O" \
