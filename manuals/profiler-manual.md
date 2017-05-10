@@ -81,18 +81,18 @@ well as in external historical spelling variations. They describe common charact
 transformations that can be used to describe common error patterns in
 historical OCR'ed documents.
 
-Consider the pattern rule `e -> c`. This rule describes a common OCR
-error pattern, where the letter `e` in the source text is recognized
-as a `c` by the engine. For another example consider the rule for a
-historical spelling pattern `t -> th`. It explains historical (German)
-word forms like `theil` that should map to the modern form `teil`. So
+Consider the pattern rule *e$\to$c*. This rule describes a common OCR
+error pattern, where the letter *e* in the source text is recognized
+as a *c* by the engine. For another example consider the rule for a
+historical spelling pattern *t$\to$th*. It explains historical (German)
+word forms like *theil* that should map to the modern form *teil*. So
 if the profiler finds a lot of unexplained words that could be
-explained with a `e -> c` OCR Error pattern, this pattern would get a
+explained with an *e$\to$c* OCR error pattern, this pattern would get a
 higher priority for calculating correction candidates. On the other
-hand if the profiler would encounter a word `theil` that he could
+hand if the profiler would encounter a word *theil* that he could
 explain using historical patterns, he would not recognize this word as an
 OCR error and would assume a historical spelling variation of the word
-`teil`.
+*teil*.
 
 The profiler uses modern dictionaries
 and external historical pattern rules to calculate *the best explanations* for
@@ -193,8 +193,8 @@ $ make JAVA_HOME=/usr/lib64/jvm/java-8-openjdk-amd64
 $ make PREFIX=$HOME/.local install
 ~~~
 
-Make compiles the sources and installs the binaries into the given
-location. If make encounters any errors, the build process terminates
+`Make` compiles the sources and installs the binaries into the given
+location. If `make` encounters any errors, the build process terminates
 and nothing will get installed. In this case make sure that all your
 given paths are valid and that all required tools and libraries are
 installed on your system and can be found by the compiler linker.
@@ -403,6 +403,8 @@ Note also that it does not appear to be possible to escape any of
 those special characters to their literal meaning. If you need to
 encode pattern rules that contain any of the characters `#`, `$` or
 `@`, you are out of luck.
+
+*Additonal Note (2017-05-10): The `@` marker currently does not seem to work correctly, so don't use it.*
 
 #### Historical ground truth
 The ground truth file is a simple UTF-8 encoded text file that
