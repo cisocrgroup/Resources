@@ -1,5 +1,5 @@
-FBDIC = compileFBDic
-TRAIN = trainFrequencyList
+FBDIC ?= compileFBDic
+TRAIN ?= trainFrequencyList
 
 all: german latin greek
 greek: greek/freqlist.binfrq
