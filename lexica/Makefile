@@ -14,7 +14,7 @@ german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
 	$(TRAIN) --config german.ini --textFile german/gt.nfc
 
 %.fbdic: %.srt
-	$(FBDIC) $< $@
+	LC_ALL=C $(FBDIC) $< $@
 
 latin/modern.txt: latin/xaa latin/xab latin/xac
 	cat $< > $@
