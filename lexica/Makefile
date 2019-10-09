@@ -7,11 +7,11 @@ latin: latin/freqlist.binfrq
 german: german/freqlist.binfrq
 
 greek/freqlist.binfrq: greek/patterns.nfc greek/gt.nfc greek/modern.fbdic
-	LC_ALL=C $(TRAIN) --config greek.ini --textFile greek/gt.nfc
+	$(TRAIN) --config greek.ini --textFile greek/gt.nfc
 latin/freqlist.binfrq: latin/patterns.nfc latin/gt.nfc latin/modern.fbdic
-	LC_ALL=C $(TRAIN) --config latin.ini --textFile latin/gt.nfc
+	$(TRAIN) --config latin.ini --textFile latin/gt.nfc
 german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
-	LC_ALL=C $(TRAIN) --config german.ini --textFile german/gt.nfc
+	$(TRAIN) --config german.ini --textFile german/gt.nfc
 
 %.fbdic: %.srt
 	LC_ALL=C $(FBDIC) $< $@
