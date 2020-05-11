@@ -1,5 +1,6 @@
 FBDIC ?= compileFBDic
 TRAIN ?= trainFrequencyList
+DESTDIR ?= /etc/profiler/languages
 
 all: german latin greek
 greek: greek/freqlist.binfrq
@@ -33,4 +34,18 @@ clean:
 	$(RM) {german,latin,greek}/freqlist.binfrq
 	$(RM) latin/modern.txt
 
-.PHONY: latin greek clean
+install: all
+	install -m 0644 -D german/patterns.txt $(DESTDIR)/german/patterns.txt
+	install -m 0644 -D german/modern.fbdic $(DESTDIR)/german/modern.fbdic
+	install -m 0644 -D german/freqlist.binfrq $(DESTDIR)/german/freqlist.binfrq
+	install -m 0644 -D german/weights.txt $(DESTDIR)/german/weights.txt
+	install -m 0644 -D latin/patterns.txt $(DESTDIR)/latin/patterns.txt
+	install -m 0644 -D latin/modern.fbdic $(DESTDIR)/latin/modern.fbdic
+	install -m 0644 -D latin/freqlist.binfrq $(DESTDIR)/latin/freqlist.binfrq
+	install -m 0644 -D latin/weights.txt $(DESTDIR)/latin/weights.txt
+	install -m 0644 -D greek/patterns.txt $(DESTDIR)/greek/patterns.txt
+	install -m 0644 -D greek/modern.fbdic $(DESTDIR)/greek/modern.fbdic
+	install -m 0644 -D greek/freqlist.binfrq $(DESTDIR)/greek/freqlist.binfrq
+	install -m 0644 -D greek/weights.txt $(DESTDIR)/greek/weights.txt
+
+.PHONY: latin greek clean install
