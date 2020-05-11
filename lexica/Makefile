@@ -48,4 +48,4 @@ install: all
 	install -m 0644 -D greek/freqlist.binfrq $(DESTDIR)/greek/freqlist.binfrq
 	install -m 0644 -D greek/weights.txt $(DESTDIR)/greek/weights.txt
 
-.PHONY: latin greek clean install
+.PHONY: german latin greek all clean install
