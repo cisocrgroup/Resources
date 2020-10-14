@@ -10,6 +10,19 @@ Further historical lexica for other languages may be obtained from the repositor
 # Structure
 All language resources reside in `lex/language-name`.
 
+# Building
+Use the Makefile to build the profiler's language resources.  In order
+for the makefile to work, the executables `compileFBDic`,
+`trainFrequencyList` and `runDictSearch` from the profiler have to be
+visible in your environment's path (you can set the paths using the
+`COMPILE`, `TRAIN` and `SEARCH` environment variables respectively).
+
+# Installing
+You can install the language files using the makefile's `install`
+target.  The language files are installed to `/etc/profiler/languages`
+(you can change the destination using the `DESTDIR` environment
+variable).
+
 # References
 ## Historical German
 
