@@ -21,6 +21,17 @@ german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
 latin/modern.txt: latin/xaa latin/xab latin/xac
 	cat $^ > $@
 
+german/modern.txt: german/oo.txt german/verben.tmp.txt german/nomen.tmp.txt german/adjektive.tmp.txt
+	cat $^ > $@
+
+%.tmp.txt: %.sql.gz
+	zcat $< | sed -e 's/),/\n/g' | sed -e 's/(//g' | awk -F, '{print $2}' | tr -d "'" > $@
+
+%.sql.gz:
+	curl "https://www.korrekturen.de/flexion/download/${shell basename $@}" > $@
+
+german/verben.txt :german/nomen.txt german/adjektive.txt
+
 %.nfc: %.txt
 	uconv -f utf8 -t utf8 -x nfc -o $@ $<
 
@@ -32,6 +43,8 @@ clean:
 	$(RM) german/*.fbdic
 	$(RM) german/*.binfrq
 	$(RM) german/*.srt
+	$(RM) german/*.tmp.txt
+	$(RM) german/*.sql.gz
 	$(RM) german/weights.txt
 	$(RM) latin/*.nfc
 	$(RM) latin/*.fbdic
