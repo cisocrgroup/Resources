@@ -25,7 +25,7 @@ german/modern.txt: german/oo.txt german/verben.tmp.txt german/nomen.tmp.txt germ
 	cat $^ > $@
 
 %.tmp.txt: %.sql.gz
-	zcat $< | sed -e 's/),/\n/g' | sed -e 's/(//g' | awk -F, '{print $2}' | tr -d "'" > $@
+	zcat $< | sed -e 's/),/\n/g' | sed -e 's#/\*.*\*/##g' | sed -e 's/(//g' | awk -F',' '{print $$2}' | tr -d "'" | tr '[:upper:]' '[:lower:]' > $@
 
 %.sql.gz:
 	curl "https://www.korrekturen.de/flexion/download/${shell basename $@}" > $@
