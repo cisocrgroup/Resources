@@ -2,6 +2,7 @@ SEARCH ?= runDictSearch
 COMPILE ?= compileFBDic
 TRAIN ?= trainFrequencyList
 DESTDIR ?= /etc/profiler/languages
+GERMAN_URL ?= http://www.korrekturen.de/flexion/download
 
 all: german latin greek
 greek: greek/freqlist.binfrq
@@ -21,6 +22,7 @@ german/freqlist.binfrq: german/patterns.nfc german/gt.nfc german/modern.fbdic
 latin/modern.txt: latin/xaa latin/xab latin/xac
 	cat $^ > $@
 
+# Download inflection data from korrekturen.de (based on Morphy, thus https://creativecommons.org/licenses/by-sa/4.0/)
 german/modern.txt: german/oo.txt german/verben.tmp.txt german/nomen.tmp.txt german/adjektive.tmp.txt
 	cat $^ > $@
 
@@ -28,7 +30,7 @@ german/modern.txt: german/oo.txt german/verben.tmp.txt german/nomen.tmp.txt germ
 	zcat $< | sed -e 's/),/\n/g' | sed -e 's#/\*.*\*/##g' | sed -e 's/(//g' | awk -F',' '{print $$2}' | tr -d "'" | tr '[:upper:]' '[:lower:]' > $@
 
 %.sql.gz:
-	wget -O $@ "http://www.korrekturen.de/flexion/download/${shell basename $@}"
+	wget -O $@ "${GERMAN_URL}/${shell basename $@}"
 
 german/verben.txt :german/nomen.txt german/adjektive.txt
 
